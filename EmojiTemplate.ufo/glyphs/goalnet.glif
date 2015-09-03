@@ -2,7 +2,82 @@
 <glyph name="goalnet" format="1">
   <advance width="1000"/>
   <outline>
-    <component base="face"/>
+    <contour>
+      <point x="88" y="-184" type="line"/>
+      <point x="88" y="210" type="line"/>
+      <point x="88" y="598"/>
+      <point x="118" y="632"/>
+      <point x="500" y="632" type="curve" smooth="yes"/>
+      <point x="882" y="632"/>
+      <point x="912" y="598"/>
+      <point x="912" y="210" type="curve"/>
+      <point x="912" y="-184" type="line"/>
+      <point x="972" y="-184" type="line"/>
+      <point x="972" y="210" type="line"/>
+      <point x="972" y="624"/>
+      <point x="914" y="684"/>
+      <point x="500" y="684" type="curve" smooth="yes"/>
+      <point x="86" y="684"/>
+      <point x="28" y="624"/>
+      <point x="28" y="210" type="curve"/>
+      <point x="28" y="-184" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="-184" type="line"/>
+      <point x="942" y="-184" type="line"/>
+      <point x="942" y="-134" type="line"/>
+      <point x="58" y="-134" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="-44" type="line"/>
+      <point x="792" y="-44" type="line"/>
+      <point x="792" y="6" type="line"/>
+      <point x="208" y="6" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="-24" type="line"/>
+      <point x="268" y="290" type="line"/>
+      <point x="268" y="457"/>
+      <point x="285" y="472"/>
+      <point x="500" y="472" type="curve" smooth="yes"/>
+      <point x="715" y="472"/>
+      <point x="732" y="457"/>
+      <point x="732" y="290" type="curve"/>
+      <point x="732" y="-24" type="line"/>
+      <point x="792" y="-24" type="line"/>
+      <point x="792" y="290" type="line"/>
+      <point x="792" y="494"/>
+      <point x="756" y="524"/>
+      <point x="500" y="524" type="curve" smooth="yes"/>
+      <point x="244" y="524"/>
+      <point x="208" y="494"/>
+      <point x="208" y="290" type="curve"/>
+      <point x="208" y="-24" type="line"/>
+    </contour>
+    <contour>
+      <point x="752" y="-44" type="line"/>
+      <point x="932" y="-184" type="line"/>
+      <point x="942" y="-124" type="line"/>
+      <point x="762" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="-44" type="line"/>
+      <point x="238" y="16" type="line"/>
+      <point x="58" y="-124" type="line"/>
+      <point x="68" y="-184" type="line"/>
+    </contour>
+    <contour>
+      <point x="702" y="476" type="line"/>
+      <point x="722" y="416" type="line"/>
+      <point x="882" y="556" type="line"/>
+      <point x="862" y="616" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="476" type="line"/>
+      <point x="138" y="616" type="line"/>
+      <point x="118" y="556" type="line"/>
+      <point x="278" y="416" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
