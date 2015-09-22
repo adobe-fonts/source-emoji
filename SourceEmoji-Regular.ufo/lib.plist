@@ -11,6 +11,16 @@
 		<real>0.2</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.compileSettings.autohint</key>
+	<true/>
+	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+	<false/>
+	<key>com.typemytype.robofont.compileSettings.decompose</key>
+	<false/>
+	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
+	<false/>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -44,6 +54,8 @@
 		<real>0.0</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.italicSlantOffset</key>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 		<string>background</string>
@@ -51,6 +63,8 @@
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
+	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
@@ -1582,6 +1596,11 @@
 				<string>h</string>
 				<string>gorilla.copy_1</string>
 				<string>polowater.copy_1</string>
+				<string>facesneezing.copy_1</string>
+				<string>deer.copy_1</string>
+				<string>goalnet.copy_1</string>
+				<string>gorilla.copy_2</string>
+				<string>rhinoceros.copy_1</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -3117,6 +3136,9 @@
 		<string>polowater.copy_1</string>
 		<string>facesneezing.copy_1</string>
 		<string>deer.copy_1</string>
+		<string>goalnet.copy_1</string>
+		<string>gorilla.copy_2</string>
+		<string>rhinoceros.copy_1</string>
 	</array>
 </dict>
 </plist>
