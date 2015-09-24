@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Tregionindicator">
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="50" y="-70" />
+      <point type="line" x="950" y="-70" />
+      <point type="line" x="950" y="830" />
+      <point type="line" x="50" y="830" />
+    </contour>
+    <contour>
+      <point type="line" x="84" y="-36" />
+      <point type="line" x="84" y="796" />
+      <point type="line" x="916" y="796" />
+      <point type="line" x="916" y="-36" />
+    </contour>
+    <contour>
+      <point type="line" x="445" y="144" />
+      <point x="445" y="132" />
+      <point x="453" y="124" />
+      <point type="curve" x="465" y="124" />
+      <point type="line" x="534" y="124" />
+      <point x="546" y="124" />
+      <point x="554" y="132" />
+      <point type="curve" x="554" y="144" />
+      <point type="line" x="554" y="557" />
+      <point type="line" x="692" y="557" />
+      <point x="704" y="557" />
+      <point x="712" y="565" />
+      <point type="curve" x="712" y="577" />
+      <point type="line" x="712" y="626" />
+      <point x="712" y="638" />
+      <point x="704" y="646" />
+      <point type="curve" x="692" y="646" />
+      <point type="line" x="308" y="646" />
+      <point x="296" y="646" />
+      <point x="288" y="638" />
+      <point type="curve" x="288" y="626" />
+      <point type="line" x="288" y="577" />
+      <point x="288" y="565" />
+      <point x="296" y="557" />
+      <point type="curve" x="308" y="557" />
+      <point type="line" x="445" y="557" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="c65cb6bad82d72506f684d1eae85ec3da24d279649e4cce723751a13db29ca513692d87b53a64308ee4fca8b5234f25944629d64511f3c6efc5ee0c0e3a81b63">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-70" width="34" />
+            <hstem pos="557" width="89" />
+            <hstem pos="796" width="34" />
+            <vstem pos="50" width="34" />
+            <vstem pos="445" width="109" />
+            <vstem pos="916" width="34" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

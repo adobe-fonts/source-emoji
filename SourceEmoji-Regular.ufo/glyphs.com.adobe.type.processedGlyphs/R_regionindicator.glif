@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Rregionindicator">
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="50" y="-70" />
+      <point type="line" x="950" y="-70" />
+      <point type="line" x="950" y="830" />
+      <point type="line" x="50" y="830" />
+    </contour>
+    <contour>
+      <point type="line" x="84" y="-36" />
+      <point type="line" x="84" y="796" />
+      <point type="line" x="916" y="796" />
+      <point type="line" x="916" y="-36" />
+    </contour>
+    <contour>
+      <point type="line" x="303" y="144" />
+      <point x="303" y="132" />
+      <point x="311" y="124" />
+      <point type="curve" x="323" y="124" />
+      <point type="line" x="393" y="124" />
+      <point x="405" y="124" />
+      <point x="413" y="132" />
+      <point type="curve" x="413" y="144" />
+      <point type="line" x="413" y="320" />
+      <point type="line" x="495" y="320" />
+      <point type="line" x="601" y="141" />
+      <point x="608" y="129" />
+      <point x="617" y="124" />
+      <point type="curve" x="631" y="124" />
+      <point type="line" x="706" y="124" />
+      <point x="714" y="124" />
+      <point x="720" y="134" />
+      <point type="curve" x="716" y="141" />
+      <point type="line" x="596" y="336" />
+      <point x="661" y="360" />
+      <point x="704" y="411" />
+      <point type="curve" x="704" y="487" />
+      <point x="704" y="608" />
+      <point x="612" y="646" />
+      <point type="curve" x="494" y="646" />
+      <point type="line" x="323" y="646" />
+      <point x="311" y="646" />
+      <point x="303" y="638" />
+      <point type="curve" x="303" y="626" />
+    </contour>
+    <contour>
+      <point type="line" x="413" y="395" />
+      <point type="line" x="413" y="561" />
+      <point type="line" x="484" y="561" />
+      <point x="559" y="561" />
+      <point x="601" y="539" />
+      <point type="curve" x="601" y="481" />
+      <point x="601" y="426" />
+      <point x="562" y="395" />
+      <point type="curve" x="486" y="395" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="00790dd308981d932dc3df4e6970675d99bf53c348c7aed8de73f9954371d75759eb00185a303a70e67388996190d462003ab096edd518d4dd95164627a37e96">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-70" width="34" />
+            <hstem pos="320" width="75" />
+            <hstem pos="561" width="85" />
+            <hstem pos="796" width="34" />
+            <vstem pos="50" width="34" />
+            <vstem pos="303" width="110" />
+            <vstem pos="601" width="103" />
+            <vstem pos="916" width="34" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

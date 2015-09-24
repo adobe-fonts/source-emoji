@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="heartblackheavy">
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="502" y="-199" />
+      <point x="632" y="55" />
+      <point x="1006" y="21" />
+      <point type="curve" x="1006" y="411" />
+      <point x="1006" y="585" />
+      <point x="894" y="685" />
+      <point type="curve" x="738" y="685" />
+      <point x="616" y="685" />
+      <point x="538" y="637" />
+      <point type="curve" x="502" y="501" />
+      <point type="line" x="498" y="501" />
+      <point x="462" y="637" />
+      <point x="384" y="685" />
+      <point type="curve" x="262" y="685" />
+      <point x="106" y="685" />
+      <point x="-6" y="585" />
+      <point type="curve" x="-6" y="411" />
+      <point x="-6" y="21" />
+      <point x="368" y="55" />
+      <point type="curve" x="498" y="-199" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="ac135e20049cfb1ec5c70bf8f4e6b235cd8095c9b76df4cbc80e7039e3aeb92a536dac7ffae64003a79142c32b56e7df4d9aabdff5b9ee54e946c61bf5547723">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-199" width="884" />
+            <vstem pos="-6" width="1012" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="bulletsquarewhite">
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="278" y="40" />
+      <point type="line" x="722" y="40" />
+      <point type="line" x="722" y="484" />
+      <point type="line" x="278" y="484" />
+    </contour>
+    <contour>
+      <point type="line" x="332" y="90" />
+      <point type="line" x="332" y="434" />
+      <point type="line" x="668" y="434" />
+      <point type="line" x="668" y="90" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="w1000l27840l72240l722484l278484l33290l332434l668434l66890">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="40" width="50" />
+            <hstem pos="434" width="50" />
+            <vstem pos="278" width="54" />
+            <vstem pos="668" width="54" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

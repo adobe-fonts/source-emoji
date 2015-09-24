@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Pregionindicator">
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="50" y="-70" />
+      <point type="line" x="950" y="-70" />
+      <point type="line" x="950" y="830" />
+      <point type="line" x="50" y="830" />
+    </contour>
+    <contour>
+      <point type="line" x="84" y="-36" />
+      <point type="line" x="84" y="796" />
+      <point type="line" x="916" y="796" />
+      <point type="line" x="916" y="-36" />
+    </contour>
+    <contour>
+      <point type="line" x="316" y="144" />
+      <point x="316" y="132" />
+      <point x="324" y="124" />
+      <point type="curve" x="336" y="124" />
+      <point type="line" x="405" y="124" />
+      <point x="417" y="124" />
+      <point x="425" y="132" />
+      <point type="curve" x="425" y="144" />
+      <point type="line" x="425" y="310" />
+      <point type="line" x="509" y="310" />
+      <point x="629" y="310" />
+      <point x="723" y="362" />
+      <point type="curve" x="723" y="481" />
+      <point x="723" y="606" />
+      <point x="630" y="646" />
+      <point type="curve" x="509" y="646" />
+      <point type="line" x="336" y="646" />
+      <point x="324" y="646" />
+      <point x="316" y="638" />
+      <point type="curve" x="316" y="626" />
+    </contour>
+    <contour>
+      <point type="line" x="425" y="385" />
+      <point type="line" x="425" y="561" />
+      <point type="line" x="501" y="561" />
+      <point x="580" y="561" />
+      <point x="619" y="537" />
+      <point type="curve" x="619" y="476" />
+      <point x="619" y="417" />
+      <point x="581" y="385" />
+      <point type="curve" x="503" y="385" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="8ea10ab12e76c7be3661a303a376742fb567300bbdec8b4be3528c0cd9aea4b3eba049fd85640f12c0d8be9c6f87c6c8b0f93be15b76df79a7b433a7f5e65e2a">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-70" width="34" />
+            <hstem pos="310" width="75" />
+            <hstem pos="561" width="85" />
+            <hstem pos="796" width="34" />
+            <vstem pos="50" width="34" />
+            <vstem pos="316" width="109" />
+            <vstem pos="619" width="104" />
+            <vstem pos="916" width="34" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

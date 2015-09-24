@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="bulletsquare">
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="293" y="57" />
+      <point type="line" x="707" y="57" />
+      <point type="line" x="707" y="467" />
+      <point type="line" x="293" y="467" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="w1000l29357l70757l707467l293467">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="57" width="410" />
+            <vstem pos="293" width="414" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

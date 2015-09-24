@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="keyzero">
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="500" y="112" />
+      <point x="376" y="112" />
+      <point x="292" y="217" />
+      <point type="curve" x="292" y="388" />
+      <point x="292" y="559" />
+      <point x="376" y="659" />
+      <point type="curve" x="500" y="659" />
+      <point x="624" y="659" />
+      <point x="708" y="558" />
+      <point type="curve" x="708" y="388" />
+      <point x="708" y="217" />
+      <point x="624" y="112" />
+    </contour>
+    <contour>
+      <point type="curve" x="500" y="198" />
+      <point x="557" y="198" />
+      <point x="600" y="253" />
+      <point type="curve" x="600" y="388" />
+      <point x="600" y="524" />
+      <point x="557" y="574" />
+      <point type="curve" x="500" y="574" />
+      <point x="442" y="574" />
+      <point x="400" y="524" />
+      <point type="curve" x="400" y="388" />
+      <point x="400" y="253" />
+      <point x="442" y="198" />
+    </contour>
+    <contour>
+      <point type="curve" x="250" y="-70" />
+      <point type="line" x="750" y="-70" />
+      <point x="876" y="-70" />
+      <point x="950" y="4" />
+      <point type="curve" x="950" y="130" />
+      <point type="line" x="950" y="630" />
+      <point x="950" y="756" />
+      <point x="876" y="830" />
+      <point type="curve" x="750" y="830" />
+      <point type="line" x="250" y="830" />
+      <point x="124" y="830" />
+      <point x="50" y="756" />
+      <point type="curve" x="50" y="630" />
+      <point type="line" x="50" y="130" />
+      <point x="50" y="3" />
+      <point x="124" y="-70" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="8faba22b8ba7b3d302d5bcc91a3108d8dcad7e3ba48b83bc8159acaa5dcf55a75deb64b4526d463fe312075b7d9201aebbe77b154be828f0949b3567db9d5315">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-70" width="182" />
+            <hstem pos="659" width="171" />
+            <vstem pos="50" width="242" />
+            <vstem pos="400" width="200" />
+            <vstem pos="708" width="242" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

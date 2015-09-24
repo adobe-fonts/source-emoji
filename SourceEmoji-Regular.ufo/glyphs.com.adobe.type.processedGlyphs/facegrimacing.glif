@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="facegrimacing">
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="500" y="-224" />
+      <point x="774" y="-224" />
+      <point x="972" y="-24" />
+      <point type="curve" x="972" y="250" />
+      <point x="972" y="524" />
+      <point x="774" y="724" />
+      <point type="curve" x="500" y="724" />
+      <point x="226" y="724" />
+      <point x="28" y="524" />
+      <point type="curve" x="28" y="250" />
+      <point x="28" y="-24" />
+      <point x="226" y="-224" />
+    </contour>
+    <contour>
+      <point type="curve" x="500" y="-172" />
+      <point x="258" y="-172" />
+      <point x="88" y="2" />
+      <point type="curve" x="88" y="250" />
+      <point x="88" y="498" />
+      <point x="258" y="672" />
+      <point type="curve" x="500" y="672" />
+      <point x="742" y="672" />
+      <point x="912" y="498" />
+      <point type="curve" x="912" y="250" />
+      <point x="912" y="2" />
+      <point x="742" y="-172" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="089ce3b50c4109c56ed47327594c593ac7f9c067a55fc4b0c628cbd66f4948c4e6861bbb4440257e50ff6595e76db14a3a507fbf67cac244e51f9e4a6d80f321">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-224" width="52" />
+            <hstem pos="672" width="52" />
+            <vstem pos="28" width="60" />
+            <vstem pos="912" width="60" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

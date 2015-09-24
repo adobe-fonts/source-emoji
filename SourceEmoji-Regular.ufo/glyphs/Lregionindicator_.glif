@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lregionindicator" format="1">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="50" y="-70" type="line"/>
+      <point x="950" y="-70" type="line"/>
+      <point x="950" y="830" type="line"/>
+      <point x="50" y="830" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="-36" type="line"/>
+      <point x="84" y="796" type="line"/>
+      <point x="916" y="796" type="line"/>
+      <point x="916" y="-36" type="line"/>
+    </contour>
+    <contour>
+      <point x="353" y="144" type="line" smooth="yes"/>
+      <point x="353" y="132"/>
+      <point x="361" y="124"/>
+      <point x="373" y="124" type="curve" smooth="yes"/>
+      <point x="668" y="124" type="line" smooth="yes"/>
+      <point x="680" y="124"/>
+      <point x="688" y="132"/>
+      <point x="688" y="144" type="curve" smooth="yes"/>
+      <point x="688" y="194" type="line" smooth="yes"/>
+      <point x="688" y="206"/>
+      <point x="680" y="214"/>
+      <point x="668" y="214" type="curve" smooth="yes"/>
+      <point x="462" y="214" type="line"/>
+      <point x="462" y="626" type="line" smooth="yes"/>
+      <point x="462" y="638"/>
+      <point x="454" y="646"/>
+      <point x="442" y="646" type="curve" smooth="yes"/>
+      <point x="373" y="646" type="line" smooth="yes"/>
+      <point x="361" y="646"/>
+      <point x="353" y="638"/>
+      <point x="353" y="626" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
