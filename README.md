@@ -1,6 +1,6 @@
 # Source Emoji
 
-😃 SSource Emoji is an emoji font project that began development in order to provide monochrome representative glyphs to the Unicode Consortium for emoji candidates that have been accepted by the UTC (Unicode Technical Committee) but have not yet been fully ratified to become a part of the official standard.  The glyph artwork has been designed to harmonize with other Source fonts. The ultimate goal for this project is to grow it *slowly* over time to cover the full set of characters in Unicode that can take emoji presentation and eventually include colored SVG artwork for greater usability as emoji.
+😃 Source Emoji is an emoji font project that began development in order to provide monochrome representative glyphs to the Unicode Consortium for emoji candidates that have been accepted by the UTC (Unicode Technical Committee) but have not yet been fully ratified to become a part of the official standard.  The glyph artwork has been designed to harmonize with other Source fonts. The ultimate goal for this project is to grow it *slowly* over time to cover the full set of characters in Unicode that can take emoji presentation and eventually include colored SVG artwork for greater usability as emoji.
 
 ## Getting Involved
 
