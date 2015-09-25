@@ -4,4 +4,4 @@
 
 ## Getting Involved
 
-If you would like to contribute to this project or have comments/suggestions on how you would like to see this project develop, please leave feedback in the [Issues](issues) tracker for this project. Alternatively, you may send suggestions for changes to the Source Emoji font project maintainer, [Paul D. Hunt](mailto:opensourcefonts@adobe.com?subject=[GitHub] Source Sans Pro), for consideration.
+If you would like to contribute to this project or have comments/suggestions on how you would like to see this project develop, please leave feedback in the [Issues](https://github.com/adobe-fonts/source-emoji/issues) tracker for this project. Alternatively, you may send suggestions for changes to the Source Emoji font project maintainer, [Paul D. Hunt](mailto:opensourcefonts@adobe.com?subject=[GitHub] Source Sans Pro), for consideration.
