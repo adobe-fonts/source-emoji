@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="diamond.copy_1">
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="933" y="228" />
+      <point type="line" x="509" y="-276" />
+      <point type="line" x="491" y="-276" />
+      <point type="line" x="67" y="228" />
+      <point type="line" x="67" y="246" />
+      <point type="line" x="491" y="746" />
+      <point type="line" x="509" y="746" />
+      <point type="line" x="933" y="246" />
+    </contour>
+    <contour>
+      <point type="line" x="490" y="-250" />
+      <point type="line" x="905" y="244" />
+      <point type="line" x="901" y="234" />
+      <point type="line" x="901" y="240" />
+      <point type="line" x="905" y="230" />
+      <point type="line" x="490" y="720" />
+      <point type="line" x="502" y="714" />
+      <point type="line" x="498" y="714" />
+      <point type="line" x="510" y="720" />
+      <point type="line" x="95" y="230" />
+      <point type="line" x="99" y="240" />
+      <point type="line" x="99" y="234" />
+      <point type="line" x="95" y="244" />
+      <point type="line" x="510" y="-250" />
+      <point type="line" x="498" y="-244" />
+      <point type="line" x="502" y="-244" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="64cf6866a7ab1dbe33e12408cde4cddb2b8237c35d1ea7b1a7b4f0653d08f17da8788249371b566c2dea31104508cdaeda9668bdeff81a0ad339fa311291f69b">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-276" width="1022" />
+            <vstem pos="67" width="866" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>
