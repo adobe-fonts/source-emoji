@@ -3,18 +3,6 @@
   <advance width="1000"/>
   <outline>
     <contour>
-      <point x="50" y="-70" type="line"/>
-      <point x="950" y="-70" type="line"/>
-      <point x="950" y="830" type="line"/>
-      <point x="50" y="830" type="line"/>
-    </contour>
-    <contour>
-      <point x="84" y="-36" type="line"/>
-      <point x="84" y="796" type="line"/>
-      <point x="916" y="796" type="line"/>
-      <point x="916" y="-36" type="line"/>
-    </contour>
-    <contour>
       <point x="302" y="144" type="line" smooth="yes"/>
       <point x="302" y="132"/>
       <point x="310" y="124"/>
@@ -53,6 +41,7 @@
       <point x="302" y="638"/>
       <point x="302" y="626" type="curve" smooth="yes"/>
     </contour>
+    <component base="borderdotted"/>
   </outline>
   <lib>
     <dict>

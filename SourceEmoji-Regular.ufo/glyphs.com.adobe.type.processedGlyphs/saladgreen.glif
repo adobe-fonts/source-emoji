@@ -42,7 +42,7 @@
       <point x="18" y="321" />
       <point x="21" y="340" />
       <point type="curve" x="26" y="359" />
-      <point name="hintSet0014" x="31" y="334" />
+      <point x="31" y="334" />
       <point x="38" y="308" />
       <point type="curve" x="48" y="283" />
       <point x="106" y="188" />
@@ -54,13 +54,13 @@
       <point x="960" y="317" />
       <point x="965" y="349" />
       <point type="curve" x="968" y="377" />
-      <point name="hintSet0018" x="977" y="353" />
+      <point x="977" y="353" />
       <point x="982" y="327" />
       <point type="curve" x="982" y="300" />
       <point x="982" y="262" />
       <point x="979" y="227" />
       <point type="curve" x="973" y="194" />
-      <point name="hintSet0020" x="910" y="101" />
+      <point x="910" y="101" />
       <point x="719" y="48" />
     </contour>
     <contour>
@@ -183,21 +183,21 @@
             <hstem pos="453" width="51" />
             <hstem pos="548" width="40" />
             <hstem pos="664" width="49" />
-            <vstem pos="-38" width="56" />
+            <vstem pos="-38" width="110" />
             <vstem pos="141" width="48" />
             <vstem pos="676.5" width="51.5" />
             <vstem pos="838" width="16" />
-            <vstem pos="982" width="56" />
+            <vstem pos="928" width="110" />
           </hintset>
           <hintset pointTag="hintSet0002">
             <hstem pos="579" width="41" />
             <hstem pos="666" width="50" />
-            <vstem pos="141" width="48" />
+            <vstem pos="928" width="110" />
           </hintset>
           <hintset pointTag="hintSet0005">
             <hstem pos="-222" width="50" />
             <hstem pos="664" width="49" />
-            <vstem pos="-38" width="56" />
+            <vstem pos="-38" width="110" />
           </hintset>
           <hintset pointTag="hintSet0009">
             <hstem pos="-222" width="50" />
@@ -207,35 +207,11 @@
             <hstem pos="453" width="51" />
             <hstem pos="548" width="40" />
             <hstem pos="664" width="49" />
-            <vstem pos="-38" width="56" />
+            <vstem pos="-38" width="110" />
             <vstem pos="141" width="48" />
             <vstem pos="676.5" width="51.5" />
             <vstem pos="838" width="16" />
-            <vstem pos="982" width="56" />
-          </hintset>
-          <hintset pointTag="hintSet0014">
-            <hstem pos="138" width="50" />
-            <hstem pos="290" width="54" />
-            <vstem pos="26" width="46" />
-            <vstem pos="928" width="40" />
-          </hintset>
-          <hintset pointTag="hintSet0018">
-            <hstem pos="290" width="54" />
-            <vstem pos="982" width="56" />
-          </hintset>
-          <hintset pointTag="hintSet0020">
-            <hstem pos="-222" width="50" />
-            <hstem pos="-4" width="52" />
-            <hstem pos="138" width="50" />
-            <hstem pos="290" width="54" />
-            <hstem pos="453" width="51" />
-            <hstem pos="548" width="40" />
-            <hstem pos="664" width="49" />
-            <vstem pos="-38" width="56" />
-            <vstem pos="141" width="48" />
-            <vstem pos="676.5" width="51.5" />
-            <vstem pos="838" width="16" />
-            <vstem pos="982" width="56" />
+            <vstem pos="928" width="110" />
           </hintset>
           <hintset pointTag="hintSet0024">
             <hstem pos="548" width="40" />
@@ -250,11 +226,11 @@
             <hstem pos="453" width="51" />
             <hstem pos="548" width="40" />
             <hstem pos="664" width="49" />
-            <vstem pos="-38" width="56" />
+            <vstem pos="-38" width="110" />
             <vstem pos="141" width="48" />
             <vstem pos="676.5" width="51.5" />
             <vstem pos="838" width="16" />
-            <vstem pos="982" width="56" />
+            <vstem pos="928" width="110" />
           </hintset>
           <hintset pointTag="hintSet0042">
             <hstem pos="138" width="50" />
@@ -262,9 +238,9 @@
             <hstem pos="402" width="19" />
             <hstem pos="579" width="41" />
             <hstem pos="664" width="49" />
-            <vstem pos="-38" width="56" />
+            <vstem pos="-38" width="110" />
             <vstem pos="676.5" width="51.5" />
-            <vstem pos="982" width="56" />
+            <vstem pos="928" width="110" />
           </hintset>
           <hintset pointTag="hintSet0064">
             <hstem pos="548" width="40" />
@@ -276,9 +252,9 @@
             <hstem pos="402" width="19" />
             <hstem pos="579" width="41" />
             <hstem pos="664" width="49" />
-            <vstem pos="-38" width="56" />
+            <vstem pos="-38" width="110" />
             <vstem pos="676.5" width="51.5" />
-            <vstem pos="982" width="56" />
+            <vstem pos="928" width="110" />
           </hintset>
           <hintset pointTag="hintSet0066">
             <hstem pos="-222" width="50" />
