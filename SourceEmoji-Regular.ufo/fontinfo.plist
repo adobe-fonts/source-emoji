@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>ascender</key>
-	<integer>750</integer>
-	<key>capHeight</key>
-	<integer>750</integer>
-	<key>descender</key>
-	<integer>-250</integer>
-	<key>familyName</key>
-	<string>Source Emoji</string>
-	<key>postscriptBlueFuzz</key>
-	<integer>0</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.0625</real>
-	<key>postscriptBlueValues</key>
-	<array>
-		<integer>975</integer>
-		<integer>987</integer>
+	<dict>
+		<key>ascender</key>
+		<integer>750</integer>
+		<key>capHeight</key>
+		<integer>750</integer>
+		<key>descender</key>
+		<integer>-250</integer>
+		<key>familyName</key>
+		<string>Source Emoji</string>
+		<key>postscriptBlueFuzz</key>
+		<integer>0</integer>
+		<key>postscriptBlueScale</key>
+		<real>0.0625</real>
+		<key>postscriptBlueValues</key>
+		<array>
+			<integer>975</integer>
+			<integer>987</integer>
+			<integer>1000</integer>
+			<integer>1012</integer>
+		</array>
+		<key>postscriptFamilyBlues</key>
+		<array>
+			<integer>1000</integer>
+			<integer>1012</integer>
+		</array>
+		<key>postscriptFamilyOtherBlues</key>
+		<array>
+			<integer>-512</integer>
+			<integer>-500</integer>
+		</array>
+		<key>postscriptFontName</key>
+		<string>SourceEmoji-Regular</string>
+		<key>postscriptForceBold</key>
+		<false/>
+		<key>postscriptFullName</key>
+		<string>Source Emoji Regular</string>
+		<key>postscriptOtherBlues</key>
+		<array>
+			<integer>-512</integer>
+			<integer>-500</integer>
+		</array>
+		<key>postscriptStemSnapH</key>
+		<array>
+			<integer>90</integer>
+		</array>
+		<key>postscriptStemSnapV</key>
+		<array>
+			<integer>110</integer>
+		</array>
+		<key>styleName</key>
+		<string>Regular</string>
+		<key>unitsPerEm</key>
 		<integer>1000</integer>
-		<integer>1012</integer>
-	</array>
-	<key>postscriptFamilyBlues</key>
-	<array>
-		<integer>1000</integer>
-		<integer>1012</integer>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-		<integer>-512</integer>
-		<integer>-500</integer>
-	</array>
-	<key>postscriptFontName</key>
-	<string>SourceEmoji-Regular</string>
-	<key>postscriptForceBold</key>
-	<false/>
-	<key>postscriptFullName</key>
-	<string>Source Emoji Regular</string>
-	<key>postscriptOtherBlues</key>
-	<array>
-		<integer>-512</integer>
-		<integer>-500</integer>
-	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-		<integer>90</integer>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-		<integer>110</integer>
-	</array>
-	<key>styleName</key>
-	<string>Regular</string>
-	<key>unitsPerEm</key>
-	<integer>1000</integer>
-	<key>xHeight</key>
-	<integer>500</integer>
-</dict>
+		<key>xHeight</key>
+		<integer>500</integer>
+	</dict>
 </plist>
