@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lock" format="1">
-	<advance width="1000"/>
-	<outline>
-		<contour>
-			<point x="160" y="-239" type="line"/>
-			<point x="840" y="-239" type="line"/>
-			<point x="907" y="-174" type="line"/>
-			<point x="907" y="360" type="line"/>
-			<point x="840" y="425" type="line"/>
-			<point x="763" y="425" type="line"/>
-			<point x="763" y="488" type="line" smooth="yes"/>
-			<point x="763" y="663"/>
-			<point x="668" y="765"/>
-			<point x="500" y="765" type="curve" smooth="yes"/>
-			<point x="333" y="765"/>
-			<point x="237" y="663"/>
-			<point x="237" y="488" type="curve"/>
-			<point x="237" y="425" type="line"/>
-			<point x="160" y="425" type="line"/>
-			<point x="93" y="360" type="line"/>
-			<point x="93" y="-174" type="line"/>
-		</contour>
-		<contour>
-			<point x="408" y="-132" type="line"/>
-			<point x="454" y="76" type="line"/>
-			<point x="400" y="98"/>
-			<point x="378" y="138"/>
-			<point x="378" y="190" type="curve" smooth="yes"/>
-			<point x="378" y="260"/>
-			<point x="432" y="310"/>
-			<point x="500" y="310" type="curve" smooth="yes"/>
-			<point x="568" y="310"/>
-			<point x="622" y="260"/>
-			<point x="622" y="190" type="curve" smooth="yes"/>
-			<point x="622" y="138"/>
-			<point x="600" y="98"/>
-			<point x="546" y="76" type="curve"/>
-			<point x="592" y="-132" type="line"/>
-			<point x="517" y="-165" type="line"/>
-			<point x="483" y="-165" type="line"/>
-		</contour>
-		<contour>
-			<point x="347" y="425" type="line"/>
-			<point x="347" y="485" type="line" smooth="yes"/>
-			<point x="347" y="594"/>
-			<point x="397" y="658"/>
-			<point x="500" y="658" type="curve" smooth="yes"/>
-			<point x="603" y="658"/>
-			<point x="653" y="594"/>
-			<point x="653" y="485" type="curve" smooth="yes"/>
-			<point x="653" y="425" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<real>1</real>
-				<real>0</real>
-				<real>0</real>
-				<real>1</real>
-			</array>
-		</dict>
-	</lib>
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="160" y="-108" type="line"/>
+      <point x="840" y="-108" type="line"/>
+      <point x="908" y="-42" type="line"/>
+      <point x="908" y="488" type="line"/>
+      <point x="840" y="554" type="line"/>
+      <point x="764" y="554" type="line"/>
+      <point x="764" y="618" type="line" smooth="yes"/>
+      <point x="764" y="780"/>
+      <point x="668" y="874"/>
+      <point x="500" y="874" type="curve" smooth="yes"/>
+      <point x="333" y="874"/>
+      <point x="236" y="780"/>
+      <point x="236" y="618" type="curve"/>
+      <point x="236" y="554" type="line"/>
+      <point x="160" y="554" type="line"/>
+      <point x="92" y="488" type="line"/>
+      <point x="92" y="-42" type="line"/>
+    </contour>
+    <contour>
+      <point x="408" y="-2" type="line"/>
+      <point x="454" y="206" type="line"/>
+      <point x="400" y="228"/>
+      <point x="378" y="268"/>
+      <point x="378" y="320" type="curve" smooth="yes"/>
+      <point x="378" y="390"/>
+      <point x="432" y="440"/>
+      <point x="500" y="440" type="curve" smooth="yes"/>
+      <point x="568" y="440"/>
+      <point x="622" y="390"/>
+      <point x="622" y="320" type="curve" smooth="yes"/>
+      <point x="622" y="268"/>
+      <point x="600" y="228"/>
+      <point x="546" y="206" type="curve"/>
+      <point x="592" y="-2" type="line"/>
+      <point x="517" y="-35" type="line"/>
+      <point x="483" y="-35" type="line"/>
+    </contour>
+    <contour>
+      <point x="348" y="554" type="line"/>
+      <point x="348" y="615" type="line" smooth="yes"/>
+      <point x="348" y="715"/>
+      <point x="399" y="774"/>
+      <point x="500" y="774" type="curve" smooth="yes"/>
+      <point x="601" y="774"/>
+      <point x="652" y="715"/>
+      <point x="652" y="615" type="curve" smooth="yes"/>
+      <point x="652" y="554" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

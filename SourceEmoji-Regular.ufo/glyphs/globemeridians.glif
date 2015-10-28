@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="globemeridians" format="1">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="60" y="366" type="line"/>
+      <point x="940" y="366" type="line"/>
+      <point x="940" y="394" type="line"/>
+      <point x="60" y="394" type="line"/>
+    </contour>
+    <contour>
+      <point x="486" y="-60" type="line"/>
+      <point x="514" y="-60" type="line"/>
+      <point x="514" y="820" type="line"/>
+      <point x="486" y="820" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="156" type="line"/>
+      <point x="880" y="156" type="line"/>
+      <point x="880" y="184" type="line"/>
+      <point x="120" y="184" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="576" type="line"/>
+      <point x="880" y="576" type="line"/>
+      <point x="880" y="604" type="line"/>
+      <point x="120" y="604" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="826" type="line"/>
+      <point x="376" y="826"/>
+      <point x="232" y="648"/>
+      <point x="232" y="380" type="curve" smooth="yes"/>
+      <point x="232" y="112"/>
+      <point x="376" y="-66"/>
+      <point x="500" y="-66" type="curve"/>
+      <point x="500" y="-42" type="line"/>
+      <point x="393" y="-42"/>
+      <point x="264" y="132"/>
+      <point x="264" y="380" type="curve" smooth="yes"/>
+      <point x="264" y="628"/>
+      <point x="393" y="802"/>
+      <point x="500" y="802" type="curve"/>
+    </contour>
+    <contour>
+      <point x="500" y="826" type="curve"/>
+      <point x="500" y="802" type="line"/>
+      <point x="607" y="802"/>
+      <point x="736" y="628"/>
+      <point x="736" y="380" type="curve" smooth="yes"/>
+      <point x="736" y="132"/>
+      <point x="607" y="-42"/>
+      <point x="500" y="-42" type="curve"/>
+      <point x="500" y="-66" type="line"/>
+      <point x="624" y="-66"/>
+      <point x="768" y="112"/>
+      <point x="768" y="380" type="curve" smooth="yes"/>
+      <point x="768" y="648"/>
+      <point x="624" y="826"/>
+    </contour>
+    <component base="face"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>image</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/Users/phunt/Desktop/Africa_on_the_globe_(red).svg.png</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>1.0672203161337483</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>1.0672203161337481</real>
+                <real>74.00000000000006</real>
+                <real>-44.63271297770658</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>globemeridians</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1000</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
