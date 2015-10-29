@@ -88,6 +88,14 @@
 		<array>
 			<string>background</string>
 			<string>image</string>
+			<string>mask</string>
+		</array>
+		<key>com.typemytype.robofont.mask.layerStrokeColor</key>
+		<array>
+			<real>0.5</real>
+			<real>1</real>
+			<real>0</real>
+			<real>0.7</real>
 		</array>
 		<key>com.typemytype.robofont.segmentType</key>
 		<string>curve</string>
@@ -270,6 +278,21 @@
 					<string>partalteration</string>
 					<string>congratulationideocircle</string>
 					<string>secretideocircle</string>
+					<string>kokokatakanasquare</string>
+					<string>sakatakanasquare</string>
+					<string>cjk7121square</string>
+					<string>cjk6307square</string>
+					<string>cjk7981square</string>
+					<string>cjk7A7Asquare</string>
+					<string>cjk5408square</string>
+					<string>cjk6E80square</string>
+					<string>cjk6709square</string>
+					<string>cjk6708square</string>
+					<string>cjk7533square</string>
+					<string>cjk5272square</string>
+					<string>cjk55B6square</string>
+					<string>advantageideocircle</string>
+					<string>acceptideocircle</string>
 					<string>reddragonmahjongtile</string>
 					<string>jokerblack</string>
 					<string>Asquareblack</string>
@@ -287,6 +310,11 @@
 					<string>SOSsquare</string>
 					<string>UPexclamsquare</string>
 					<string>VSsquare</string>
+					<string>BACKarrowaboveleft</string>
+					<string>ENDarrowaboveleft</string>
+					<string>ONexclamarrowaboveleftright</string>
+					<string>SOONarrowaboveright</string>
+					<string>TOParrowaboveup</string>
 					<string>Aregionindicator</string>
 					<string>Bregionindicator</string>
 					<string>Cregionindicator</string>
@@ -562,21 +590,6 @@
 					<string>ZAflag</string>
 					<string>ZMflag</string>
 					<string>ZWflag</string>
-					<string>kokokatakanasquare</string>
-					<string>sakatakanasquare</string>
-					<string>cjk7121square</string>
-					<string>cjk6307square</string>
-					<string>cjk7981square</string>
-					<string>cjk7A7Asquare</string>
-					<string>cjk5408square</string>
-					<string>cjk6E80square</string>
-					<string>cjk6709square</string>
-					<string>cjk6708square</string>
-					<string>cjk7533square</string>
-					<string>cjk5272square</string>
-					<string>cjk55B6square</string>
-					<string>advantageideocircle</string>
-					<string>acceptideocircle</string>
 					<string>cyclone</string>
 					<string>foggy</string>
 					<string>umbrellaclosed</string>
@@ -1114,11 +1127,6 @@
 					<string>bookmark</string>
 					<string>link</string>
 					<string>radiobutton</string>
-					<string>BACKarrowaboveleft</string>
-					<string>ENDarrowaboveleft</string>
-					<string>ONexclamarrowaboveleftright</string>
-					<string>SOONarrowaboveright</string>
-					<string>TOParrowaboveup</string>
 					<string>nooneundereighteen</string>
 					<string>tenkey</string>
 					<string>latincapsinput</string>
@@ -1628,28 +1636,28 @@
 					<string>shrimp</string>
 					<string>squid</string>
 					<string>cheese</string>
-					<string>diamond.copy_1</string>
-					<string>l</string>
-					<string>facesneezing.copy_1</string>
-					<string>n</string>
-					<string>goalnet.copy_1</string>
-					<string>o</string>
-					<string>heart.copy_1</string>
-					<string>p</string>
+					<string>H</string>
+					<string>a</string>
 					<string>borderdotted</string>
 					<string>club.copy_1</string>
-					<string>H</string>
+					<string>deer.copy_1</string>
+					<string>diamond.copy_1</string>
+					<string>face</string>
+					<string>facesneezing.copy_1</string>
+					<string>g</string>
+					<string>goalnet.copy_1</string>
 					<string>gorilla.copy_1</string>
 					<string>gorilla.copy_2</string>
-					<string>spade.copy_1</string>
 					<string>grin</string>
+					<string>h</string>
+					<string>heart.copy_1</string>
+					<string>l</string>
+					<string>n</string>
+					<string>o</string>
+					<string>p</string>
 					<string>polowater.copy_1</string>
 					<string>rhinoceros.copy_1</string>
-					<string>a</string>
-					<string>deer.copy_1</string>
-					<string>g</string>
-					<string>face</string>
-					<string>h</string>
+					<string>spade.copy_1</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -1661,12 +1669,14 @@
 1446013364.0 glyphs/A_B_squareblack.glif
 1443733919.0 glyphs/A_regionindicator.glif
 1443733919.0 glyphs/A_squareblack.glif
+1446094247.0 glyphs/B_A_C_K_arrowaboveleft.glif
 1443733919.0 glyphs/B_regionindicator.glif
 1443733919.0 glyphs/B_squareblack.glif
 1443733919.0 glyphs/C_L_square.glif
 1443733919.0 glyphs/C_O_O_L_square.glif
 1443733919.0 glyphs/C_regionindicator.glif
 1443733919.0 glyphs/D_regionindicator.glif
+1446094247.0 glyphs/E_N_D_arrowaboveleft.glif
 1443733919.0 glyphs/E_regionindicator.glif
 1443733919.0 glyphs/F_R_E_E_square.glif
 1443733919.0 glyphs/F_regionindicator.glif
@@ -1683,14 +1693,17 @@
 1443733919.0 glyphs/N_G_square.glif
 1443733919.0 glyphs/N_regionindicator.glif
 1443733919.0 glyphs/O_K_square.glif
+1446094247.0 glyphs/O_N_exclamarrowaboveleftright.glif
 1443733919.0 glyphs/O_regionindicator.glif
 1443733919.0 glyphs/O_squareblack.glif
 1443733919.0 glyphs/P_regionindicator.glif
 1443733919.0 glyphs/P_squareblack.glif
 1443733919.0 glyphs/Q_regionindicator.glif
 1443733919.0 glyphs/R_regionindicator.glif
+1446094247.0 glyphs/S_O_O_N_arrowaboveright.glif
 1443733919.0 glyphs/S_O_S_square.glif
 1443733919.0 glyphs/S_regionindicator.glif
+1446094247.0 glyphs/T_O_P_arrowaboveup.glif
 1443733919.0 glyphs/T_regionindicator.glif
 1443733919.0 glyphs/U_P_exclamsquare.glif
 1443733919.0 glyphs/U_regionindicator.glif
@@ -1701,6 +1714,8 @@
 1443733919.0 glyphs/Y_regionindicator.glif
 1443733919.0 glyphs/Z_regionindicator.glif
 1443733919.0 glyphs/a.glif
+1446094247.0 glyphs/acceptideocircle.glif
+1446094247.0 glyphs/advantageideocircle.glif
 1443733919.0 glyphs/alien.glif
 1443733919.0 glyphs/arrowboth.glif
 1443733919.0 glyphs/arrowdownleft.glif
@@ -1722,8 +1737,23 @@
 1443733919.0 glyphs/catfacepouting.glif
 1443733919.0 glyphs/catfacewrysmile.glif
 1443733919.0 glyphs/cheese.glif
+1446094247.0 glyphs/cjk5272square.copy_1.glif
+1446094247.0 glyphs/cjk5272square.glif
+1446094247.0 glyphs/cjk5408square.glif
+1446094247.0 glyphs/cjk55B_6square.glif
+1446094247.0 glyphs/cjk6307square.glif
+1446094247.0 glyphs/cjk6708square.glif
+1446094247.0 glyphs/cjk6709square.glif
+1446094247.0 glyphs/cjk6E_80square.glif
+1446094247.0 glyphs/cjk7121square.copy_1.glif
+1446094247.0 glyphs/cjk7121square.glif
+1446094247.0 glyphs/cjk7533square.copy_1.glif
+1446094247.0 glyphs/cjk7533square.glif
+1446094247.0 glyphs/cjk7981square.glif
+1446094247.0 glyphs/cjk7A_7A_square.glif
 1443735073.0 glyphs/club.copy_1.glif
 1443735073.0 glyphs/club.glif
+1446094247.0 glyphs/congratulationideocircle.glif
 1446013364.0 glyphs/copyright.glif
 1443733919.0 glyphs/deer.copy_1.glif
 1443733919.0 glyphs/deer.glif
@@ -1825,6 +1855,7 @@
 1443733920.0 glyphs/heart.copy_1.glif
 1443733920.0 glyphs/heart.glif
 1443733920.0 glyphs/heartblackheavy.glif
+1446094247.0 glyphs/informationsource.glif
 1443733920.0 glyphs/juggling.glif
 1443733920.0 glyphs/keyeight.glif
 1443733920.0 glyphs/keyfive.glif
@@ -1837,6 +1868,7 @@
 1443733920.0 glyphs/keythree.glif
 1443733920.0 glyphs/keytwo.glif
 1443733920.0 glyphs/keyzero.glif
+1446094247.0 glyphs/kokokatakanasquare.glif
 1443733920.0 glyphs/l.glif
 1443733920.0 glyphs/lizard.glif
 1443733920.0 glyphs/lock.glif
@@ -1864,16 +1896,20 @@
 1443735074.0 glyphs/polowater.copy_1.glif
 1443733920.0 glyphs/polowater.glif
 1443735074.0 glyphs/poopile.glif
+1446094247.0 glyphs/reddragonmahjongtile.glif
 1446013364.0 glyphs/registered.glif
 1443733920.0 glyphs/rhinoceros.copy_1.glif
 1443733920.0 glyphs/rhinoceros.glif
 1443733920.0 glyphs/rifle.glif
 1443735074.0 glyphs/robotface.glif
+1446094247.0 glyphs/sakatakanasquare.glif
 1443733920.0 glyphs/saladgreen.glif
+1446094247.0 glyphs/secretideocircle.glif
 1443733920.0 glyphs/spade.copy_1.glif
 1443733920.0 glyphs/spade.glif
 1443733920.0 glyphs/spoon.glif
 1443733920.0 glyphs/sunface.glif
+1446094247.0 glyphs/trademark.glif
 1443735074.0 glyphs/trolleyshopping.glif
 1443733920.0 glyphs/uniformmartialarts.glif
 1443733920.0 glyphs/wrestlers.glif
@@ -2053,6 +2089,21 @@
 			<string>partalteration</string>
 			<string>congratulationideocircle</string>
 			<string>secretideocircle</string>
+			<string>kokokatakanasquare</string>
+			<string>sakatakanasquare</string>
+			<string>cjk7121square</string>
+			<string>cjk6307square</string>
+			<string>cjk7981square</string>
+			<string>cjk7A7Asquare</string>
+			<string>cjk5408square</string>
+			<string>cjk6E80square</string>
+			<string>cjk6709square</string>
+			<string>cjk6708square</string>
+			<string>cjk7533square</string>
+			<string>cjk5272square</string>
+			<string>cjk55B6square</string>
+			<string>advantageideocircle</string>
+			<string>acceptideocircle</string>
 			<string>reddragonmahjongtile</string>
 			<string>jokerblack</string>
 			<string>Asquareblack</string>
@@ -2070,6 +2121,11 @@
 			<string>SOSsquare</string>
 			<string>UPexclamsquare</string>
 			<string>VSsquare</string>
+			<string>BACKarrowaboveleft</string>
+			<string>ENDarrowaboveleft</string>
+			<string>ONexclamarrowaboveleftright</string>
+			<string>SOONarrowaboveright</string>
+			<string>TOParrowaboveup</string>
 			<string>Aregionindicator</string>
 			<string>Bregionindicator</string>
 			<string>Cregionindicator</string>
@@ -2345,21 +2401,6 @@
 			<string>ZAflag</string>
 			<string>ZMflag</string>
 			<string>ZWflag</string>
-			<string>kokokatakanasquare</string>
-			<string>sakatakanasquare</string>
-			<string>cjk7121square</string>
-			<string>cjk6307square</string>
-			<string>cjk7981square</string>
-			<string>cjk7A7Asquare</string>
-			<string>cjk5408square</string>
-			<string>cjk6E80square</string>
-			<string>cjk6709square</string>
-			<string>cjk6708square</string>
-			<string>cjk7533square</string>
-			<string>cjk5272square</string>
-			<string>cjk55B6square</string>
-			<string>advantageideocircle</string>
-			<string>acceptideocircle</string>
 			<string>cyclone</string>
 			<string>foggy</string>
 			<string>umbrellaclosed</string>
@@ -2897,11 +2938,6 @@
 			<string>bookmark</string>
 			<string>link</string>
 			<string>radiobutton</string>
-			<string>BACKarrowaboveleft</string>
-			<string>ENDarrowaboveleft</string>
-			<string>ONexclamarrowaboveleftright</string>
-			<string>SOONarrowaboveright</string>
-			<string>TOParrowaboveup</string>
 			<string>nooneundereighteen</string>
 			<string>tenkey</string>
 			<string>latincapsinput</string>
@@ -3411,28 +3447,6 @@
 			<string>shrimp</string>
 			<string>squid</string>
 			<string>cheese</string>
-			<string>diamond.copy_1</string>
-			<string>l</string>
-			<string>facesneezing.copy_1</string>
-			<string>n</string>
-			<string>goalnet.copy_1</string>
-			<string>o</string>
-			<string>heart.copy_1</string>
-			<string>p</string>
-			<string>borderdotted</string>
-			<string>club.copy_1</string>
-			<string>H</string>
-			<string>gorilla.copy_1</string>
-			<string>gorilla.copy_2</string>
-			<string>spade.copy_1</string>
-			<string>grin</string>
-			<string>polowater.copy_1</string>
-			<string>rhinoceros.copy_1</string>
-			<string>a</string>
-			<string>deer.copy_1</string>
-			<string>g</string>
-			<string>face</string>
-			<string>h</string>
 		</array>
 	</dict>
 </plist>

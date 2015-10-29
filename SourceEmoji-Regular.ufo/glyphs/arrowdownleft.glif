@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowdownleft" format="1">
-	<advance width="1000"/>
-	<outline>
-		<contour>
-			<point x="178" y="-80" type="line"/>
-			<point x="807" y="-75" type="line"/>
-			<point x="805" y="-11" type="line"/>
-			<point x="275" y="-25" type="line"/>
-			<point x="847" y="549" type="line"/>
-			<point x="802" y="594" type="line"/>
-			<point x="228" y="22" type="line"/>
-			<point x="242" y="552" type="line"/>
-			<point x="178" y="554" type="line"/>
-			<point x="173" y="-75" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="178" y="-80" type="line"/>
+      <point x="807" y="-75" type="line"/>
+      <point x="805" y="-11" type="line"/>
+      <point x="275" y="-25" type="line"/>
+      <point x="847" y="549" type="line"/>
+      <point x="802" y="594" type="line"/>
+      <point x="228" y="22" type="line"/>
+      <point x="242" y="552" type="line"/>
+      <point x="178" y="554" type="line"/>
+      <point x="173" y="-75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>
