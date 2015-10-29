@@ -85,24 +85,32 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.8</real>
         <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.4</real>
         <real>1.0</real>
       </array>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList id="b289b511966983f0b931265d84faf330b28a535544eaff9f164710f82d63f2b79f9246a8d500f728e45387abdd17d2143d51056fbb1ae4bd1a0695d3b6ca2f5a">
-          <hintset pointTag="hintSet0000">
-            <hstem pos="-70" width="182" />
-            <hstem pos="197" width="158" />
-            <hstem pos="431" width="145" />
-            <hstem pos="658" width="172" />
-            <vstem pos="50" width="253" />
-            <vstem pos="696" width="254" />
-          </hintset>
-        </hintSetList>
-      </data>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>b289b511966983f0b931265d84faf330b28a535544eaff9f164710f82d63f2b79f9246a8d500f728e45387abdd17d2143d51056fbb1ae4bd1a0695d3b6ca2f5a</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -70 182</string>
+              <string>hstem 197 158</string>
+              <string>hstem 431 145</string>
+              <string>hstem 658 172</string>
+              <string>vstem 50 253</string>
+              <string>vstem 696 254</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
     </dict>
   </lib>
 </glyph>

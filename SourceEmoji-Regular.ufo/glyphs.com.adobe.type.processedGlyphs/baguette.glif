@@ -3,62 +3,62 @@
   <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="239" y="-221" />
-      <point x="363" y="-221" />
-      <point x="525" y="-116" />
-      <point type="curve" x="700" y="58" />
-      <point x="869" y="228" />
-      <point x="972" y="389" />
-      <point type="curve" x="972" y="511" />
-      <point x="972" y="634" />
-      <point x="884" y="721" />
-      <point type="curve" x="761" y="721" />
-      <point x="637" y="721" />
-      <point x="474" y="615" />
-      <point type="curve" x="300" y="442" />
-      <point x="131" y="272" />
-      <point x="28" y="111" />
-      <point type="curve" x="28" y="-11" />
-      <point x="28" y="-134" />
-      <point x="116" y="-221" />
+      <point name="hintSet0000" type="curve" x="239" y="-91" />
+      <point x="363" y="-91" />
+      <point x="525" y="14" />
+      <point type="curve" x="700" y="188" />
+      <point x="869" y="358" />
+      <point x="972" y="519" />
+      <point type="curve" x="972" y="641" />
+      <point x="972" y="764" />
+      <point x="884" y="851" />
+      <point type="curve" x="761" y="851" />
+      <point x="637" y="851" />
+      <point x="474" y="745" />
+      <point type="curve" x="300" y="572" />
+      <point x="131" y="402" />
+      <point x="28" y="241" />
+      <point type="curve" x="28" y="119" />
+      <point x="28" y="-4" />
+      <point x="116" y="-91" />
     </contour>
     <contour>
-      <point type="curve" x="236" y="-168" />
-      <point x="150" y="-168" />
-      <point x="88" y="-104" />
-      <point type="curve" x="88" y="-14" />
-      <point x="88" y="91" />
-      <point x="180" y="240" />
-      <point type="curve" x="340" y="400" />
-      <point x="508" y="568" />
-      <point x="656" y="668" />
-      <point type="curve" x="764" y="668" />
-      <point x="850" y="668" />
-      <point x="912" y="604" />
-      <point type="curve" x="912" y="514" />
-      <point x="912" y="409" />
-      <point x="820" y="260" />
-      <point type="curve" x="660" y="100" />
-      <point x="492" y="-68" />
-      <point x="344" y="-168" />
+      <point type="curve" x="236" y="-38" />
+      <point x="150" y="-38" />
+      <point x="88" y="26" />
+      <point type="curve" x="88" y="116" />
+      <point x="88" y="221" />
+      <point x="180" y="370" />
+      <point type="curve" x="340" y="530" />
+      <point x="508" y="698" />
+      <point x="656" y="798" />
+      <point type="curve" x="764" y="798" />
+      <point x="850" y="798" />
+      <point x="912" y="734" />
+      <point type="curve" x="912" y="644" />
+      <point x="912" y="539" />
+      <point x="820" y="390" />
+      <point type="curve" x="660" y="230" />
+      <point x="492" y="62" />
+      <point x="344" y="-38" />
     </contour>
     <contour>
-      <point type="line" x="434" y="-21" />
-      <point x="492" y="88" />
-      <point x="339" y="241" />
-      <point type="curve" x="230" y="183" />
+      <point type="line" x="434" y="109" />
+      <point x="492" y="218" />
+      <point x="339" y="371" />
+      <point type="curve" x="230" y="313" />
     </contour>
     <contour>
-      <point type="line" x="574" y="119" />
-      <point x="632" y="228" />
-      <point x="479" y="381" />
-      <point type="curve" x="370" y="323" />
+      <point type="line" x="574" y="249" />
+      <point x="632" y="358" />
+      <point x="479" y="511" />
+      <point type="curve" x="370" y="453" />
     </contour>
     <contour>
-      <point type="line" x="714" y="259" />
-      <point x="772" y="368" />
-      <point x="619" y="521" />
-      <point type="curve" x="510" y="463" />
+      <point type="line" x="714" y="389" />
+      <point x="772" y="498" />
+      <point x="619" y="651" />
+      <point type="curve" x="510" y="593" />
     </contour>
   </outline>
   <lib>
@@ -72,8 +72,6 @@
           <integer>0</integer>
           <key>magnetic</key>
           <integer>5</integer>
-          <key>name</key>
-          <string />
           <key>x</key>
           <integer>500</integer>
           <key>y</key>
@@ -101,7 +99,7 @@
                   <key>smooth</key>
                   <true />
                   <key>x</key>
-                  <real>639.0736655261421</real>
+                  <real>639.0736655261</real>
                   <key>y</key>
                   <integer>-284</integer>
                 </dict>
@@ -109,7 +107,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>837.0736655261421</real>
+                  <real>837.0736655261</real>
                   <key>y</key>
                   <integer>-284</integer>
                 </dict>
@@ -117,7 +115,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>951.0736655261421</real>
+                  <real>951.0736655261</real>
                   <key>y</key>
                   <integer>-79</integer>
                 </dict>
@@ -127,7 +125,7 @@
                   <key>smooth</key>
                   <true />
                   <key>x</key>
-                  <real>951.0736655261421</real>
+                  <real>951.0736655261</real>
                   <key>y</key>
                   <integer>250</integer>
                 </dict>
@@ -135,7 +133,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>951.0736655261421</real>
+                  <real>951.0736655261</real>
                   <key>y</key>
                   <integer>579</integer>
                 </dict>
@@ -143,7 +141,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>837.0736655261421</real>
+                  <real>837.0736655261</real>
                   <key>y</key>
                   <integer>784</integer>
                 </dict>
@@ -153,7 +151,7 @@
                   <key>smooth</key>
                   <true />
                   <key>x</key>
-                  <real>639.0736655261421</real>
+                  <real>639.0736655261</real>
                   <key>y</key>
                   <integer>784</integer>
                 </dict>
@@ -161,7 +159,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>441.0736655261421</real>
+                  <real>441.0736655261</real>
                   <key>y</key>
                   <integer>784</integer>
                 </dict>
@@ -169,7 +167,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>327.0736655261421</real>
+                  <real>327.0736655261</real>
                   <key>y</key>
                   <integer>579</integer>
                 </dict>
@@ -179,7 +177,7 @@
                   <key>smooth</key>
                   <true />
                   <key>x</key>
-                  <real>327.0736655261421</real>
+                  <real>327.0736655261</real>
                   <key>y</key>
                   <integer>250</integer>
                 </dict>
@@ -187,7 +185,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>327.0736655261421</real>
+                  <real>327.0736655261</real>
                   <key>y</key>
                   <integer>-79</integer>
                 </dict>
@@ -195,7 +193,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>441.0736655261421</real>
+                  <real>441.0736655261</real>
                   <key>y</key>
                   <integer>-284</integer>
                 </dict>
@@ -210,7 +208,7 @@
                   <key>smooth</key>
                   <true />
                   <key>x</key>
-                  <real>639.0736655261421</real>
+                  <real>639.0736655261</real>
                   <key>y</key>
                   <integer>-232</integer>
                 </dict>
@@ -218,7 +216,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>475.0736655261421</real>
+                  <real>475.0736655261</real>
                   <key>y</key>
                   <integer>-232</integer>
                 </dict>
@@ -226,7 +224,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>387.0736655261421</real>
+                  <real>387.0736655261</real>
                   <key>y</key>
                   <integer>-53</integer>
                 </dict>
@@ -236,7 +234,7 @@
                   <key>smooth</key>
                   <true />
                   <key>x</key>
-                  <real>387.0736655261421</real>
+                  <real>387.0736655261</real>
                   <key>y</key>
                   <integer>250</integer>
                 </dict>
@@ -244,7 +242,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>387.0736655261421</real>
+                  <real>387.0736655261</real>
                   <key>y</key>
                   <integer>553</integer>
                 </dict>
@@ -252,7 +250,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>475.0736655261421</real>
+                  <real>475.0736655261</real>
                   <key>y</key>
                   <integer>732</integer>
                 </dict>
@@ -262,7 +260,7 @@
                   <key>smooth</key>
                   <true />
                   <key>x</key>
-                  <real>639.0736655261421</real>
+                  <real>639.0736655261</real>
                   <key>y</key>
                   <integer>732</integer>
                 </dict>
@@ -270,7 +268,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>803.0736655261421</real>
+                  <real>803.0736655261</real>
                   <key>y</key>
                   <integer>732</integer>
                 </dict>
@@ -278,7 +276,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>891.0736655261421</real>
+                  <real>891.0736655261</real>
                   <key>y</key>
                   <integer>553</integer>
                 </dict>
@@ -288,7 +286,7 @@
                   <key>smooth</key>
                   <true />
                   <key>x</key>
-                  <real>891.0736655261421</real>
+                  <real>891.0736655261</real>
                   <key>y</key>
                   <integer>250</integer>
                 </dict>
@@ -296,7 +294,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>891.0736655261421</real>
+                  <real>891.0736655261</real>
                   <key>y</key>
                   <integer>-53</integer>
                 </dict>
@@ -304,7 +302,7 @@
                   <key>smooth</key>
                   <false />
                   <key>x</key>
-                  <real>803.0736655261421</real>
+                  <real>803.0736655261</real>
                   <key>y</key>
                   <integer>-232</integer>
                 </dict>
@@ -797,23 +795,31 @@
         <real>0.4</real>
         <real>1.0</real>
       </array>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList id="d9078521918d75bb4f56525deeeea9aa46a88749ed7f809cf205ab21cf9d649b3b5bf373a1594ae890c46750562f51f9699f826d275ad6984f6030fdc6e4acc7">
-          <hintset pointTag="hintSet0000">
-            <hstem pos="-221" width="53" />
-            <hstem pos="183" width="12" />
-            <hstem pos="323" width="12" />
-            <hstem pos="463" width="12" />
-            <hstem pos="668" width="53" />
-            <vstem pos="28" width="60" />
-            <vstem pos="434" width="12" />
-            <vstem pos="574" width="12" />
-            <vstem pos="714" width="12" />
-            <vstem pos="912" width="60" />
-          </hintset>
-        </hintSetList>
-      </data>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>4efe98d607bad7693787486c5d0fc6844aa27b1eae56b7a7b121452ae0dc424025fb64a747d215ebeb4f999b15f33c74536eaa2d624f06cdbd146bb35ac454b1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -91 53</string>
+              <string>hstem 313 12</string>
+              <string>hstem 453 12</string>
+              <string>hstem 593 12</string>
+              <string>hstem 798 53</string>
+              <string>vstem 28 60</string>
+              <string>vstem 434 12</string>
+              <string>vstem 574 12</string>
+              <string>vstem 714 12</string>
+              <string>vstem 912 60</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
     </dict>
   </lib>
 </glyph>

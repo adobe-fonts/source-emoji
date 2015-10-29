@@ -337,22 +337,30 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.8</real>
         <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.4</real>
         <real>1.0</real>
       </array>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList id="8707367c93128352418b543951393d1182c605277f274c31bc66f85f42f577838368073ba5095b50ee09d1e51ea64db348ec36a823b1b8323021eec93b77fbfd">
-          <hintset pointTag="hintSet0000">
-            <hstem pos="-70" width="194" />
-            <hstem pos="646" width="184" />
-            <vstem pos="50" width="265" />
-            <vstem pos="691" width="259" />
-          </hintset>
-        </hintSetList>
-      </data>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>8707367c93128352418b543951393d1182c605277f274c31bc66f85f42f577838368073ba5095b50ee09d1e51ea64db348ec36a823b1b8323021eec93b77fbfd</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -70 194</string>
+              <string>hstem 646 184</string>
+              <string>vstem 50 265</string>
+              <string>vstem 691 259</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
     </dict>
   </lib>
 </glyph>

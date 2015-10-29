@@ -24,15 +24,30 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList id="w1000l1020255l723599l678559l922284l78284l322559l277599l-20255l-20249l277-95l322-55l78220l922220l678-55l723-95l1020249">
-          <hintset pointTag="hintSet0000">
-            <hstem pos="220" width="64" />
-            <vstem pos="-20" width="1040" />
-          </hintset>
-        </hintSetList>
-      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000l1020255l723599l678559l922284l78284l322559l277599l-20255l-20249l277-95l322-55l78220l922220l678-55l723-95l1020249</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 220 64</string>
+              <string>vstem -20 1040</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
     </dict>
   </lib>
 </glyph>

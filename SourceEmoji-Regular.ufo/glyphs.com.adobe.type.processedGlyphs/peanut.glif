@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="peanut">
+	<advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="216" y="158" />
+      <point name="hintSet0001" x="303" y="158" />
+      <point x="395" y="206" />
+      <point type="curve" x="500" y="206" />
+      <point x="605" y="206" />
+      <point x="697" y="158" />
+      <point type="curve" x="784" y="158" />
+      <point name="hintSet0003" x="904" y="158" />
+      <point x="1012" y="200" />
+      <point type="curve" x="1012" y="380" />
+      <point x="1012" y="560" />
+      <point x="904" y="602" />
+      <point type="curve" x="784" y="602" />
+      <point x="697" y="602" />
+      <point x="605" y="554" />
+      <point type="curve" x="500" y="554" />
+      <point x="395" y="554" />
+      <point x="303" y="602" />
+      <point type="curve" x="216" y="602" />
+      <point x="96" y="602" />
+      <point x="-12" y="560" />
+      <point type="curve" x="-12" y="380" />
+      <point x="-12" y="200" />
+      <point x="96" y="158" />
+    </contour>
+    <contour>
+      <point type="curve" x="238" y="210" />
+      <point x="142" y="210" />
+      <point x="48" y="246" />
+      <point type="curve" x="48" y="380" />
+      <point x="48" y="514" />
+      <point x="142" y="550" />
+      <point type="curve" x="238" y="550" />
+      <point x="299" y="550" />
+      <point x="391" y="502" />
+      <point type="curve" x="500" y="502" />
+      <point x="609" y="502" />
+      <point x="701" y="550" />
+      <point type="curve" x="762" y="550" />
+      <point x="858" y="550" />
+      <point x="952" y="514" />
+      <point type="curve" x="952" y="380" />
+      <point x="952" y="246" />
+      <point x="858" y="210" />
+      <point type="curve" x="762" y="210" />
+      <point x="701" y="210" />
+      <point x="609" y="258" />
+      <point type="curve" x="500" y="258" />
+      <point x="391" y="258" />
+      <point x="299" y="210" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>cafee6373fb10148b7252958bc3e21d4ea426bef65e5f41f97f2037ccd01ead93f16d109aec536039da18219da34330b6f933adc3a66a928d78845a6a71cc4ef</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 158 52</string>
+              <string>hstem 550 52</string>
+              <string>vstem -12 60</string>
+              <string>vstem 952 60</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0001</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 206 52</string>
+              <string>hstem 550 52</string>
+              <string>vstem -12 60</string>
+              <string>vstem 952 60</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0003</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 158 52</string>
+              <string>hstem 550 52</string>
+              <string>vstem -12 60</string>
+              <string>vstem 952 60</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

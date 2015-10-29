@@ -4,34 +4,42 @@
   <unicode hex="2666" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="502" y="-260" />
-      <point type="line" x="917" y="234" />
-      <point type="line" x="917" y="240" />
-      <point type="line" x="502" y="730" />
-      <point type="line" x="498" y="730" />
-      <point type="line" x="83" y="240" />
-      <point type="line" x="83" y="234" />
-      <point type="line" x="498" y="-260" />
+      <point name="hintSet0000" type="line" x="502" y="-130" />
+      <point type="line" x="917" y="364" />
+      <point type="line" x="917" y="370" />
+      <point type="line" x="502" y="860" />
+      <point type="line" x="498" y="860" />
+      <point type="line" x="83" y="370" />
+      <point type="line" x="83" y="364" />
+      <point type="line" x="498" y="-130" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.8</real>
         <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.4</real>
         <real>1.0</real>
       </array>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList id="w1000l502-260l917234l917240l502730l498730l83240l83234l498-260">
-          <hintset pointTag="hintSet0000">
-            <hstem pos="-260" width="990" />
-            <vstem pos="83" width="834" />
-          </hintset>
-        </hintSetList>
-      </data>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000l502-130l917364l917370l502860l498860l83370l83364l498-130</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -130 990</string>
+              <string>vstem 83 834</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
     </dict>
   </lib>
 </glyph>

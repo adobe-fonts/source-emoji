@@ -3,104 +3,125 @@
   <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="160" y="-239" />
-      <point name="hintSet0001" type="line" x="840" y="-239" />
-      <point type="line" x="907" y="-174" />
-      <point type="line" x="907" y="360" />
-      <point name="hintSet0004" type="line" x="840" y="425" />
-      <point type="line" x="763" y="425" />
-      <point type="line" x="763" y="488" />
-      <point x="763" y="663" />
-      <point x="668" y="765" />
-      <point type="curve" x="500" y="765" />
-      <point x="333" y="765" />
-      <point x="237" y="663" />
-      <point type="curve" x="237" y="488" />
-      <point type="line" x="237" y="425" />
-      <point name="hintSet0010" type="line" x="160" y="425" />
-      <point type="line" x="93" y="360" />
-      <point type="line" x="93" y="-174" />
+      <point name="hintSet0000" type="line" x="160" y="-108" />
+      <point name="hintSet0001" type="line" x="840" y="-108" />
+      <point type="line" x="908" y="-42" />
+      <point type="line" x="908" y="488" />
+      <point name="hintSet0004" type="line" x="840" y="554" />
+      <point type="line" x="764" y="554" />
+      <point type="line" x="764" y="618" />
+      <point x="764" y="780" />
+      <point x="668" y="872" />
+      <point type="curve" x="500" y="872" />
+      <point x="332" y="872" />
+      <point x="236" y="780" />
+      <point type="curve" x="236" y="618" />
+      <point type="line" x="236" y="554" />
+      <point name="hintSet0010" type="line" x="160" y="554" />
+      <point type="line" x="92" y="488" />
+      <point type="line" x="92" y="-42" />
     </contour>
     <contour>
-      <point type="line" x="408" y="-132" />
-      <point type="line" x="454" y="76" />
-      <point x="400" y="98" />
-      <point x="378" y="138" />
-      <point type="curve" x="378" y="190" />
-      <point x="378" y="260" />
-      <point x="432" y="310" />
-      <point type="curve" x="500" y="310" />
-      <point x="568" y="310" />
-      <point x="622" y="260" />
-      <point type="curve" x="622" y="190" />
-      <point x="622" y="138" />
-      <point x="600" y="98" />
-      <point type="curve" x="546" y="76" />
-      <point type="line" x="592" y="-132" />
-      <point type="line" x="517" y="-165" />
-      <point type="line" x="483" y="-165" />
+      <point type="line" x="408" y="16" />
+      <point type="line" x="454" y="212" />
+      <point x="400" y="234" />
+      <point x="378" y="274" />
+      <point type="curve" x="378" y="326" />
+      <point x="378" y="396" />
+      <point x="432" y="446" />
+      <point type="curve" x="500" y="446" />
+      <point x="568" y="446" />
+      <point x="622" y="396" />
+      <point type="curve" x="622" y="326" />
+      <point x="622" y="274" />
+      <point x="600" y="234" />
+      <point type="curve" x="546" y="212" />
+      <point type="line" x="592" y="16" />
+      <point type="line" x="517" y="-18" />
+      <point type="line" x="483" y="-18" />
     </contour>
     <contour>
-      <point name="hintSet0022" type="line" x="347" y="425" />
-      <point type="line" x="347" y="485" />
-      <point x="347" y="594" />
-      <point x="397" y="658" />
-      <point type="curve" x="500" y="658" />
-      <point x="603" y="658" />
-      <point x="653" y="594" />
-      <point type="curve" x="653" y="485" />
-      <point type="line" x="653" y="425" />
+      <point name="hintSet0022" type="line" x="348" y="554" />
+      <point type="line" x="348" y="614" />
+      <point x="348" y="714" />
+      <point x="400" y="772" />
+      <point type="curve" x="500" y="772" />
+      <point x="600" y="772" />
+      <point x="652" y="714" />
+      <point type="curve" x="652" y="614" />
+      <point type="line" x="652" y="554" />
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList id="21f83bdf1ba6b45fbf5564fbfca061b2d17506dbb5526a9e9f62afc86a9df3c2f77030293bd88c2303fbeab905d195683419a9b8cf03861b1fe08309797da4dc">
-          <hintset pointTag="hintSet0000">
-            <hstem pos="-239" width="74" />
-            <hstem pos="310" width="115" />
-            <hstem pos="658" width="107" />
-            <vstem pos="237" width="110" />
-            <vstem pos="653" width="110" />
-          </hintset>
-          <hintset pointTag="hintSet0001">
-            <hstem pos="-239" width="74" />
-            <hstem pos="310" width="115" />
-            <hstem pos="658" width="107" />
-            <vstem pos="237" width="110" />
-            <vstem pos="622" width="285" />
-          </hintset>
-          <hintset pointTag="hintSet0004">
-            <hstem pos="-239" width="74" />
-            <hstem pos="310" width="115" />
-            <hstem pos="658" width="107" />
-            <vstem pos="237" width="110" />
-            <vstem pos="653" width="110" />
-          </hintset>
-          <hintset pointTag="hintSet0010">
-            <hstem pos="-239" width="74" />
-            <hstem pos="310" width="115" />
-            <hstem pos="658" width="107" />
-            <vstem pos="93" width="285" />
-            <vstem pos="622" width="285" />
-          </hintset>
-          <hintset pointTag="hintSet0022">
-            <hstem pos="-239" width="74" />
-            <hstem pos="310" width="115" />
-            <hstem pos="658" width="107" />
-            <vstem pos="237" width="110" />
-            <vstem pos="653" width="110" />
-          </hintset>
-        </hintSetList>
-      </data>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>21e5b5a0f5b27ae571674cb25feadc1ba5439efee9e967e0f08f9e8338fb6ccd943961af63268b6a3eeefe6261a1e2f26fad29d9ff5293557de1c4c4169b112b</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -108 90</string>
+              <string>hstem 446 108</string>
+              <string>hstem 772 100</string>
+              <string>vstem 236 112</string>
+              <string>vstem 652 112</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0001</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -108 90</string>
+              <string>hstem 446 108</string>
+              <string>hstem 772 100</string>
+              <string>vstem 236 112</string>
+              <string>vstem 622 286</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0004</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -108 90</string>
+              <string>hstem 446 108</string>
+              <string>hstem 772 100</string>
+              <string>vstem 236 112</string>
+              <string>vstem 652 112</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0010</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -108 90</string>
+              <string>hstem 446 108</string>
+              <string>hstem 772 100</string>
+              <string>vstem 92 286</string>
+              <string>vstem 622 286</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0022</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -108 90</string>
+              <string>hstem 446 108</string>
+              <string>hstem 772 100</string>
+              <string>vstem 236 112</string>
+              <string>vstem 652 112</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
     </dict>
   </lib>
 </glyph>

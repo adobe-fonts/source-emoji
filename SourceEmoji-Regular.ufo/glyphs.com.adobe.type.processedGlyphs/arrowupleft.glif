@@ -17,15 +17,30 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList id="w1000l793-91l838-46l265528l797514l797578l168583l163578l170-51l232-49l220481">
-          <hintset pointTag="hintSet0000">
-            <hstem pos="521" width="59.5" />
-            <vstem pos="166.5" width="59.5" />
-          </hintset>
-        </hintSetList>
-      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000l793-91l838-46l265528l797514l797578l168583l163578l170-51l232-49l220481</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 521 59.5</string>
+              <string>vstem 166.5 59.5</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
     </dict>
   </lib>
 </glyph>

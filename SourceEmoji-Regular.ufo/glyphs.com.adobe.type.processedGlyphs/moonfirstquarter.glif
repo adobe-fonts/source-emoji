@@ -3,41 +3,49 @@
   <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="500" y="-224" />
-      <point x="774" y="-224" />
-      <point x="972" y="-24" />
-      <point type="curve" x="972" y="250" />
-      <point x="972" y="524" />
-      <point x="774" y="724" />
-      <point type="curve" x="500" y="724" />
-      <point x="226" y="724" />
-      <point x="28" y="524" />
-      <point type="curve" x="28" y="250" />
-      <point x="28" y="-24" />
-      <point x="226" y="-224" />
+      <point name="hintSet0000" type="curve" x="500" y="-94" />
+      <point x="774" y="-94" />
+      <point x="972" y="106" />
+      <point type="curve" x="972" y="380" />
+      <point x="972" y="654" />
+      <point x="774" y="854" />
+      <point type="curve" x="500" y="854" />
+      <point x="226" y="854" />
+      <point x="28" y="654" />
+      <point type="curve" x="28" y="380" />
+      <point x="28" y="106" />
+      <point x="226" y="-94" />
     </contour>
     <contour>
-      <point type="curve" x="500" y="-172" />
-      <point type="line" x="500" y="672" />
-      <point x="742" y="672" />
-      <point x="912" y="498" />
-      <point type="curve" x="912" y="250" />
-      <point x="912" y="2" />
-      <point x="742" y="-172" />
+      <point type="curve" x="500" y="-42" />
+      <point type="line" x="500" y="802" />
+      <point x="742" y="802" />
+      <point x="912" y="628" />
+      <point type="curve" x="912" y="380" />
+      <point x="912" y="132" />
+      <point x="742" y="-42" />
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList id="w1000c500-224774-224972-24c972250972524774724c50072422672428524c2825028-24226-224c500-172l500672742672912498c9122509122742-172">
-          <hintset pointTag="hintSet0000">
-            <hstem pos="-224" width="52" />
-            <hstem pos="672" width="52" />
-            <vstem pos="912" width="60" />
-          </hintset>
-        </hintSetList>
-      </data>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000c500-94774-94972106c972380972654774854c50085422685428654c2838028106226-94c500-42l500802742802912628c912380912132742-42</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -94 52</string>
+              <string>hstem 802 52</string>
+              <string>vstem 912 60</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
     </dict>
   </lib>
 </glyph>

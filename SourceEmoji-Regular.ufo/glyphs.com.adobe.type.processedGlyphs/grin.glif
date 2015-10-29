@@ -3,50 +3,50 @@
   <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="500" y="32" />
-      <point x="340" y="32" />
-      <point x="278" y="78" />
-      <point type="curve" x="270" y="156" />
-      <point type="line" x="730" y="156" />
-      <point x="722" y="78" />
-      <point x="660" y="32" />
+      <point name="hintSet0000" type="curve" x="500" y="162" />
+      <point x="340" y="162" />
+      <point x="278" y="208" />
+      <point type="curve" x="270" y="286" />
+      <point type="line" x="730" y="286" />
+      <point x="722" y="208" />
+      <point x="660" y="162" />
     </contour>
     <contour>
-      <point type="curve" x="500" y="-67" />
-      <point x="658" y="-67" />
-      <point x="762" y="12" />
-      <point type="curve" x="780" y="196" />
-      <point type="line" x="220" y="196" />
-      <point x="238" y="12" />
-      <point x="342" y="-67" />
+      <point type="curve" x="500" y="63" />
+      <point x="658" y="63" />
+      <point x="762" y="142" />
+      <point type="curve" x="780" y="326" />
+      <point type="line" x="220" y="326" />
+      <point x="238" y="142" />
+      <point x="342" y="63" />
     </contour>
     <contour>
-      <point type="curve" x="500" y="-224" />
-      <point x="774" y="-224" />
-      <point x="972" y="-24" />
-      <point type="curve" x="972" y="250" />
-      <point x="972" y="524" />
-      <point x="774" y="724" />
-      <point type="curve" x="500" y="724" />
-      <point x="226" y="724" />
-      <point x="28" y="524" />
-      <point type="curve" x="28" y="250" />
-      <point x="28" y="-24" />
-      <point x="226" y="-224" />
+      <point type="curve" x="500" y="-94" />
+      <point x="774" y="-94" />
+      <point x="972" y="106" />
+      <point type="curve" x="972" y="380" />
+      <point x="972" y="654" />
+      <point x="774" y="854" />
+      <point type="curve" x="500" y="854" />
+      <point x="226" y="854" />
+      <point x="28" y="654" />
+      <point type="curve" x="28" y="380" />
+      <point x="28" y="106" />
+      <point x="226" y="-94" />
     </contour>
     <contour>
-      <point type="curve" x="500" y="-172" />
-      <point x="258" y="-172" />
-      <point x="88" y="2" />
-      <point type="curve" x="88" y="250" />
-      <point x="88" y="498" />
-      <point x="258" y="672" />
-      <point type="curve" x="500" y="672" />
-      <point x="742" y="672" />
-      <point x="912" y="498" />
-      <point type="curve" x="912" y="250" />
-      <point x="912" y="2" />
-      <point x="742" y="-172" />
+      <point type="curve" x="500" y="-42" />
+      <point x="258" y="-42" />
+      <point x="88" y="132" />
+      <point type="curve" x="88" y="380" />
+      <point x="88" y="628" />
+      <point x="258" y="802" />
+      <point type="curve" x="500" y="802" />
+      <point x="742" y="802" />
+      <point x="912" y="628" />
+      <point type="curve" x="912" y="380" />
+      <point x="912" y="132" />
+      <point x="742" y="-42" />
     </contour>
   </outline>
   <lib>
@@ -60,8 +60,6 @@
           <false />
           <key>magnetic</key>
           <integer>5</integer>
-          <key>name</key>
-          <string />
           <key>x</key>
           <integer>367</integer>
           <key>y</key>
@@ -70,24 +68,32 @@
       </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.4</real>
+        <real>0.8</real>
         <real>1.0</real>
         <real>1.0</real>
       </array>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList id="285243697f227f686ab749780f60259574dde18a919ca98632b8de1df4dd42e7a2677cd3087dfe72e7957101a9c86a8ea4941f901883f1fb28e226a9a97175d6">
-          <hintset pointTag="hintSet0000">
-            <hstem pos="-224" width="52" />
-            <hstem pos="-67" width="99" />
-            <hstem pos="156" width="40" />
-            <hstem pos="672" width="52" />
-            <vstem pos="28" width="60" />
-            <vstem pos="912" width="60" />
-          </hintset>
-        </hintSetList>
-      </data>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>97af140fa6b3851e60ef3e90775833cc029685664c2669d205c22b7317129dff98d0045bf3d2993d1587a1d165ee82e7441d7dd656c6f1ba5de8cfc372c5838b</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -94 52</string>
+              <string>hstem 63 99</string>
+              <string>hstem 286 40</string>
+              <string>hstem 802 52</string>
+              <string>vstem 28 60</string>
+              <string>vstem 912 60</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
     </dict>
   </lib>
 </glyph>
