@@ -1301,9 +1301,8 @@
 					<string>eggs</string>
 					<string>milkglass</string>
 					<string>peanut</string>
-					<string>beans</string>
 					<string>kiwifruit</string>
-					<string>pancake</string>
+					<string>pancakes</string>
 					<string>crab</string>
 					<string>lionface</string>
 					<string>scorpion</string>
@@ -1642,18 +1641,24 @@
 					<string>urnfuneral</string>
 					<string>H</string>
 					<string>a</string>
+					<string>beans</string>
 					<string>beans.copy_2</string>
 					<string>beans.copy_3</string>
 					<string>borderdotted</string>
 					<string>club.copy_1</string>
 					<string>diamond.copy_1</string>
-					<string>eyeneutral</string>
+					<string>eyesclosed</string>
 					<string>eyesmiling</string>
+					<string>eyesneutral</string>
+					<string>eyessquinting</string>
 					<string>eyestight</string>
+					<string>eyeswide</string>
+					<string>eyeswinking</string>
 					<string>face</string>
 					<string>facesneezing</string>
 					<string>foodpan</string>
 					<string>frown</string>
+					<string>frown2</string>
 					<string>frownopen</string>
 					<string>g</string>
 					<string>grin</string>
@@ -1662,16 +1667,26 @@
 					<string>horns</string>
 					<string>kiwifruit.copy_1</string>
 					<string>l</string>
+					<string>mouthhushed</string>
+					<string>mouthkissing</string>
+					<string>mouthneutral</string>
+					<string>mouthopen</string>
+					<string>mouthtongue</string>
 					<string>n</string>
 					<string>o</string>
 					<string>p</string>
+					<string>pancake</string>
+					<string>pancake.copy_1</string>
 					<string>smile</string>
 					<string>smile2</string>
 					<string>smile3</string>
 					<string>smileopen</string>
+					<string>smileslight</string>
 					<string>spade.copy_1</string>
 					<string>squid.copy_1</string>
 					<string>squid.copy_2</string>
+					<string>tears</string>
+					<string>teethgritting</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -1979,7 +1994,9 @@
 1443733920.0 glyphs/n.glif
 1443733920.0 glyphs/o.glif
 1443733920.0 glyphs/p.glif
+1446763975.0 glyphs/pancake.copy_1.glif
 1446425982.0 glyphs/pancake.glif
+1446763975.0 glyphs/pancakes.glif
 1443733920.0 glyphs/panoffoodshallow.glif
 1446013364.0 glyphs/peanut.glif
 1443733920.0 glyphs/pentathlonmodern.glif
@@ -1998,10 +2015,12 @@
 1443733920.0 glyphs/saladgreen.glif
 1446094247.0 glyphs/secretideocircle.glif
 1446425982.0 glyphs/shrimp.glif
+1446763975.0 glyphs/sleeping.glif
 1446707333.0 glyphs/smile.glif
 1446707333.0 glyphs/smile2.glif
 1446707333.0 glyphs/smile3.glif
 1446707333.0 glyphs/smileopen.glif
+1446763975.0 glyphs/smileslight.glif
 1443733920.0 glyphs/spade.copy_1.glif
 1443733920.0 glyphs/spade.glif
 1443733920.0 glyphs/spoon.glif
@@ -2009,6 +2028,7 @@
 1446448216.0 glyphs/squid.copy_2.glif
 1446425982.0 glyphs/squid.glif
 1443733920.0 glyphs/sunface.glif
+1446763975.0 glyphs/tears.glif
 1446707333.0 glyphs/teethgritting.glif
 1446094247.0 glyphs/trademark.glif
 1443735074.0 glyphs/trolleyshopping.glif
@@ -3213,9 +3233,8 @@
 			<string>eggs</string>
 			<string>milkglass</string>
 			<string>peanut</string>
-			<string>beans</string>
 			<string>kiwifruit</string>
-			<string>pancake</string>
+			<string>pancakes</string>
 			<string>crab</string>
 			<string>lionface</string>
 			<string>scorpion</string>

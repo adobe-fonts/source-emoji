@@ -2,9 +2,44 @@
 <glyph name="facesleepy" format="1">
   <advance width="1000"/>
   <outline>
+    <contour>
+      <point x="536" y="299" type="curve"/>
+      <point x="571" y="270"/>
+      <point x="601" y="264"/>
+      <point x="630" y="264" type="curve" smooth="yes"/>
+      <point x="673" y="264"/>
+      <point x="697" y="288"/>
+      <point x="740" y="288" type="curve" smooth="yes"/>
+      <point x="777" y="288"/>
+      <point x="810" y="260"/>
+      <point x="810" y="218" type="curve" smooth="yes"/>
+      <point x="810" y="176"/>
+      <point x="778" y="144"/>
+      <point x="722" y="144" type="curve" smooth="yes"/>
+      <point x="634" y="144"/>
+      <point x="563" y="238"/>
+    </contour>
+    <contour>
+      <point x="536" y="334" type="curve"/>
+      <point x="500" y="308" type="line"/>
+      <point x="550" y="189"/>
+      <point x="622" y="110"/>
+      <point x="728" y="110" type="curve" smooth="yes"/>
+      <point x="802" y="110"/>
+      <point x="848" y="159"/>
+      <point x="848" y="218" type="curve" smooth="yes"/>
+      <point x="848" y="279"/>
+      <point x="806" y="322"/>
+      <point x="746" y="322" type="curve" smooth="yes"/>
+      <point x="682" y="322"/>
+      <point x="664" y="296"/>
+      <point x="632" y="296" type="curve" smooth="yes"/>
+      <point x="605" y="296"/>
+      <point x="571" y="304"/>
+    </contour>
     <component base="face"/>
-    <component base="eyesclosed"/>
-    <component base="mouthhushed"/>
+    <component base="eyesclosed" xOffset="-60"/>
+    <component base="mouthhushed" xOffset="-60"/>
   </outline>
   <lib>
     <dict>
