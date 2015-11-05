@@ -104,12 +104,22 @@
 	<string>advantageideocircle.glif</string>
 	<key>alien</key>
 	<string>alien.glif</string>
+	<key>ampersandheavy</key>
+	<string>ampersandheavy.glif</string>
 	<key>arrowboth</key>
 	<string>arrowboth.glif</string>
+	<key>arrowdownblack</key>
+	<string>arrowdownblack.glif</string>
 	<key>arrowdownleft</key>
 	<string>arrowdownleft.glif</string>
 	<key>arrowdownright</key>
 	<string>arrowdownright.glif</string>
+	<key>arrowleftblack</key>
+	<string>arrowleftblack.glif</string>
+	<key>arrowrightblack</key>
+	<string>arrowrightblack.glif</string>
+	<key>arrowupblack</key>
+	<string>arrowupblack.glif</string>
 	<key>arrowupdn</key>
 	<string>arrowupdn.glif</string>
 	<key>arrowupleft</key>
@@ -120,6 +130,20 @@
 	<string>baguette.glif</string>
 	<key>ballotboxcheck</key>
 	<string>ballotboxcheck.glif</string>
+	<key>banknotedollar</key>
+	<string>banknotedollar.glif</string>
+	<key>banknoteeuro</key>
+	<string>banknoteeuro.glif</string>
+	<key>banknotepound</key>
+	<string>banknotepound.glif</string>
+	<key>banknoteyen</key>
+	<string>banknoteyen.glif</string>
+	<key>beans</key>
+	<string>beans.glif</string>
+	<key>beans.copy_2</key>
+	<string>beans.copy_2.glif</string>
+	<key>beans.copy_3</key>
+	<string>beans.copy_3.glif</string>
 	<key>beveragehot</key>
 	<string>beveragehot.glif</string>
 	<key>borderdotted</key>
@@ -136,8 +160,6 @@
 	<string>cartwheeler.glif</string>
 	<key>catfacecrying</key>
 	<string>catfacecrying.glif</string>
-	<key>catfacekissingclosedeyes</key>
-	<string>catfacekissingclosedeyes.glif</string>
 	<key>catfacepouting</key>
 	<string>catfacepouting.glif</string>
 	<key>catfacewrysmile</key>
@@ -174,20 +196,42 @@
 	<string>congratulationideocircle.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
+	<key>creditcard</key>
+	<string>creditcard.glif</string>
 	<key>deer</key>
 	<string>deer.glif</string>
 	<key>diamond</key>
 	<string>diamond.glif</string>
 	<key>diamond.copy_1</key>
 	<string>diamond.copy_1.glif</string>
+	<key>dollarheavy</key>
+	<string>dollarheavy.glif</string>
 	<key>drum</key>
 	<string>drum.glif</string>
 	<key>eggs</key>
 	<string>eggs.glif</string>
 	<key>exclamdbl</key>
 	<string>exclamdbl.glif</string>
+	<key>exclamheavy</key>
+	<string>exclamheavy.glif</string>
 	<key>exclamquestion</key>
 	<string>exclamquestion.glif</string>
+	<key>exclamwhite</key>
+	<string>exclamwhite.glif</string>
+	<key>eyesclosed</key>
+	<string>eyesclosed.glif</string>
+	<key>eyesmiling</key>
+	<string>eyesmiling.glif</string>
+	<key>eyesneutral</key>
+	<string>eyesneutral.glif</string>
+	<key>eyessquinting</key>
+	<string>eyessquinting.glif</string>
+	<key>eyestight</key>
+	<string>eyestight.glif</string>
+	<key>eyeswide</key>
+	<string>eyeswide.glif</string>
+	<key>eyeswinking</key>
+	<string>eyeswinking.glif</string>
 	<key>face</key>
 	<string>face.glif</string>
 	<key>faceangry</key>
@@ -206,10 +250,12 @@
 	<string>faceconfused.glif</string>
 	<key>facecrying</key>
 	<string>facecrying.glif</string>
+	<key>facecryingloudly</key>
+	<string>facecryingloudly.glif</string>
 	<key>facedisappointed</key>
 	<string>facedisappointed.glif</string>
-	<key>facedisappointedbutrelieved</key>
-	<string>facedisappointedbutrelieved.glif</string>
+	<key>facedisappointedrelieved</key>
+	<string>facedisappointedrelieved.glif</string>
 	<key>facedizzy</key>
 	<string>facedizzy.glif</string>
 	<key>faceexpressionless</key>
@@ -220,14 +266,16 @@
 	<string>facefearful.glif</string>
 	<key>faceflushed</key>
 	<string>faceflushed.glif</string>
-	<key>facefrowningopenmouth</key>
-	<string>facefrowningopenmouth.glif</string>
+	<key>facefrowningslightly</key>
+	<string>facefrowningslightly.glif</string>
+	<key>facefrowningwhite</key>
+	<string>facefrowningwhite.glif</string>
 	<key>facegrimacing</key>
 	<string>facegrimacing.glif</string>
 	<key>facegrinning</key>
 	<string>facegrinning.glif</string>
-	<key>facegrinningsmilingeyes</key>
-	<string>facegrinningsmilingeyes.glif</string>
+	<key>facegrinningeyessmiling</key>
+	<string>facegrinningeyessmiling.glif</string>
 	<key>facehugging</key>
 	<string>facehugging.glif</string>
 	<key>facehushed</key>
@@ -236,18 +284,28 @@
 	<string>facejoytears.glif</string>
 	<key>facekissing</key>
 	<string>facekissing.glif</string>
-	<key>facekissingclosedeyes</key>
-	<string>facekissingclosedeyes.glif</string>
-	<key>facekissingsmilingeyes</key>
-	<string>facekissingsmilingeyes.glif</string>
-	<key>faceloudlycrying</key>
-	<string>faceloudlycrying.glif</string>
-	<key>facemassage</key>
-	<string>facemassage.glif</string>
+	<key>facekissingeyesclosed</key>
+	<string>facekissingeyesclosed.glif</string>
+	<key>facekissingeyessmiling</key>
+	<string>facekissingeyessmiling.glif</string>
 	<key>facemedicalmask</key>
 	<string>facemedicalmask.glif</string>
 	<key>facemmouthmoney</key>
 	<string>facemmouthmoney.glif</string>
+	<key>facemouthopen</key>
+	<string>facemouthopen.glif</string>
+	<key>facemouthopencoldsweat</key>
+	<string>facemouthopencoldsweat.glif</string>
+	<key>facemouthopenfrowning</key>
+	<string>facemouthopenfrowning.glif</string>
+	<key>facemouthopensmiling</key>
+	<string>facemouthopensmiling.glif</string>
+	<key>facemouthopensmilingcoldsweat</key>
+	<string>facemouthopensmilingcoldsweat.glif</string>
+	<key>facemouthopensmilingeyesclosedtightly</key>
+	<string>facemouthopensmilingeyesclosedtightly.glif</string>
+	<key>facemouthopensmilingeyessmiling</key>
+	<string>facemouthopensmilingeyessmiling.glif</string>
 	<key>facemouthzipper</key>
 	<string>facemouthzipper.glif</string>
 	<key>facenerd</key>
@@ -258,10 +316,6 @@
 	<string>facenogood.glif</string>
 	<key>faceok</key>
 	<string>faceok.glif</string>
-	<key>faceopenmouth</key>
-	<string>faceopenmouth.glif</string>
-	<key>faceopenmouthcoldsweat</key>
-	<string>faceopenmouthcoldsweat.glif</string>
 	<key>facepensive</key>
 	<string>facepensive.glif</string>
 	<key>facepersevering</key>
@@ -272,44 +326,32 @@
 	<string>facerelieved.glif</string>
 	<key>facesavouringdeliciousfood</key>
 	<string>facesavouringdeliciousfood.glif</string>
-	<key>facescreaminginfear</key>
-	<string>facescreaminginfear.glif</string>
+	<key>facescreamingfear</key>
+	<string>facescreamingfear.glif</string>
 	<key>facesleeping</key>
 	<string>facesleeping.glif</string>
 	<key>facesleepy</key>
 	<string>facesleepy.glif</string>
 	<key>facesmile</key>
 	<string>facesmile.glif</string>
+	<key>facesmilingeyesheartshaped</key>
+	<string>facesmilingeyesheartshaped.glif</string>
+	<key>facesmilingeyessmiling</key>
+	<string>facesmilingeyessmiling.glif</string>
 	<key>facesmilinghalo</key>
 	<string>facesmilinghalo.glif</string>
-	<key>facesmilingheartshapedeyes</key>
-	<string>facesmilingheartshapedeyes.glif</string>
 	<key>facesmilinghorns</key>
 	<string>facesmilinghorns.glif</string>
-	<key>facesmilingopenmouth</key>
-	<string>facesmilingopenmouth.glif</string>
-	<key>facesmilingopenmouthcoldsweat</key>
-	<string>facesmilingopenmouthcoldsweat.glif</string>
-	<key>facesmilingopenmouthsmilingeyes</key>
-	<string>facesmilingopenmouthsmilingeyes.glif</string>
-	<key>facesmilingopenmouthtightlyclosedeyes</key>
-	<string>facesmilingopenmouthtightlyclosedeyes.glif</string>
-	<key>facesmilingsmilingeyes</key>
-	<string>facesmilingsmilingeyes.glif</string>
+	<key>facesmilingslightly</key>
+	<string>facesmilingslightly.glif</string>
 	<key>facesmilingsunglasses</key>
 	<string>facesmilingsunglasses.glif</string>
 	<key>facesmirking</key>
 	<string>facesmirking.glif</string>
 	<key>facesneezing</key>
 	<string>facesneezing.glif</string>
-	<key>facesneezing.copy_1</key>
-	<string>facesneezing.copy_1.glif</string>
-	<key>facestuckouttongue</key>
-	<string>facestuckouttongue.glif</string>
-	<key>facestuckouttongueandtightlyclosedeyes</key>
-	<string>facestuckouttongueandtightlyclosedeyes.glif</string>
-	<key>facestuckouttongueandwinkingeye</key>
-	<string>facestuckouttongueandwinkingeye.glif</string>
+	<key>facesneezing.u</key>
+	<string>facesneezing.u.glif</string>
 	<key>facethermometer</key>
 	<string>facethermometer.glif</string>
 	<key>facethinking</key>
@@ -318,6 +360,12 @@
 	<string>facethrowingakiss.glif</string>
 	<key>facetired</key>
 	<string>facetired.glif</string>
+	<key>facetonguestsuckoutandeyewinking</key>
+	<string>facetonguestsuckoutandeyewinking.glif</string>
+	<key>facetonguestsuckoutandtightlyeyesclosed</key>
+	<string>facetonguestsuckoutandtightlyeyesclosed.glif</string>
+	<key>facetonguestuckout</key>
+	<string>facetonguestuckout.glif</string>
 	<key>facetriumphlook</key>
 	<string>facetriumphlook.glif</string>
 	<key>faceunamused</key>
@@ -336,6 +384,16 @@
 	<string>fencer.glif</string>
 	<key>flatbreadstuffed</key>
 	<string>flatbreadstuffed.glif</string>
+	<key>foodpan</key>
+	<string>foodpan.glif</string>
+	<key>foodpan.u</key>
+	<string>foodpan.u.glif</string>
+	<key>frown</key>
+	<string>frown.glif</string>
+	<key>frown2</key>
+	<string>frown2.glif</string>
+	<key>frownopen</key>
+	<string>frownopen.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>glasstumbler</key>
@@ -364,12 +422,46 @@
 	<string>heart.glif</string>
 	<key>heart.copy_1</key>
 	<string>heart.copy_1.glif</string>
+	<key>heartarrow</key>
+	<string>heartarrow.glif</string>
+	<key>heartbeating</key>
+	<string>heartbeating.glif</string>
 	<key>heartblackheavy</key>
 	<string>heartblackheavy.glif</string>
+	<key>heartblue</key>
+	<string>heartblue.glif</string>
+	<key>heartbroken</key>
+	<string>heartbroken.glif</string>
+	<key>heartdecoration</key>
+	<string>heartdecoration.glif</string>
+	<key>heartexclamheavy</key>
+	<string>heartexclamheavy.glif</string>
+	<key>heartgreen</key>
+	<string>heartgreen.glif</string>
+	<key>heartgrowing</key>
+	<string>heartgrowing.glif</string>
+	<key>heartpurple</key>
+	<string>heartpurple.glif</string>
+	<key>heartribbon</key>
+	<string>heartribbon.glif</string>
+	<key>heartsparkling</key>
+	<string>heartsparkling.glif</string>
+	<key>heartsrevolving</key>
+	<string>heartsrevolving.glif</string>
+	<key>heartstwo</key>
+	<string>heartstwo.glif</string>
+	<key>hearttipleft</key>
+	<string>hearttipleft.glif</string>
+	<key>heartyellow</key>
+	<string>heartyellow.glif</string>
+	<key>horns</key>
+	<string>horns.glif</string>
 	<key>informationsource</key>
 	<string>informationsource.glif</string>
 	<key>juggling</key>
 	<string>juggling.glif</string>
+	<key>keyasterisk</key>
+	<string>keyasterisk.glif</string>
 	<key>keyeight</key>
 	<string>keyeight.glif</string>
 	<key>keyfive</key>
@@ -392,6 +484,10 @@
 	<string>keytwo.glif</string>
 	<key>keyzero</key>
 	<string>keyzero.glif</string>
+	<key>kiwifruit</key>
+	<string>kiwifruit.glif</string>
+	<key>kiwifruit.copy_1</key>
+	<string>kiwifruit.copy_1.glif</string>
 	<key>kokokatakanasquare</key>
 	<string>kokokatakanasquare.glif</string>
 	<key>l</key>
@@ -430,14 +526,24 @@
 	<string>moonlastquarter.glif</string>
 	<key>moonnew</key>
 	<string>moonnew.glif</string>
+	<key>mouthhushed</key>
+	<string>mouthhushed.glif</string>
+	<key>mouthkissing</key>
+	<string>mouthkissing.glif</string>
+	<key>mouthneutral</key>
+	<string>mouthneutral.glif</string>
+	<key>mouthopen</key>
+	<string>mouthopen.glif</string>
+	<key>mouthtongue</key>
+	<string>mouthtongue.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
-	<key>panoffoodshallow</key>
-	<string>panoffoodshallow.glif</string>
+	<key>pancake</key>
+	<string>pancake.glif</string>
 	<key>peanut</key>
 	<string>peanut.glif</string>
 	<key>pentathlonmodern</key>
@@ -446,6 +552,10 @@
 	<string>polowater.glif</string>
 	<key>poopile</key>
 	<string>poopile.glif</string>
+	<key>questionblack</key>
+	<string>questionblack.glif</string>
+	<key>questionwhite</key>
+	<string>questionwhite.glif</string>
 	<key>reddragonmahjongtile</key>
 	<string>reddragonmahjongtile.glif</string>
 	<key>registered</key>
@@ -462,14 +572,32 @@
 	<string>saladgreen.glif</string>
 	<key>secretideocircle</key>
 	<string>secretideocircle.glif</string>
+	<key>shrimp</key>
+	<string>shrimp.glif</string>
+	<key>smile</key>
+	<string>smile.glif</string>
+	<key>smile2</key>
+	<string>smile2.glif</string>
+	<key>smile3</key>
+	<string>smile3.glif</string>
+	<key>smileopen</key>
+	<string>smileopen.glif</string>
 	<key>spade</key>
 	<string>spade.glif</string>
 	<key>spade.copy_1</key>
 	<string>spade.copy_1.glif</string>
 	<key>spoon</key>
 	<string>spoon.glif</string>
+	<key>squid</key>
+	<string>squid.glif</string>
+	<key>squid.copy_1</key>
+	<string>squid.copy_1.glif</string>
+	<key>squid.copy_2</key>
+	<string>squid.copy_2.glif</string>
 	<key>sunface</key>
 	<string>sunface.glif</string>
+	<key>teethgritting</key>
+	<string>teethgritting.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
 	<key>trolleyshopping</key>

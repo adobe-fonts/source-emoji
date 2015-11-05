@@ -30,20 +30,68 @@
       <point x="912" y="132" />
       <point x="742" y="-42" />
     </contour>
+    <contour>
+      <point type="curve" x="360" y="402" />
+      <point x="292" y="402" />
+      <point x="253" y="454" />
+      <point type="curve" x="250" y="560" />
+      <point type="line" x="304" y="564" />
+      <point x="307" y="511" />
+      <point x="322" y="490" />
+      <point type="curve" x="360" y="490" />
+      <point x="398" y="490" />
+      <point x="413" y="511" />
+      <point type="curve" x="416" y="564" />
+      <point type="line" x="468" y="560" />
+      <point x="466" y="454" />
+      <point x="427" y="402" />
+    </contour>
+    <contour>
+      <point type="curve" x="640" y="402" />
+      <point x="573" y="402" />
+      <point x="534" y="454" />
+      <point type="curve" x="532" y="560" />
+      <point type="line" x="584" y="564" />
+      <point x="587" y="511" />
+      <point x="602" y="490" />
+      <point type="curve" x="640" y="490" />
+      <point x="678" y="490" />
+      <point x="693" y="511" />
+      <point type="curve" x="696" y="564" />
+      <point type="line" x="750" y="560" />
+      <point x="747" y="454" />
+      <point x="708" y="402" />
+    </contour>
+    <contour>
+      <point type="line" x="670" y="184" />
+      <point x="688" y="184" />
+      <point x="700" y="196" />
+      <point type="curve" x="700" y="214" />
+      <point x="700" y="232" />
+      <point x="688" y="244" />
+      <point type="curve" x="670" y="244" />
+      <point type="line" x="330" y="244" />
+      <point x="312" y="244" />
+      <point x="300" y="232" />
+      <point type="curve" x="300" y="214" />
+      <point x="300" y="196" />
+      <point x="312" y="184" />
+      <point type="curve" x="330" y="184" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.8</real>
         <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.4</real>
         <real>1.0</real>
       </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>0fca9e90c620b3d1d53bc9bb99c3ca91c49ed36a464c8ac2b3ed6ae19747c11e767f7fa7a1d0a1aac60b4df5fe3a7c14f11a81f9be043b87c3b2610d75379c2a</string>
+        <string>4de8951934b82b95e57571a47ca86b1b5022b5cbddcf07bd4992f9daef0f5db87f67472169cac84cbb1bbac7338d1d2460c262d82da27365d74b5732a67b717a</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -52,8 +100,12 @@
             <key>stems</key>
             <array>
               <string>hstem -94 52</string>
+              <string>hstem 184 60</string>
               <string>hstem 802 52</string>
               <string>vstem 28 60</string>
+              <string>vstem 304 112</string>
+              <string>vstem 468 64</string>
+              <string>vstem 584 112</string>
               <string>vstem 912 60</string>
             </array>
           </dict>

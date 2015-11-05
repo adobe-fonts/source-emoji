@@ -30,6 +30,38 @@
       <point x="912" y="132" />
       <point x="742" y="-42" />
     </contour>
+    <contour>
+      <point type="curve" x="360" y="402" />
+      <point x="292" y="402" />
+      <point x="253" y="454" />
+      <point type="curve" x="250" y="560" />
+      <point type="line" x="304" y="564" />
+      <point x="307" y="511" />
+      <point x="322" y="490" />
+      <point type="curve" x="360" y="490" />
+      <point x="398" y="490" />
+      <point x="413" y="511" />
+      <point type="curve" x="416" y="564" />
+      <point type="line" x="468" y="560" />
+      <point x="466" y="454" />
+      <point x="427" y="402" />
+    </contour>
+    <contour>
+      <point type="curve" x="640" y="402" />
+      <point x="573" y="402" />
+      <point x="534" y="454" />
+      <point type="curve" x="532" y="560" />
+      <point type="line" x="584" y="564" />
+      <point x="587" y="511" />
+      <point x="602" y="490" />
+      <point type="curve" x="640" y="490" />
+      <point x="678" y="490" />
+      <point x="693" y="511" />
+      <point type="curve" x="696" y="564" />
+      <point type="line" x="750" y="560" />
+      <point x="747" y="454" />
+      <point x="708" y="402" />
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -43,7 +75,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>0fca9e90c620b3d1d53bc9bb99c3ca91c49ed36a464c8ac2b3ed6ae19747c11e767f7fa7a1d0a1aac60b4df5fe3a7c14f11a81f9be043b87c3b2610d75379c2a</string>
+        <string>55de0fb8f8fc1bf64d0fc24d229bcaef8a0c8e7adb85d1c2cc53749794528e3d20e77a1e9d3d060839a9d0e30ef0d388bf0a231fa103b2d298c2afe22507a4c1</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -54,6 +86,9 @@
               <string>hstem -94 52</string>
               <string>hstem 802 52</string>
               <string>vstem 28 60</string>
+              <string>vstem 304 112</string>
+              <string>vstem 468 64</string>
+              <string>vstem 584 112</string>
               <string>vstem 912 60</string>
             </array>
           </dict>

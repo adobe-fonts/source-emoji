@@ -3,7 +3,39 @@
   <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="500" y="-94" />
+      <point name="hintSet0000" type="line" x="410" y="444" />
+      <point x="428" y="444" />
+      <point x="440" y="456" />
+      <point type="curve" x="440" y="474" />
+      <point x="440" y="492" />
+      <point x="428" y="504" />
+      <point type="curve" x="410" y="504" />
+      <point type="line" x="270" y="504" />
+      <point x="252" y="504" />
+      <point x="240" y="492" />
+      <point type="curve" x="240" y="474" />
+      <point x="240" y="456" />
+      <point x="252" y="444" />
+      <point type="curve" x="270" y="444" />
+    </contour>
+    <contour>
+      <point type="line" x="730" y="444" />
+      <point x="748" y="444" />
+      <point x="760" y="456" />
+      <point type="curve" x="760" y="474" />
+      <point x="760" y="492" />
+      <point x="748" y="504" />
+      <point type="curve" x="730" y="504" />
+      <point type="line" x="590" y="504" />
+      <point x="572" y="504" />
+      <point x="560" y="492" />
+      <point type="curve" x="560" y="474" />
+      <point x="560" y="456" />
+      <point x="572" y="444" />
+      <point type="curve" x="590" y="444" />
+    </contour>
+    <contour>
+      <point type="curve" x="500" y="-94" />
       <point x="774" y="-94" />
       <point x="972" y="106" />
       <point type="curve" x="972" y="380" />
@@ -30,20 +62,36 @@
       <point x="912" y="132" />
       <point x="742" y="-42" />
     </contour>
+    <contour>
+      <point type="line" x="670" y="184" />
+      <point x="688" y="184" />
+      <point x="700" y="196" />
+      <point type="curve" x="700" y="214" />
+      <point x="700" y="232" />
+      <point x="688" y="244" />
+      <point type="curve" x="670" y="244" />
+      <point type="line" x="330" y="244" />
+      <point x="312" y="244" />
+      <point x="300" y="232" />
+      <point type="curve" x="300" y="214" />
+      <point x="300" y="196" />
+      <point x="312" y="184" />
+      <point type="curve" x="330" y="184" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.8</real>
         <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.4</real>
         <real>1.0</real>
       </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>0fca9e90c620b3d1d53bc9bb99c3ca91c49ed36a464c8ac2b3ed6ae19747c11e767f7fa7a1d0a1aac60b4df5fe3a7c14f11a81f9be043b87c3b2610d75379c2a</string>
+        <string>15521ffb0157993a78b4bf62ff94e8e39f02c0e6fa1afa889c60f453ab64a09315d265699c08eace07a223f058a44ef382b2465a148234ea7041e8f01baacf37</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -52,6 +100,8 @@
             <key>stems</key>
             <array>
               <string>hstem -94 52</string>
+              <string>hstem 184 60</string>
+              <string>hstem 444 60</string>
               <string>hstem 802 52</string>
               <string>vstem 28 60</string>
               <string>vstem 912 60</string>

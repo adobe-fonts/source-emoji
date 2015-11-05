@@ -30,20 +30,70 @@
       <point x="912" y="132" />
       <point x="742" y="-42" />
     </contour>
+    <contour>
+      <point type="curve" x="752" y="398" />
+      <point type="line" x="756" y="450" />
+      <point x="658" y="450" />
+      <point x="616" y="456" />
+      <point type="curve" x="616" y="486" />
+      <point x="616" y="513" />
+      <point x="670" y="550" />
+      <point type="curve" x="728" y="580" />
+      <point type="line" x="702" y="630" />
+      <point x="616" y="585" />
+      <point x="542" y="530" />
+      <point type="curve" x="542" y="478" />
+      <point x="542" y="422" />
+      <point x="606" y="398" />
+    </contour>
+    <contour>
+      <point type="line" x="248" y="398" />
+      <point x="394" y="398" />
+      <point x="458" y="422" />
+      <point type="curve" x="458" y="478" />
+      <point x="458" y="530" />
+      <point x="387" y="585" />
+      <point type="curve" x="298" y="630" />
+      <point type="line" x="272" y="580" />
+      <point x="333" y="549" />
+      <point x="384" y="513" />
+      <point type="curve" x="384" y="486" />
+      <point x="384" y="456" />
+      <point x="342" y="450" />
+      <point type="curve" x="244" y="450" />
+    </contour>
+    <contour>
+      <point name="hintSet0023" type="curve" x="500" y="334" />
+      <point x="353" y="334" />
+      <point x="261" y="265" />
+      <point type="curve" x="258" y="122" />
+      <point type="line" x="742" y="122" />
+      <point x="739" y="265" />
+      <point x="647" y="334" />
+    </contour>
+    <contour>
+      <point type="curve" x="500" y="248" />
+      <point x="604" y="248" />
+      <point x="638" y="220" />
+      <point type="curve" x="644" y="170" />
+      <point type="line" x="356" y="170" />
+      <point x="362" y="220" />
+      <point x="396" y="248" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.8</real>
         <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.4</real>
         <real>1.0</real>
       </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>0fca9e90c620b3d1d53bc9bb99c3ca91c49ed36a464c8ac2b3ed6ae19747c11e767f7fa7a1d0a1aac60b4df5fe3a7c14f11a81f9be043b87c3b2610d75379c2a</string>
+        <string>05a67c7d5125bb611a71bc44d3dc5335d2f85792ece765ca4d05a32b8294153016d51d584500f829dd67c6e8f58715ccbeeec8bd2797ba5810e8b969ffdb923e</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -52,9 +102,25 @@
             <key>stems</key>
             <array>
               <string>hstem -94 52</string>
+              <string>hstem 122 48</string>
+              <string>hstem 248 86</string>
+              <string>hstem 398 52</string>
               <string>hstem 802 52</string>
               <string>vstem 28 60</string>
+              <string>vstem 384 74</string>
+              <string>vstem 542 74</string>
               <string>vstem 912 60</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0023</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 122 48</string>
+              <string>hstem 248 86</string>
+              <string>vstem 258 98</string>
+              <string>vstem 644 98</string>
             </array>
           </dict>
         </array>

@@ -107,6 +107,7 @@
 				<key>ascending</key>
 				<array>
 					<string>keynumbersign</string>
+					<string>keyasterisk</string>
 					<string>keyzero</string>
 					<string>keyone</string>
 					<string>keytwo</string>
@@ -172,7 +173,6 @@
 					<string>umbrellaraindrops</string>
 					<string>beveragehot</string>
 					<string>shamrock</string>
-					<string>indexupwhite</string>
 					<string>skullcrossbones</string>
 					<string>radioactive</string>
 					<string>biohazard</string>
@@ -181,7 +181,6 @@
 					<string>peace</string>
 					<string>yinyang</string>
 					<string>dharmawheel</string>
-					<string>facesmile</string>
 					<string>Aries</string>
 					<string>Taurus</string>
 					<string>Gemini</string>
@@ -731,7 +730,7 @@
 					<string>dancer</string>
 					<string>lipstick</string>
 					<string>nailpolish</string>
-					<string>facemassage</string>
+					<string>massageface</string>
 					<string>haircut</string>
 					<string>barberpole</string>
 					<string>syringe</string>
@@ -997,6 +996,7 @@
 					<string>victoryhandreversed</string>
 					<string>handmiddlefingerextendedreversed</string>
 					<string>handpartbetweenmiddleandringfingers</string>
+					<string>indexupwhite</string>
 					<string>indexleftdownwhite</string>
 					<string>indexsideleftwhite</string>
 					<string>indexsiderightwhite</string>
@@ -1101,77 +1101,15 @@
 					<string>statueofliberty</string>
 					<string>japansilhouette</string>
 					<string>moyai</string>
-					<string>facegrinning</string>
-					<string>facegrinningsmilingeyes</string>
-					<string>facejoytears</string>
-					<string>facesmilingopenmouth</string>
-					<string>facesmilingopenmouthsmilingeyes</string>
-					<string>facesmilingopenmouthcoldsweat</string>
-					<string>facesmilingopenmouthtightlyclosedeyes</string>
-					<string>facesmilinghalo</string>
-					<string>facesmilinghorns</string>
-					<string>facewinking</string>
-					<string>facesmilingsmilingeyes</string>
-					<string>facesavouringdeliciousfood</string>
-					<string>facerelieved</string>
-					<string>facesmilingheartshapedeyes</string>
-					<string>facesmilingsunglasses</string>
-					<string>facesmirking</string>
-					<string>faceneutral</string>
-					<string>faceexpressionless</string>
-					<string>faceunamused</string>
-					<string>facecoldsweat</string>
-					<string>facepensive</string>
-					<string>faceconfused</string>
-					<string>faceconfounded</string>
-					<string>facekissing</string>
-					<string>facethrowingakiss</string>
-					<string>facekissingsmilingeyes</string>
-					<string>facekissingclosedeyes</string>
-					<string>facestuckouttongue</string>
-					<string>facestuckouttongueandwinkingeye</string>
-					<string>facestuckouttongueandtightlyclosedeyes</string>
-					<string>facedisappointed</string>
-					<string>faceworried</string>
-					<string>faceangry</string>
-					<string>facepouting</string>
-					<string>facecrying</string>
-					<string>facepersevering</string>
-					<string>facetriumphlook</string>
-					<string>facedisappointedbutrelieved</string>
-					<string>facefrowningopenmouth</string>
-					<string>faceanguished</string>
-					<string>facefearful</string>
-					<string>faceweary</string>
-					<string>facesleepy</string>
-					<string>facetired</string>
-					<string>facegrimacing</string>
-					<string>faceloudlycrying</string>
-					<string>faceopenmouth</string>
-					<string>facehushed</string>
-					<string>faceopenmouthcoldsweat</string>
-					<string>facescreaminginfear</string>
-					<string>faceastonished</string>
-					<string>faceflushed</string>
-					<string>facesleeping</string>
-					<string>facedizzy</string>
-					<string>facewithoutmouth</string>
-					<string>facemedicalmask</string>
-					<string>catfacegrinningsmilingeyes</string>
+					<string>catfacegrinningeyessmiling</string>
 					<string>catfacejoytears</string>
-					<string>catfacesmilingopenmouth</string>
+					<string>catfacemouthopensmiling</string>
 					<string>catfaceheartsmilingshapedeyes</string>
 					<string>catfacewrysmile</string>
-					<string>catfacekissingclosedeyes</string>
+					<string>catfacekissingeyesclosed</string>
 					<string>catfacepouting</string>
 					<string>catfacecrying</string>
 					<string>catfaceweary</string>
-					<string>faceslightlyfrowning</string>
-					<string>faceslightlysmiling</string>
-					<string>faceupsidedown</string>
-					<string>faceeyesrolling</string>
-					<string>facenogood</string>
-					<string>faceok</string>
 					<string>personbowingdeeply</string>
 					<string>monkeynosee</string>
 					<string>monkeynohear</string>
@@ -1329,16 +1267,8 @@
 					<string>locomotivediesel</string>
 					<string>shippassenger</string>
 					<string>canoe</string>
-					<string>facemouthzipper</string>
-					<string>facemmouthmoney</string>
-					<string>facethermometer</string>
-					<string>facenerd</string>
-					<string>facethinking</string>
-					<string>facebandage</string>
 					<string>robotface</string>
-					<string>facehugging</string>
 					<string>thehorns</string>
-					<string>facesneezing</string>
 					<string>womanpregnant</string>
 					<string>selfie</string>
 					<string>prince</string>
@@ -1366,7 +1296,7 @@
 					<string>uniformmartialarts</string>
 					<string>baguette</string>
 					<string>saladgreen</string>
-					<string>panoffoodshallow</string>
+					<string>foodpan.u</string>
 					<string>flatbreadstuffed</string>
 					<string>eggs</string>
 					<string>milkglass</string>
@@ -1636,22 +1566,112 @@
 					<string>ZAflag</string>
 					<string>ZMflag</string>
 					<string>ZWflag</string>
-					<string>l</string>
-					<string>facesneezing.copy_1</string>
-					<string>n</string>
-					<string>o</string>
-					<string>heart.copy_1</string>
-					<string>p</string>
+					<string>facesmile</string>
+					<string>facegrinning</string>
+					<string>facegrinningeyessmiling</string>
+					<string>facejoytears</string>
+					<string>facemouthopensmiling</string>
+					<string>facemouthopensmilingeyessmiling</string>
+					<string>facemouthopensmilingcoldsweat</string>
+					<string>facemouthopensmilingeyesclosedtightly</string>
+					<string>facesmilinghalo</string>
+					<string>facesmilinghorns</string>
+					<string>facewinking</string>
+					<string>facesmilingeyessmiling</string>
+					<string>facesavouringdeliciousfood</string>
+					<string>facerelieved</string>
+					<string>facesmilingeyesheartshaped</string>
+					<string>facesmilingsunglasses</string>
+					<string>facesmirking</string>
+					<string>faceneutral</string>
+					<string>faceexpressionless</string>
+					<string>faceunamused</string>
+					<string>facecoldsweat</string>
+					<string>facepensive</string>
+					<string>faceconfused</string>
+					<string>faceconfounded</string>
+					<string>facekissing</string>
+					<string>facethrowingakiss</string>
+					<string>facekissingeyessmiling</string>
+					<string>facekissingeyesclosed</string>
+					<string>facetonguestuckout</string>
+					<string>facetonguestsuckoutandeyewinking</string>
+					<string>facetonguestsuckoutandtightlyeyesclosed</string>
+					<string>facedisappointed</string>
+					<string>faceworried</string>
+					<string>faceangry</string>
+					<string>facepouting</string>
+					<string>facecrying</string>
+					<string>facepersevering</string>
+					<string>facetriumphlook</string>
+					<string>facedisappointedrelieved</string>
+					<string>facemouthopenfrowning</string>
+					<string>faceanguished</string>
+					<string>facefearful</string>
+					<string>faceweary</string>
+					<string>facesleepy</string>
+					<string>facetired</string>
+					<string>facegrimacing</string>
+					<string>facecryingloudly</string>
+					<string>facemouthopen</string>
+					<string>facehushed</string>
+					<string>facemouthopencoldsweat</string>
+					<string>facescreamingfear</string>
+					<string>faceastonished</string>
+					<string>faceflushed</string>
+					<string>facesleeping</string>
+					<string>facedizzy</string>
+					<string>facewithoutmouth</string>
+					<string>facemedicalmask</string>
+					<string>facefrowningslightly</string>
+					<string>facesmilingslightly</string>
+					<string>faceupsidedown</string>
+					<string>faceeyesrolling</string>
+					<string>facenogood</string>
+					<string>faceok</string>
+					<string>facemouthzipper</string>
+					<string>facemmouthmoney</string>
+					<string>facethermometer</string>
+					<string>facenerd</string>
+					<string>facethinking</string>
+					<string>facebandage</string>
+					<string>facehugging</string>
+					<string>facesneezing.u</string>
+					<string>facefrowningwhite</string>
+					<string>coffin</string>
+					<string>urnfuneral</string>
+					<string>H</string>
+					<string>a</string>
+					<string>beans.copy_2</string>
+					<string>beans.copy_3</string>
 					<string>borderdotted</string>
 					<string>club.copy_1</string>
-					<string>H</string>
-					<string>spade.copy_1</string>
-					<string>grin</string>
-					<string>a</string>
 					<string>diamond.copy_1</string>
-					<string>g</string>
+					<string>eyeneutral</string>
+					<string>eyesmiling</string>
+					<string>eyestight</string>
 					<string>face</string>
+					<string>facesneezing</string>
+					<string>foodpan</string>
+					<string>frown</string>
+					<string>frownopen</string>
+					<string>g</string>
+					<string>grin</string>
 					<string>h</string>
+					<string>heart.copy_1</string>
+					<string>horns</string>
+					<string>kiwifruit.copy_1</string>
+					<string>l</string>
+					<string>n</string>
+					<string>o</string>
+					<string>p</string>
+					<string>smile</string>
+					<string>smile2</string>
+					<string>smile3</string>
+					<string>smileopen</string>
+					<string>spade.copy_1</string>
+					<string>squid.copy_1</string>
+					<string>squid.copy_2</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -1730,6 +1750,7 @@
 1446099872.0 glyphs/banknoteyen.glif
 1446425982.0 glyphs/beans.copy_1.glif
 1446425982.0 glyphs/beans.copy_2.glif
+1446506556.0 glyphs/beans.copy_3.glif
 1446425982.0 glyphs/beans.glif
 1443735073.0 glyphs/beveragehot.glif
 1443733919.0 glyphs/borderdotted.glif
@@ -1773,6 +1794,13 @@
 1446425982.0 glyphs/exclamheavy.glif
 1446013364.0 glyphs/exclamquestion.glif
 1446425982.0 glyphs/exclamwhite.glif
+1446707333.0 glyphs/eyesclosed.glif
+1446707333.0 glyphs/eyesmiling.glif
+1446707333.0 glyphs/eyesneutral.glif
+1446707333.0 glyphs/eyessquinting.glif
+1446707333.0 glyphs/eyestight.glif
+1446707333.0 glyphs/eyeswide.glif
+1446707333.0 glyphs/eyeswinking.glif
 1443735073.0 glyphs/face.glif
 1443733919.0 glyphs/faceangry.glif
 1443733919.0 glyphs/faceanguished.glif
@@ -1782,27 +1810,41 @@
 1443733919.0 glyphs/faceconfounded.glif
 1443733919.0 glyphs/faceconfused.glif
 1443733919.0 glyphs/facecrying.glif
+1446707333.0 glyphs/facecryingloudly.glif
 1443733919.0 glyphs/facedisappointed.glif
 1443733919.0 glyphs/facedisappointedbutrelieved.glif
+1446707333.0 glyphs/facedisappointedrelieved.glif
 1443733919.0 glyphs/facedizzy.glif
 1443733919.0 glyphs/faceexpressionless.glif
 1443733919.0 glyphs/faceeyesrolling.glif
 1443733919.0 glyphs/facefearful.glif
 1443733919.0 glyphs/faceflushed.glif
 1443733919.0 glyphs/facefrowningopenmouth.glif
+1446707333.0 glyphs/facefrowningslightly.glif
+1446707333.0 glyphs/facefrowningwhite.glif
 1443733919.0 glyphs/facegrimacing.glif
 1443735074.0 glyphs/facegrinning.glif
+1446707333.0 glyphs/facegrinningeyessmiling.glif
 1443735074.0 glyphs/facegrinningsmilingeyes.glif
 1443733919.0 glyphs/facehugging.glif
 1443733919.0 glyphs/facehushed.glif
 1443735074.0 glyphs/facejoytears.glif
 1443733919.0 glyphs/facekissing.glif
 1443733919.0 glyphs/facekissingclosedeyes.glif
+1446707333.0 glyphs/facekissingeyesclosed.glif
+1446707333.0 glyphs/facekissingeyessmiling.glif
 1443733919.0 glyphs/facekissingsmilingeyes.glif
 1443733919.0 glyphs/faceloudlycrying.glif
 1443733919.0 glyphs/facemassage.glif
 1443733919.0 glyphs/facemedicalmask.glif
 1443733919.0 glyphs/facemmouthmoney.glif
+1446707333.0 glyphs/facemouthopen.glif
+1446707333.0 glyphs/facemouthopencoldsweat.glif
+1446707333.0 glyphs/facemouthopenfrowning.glif
+1446707333.0 glyphs/facemouthopensmiling.glif
+1446707333.0 glyphs/facemouthopensmilingcoldsweat.glif
+1446707333.0 glyphs/facemouthopensmilingeyesclosedtightly.glif
+1446707333.0 glyphs/facemouthopensmilingeyessmiling.glif
 1443733919.0 glyphs/facemouthzipper.glif
 1443733919.0 glyphs/facenerd.glif
 1443733919.0 glyphs/faceneutral.glif
@@ -1815,10 +1857,13 @@
 1443733919.0 glyphs/facepouting.glif
 1443733919.0 glyphs/facerelieved.glif
 1443733919.0 glyphs/facesavouringdeliciousfood.glif
+1446707333.0 glyphs/facescreamingfear.glif
 1443733919.0 glyphs/facescreaminginfear.glif
 1443733919.0 glyphs/facesleeping.glif
 1443733919.0 glyphs/facesleepy.glif
 1443735074.0 glyphs/facesmile.glif
+1446707333.0 glyphs/facesmilingeyesheartshaped.glif
+1446707333.0 glyphs/facesmilingeyessmiling.glif
 1443733919.0 glyphs/facesmilinghalo.glif
 1443733919.0 glyphs/facesmilingheartshapedeyes.glif
 1443733919.0 glyphs/facesmilinghorns.glif
@@ -1826,11 +1871,13 @@
 1443733919.0 glyphs/facesmilingopenmouthcoldsweat.glif
 1443733919.0 glyphs/facesmilingopenmouthsmilingeyes.glif
 1443733919.0 glyphs/facesmilingopenmouthtightlyclosedeyes.glif
+1446707333.0 glyphs/facesmilingslightly.glif
 1443733919.0 glyphs/facesmilingsmilingeyes.glif
 1443733919.0 glyphs/facesmilingsunglasses.glif
 1443733919.0 glyphs/facesmirking.glif
 1443733919.0 glyphs/facesneezing.copy_1.glif
 1443733919.0 glyphs/facesneezing.glif
+1446707333.0 glyphs/facesneezing.u.glif
 1443733919.0 glyphs/facestuckouttongue.glif
 1443733919.0 glyphs/facestuckouttongueandtightlyclosedeyes.glif
 1443733919.0 glyphs/facestuckouttongueandwinkingeye.glif
@@ -1838,6 +1885,9 @@
 1443733919.0 glyphs/facethinking.glif
 1443733919.0 glyphs/facethrowingakiss.glif
 1443733919.0 glyphs/facetired.glif
+1446707333.0 glyphs/facetonguestsuckoutandeyewinking.glif
+1446707333.0 glyphs/facetonguestsuckoutandtightlyeyesclosed.glif
+1446707333.0 glyphs/facetonguestuckout.glif
 1443733919.0 glyphs/facetriumphlook.glif
 1443733919.0 glyphs/faceunamused.glif
 1443733919.0 glyphs/faceupsidedown.glif
@@ -1847,6 +1897,11 @@
 1443733919.0 glyphs/faceworried.glif
 1443733920.0 glyphs/fencer.glif
 1443733920.0 glyphs/flatbreadstuffed.glif
+1446707333.0 glyphs/foodpan.glif
+1446707333.0 glyphs/foodpan.u.glif
+1446707333.0 glyphs/frown.glif
+1446707333.0 glyphs/frown2.glif
+1446707333.0 glyphs/frownopen.glif
 1443733920.0 glyphs/g.glif
 1443733920.0 glyphs/glasstumbler.glif
 1446013364.0 glyphs/globeamericas.glif
@@ -1880,8 +1935,10 @@
 1446099873.0 glyphs/heartstwo.glif
 1446099873.0 glyphs/hearttipleft.glif
 1446099873.0 glyphs/heartyellow.glif
+1446707333.0 glyphs/horns.glif
 1446094247.0 glyphs/informationsource.glif
 1443733920.0 glyphs/juggling.glif
+1446707333.0 glyphs/keyasterisk.glif
 1443733920.0 glyphs/keyeight.glif
 1443733920.0 glyphs/keyfive.glif
 1443733920.0 glyphs/keyfour.glif
@@ -1914,6 +1971,11 @@
 1443735074.0 glyphs/moongibbouswaxing.glif
 1443733920.0 glyphs/moonlastquarter.glif
 1443733920.0 glyphs/moonnew.glif
+1446707333.0 glyphs/mouthhushed.glif
+1446707333.0 glyphs/mouthkissing.glif
+1446707333.0 glyphs/mouthneutral.glif
+1446707333.0 glyphs/mouthopen.glif
+1446707333.0 glyphs/mouthtongue.glif
 1443733920.0 glyphs/n.glif
 1443733920.0 glyphs/o.glif
 1443733920.0 glyphs/p.glif
@@ -1936,6 +1998,10 @@
 1443733920.0 glyphs/saladgreen.glif
 1446094247.0 glyphs/secretideocircle.glif
 1446425982.0 glyphs/shrimp.glif
+1446707333.0 glyphs/smile.glif
+1446707333.0 glyphs/smile2.glif
+1446707333.0 glyphs/smile3.glif
+1446707333.0 glyphs/smileopen.glif
 1443733920.0 glyphs/spade.copy_1.glif
 1443733920.0 glyphs/spade.glif
 1443733920.0 glyphs/spoon.glif
@@ -1943,6 +2009,7 @@
 1446448216.0 glyphs/squid.copy_2.glif
 1446425982.0 glyphs/squid.glif
 1443733920.0 glyphs/sunface.glif
+1446707333.0 glyphs/teethgritting.glif
 1446094247.0 glyphs/trademark.glif
 1443735074.0 glyphs/trolleyshopping.glif
 1443733920.0 glyphs/uniformmartialarts.glif
@@ -1952,6 +2019,7 @@
 		<key>public.glyphOrder</key>
 		<array>
 			<string>keynumbersign</string>
+			<string>keyasterisk</string>
 			<string>keyzero</string>
 			<string>keyone</string>
 			<string>keytwo</string>
@@ -2017,7 +2085,6 @@
 			<string>umbrellaraindrops</string>
 			<string>beveragehot</string>
 			<string>shamrock</string>
-			<string>indexupwhite</string>
 			<string>skullcrossbones</string>
 			<string>radioactive</string>
 			<string>biohazard</string>
@@ -2026,7 +2093,6 @@
 			<string>peace</string>
 			<string>yinyang</string>
 			<string>dharmawheel</string>
-			<string>facesmile</string>
 			<string>Aries</string>
 			<string>Taurus</string>
 			<string>Gemini</string>
@@ -2576,7 +2642,7 @@
 			<string>dancer</string>
 			<string>lipstick</string>
 			<string>nailpolish</string>
-			<string>facemassage</string>
+			<string>massageface</string>
 			<string>haircut</string>
 			<string>barberpole</string>
 			<string>syringe</string>
@@ -2842,6 +2908,7 @@
 			<string>victoryhandreversed</string>
 			<string>handmiddlefingerextendedreversed</string>
 			<string>handpartbetweenmiddleandringfingers</string>
+			<string>indexupwhite</string>
 			<string>indexleftdownwhite</string>
 			<string>indexsideleftwhite</string>
 			<string>indexsiderightwhite</string>
@@ -2946,77 +3013,15 @@
 			<string>statueofliberty</string>
 			<string>japansilhouette</string>
 			<string>moyai</string>
-			<string>facegrinning</string>
-			<string>facegrinningsmilingeyes</string>
-			<string>facejoytears</string>
-			<string>facesmilingopenmouth</string>
-			<string>facesmilingopenmouthsmilingeyes</string>
-			<string>facesmilingopenmouthcoldsweat</string>
-			<string>facesmilingopenmouthtightlyclosedeyes</string>
-			<string>facesmilinghalo</string>
-			<string>facesmilinghorns</string>
-			<string>facewinking</string>
-			<string>facesmilingsmilingeyes</string>
-			<string>facesavouringdeliciousfood</string>
-			<string>facerelieved</string>
-			<string>facesmilingheartshapedeyes</string>
-			<string>facesmilingsunglasses</string>
-			<string>facesmirking</string>
-			<string>faceneutral</string>
-			<string>faceexpressionless</string>
-			<string>faceunamused</string>
-			<string>facecoldsweat</string>
-			<string>facepensive</string>
-			<string>faceconfused</string>
-			<string>faceconfounded</string>
-			<string>facekissing</string>
-			<string>facethrowingakiss</string>
-			<string>facekissingsmilingeyes</string>
-			<string>facekissingclosedeyes</string>
-			<string>facestuckouttongue</string>
-			<string>facestuckouttongueandwinkingeye</string>
-			<string>facestuckouttongueandtightlyclosedeyes</string>
-			<string>facedisappointed</string>
-			<string>faceworried</string>
-			<string>faceangry</string>
-			<string>facepouting</string>
-			<string>facecrying</string>
-			<string>facepersevering</string>
-			<string>facetriumphlook</string>
-			<string>facedisappointedbutrelieved</string>
-			<string>facefrowningopenmouth</string>
-			<string>faceanguished</string>
-			<string>facefearful</string>
-			<string>faceweary</string>
-			<string>facesleepy</string>
-			<string>facetired</string>
-			<string>facegrimacing</string>
-			<string>faceloudlycrying</string>
-			<string>faceopenmouth</string>
-			<string>facehushed</string>
-			<string>faceopenmouthcoldsweat</string>
-			<string>facescreaminginfear</string>
-			<string>faceastonished</string>
-			<string>faceflushed</string>
-			<string>facesleeping</string>
-			<string>facedizzy</string>
-			<string>facewithoutmouth</string>
-			<string>facemedicalmask</string>
-			<string>catfacegrinningsmilingeyes</string>
+			<string>catfacegrinningeyessmiling</string>
 			<string>catfacejoytears</string>
-			<string>catfacesmilingopenmouth</string>
+			<string>catfacemouthopensmiling</string>
 			<string>catfaceheartsmilingshapedeyes</string>
 			<string>catfacewrysmile</string>
-			<string>catfacekissingclosedeyes</string>
+			<string>catfacekissingeyesclosed</string>
 			<string>catfacepouting</string>
 			<string>catfacecrying</string>
 			<string>catfaceweary</string>
-			<string>faceslightlyfrowning</string>
-			<string>faceslightlysmiling</string>
-			<string>faceupsidedown</string>
-			<string>faceeyesrolling</string>
-			<string>facenogood</string>
-			<string>faceok</string>
 			<string>personbowingdeeply</string>
 			<string>monkeynosee</string>
 			<string>monkeynohear</string>
@@ -3174,16 +3179,8 @@
 			<string>locomotivediesel</string>
 			<string>shippassenger</string>
 			<string>canoe</string>
-			<string>facemouthzipper</string>
-			<string>facemmouthmoney</string>
-			<string>facethermometer</string>
-			<string>facenerd</string>
-			<string>facethinking</string>
-			<string>facebandage</string>
 			<string>robotface</string>
-			<string>facehugging</string>
 			<string>thehorns</string>
-			<string>facesneezing</string>
 			<string>womanpregnant</string>
 			<string>selfie</string>
 			<string>prince</string>
@@ -3211,7 +3208,7 @@
 			<string>uniformmartialarts</string>
 			<string>baguette</string>
 			<string>saladgreen</string>
-			<string>panoffoodshallow</string>
+			<string>foodpan.u</string>
 			<string>flatbreadstuffed</string>
 			<string>eggs</string>
 			<string>milkglass</string>
@@ -3481,25 +3478,80 @@
 			<string>ZAflag</string>
 			<string>ZMflag</string>
 			<string>ZWflag</string>
-			<string>l</string>
-			<string>facesneezing.copy_1</string>
-			<string>n</string>
-			<string>o</string>
-			<string>heart.copy_1</string>
-			<string>p</string>
-			<string>borderdotted</string>
-			<string>club.copy_1</string>
-			<string>H</string>
-			<string>spade.copy_1</string>
-			<string>grin</string>
-			<string>a</string>
-			<string>diamond.copy_1</string>
-			<string>g</string>
-			<string>face</string>
-			<string>h</string>
-			<string>beans.copy_2</string>
-			<string>beans.copy_1</string>
-			<string>kiwifruit.copy_1</string>
+			<string>facesmile</string>
+			<string>facegrinning</string>
+			<string>facegrinningeyessmiling</string>
+			<string>facejoytears</string>
+			<string>facemouthopensmiling</string>
+			<string>facemouthopensmilingeyessmiling</string>
+			<string>facemouthopensmilingcoldsweat</string>
+			<string>facemouthopensmilingeyesclosedtightly</string>
+			<string>facesmilinghalo</string>
+			<string>facesmilinghorns</string>
+			<string>facewinking</string>
+			<string>facesmilingeyessmiling</string>
+			<string>facesavouringdeliciousfood</string>
+			<string>facerelieved</string>
+			<string>facesmilingeyesheartshaped</string>
+			<string>facesmilingsunglasses</string>
+			<string>facesmirking</string>
+			<string>faceneutral</string>
+			<string>faceexpressionless</string>
+			<string>faceunamused</string>
+			<string>facecoldsweat</string>
+			<string>facepensive</string>
+			<string>faceconfused</string>
+			<string>faceconfounded</string>
+			<string>facekissing</string>
+			<string>facethrowingakiss</string>
+			<string>facekissingeyessmiling</string>
+			<string>facekissingeyesclosed</string>
+			<string>facetonguestuckout</string>
+			<string>facetonguestsuckoutandeyewinking</string>
+			<string>facetonguestsuckoutandtightlyeyesclosed</string>
+			<string>facedisappointed</string>
+			<string>faceworried</string>
+			<string>faceangry</string>
+			<string>facepouting</string>
+			<string>facecrying</string>
+			<string>facepersevering</string>
+			<string>facetriumphlook</string>
+			<string>facedisappointedrelieved</string>
+			<string>facemouthopenfrowning</string>
+			<string>faceanguished</string>
+			<string>facefearful</string>
+			<string>faceweary</string>
+			<string>facesleepy</string>
+			<string>facetired</string>
+			<string>facegrimacing</string>
+			<string>facecryingloudly</string>
+			<string>facemouthopen</string>
+			<string>facehushed</string>
+			<string>facemouthopencoldsweat</string>
+			<string>facescreamingfear</string>
+			<string>faceastonished</string>
+			<string>faceflushed</string>
+			<string>facesleeping</string>
+			<string>facedizzy</string>
+			<string>facewithoutmouth</string>
+			<string>facemedicalmask</string>
+			<string>facefrowningslightly</string>
+			<string>facesmilingslightly</string>
+			<string>faceupsidedown</string>
+			<string>faceeyesrolling</string>
+			<string>facenogood</string>
+			<string>faceok</string>
+			<string>facemouthzipper</string>
+			<string>facemmouthmoney</string>
+			<string>facethermometer</string>
+			<string>facenerd</string>
+			<string>facethinking</string>
+			<string>facebandage</string>
+			<string>facehugging</string>
+			<string>facesneezing.u</string>
+			<string>facefrowningwhite</string>
+			<string>coffin</string>
+			<string>urnfuneral</string>
 		</array>
 	</dict>
 </plist>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="smile2" format="1">
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="500" y="178" type="curve" smooth="yes"/>
+			<point x="344" y="178"/>
+			<point x="294" y="210"/>
+			<point x="286" y="286" type="curve"/>
+			<point x="714" y="286" type="line"/>
+			<point x="706" y="210"/>
+			<point x="656" y="178"/>
+		</contour>
+		<contour>
+			<point x="500" y="62" type="curve" smooth="yes"/>
+			<point x="668" y="62"/>
+			<point x="772" y="150"/>
+			<point x="776" y="334" type="curve"/>
+			<point x="224" y="334" type="line"/>
+			<point x="228" y="150"/>
+			<point x="332" y="62"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.guides</key>
+			<array>
+				<dict>
+					<key>angle</key>
+					<integer>0</integer>
+					<key>isGlobal</key>
+					<false/>
+					<key>magnetic</key>
+					<integer>5</integer>
+					<key>x</key>
+					<integer>367</integer>
+					<key>y</key>
+					<integer>330</integer>
+				</dict>
+			</array>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.4</real>
+				<real>0.8</real>
+				<real>1</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
+</glyph>

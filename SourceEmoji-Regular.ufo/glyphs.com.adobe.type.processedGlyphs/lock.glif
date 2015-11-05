@@ -9,13 +9,13 @@
       <point type="line" x="908" y="488" />
       <point name="hintSet0004" type="line" x="840" y="554" />
       <point type="line" x="764" y="554" />
-      <point type="line" x="764" y="618" />
-      <point x="764" y="780" />
+      <point type="line" x="764" y="614" />
+      <point x="764" y="776" />
       <point x="668" y="872" />
       <point type="curve" x="500" y="872" />
       <point x="332" y="872" />
-      <point x="236" y="780" />
-      <point type="curve" x="236" y="618" />
+      <point x="236" y="776" />
+      <point type="curve" x="236" y="614" />
       <point type="line" x="236" y="554" />
       <point name="hintSet0010" type="line" x="160" y="554" />
       <point type="line" x="92" y="488" />
@@ -42,22 +42,29 @@
     </contour>
     <contour>
       <point name="hintSet0022" type="line" x="348" y="554" />
-      <point type="line" x="348" y="614" />
-      <point x="348" y="714" />
+      <point type="line" x="348" y="610" />
+      <point x="348" y="710" />
       <point x="400" y="772" />
       <point type="curve" x="500" y="772" />
       <point x="600" y="772" />
-      <point x="652" y="714" />
-      <point type="curve" x="652" y="614" />
+      <point x="652" y="710" />
+      <point type="curve" x="652" y="610" />
       <point type="line" x="652" y="554" />
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>21e5b5a0f5b27ae571674cb25feadc1ba5439efee9e967e0f08f9e8338fb6ccd943961af63268b6a3eeefe6261a1e2f26fad29d9ff5293557de1c4c4169b112b</string>
+        <string>8663ccb7c55f167d8089a4afc66f2a3bde9d161189a8e60c7ccbf533190111afa5419445c276f00a5aaa3e984135a12917dd0c030ec765c99ece2a8804de320d</string>
         <key>hintSetList</key>
         <array>
           <dict>
