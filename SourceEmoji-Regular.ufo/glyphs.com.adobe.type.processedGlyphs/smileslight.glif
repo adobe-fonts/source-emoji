@@ -1,93 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="facesmilingslightly">
+<glyph format="1" name="smileslight">
   <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="500" y="-94" />
-      <point x="774" y="-94" />
-      <point x="972" y="106" />
-      <point type="curve" x="972" y="380" />
-      <point x="972" y="654" />
-      <point x="774" y="854" />
-      <point type="curve" x="500" y="854" />
-      <point x="226" y="854" />
-      <point x="28" y="654" />
-      <point type="curve" x="28" y="380" />
-      <point x="28" y="106" />
-      <point x="226" y="-94" />
-    </contour>
-    <contour>
-      <point type="curve" x="500" y="-42" />
-      <point x="258" y="-42" />
-      <point x="88" y="132" />
-      <point type="curve" x="88" y="380" />
-      <point x="88" y="628" />
-      <point x="258" y="802" />
-      <point type="curve" x="500" y="802" />
-      <point x="742" y="802" />
-      <point x="912" y="628" />
-      <point type="curve" x="912" y="380" />
-      <point x="912" y="132" />
-      <point x="742" y="-42" />
-    </contour>
-    <contour>
-      <point type="curve" x="370" y="402" />
-      <point x="417" y="402" />
-      <point x="445" y="445" />
-      <point type="curve" x="445" y="503" />
-      <point x="445" y="562" />
-      <point x="417" y="605" />
-      <point type="curve" x="370" y="605" />
-      <point x="322" y="605" />
-      <point x="295" y="562" />
-      <point type="curve" x="295" y="503" />
-      <point x="295" y="445" />
-      <point x="322" y="402" />
-    </contour>
-    <contour>
-      <point type="curve" x="630" y="402" />
-      <point x="678" y="402" />
-      <point x="705" y="445" />
-      <point type="curve" x="705" y="503" />
-      <point x="705" y="562" />
-      <point x="678" y="605" />
-      <point type="curve" x="630" y="605" />
-      <point x="583" y="605" />
-      <point x="555" y="562" />
-      <point type="curve" x="555" y="503" />
-      <point x="555" y="445" />
-      <point x="583" y="402" />
-    </contour>
-    <contour>
-      <point type="curve" x="393" y="493" />
-      <point x="380" y="493" />
-      <point x="373" y="503" />
-      <point type="curve" x="373" y="517" />
-      <point x="373" y="530" />
-      <point x="380" y="540" />
-      <point type="curve" x="393" y="540" />
-      <point x="407" y="540" />
-      <point x="413" y="530" />
-      <point type="curve" x="413" y="517" />
-      <point x="413" y="503" />
-      <point x="407" y="493" />
-    </contour>
-    <contour>
-      <point type="curve" x="653" y="493" />
-      <point x="640" y="493" />
-      <point x="633" y="503" />
-      <point type="curve" x="633" y="517" />
-      <point x="633" y="530" />
-      <point x="640" y="540" />
-      <point type="curve" x="653" y="540" />
-      <point x="667" y="540" />
-      <point x="675" y="530" />
-      <point type="curve" x="675" y="517" />
-      <point x="675" y="503" />
-      <point x="667" y="493" />
-    </contour>
-    <contour>
-      <point type="curve" x="500" y="82" />
+      <point name="hintSet0000" type="curve" x="500" y="82" />
       <point x="638" y="82" />
       <point x="716" y="148" />
       <point type="curve" x="740" y="266" />
@@ -266,7 +182,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>facesmilingslightly</string>
+          <string>smileslight</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -276,15 +192,15 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.4</real>
         <real>0.8</real>
         <real>1.0</real>
-        <real>0.4</real>
         <real>1.0</real>
       </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>4015f1f9f594d4d7fde214fc3e85d139525232606815544ff555b1a5c64e2427f233ba1b2dadda3f4db7b2334adbaf2569ade60ad87891201ddb1acd0ed0fe03</string>
+        <string>w1000c5008263882716148c740266l696282660212590186c500186410186340212c304282l26026628414836282</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -292,17 +208,8 @@
             <string>hintSet0000</string>
             <key>stems</key>
             <array>
-              <string>hstem -94 52</string>
               <string>hstem 82 104</string>
-              <string>hstem 402 91</string>
-              <string>hstem 540 65</string>
-              <string>hstem 802 52</string>
-              <string>vstem 28 60</string>
-              <string>vstem 295 78</string>
-              <string>vstem 413 32</string>
-              <string>vstem 555 78</string>
-              <string>vstem 675 30</string>
-              <string>vstem 912 60</string>
+              <string>vstem 260 480</string>
             </array>
           </dict>
         </array>

@@ -4,8 +4,17 @@
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="500" y="-94" />
-      <point x="774" y="-94" />
-      <point x="972" y="106" />
+      <point x="653" y="-94" />
+      <point x="782" y="-32" />
+      <point type="curve" x="867" y="71" />
+      <point x="974" y="118" />
+      <point x="1009" y="168" />
+      <point type="curve" x="1009" y="223" />
+      <point x="1009" y="261" />
+      <point x="991" y="287" />
+      <point type="curve" x="966" y="300" />
+      <point x="970" y="326" />
+      <point x="972" y="352" />
       <point type="curve" x="972" y="380" />
       <point x="972" y="654" />
       <point x="774" y="854" />
@@ -27,11 +36,27 @@
       <point x="742" y="802" />
       <point x="912" y="628" />
       <point type="curve" x="912" y="380" />
-      <point x="912" y="132" />
-      <point x="742" y="-42" />
+      <point x="912" y="355" />
+      <point x="910" y="331" />
+      <point type="curve" x="907" y="307" />
+      <point x="887" y="303" />
+      <point x="870" y="290" />
+      <point type="curve" x="858" y="266" />
+      <point type="line" x="853" y="268" />
+      <point x="848" y="319" />
+      <point x="812" y="340" />
+      <point type="curve" x="771" y="340" />
+      <point x="726" y="340" />
+      <point x="687" y="301" />
+      <point type="curve" x="687" y="244" />
+      <point x="687" y="200" />
+      <point x="718" y="138" />
+      <point type="curve" x="788" y="68" />
+      <point x="716" y="-2" />
+      <point x="616" y="-42" />
     </contour>
     <contour>
-      <point name="hintSet0010" type="curve" x="370" y="402" />
+      <point name="hintSet0019" type="curve" x="370" y="402" />
       <point x="417" y="402" />
       <point x="445" y="445" />
       <point type="curve" x="445" y="503" />
@@ -59,7 +84,7 @@
       <point x="407" y="493" />
     </contour>
     <contour>
-      <point name="hintSet0020" type="curve" x="752" y="398" />
+      <point name="hintSet0029" type="curve" x="752" y="398" />
       <point type="line" x="756" y="450" />
       <point x="658" y="450" />
       <point x="616" y="456" />
@@ -75,7 +100,7 @@
       <point x="606" y="398" />
     </contour>
     <contour>
-      <point name="hintSet0027" type="curve" x="484" y="82" />
+      <point name="hintSet0036" type="curve" x="484" y="82" />
       <point type="line" x="482" y="38" />
       <point x="597" y="33" />
       <point x="636" y="72" />
@@ -106,17 +131,10 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>d83221fa54c89fa8e325a09b9889c2302e72bfba22731b7a5506833f3305bcb09ca99e667999d11ae7b22da33c05025bc61f86e9c88c6ce8f843dd02b9e7213f</string>
+        <string>6ac527cb39b1be061a06d416850aaed98c1cb71408021a1930015a0782734456003fe984a4f4524fe12e31131be81a84f72df682241b1f95383b5e368330ec86</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -140,7 +158,7 @@
           </dict>
           <dict>
             <key>pointTag</key>
-            <string>hintSet0010</string>
+            <string>hintSet0019</string>
             <key>stems</key>
             <array>
               <string>hstem 402 91</string>
@@ -151,7 +169,7 @@
           </dict>
           <dict>
             <key>pointTag</key>
-            <string>hintSet0020</string>
+            <string>hintSet0029</string>
             <key>stems</key>
             <array>
               <string>hstem 398 52</string>
@@ -160,7 +178,7 @@
           </dict>
           <dict>
             <key>pointTag</key>
-            <string>hintSet0027</string>
+            <string>hintSet0036</string>
             <key>stems</key>
             <array>
               <string>hstem 38 44</string>

@@ -3,18 +3,48 @@
   <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="500" y="-94" />
-      <point x="774" y="-94" />
-      <point x="972" y="106" />
-      <point type="curve" x="972" y="380" />
-      <point x="972" y="654" />
-      <point x="774" y="854" />
+      <point name="hintSet0000" type="curve" x="972" y="380" />
+      <point x="972" y="428" />
+      <point x="966" y="474" />
+      <point type="curve" x="954" y="517" />
+      <point x="979" y="501" />
+      <point x="1005" y="496" />
+      <point type="curve" x="1029" y="472" />
+      <point x="1056" y="446" />
+      <point x="1060" y="404" />
+      <point type="curve" x="1032" y="376" />
+      <point x="1016" y="360" />
+      <point x="994" y="352" />
+      <point type="curve" x="971" y="355" />
+      <point x="972" y="363" />
+      <point x="972" y="371" />
+    </contour>
+    <contour>
+      <point type="curve" x="918" y="649" />
+      <point type="line" x="893" y="653" />
+      <point x="811" y="777" />
+      <point x="670" y="854" />
       <point type="curve" x="500" y="854" />
       <point x="226" y="854" />
       <point x="28" y="654" />
       <point type="curve" x="28" y="380" />
       <point x="28" y="106" />
       <point x="226" y="-94" />
+      <point type="curve" x="500" y="-94" />
+      <point x="753" y="-94" />
+      <point x="941" y="76" />
+      <point type="curve" x="969" y="318" />
+      <point x="1002" y="314" />
+      <point x="1035" y="325" />
+      <point type="curve" x="1059" y="349" />
+      <point x="1101" y="391" />
+      <point x="1100" y="449" />
+      <point type="curve" x="1058" y="492" />
+      <point x="1012" y="537" />
+      <point x="981" y="531" />
+      <point type="curve" x="959" y="554" />
+      <point x="940" y="573" />
+      <point x="921" y="603" />
     </contour>
     <contour>
       <point type="curve" x="500" y="-42" />
@@ -24,11 +54,17 @@
       <point x="88" y="628" />
       <point x="258" y="802" />
       <point type="curve" x="500" y="802" />
-      <point x="742" y="802" />
-      <point x="912" y="628" />
-      <point type="curve" x="912" y="380" />
-      <point x="912" y="132" />
-      <point x="742" y="-42" />
+      <point x="659" y="802" />
+      <point x="787" y="727" />
+      <point type="curve" x="856" y="605" />
+      <point x="825" y="507" />
+      <point x="829" y="421" />
+      <point type="curve" x="891" y="359" />
+      <point x="897" y="353" />
+      <point x="904" y="347" />
+      <point type="curve" x="911" y="342" />
+      <point x="894" y="114" />
+      <point x="729" y="-42" />
     </contour>
     <contour>
       <point type="curve" x="370" y="402" />
@@ -87,6 +123,12 @@
       <point x="667" y="493" />
     </contour>
     <contour>
+      <point type="line" x="295" y="104" />
+      <point x="326" y="196" />
+      <point x="400" y="234" />
+      <point type="curve" x="500" y="234" />
+      <point x="600" y="234" />
+      <point x="674" y="196" />
       <point type="curve" x="705" y="104" />
       <point type="line" x="750" y="119" />
       <point x="734" y="256" />
@@ -95,27 +137,23 @@
       <point x="358" y="338" />
       <point x="266" y="256" />
       <point type="curve" x="250" y="119" />
-      <point type="line" x="295" y="104" />
-      <point x="326" y="196" />
-      <point x="400" y="234" />
-      <point type="curve" x="500" y="234" />
-      <point x="600" y="234" />
-      <point x="674" y="196" />
+    </contour>
+    <contour>
+      <point type="line" x="911" y="387" />
+      <point x="867" y="431" />
+      <point x="865" y="504" />
+      <point type="curve" x="876" y="564" />
+      <point x="899" y="511" />
+      <point x="911" y="451" />
+      <point type="curve" x="912" y="386" />
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>fea1545e9c05ca89afded52956bcc2e89743838165466f4ae0eae76989592f095c33a7ff2fc3a38cc4b560b61fcb8776af8fb3d88d3c02b1b14edb15383b9a0c</string>
+        <string>80c8b3cfdad686655afe4ee69fc93627e711dc47f2156baf09c5748158da3da4125a6692c2c4c1b7cf61dea602af21725d90f39f00dc17f1552970830ef4fc4f</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -133,7 +171,9 @@
               <string>vstem 413 32</string>
               <string>vstem 555 78</string>
               <string>vstem 675 30</string>
-              <string>vstem 912 60</string>
+              <string>vstem 837 34</string>
+              <string>vstem 911 61</string>
+              <string>vstem 1051 39</string>
             </array>
           </dict>
         </array>

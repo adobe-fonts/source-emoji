@@ -30,20 +30,83 @@
       <point x="912" y="132" />
       <point x="742" y="-42" />
     </contour>
+    <contour>
+      <point type="curve" x="360" y="382" />
+      <point x="427" y="382" />
+      <point x="466" y="434" />
+      <point type="curve" x="468" y="540" />
+      <point type="line" x="416" y="544" />
+      <point x="413" y="491" />
+      <point x="398" y="470" />
+      <point type="curve" x="360" y="470" />
+      <point x="322" y="470" />
+      <point x="307" y="491" />
+      <point type="curve" x="304" y="544" />
+      <point type="line" x="250" y="540" />
+      <point x="253" y="434" />
+      <point x="292" y="382" />
+    </contour>
+    <contour>
+      <point type="curve" x="640" y="382" />
+      <point x="708" y="382" />
+      <point x="747" y="434" />
+      <point type="curve" x="750" y="540" />
+      <point type="line" x="696" y="544" />
+      <point x="693" y="491" />
+      <point x="678" y="470" />
+      <point type="curve" x="640" y="470" />
+      <point x="602" y="470" />
+      <point x="587" y="491" />
+      <point type="curve" x="584" y="544" />
+      <point type="line" x="532" y="540" />
+      <point x="534" y="434" />
+      <point x="573" y="382" />
+    </contour>
+    <contour>
+      <point type="curve" x="500" y="82" />
+      <point x="638" y="82" />
+      <point x="716" y="148" />
+      <point type="curve" x="740" y="266" />
+      <point type="line" x="696" y="282" />
+      <point x="660" y="212" />
+      <point x="590" y="186" />
+      <point type="curve" x="500" y="186" />
+      <point x="410" y="186" />
+      <point x="340" y="212" />
+      <point type="curve" x="304" y="282" />
+      <point type="line" x="260" y="266" />
+      <point x="284" y="148" />
+      <point x="362" y="82" />
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false />
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>367</integer>
+          <key>y</key>
+          <integer>330</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.8</real>
         <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.4</real>
         <real>1.0</real>
       </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>0fca9e90c620b3d1d53bc9bb99c3ca91c49ed36a464c8ac2b3ed6ae19747c11e767f7fa7a1d0a1aac60b4df5fe3a7c14f11a81f9be043b87c3b2610d75379c2a</string>
+        <string>a87fb2e7adb3804787e18a7837019a35f9e8455ade472ecf637a64a4d60772ac2e558d6151912f31cf9c4236d1046b9d25a5c1b06dc07cb2e7bed3ad5f1367bc</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -52,8 +115,14 @@
             <key>stems</key>
             <array>
               <string>hstem -94 52</string>
+              <string>hstem 82 104</string>
+              <string>hstem 382 88</string>
               <string>hstem 802 52</string>
               <string>vstem 28 60</string>
+              <string>vstem 250 54</string>
+              <string>vstem 416 52</string>
+              <string>vstem 532 52</string>
+              <string>vstem 696 54</string>
               <string>vstem 912 60</string>
             </array>
           </dict>
