@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ysquare" format="1">
+	<unicode hex="1F148"/>
+	<advance width="500"/>
+	<outline>
+		<contour>
+			<point x="197" y="124" type="line"/>
+			<point x="302" y="124" type="line"/>
+			<point x="302" y="315" type="line"/>
+			<point x="427" y="646" type="line"/>
+			<point x="319" y="646" type="line"/>
+			<point x="286" y="522" type="line" smooth="yes"/>
+			<point x="274" y="482"/>
+			<point x="262" y="446"/>
+			<point x="251" y="406" type="curve"/>
+			<point x="248" y="406" type="line"/>
+			<point x="237" y="446"/>
+			<point x="226" y="482"/>
+			<point x="215" y="522" type="curve"/>
+			<point x="182" y="646" type="line"/>
+			<point x="72" y="646" type="line"/>
+			<point x="197" y="315" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.4647058824</real>
+				<real>0.3</real>
+				<real>1</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
+</glyph>
