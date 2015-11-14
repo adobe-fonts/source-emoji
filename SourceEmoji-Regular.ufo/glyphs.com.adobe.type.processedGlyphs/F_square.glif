@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Fsquare">
+	<unicode hex="1F135" />
+  <advance width="500" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="131" y="124" />
+      <point type="line" x="235" y="124" />
+      <point type="line" x="235" y="335" />
+      <point type="line" x="375" y="335" />
+      <point type="line" x="375" y="418" />
+      <point type="line" x="235" y="418" />
+      <point type="line" x="235" y="557" />
+      <point type="line" x="398" y="557" />
+      <point type="line" x="398" y="646" />
+      <point type="line" x="131" y="646" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<real>0.4647058824</real>
+        <real>0.3</real>
+        <real>1</real>
+        <real>1</real>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w500l131124l235124l235335l375335l375418l235418l235557l398557l398646l131646</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 335 83</string>
+              <string>hstem 557 89</string>
+              <string>vstem 131 104</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

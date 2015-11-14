@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="h">
 	<unicode hex="0068" />
-  <advance width="600" />
+  <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="105" y="0" />
-      <point type="line" x="150" y="0" />
-      <point type="line" x="150" y="344" />
-      <point x="219" y="417" />
-      <point x="266" y="452" />
-      <point type="curve" x="334" y="452" />
-      <point x="429" y="452" />
-      <point x="469" y="401" />
-      <point type="curve" x="469" y="293" />
-      <point type="line" x="469" y="0" />
-      <point type="line" x="514" y="0" />
-      <point type="line" x="514" y="299" />
-      <point x="514" y="429" />
-      <point x="458" y="492" />
-      <point type="curve" x="341" y="492" />
-      <point x="265" y="492" />
-      <point x="206" y="447" />
-      <point type="curve" x="149" y="385" />
-      <point type="line" x="147" y="385" />
-      <point type="line" x="150" y="511" />
-      <point type="line" x="150" y="719" />
-      <point type="line" x="105" y="719" />
+      <point name="hintSet0000" type="line" x="305" y="0" />
+      <point type="line" x="350" y="0" />
+      <point type="line" x="350" y="344" />
+      <point x="419" y="417" />
+      <point x="466" y="452" />
+      <point type="curve" x="534" y="452" />
+      <point x="629" y="452" />
+      <point x="669" y="401" />
+      <point type="curve" x="669" y="293" />
+      <point type="line" x="669" y="0" />
+      <point type="line" x="714" y="0" />
+      <point type="line" x="714" y="299" />
+      <point x="714" y="429" />
+      <point x="658" y="492" />
+      <point type="curve" x="541" y="492" />
+      <point x="465" y="492" />
+      <point x="406" y="447" />
+      <point type="curve" x="349" y="385" />
+      <point type="line" x="347" y="385" />
+      <point type="line" x="350" y="511" />
+      <point type="line" x="350" y="719" />
+      <point type="line" x="305" y="719" />
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>98c2b11d183e1b0d1a031c1ed27062b9b4807332d7fb7af5b3bd06f22fd0c0bf43306631c5e0b67b194c12dd4e9e0656597ed34c1330082ee04aabf9767ec691</string>
+        <string>9177392a9a94f36e61c68924932a01c2339b14052271030713791f401efa3484d300d1a28abbd9b80f7df2773896b82191f04ee293899c3325fa254d3641dfcd</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -42,8 +42,8 @@
             <key>stems</key>
             <array>
               <string>hstem 452 40</string>
-              <string>vstem 105 45</string>
-              <string>vstem 469 45</string>
+              <string>vstem 305 45</string>
+              <string>vstem 669 45</string>
             </array>
           </dict>
         </array>

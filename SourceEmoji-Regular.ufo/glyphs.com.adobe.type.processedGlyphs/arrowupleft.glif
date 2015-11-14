@@ -1,33 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="arrowupleft">
-  <advance width="618" />
+	<unicode hex="2196" />
+  <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="110" y="64" />
-      <point type="line" x="194" y="68" />
-      <point type="line" x="183" y="304" />
-      <point type="line" x="464" y="23" />
-      <point type="line" x="529" y="89" />
-      <point type="line" x="248" y="370" />
-      <point type="line" x="484" y="359" />
-      <point type="line" x="489" y="443" />
-      <point type="line" x="107" y="449" />
-      <point type="line" x="104" y="446" />
+      <point name="hintSet0000" type="line" x="301" y="64" />
+      <point type="line" x="385" y="68" />
+      <point type="line" x="374" y="304" />
+      <point type="line" x="655" y="23" />
+      <point type="line" x="720" y="89" />
+      <point type="line" x="439" y="370" />
+      <point type="line" x="675" y="359" />
+      <point type="line" x="680" y="443" />
+      <point type="line" x="298" y="449" />
+      <point type="line" x="295" y="446" />
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
+				<real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
       </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>w618l11064l19468l183304l46423l52989l248370l484359l489443l107449l104446</string>
+        <string>w1000l30164l38568l374304l65523l72089l439370l675359l680443l298449l295446</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -36,7 +37,7 @@
             <key>stems</key>
             <array>
               <string>hstem 364.5 81.5</string>
-              <string>vstem 107 81.5</string>
+              <string>vstem 298 81.5</string>
             </array>
           </dict>
         </array>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="informationsource">
+	<unicode hex="2139" />
   <advance width="1000" />
   <outline>
     <contour>
@@ -65,24 +66,24 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
+		<dict>
+			<key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>background</key>
+				<key>background</key>
         <dict>
-          <key>anchors</key>
+					<key>anchors</key>
           <array>
-          </array>
+					</array>
           <key>components</key>
           <array>
-          </array>
+					</array>
           <key>contours</key>
           <array>
-            <dict>
-              <key>points</key>
+						<dict>
+							<key>points</key>
               <array>
-                <dict>
-                  <key>segmentType</key>
+								<dict>
+									<key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <true />
@@ -92,7 +93,7 @@
                   <integer>-89</integer>
                 </dict>
                 <dict>
-                  <key>smooth</key>
+									<key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>757</integer>
@@ -100,7 +101,7 @@
                   <integer>-89</integer>
                 </dict>
                 <dict>
-                  <key>smooth</key>
+									<key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>969</integer>
@@ -108,7 +109,7 @@
                   <integer>119</integer>
                 </dict>
                 <dict>
-                  <key>segmentType</key>
+									<key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <true />
@@ -118,7 +119,7 @@
                   <integer>380</integer>
                 </dict>
                 <dict>
-                  <key>smooth</key>
+									<key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>969</integer>
@@ -126,7 +127,7 @@
                   <integer>639</integer>
                 </dict>
                 <dict>
-                  <key>smooth</key>
+									<key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>759</integer>
@@ -134,7 +135,7 @@
                   <integer>849</integer>
                 </dict>
                 <dict>
-                  <key>segmentType</key>
+									<key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <true />
@@ -144,7 +145,7 @@
                   <integer>849</integer>
                 </dict>
                 <dict>
-                  <key>smooth</key>
+									<key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>241</integer>
@@ -152,7 +153,7 @@
                   <integer>849</integer>
                 </dict>
                 <dict>
-                  <key>smooth</key>
+									<key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>31</integer>
@@ -160,7 +161,7 @@
                   <integer>639</integer>
                 </dict>
                 <dict>
-                  <key>segmentType</key>
+									<key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <true />
@@ -170,7 +171,7 @@
                   <integer>380</integer>
                 </dict>
                 <dict>
-                  <key>smooth</key>
+									<key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>31</integer>
@@ -178,7 +179,7 @@
                   <integer>121</integer>
                 </dict>
                 <dict>
-                  <key>smooth</key>
+									<key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>241</integer>
@@ -188,10 +189,10 @@
               </array>
             </dict>
             <dict>
-              <key>points</key>
+							<key>points</key>
               <array>
-                <dict>
-                  <key>segmentType</key>
+								<dict>
+									<key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
                   <false />
@@ -201,7 +202,7 @@
                   <integer>124</integer>
                 </dict>
                 <dict>
-                  <key>segmentType</key>
+									<key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
                   <false />
@@ -211,7 +212,7 @@
                   <integer>646</integer>
                 </dict>
                 <dict>
-                  <key>segmentType</key>
+									<key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
                   <false />
@@ -221,7 +222,7 @@
                   <integer>646</integer>
                 </dict>
                 <dict>
-                  <key>segmentType</key>
+									<key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
                   <false />
@@ -235,22 +236,22 @@
           </array>
           <key>lib</key>
           <dict>
-          </dict>
+					</dict>
           <key>name</key>
           <string>informationsource</string>
           <key>unicodes</key>
           <array>
-          </array>
+					</array>
           <key>width</key>
           <integer>1000</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.8</real>
-        <real>1.0</real>
+				<real>0.8</real>
+        <real>1</real>
         <real>0.4</real>
-        <real>1.0</real>
+        <real>1</real>
       </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="plusheavy">
+	<advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="394" y="-34" />
+      <point type="line" x="607" y="-34" />
+      <point type="line" x="607" y="278" />
+      <point type="line" x="908" y="278" />
+      <point type="line" x="908" y="484" />
+      <point type="line" x="607" y="484" />
+      <point type="line" x="607" y="796" />
+      <point type="line" x="394" y="796" />
+      <point type="line" x="394" y="484" />
+      <point type="line" x="92" y="484" />
+      <point type="line" x="92" y="278" />
+      <point type="line" x="394" y="278" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000l394-34l607-34l607278l908278l908484l607484l607796l394796l394484l92484l92278l394278</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 278 206</string>
+              <string>vstem 394 213</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

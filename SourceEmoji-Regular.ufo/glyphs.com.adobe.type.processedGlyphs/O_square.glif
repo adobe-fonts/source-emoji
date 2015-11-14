@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Osquare">
+	<unicode hex="1F13E" />
+  <advance width="500" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="250" y="112" />
+      <point x="365" y="112" />
+      <point x="444" y="217" />
+      <point type="curve" x="444" y="387" />
+      <point x="444" y="559" />
+      <point x="365" y="658" />
+      <point type="curve" x="250" y="658" />
+      <point x="135" y="658" />
+      <point x="56" y="559" />
+      <point type="curve" x="56" y="387" />
+      <point x="56" y="217" />
+      <point x="135" y="112" />
+    </contour>
+    <contour>
+      <point type="curve" x="250" y="203" />
+      <point x="196" y="203" />
+      <point x="162" y="274" />
+      <point type="curve" x="162" y="387" />
+      <point x="162" y="502" />
+      <point x="196" y="569" />
+      <point type="curve" x="250" y="569" />
+      <point x="305" y="569" />
+      <point x="338" y="502" />
+      <point type="curve" x="338" y="387" />
+      <point x="338" y="274" />
+      <point x="305" y="203" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<real>0.4647058824</real>
+        <real>0.3</real>
+        <real>1</real>
+        <real>1</real>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>f92b4262ca9acfc6dcab542fbfb42a86ca0f232157526d5d94fd6b24c2cc93f4af2c576281f57758b2955ded73884db05cfff12820c4b823e9bf751fcf05cb71</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 112 91</string>
+              <string>hstem 569 89</string>
+              <string>vstem 56 106</string>
+              <string>vstem 338 106</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

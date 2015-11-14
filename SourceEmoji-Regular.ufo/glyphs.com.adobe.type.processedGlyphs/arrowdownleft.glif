@@ -1,33 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="arrowdownleft">
-  <advance width="618" />
+	<unicode hex="2199" />
+  <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="112" y="57" />
-      <point type="line" x="115" y="54" />
-      <point type="line" x="497" y="60" />
-      <point type="line" x="492" y="145" />
-      <point type="line" x="256" y="134" />
-      <point type="line" x="537" y="414" />
-      <point type="line" x="472" y="480" />
-      <point type="line" x="191" y="199" />
-      <point type="line" x="202" y="435" />
-      <point type="line" x="118" y="440" />
+      <point name="hintSet0000" type="line" x="303" y="57" />
+      <point type="line" x="306" y="54" />
+      <point type="line" x="688" y="60" />
+      <point type="line" x="683" y="145" />
+      <point type="line" x="447" y="134" />
+      <point type="line" x="728" y="414" />
+      <point type="line" x="663" y="480" />
+      <point type="line" x="382" y="199" />
+      <point type="line" x="393" y="435" />
+      <point type="line" x="309" y="440" />
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
+				<real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
       </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>w618l11257l11554l49760l492145l256134l537414l472480l191199l202435l118440</string>
+        <string>w1000l30357l30654l68860l683145l447134l728414l663480l382199l393435l309440</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -36,7 +37,7 @@
             <key>stems</key>
             <array>
               <string>hstem 57 82.5</string>
-              <string>vstem 115 81.5</string>
+              <string>vstem 306 81.5</string>
             </array>
           </dict>
         </array>
