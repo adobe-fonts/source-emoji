@@ -49,6 +49,7 @@ feature ccmp { # Glyph Composition / Decomposition
 	sub nine keycapcmb by keynine;
 
 	# Groups of people
+# These sequences ZWJ characters in between. See http://unicode.org/emoji/charts/emoji-zwj-sequences.html
 # 	sub e1F468 e1F468 e1F466 e1F466 by u1F468_u1F468_u1F466_u1F466;
 # 	sub e1F468 e1F468 e1F467 e1F466 by u1F468_u1F468_u1F467_u1F466;
 # 	sub e1F468 e1F468 e1F467 e1F467 by u1F468_u1F468_u1F467_u1F467;
