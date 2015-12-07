@@ -1,39 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ballotboxcheck" format="1">
-	<unicode hex="2611"/>
-	<advance width="1000"/>
-	<outline>
-		<contour>
-			<point x="465" y="101" type="curve"/>
-			<point x="520" y="108" type="line"/>
-			<point x="591" y="359"/>
-			<point x="739" y="596"/>
-			<point x="906" y="752" type="curve"/>
-			<point x="874" y="784" type="line"/>
-			<point x="709" y="625"/>
-			<point x="556" y="373"/>
-			<point x="490" y="144" type="curve"/>
-			<point x="486" y="144" type="line"/>
-			<point x="458" y="233"/>
-			<point x="410" y="327"/>
-			<point x="359" y="406" type="curve"/>
-			<point x="325" y="382" type="line"/>
-			<point x="379" y="300"/>
-			<point x="428" y="204"/>
-		</contour>
-		<contour>
-			<point x="177" y="-10" type="line"/>
-			<point x="778" y="-10" type="line"/>
-			<point x="823" y="43" type="line"/>
-			<point x="823" y="669" type="line"/>
-			<point x="230" y="669" type="line"/>
-			<point x="177" y="626" type="line"/>
-		</contour>
-		<contour>
-			<point x="211" y="23" type="line"/>
-			<point x="211" y="604" type="line"/>
-			<point x="756" y="604" type="line"/>
-			<point x="756" y="23" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1000"/>
+  <unicode hex="2611"/>
+  <outline>
+    <contour>
+      <point x="465" y="101" type="curve"/>
+      <point x="520" y="108" type="line"/>
+      <point x="591" y="359"/>
+      <point x="739" y="596"/>
+      <point x="906" y="752" type="curve"/>
+      <point x="874" y="784" type="line"/>
+      <point x="709" y="625"/>
+      <point x="556" y="373"/>
+      <point x="490" y="144" type="curve"/>
+      <point x="486" y="144" type="line"/>
+      <point x="458" y="233"/>
+      <point x="410" y="327"/>
+      <point x="359" y="406" type="curve"/>
+      <point x="325" y="382" type="line"/>
+      <point x="379" y="300"/>
+      <point x="428" y="204"/>
+    </contour>
+    <contour>
+      <point x="177" y="-10" type="line"/>
+      <point x="778" y="-10" type="line"/>
+      <point x="823" y="43" type="line"/>
+      <point x="823" y="669" type="line"/>
+      <point x="230" y="669" type="line"/>
+      <point x="177" y="626" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="23" type="line"/>
+      <point x="211" y="604" type="line"/>
+      <point x="756" y="604" type="line"/>
+      <point x="756" y="23" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

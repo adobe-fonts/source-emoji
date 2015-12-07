@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bulletsquare" format="1">
-	<unicode hex="25AA"/>
-	<advance width="1000"/>
-	<outline>
-		<contour>
-			<point x="293" y="57" type="line"/>
-			<point x="707" y="57" type="line"/>
-			<point x="707" y="467" type="line"/>
-			<point x="293" y="467" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.guides</key>
-			<array>
-			</array>
-		</dict>
-	</lib>
+  <advance width="1000"/>
+  <unicode hex="25AA"/>
+  <outline>
+    <contour>
+      <point x="293" y="57" type="line"/>
+      <point x="707" y="57" type="line"/>
+      <point x="707" y="467" type="line"/>
+      <point x="293" y="467" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>
