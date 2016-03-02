@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mouthneutral" format="1">
-	<advance width="1000"/>
-	<outline>
-		<contour>
-			<point x="670" y="184" type="line" smooth="yes"/>
-			<point x="688" y="184"/>
-			<point x="700" y="196"/>
-			<point x="700" y="214" type="curve" smooth="yes"/>
-			<point x="700" y="232"/>
-			<point x="688" y="244"/>
-			<point x="670" y="244" type="curve" smooth="yes"/>
-			<point x="330" y="244" type="line" smooth="yes"/>
-			<point x="312" y="244"/>
-			<point x="300" y="232"/>
-			<point x="300" y="214" type="curve" smooth="yes"/>
-			<point x="300" y="196"/>
-			<point x="312" y="184"/>
-			<point x="330" y="184" type="curve" smooth="yes"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<real>0.4</real>
-				<real>0.8</real>
-				<real>1</real>
-				<real>1</real>
-			</array>
-		</dict>
-	</lib>
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="650" y="184" type="line" smooth="yes"/>
+      <point x="668" y="184"/>
+      <point x="680" y="196"/>
+      <point x="680" y="214" type="curve" smooth="yes"/>
+      <point x="680" y="232"/>
+      <point x="668" y="244"/>
+      <point x="650" y="244" type="curve" smooth="yes"/>
+      <point x="350" y="244" type="line" smooth="yes"/>
+      <point x="332" y="244"/>
+      <point x="320" y="232"/>
+      <point x="320" y="214" type="curve" smooth="yes"/>
+      <point x="320" y="196"/>
+      <point x="332" y="184"/>
+      <point x="350" y="184" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

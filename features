@@ -1,8 +1,8 @@
-
 table head {
-   FontRevision 1.007;
+   FontRevision 1.009;
 } head;
 
+#----------------------------------------
 
 table OS/2 {
 	Panose 2 11 5 3 3 4 3 2 2 4;
@@ -20,6 +20,9 @@ table OS/2 {
 	Vendor "ADBO";
 } OS/2;
 
+#----------------------------------------
+
+
 table hhea {
 	# NOTE: The OS/2.winAscent and OS/2.winDescent values are set by MakeOTF and vary depending on the font's bounding box
 	Ascender 1056;		# Must match OS/2.winAscent for cross-platform consistency
@@ -27,12 +30,17 @@ table hhea {
 	LineGap 0;			# Must be zero for cross-platform consistency
 } hhea;
 
+#----------------------------------------
+
 include (tables.fea)
 
 #----------------------------------------
 
 languagesystem DFLT dflt;
 languagesystem latn dflt;
+
+#----------------------------------------
+
 
 feature ccmp { # Glyph Composition / Decomposition
 	# Enclosed Key Caps

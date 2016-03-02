@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="checkmarkwhiteheavy">
+	<advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="224" y="-278" />
+      <point type="line" x="498" y="-247" />
+      <point x="638" y="264" />
+      <point x="853" y="588" />
+      <point type="curve" x="1070" y="793" />
+      <point type="line" x="890" y="948" />
+      <point x="671" y="721" />
+      <point x="476" y="354" />
+      <point type="curve" x="352" y="-61" />
+      <point type="line" x="344" y="-61" />
+      <point x="287" y="78" />
+      <point x="224" y="221" />
+      <point type="curve" x="134" y="361" />
+      <point type="line" x="-54" y="240" />
+      <point x="74" y="64" />
+      <point x="149" y="-81" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000c224-278l498-247638264853588c1070793l890948671721476354c352-61l344-6128778224221c134361l-542407464149-81</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -278 1226</string>
+              <string>vstem -54 1124</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -88,7 +88,7 @@
 			</dict>
 		</array>
 		<key>com.typemytype.robofont.image.layerShow</key>
-		<true/>
+		<false/>
 		<key>com.typemytype.robofont.image.layerStrokeColor</key>
 		<array>
 			<real>0.5</real>
@@ -104,6 +104,8 @@
 			<string>image</string>
 			<string>mask</string>
 		</array>
+		<key>com.typemytype.robofont.mask.layerShow</key>
+		<true/>
 		<key>com.typemytype.robofont.mask.layerStrokeColor</key>
 		<array>
 			<real>0.5</real>
@@ -201,6 +203,7 @@
 					<string>facelying</string>
 					<string>facepalm</string>
 					<string>facesneezing.u</string>
+					<string>faceraisedeyebrow</string>
 					<string>zero</string>
 					<string>one</string>
 					<string>two</string>
@@ -1430,6 +1433,10 @@
 					<string>peanut</string>
 					<string>kiwifruit</string>
 					<string>pancakes</string>
+					<string>dumpling</string>
+					<string>fortunecookie</string>
+					<string>takeout</string>
+					<string>chopsticks</string>
 					<string>crab</string>
 					<string>lionface</string>
 					<string>scorpion</string>
@@ -1758,21 +1765,22 @@
 					<string>Z.a</string>
 					<string>mouthhushed</string>
 					<string>eyesmiling</string>
-					<string>diamond.copy_1</string>
 					<string>l</string>
 					<string>mouthtongue.copy_1</string>
 					<string>mouthtongue.copy_2</string>
+					<string>eyessquinting</string>
 					<string>mouthopen</string>
 					<string>n</string>
 					<string>foodpan</string>
 					<string>o</string>
 					<string>heart.copy_1</string>
-					<string>club.copy_1</string>
 					<string>keyasterisk.copy_1</string>
+					<string>eyessquinting.copy_1</string>
 					<string>mouthneutral</string>
 					<string>p</string>
 					<string>eyeswide</string>
 					<string>facesneezing</string>
+					<string>club.copy_1</string>
 					<string>beans.copy_3</string>
 					<string>beans.copy_2</string>
 					<string>frownopen</string>
@@ -1790,6 +1798,8 @@
 					<string>smileopen</string>
 					<string>a</string>
 					<string>teethgritting</string>
+					<string>horns.copy_1</string>
+					<string>diamond.copy_1</string>
 					<string>smileslight</string>
 					<string>recyclingblack</string>
 					<string>beans</string>
@@ -1800,13 +1810,21 @@
 					<string>g</string>
 					<string>frown2</string>
 					<string>eyesneutral</string>
-					<string>eyessquinting</string>
 					<string>squid.copy_2</string>
 					<string>squid.copy_1</string>
 					<string>h</string>
 					<string>mouthtongue</string>
 					<string>eyesshut</string>
 					<string>eyeswinking</string>
+					<string>browsraised</string>
+					<string>takeout.copy_1</string>
+					<string>eyesrolling</string>
+					<string>browsconcerned</string>
+					<string>facecryingloudly.copy_1</string>
+					<string>facecryingloudly.copy_2</string>
+					<string>browsangry</string>
+					<string>faceraisedeyebrow.u</string>
+					<string>foodpan.u.copy_1</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -1923,6 +1941,9 @@
 1453337759.0 glyphs/borderdotted.glif
 1453337759.0 glyphs/boxing.glif
 1447399864.0 glyphs/boy.glif
+1455639793.0 glyphs/browsangry.glif
+1455639793.0 glyphs/browsconcerned.glif
+1455639793.0 glyphs/browsraised.glif
 1450403049.0 glyphs/bulletsquare.glif
 1450403049.0 glyphs/bulletsquarewhite.glif
 1453337759.0 glyphs/butterfly.glif
@@ -1935,6 +1956,8 @@
 1447399864.0 glyphs/catfacewrysmile.glif
 1447463555.0 glyphs/checkmarkwhiteheavy.glif
 1447399864.0 glyphs/cheese.glif
+1456849303.0 glyphs/chopsticks.copy_1.glif
+1455062049.0 glyphs/chopsticks.glif
 1447399864.0 glyphs/club.copy_1.glif
 1447399864.0 glyphs/club.glif
 1453337759.0 glyphs/congratulationideocircle.glif
@@ -1948,6 +1971,8 @@
 1453337759.0 glyphs/divideideosquare.glif
 1453337759.0 glyphs/dollarheavy.glif
 1453337759.0 glyphs/drum.glif
+1456849303.0 glyphs/dumpling.copy_1.glif
+1455062049.0 glyphs/dumpling.glif
 1447399864.0 glyphs/eggs.glif
 1447463556.0 glyphs/eight.glif
 1453337759.0 glyphs/emptyideosquare.glif
@@ -1959,7 +1984,9 @@
 1453337759.0 glyphs/eyesclosed.glif
 1453337759.0 glyphs/eyesmiling.glif
 1446707333.0 glyphs/eyesneutral.glif
+1455639793.0 glyphs/eyesrolling.glif
 1447399864.0 glyphs/eyesshut.glif
+1455062049.0 glyphs/eyessquinting.copy_1.glif
 1453337759.0 glyphs/eyessquinting.glif
 1453337759.0 glyphs/eyestight.glif
 1453337759.0 glyphs/eyeswide.glif
@@ -1975,6 +2002,8 @@
 1447399864.0 glyphs/faceconfused.glif
 1447399864.0 glyphs/facecowboy.glif
 1453337759.0 glyphs/facecrying.glif
+1455639793.0 glyphs/facecryingloudly.copy_1.glif
+1455639793.0 glyphs/facecryingloudly.copy_2.glif
 1447399864.0 glyphs/facecryingloudly.glif
 1447399864.0 glyphs/facedisappointed.glif
 1447399864.0 glyphs/facedisappointedrelieved.glif
@@ -2015,6 +2044,8 @@
 1447399864.0 glyphs/facepensive.glif
 1453337759.0 glyphs/facepersevering.glif
 1453337759.0 glyphs/facepouting.glif
+1455062049.0 glyphs/faceraisedeyebrow.glif
+1455639793.0 glyphs/faceraisedeyebrow.u.glif
 1447399864.0 glyphs/facerelieved.glif
 1447399864.0 glyphs/facesavouringdeliciousfood.glif
 1447399864.0 glyphs/facescreamingfear.glif
@@ -2306,7 +2337,9 @@
 1453337761.0 glyphs/flagZ_imbabwe.glif
 1453337761.0 glyphs/flatbread.glif
 1453337761.0 glyphs/foodpan.glif
+1456849303.0 glyphs/foodpan.u.copy_1.glif
 1453337761.0 glyphs/foodpan.u.glif
+1455062049.0 glyphs/fortunecookie.glif
 1447463557.0 glyphs/four.glif
 1453337761.0 glyphs/frown.glif
 1453337761.0 glyphs/frown2.glif
@@ -2433,6 +2466,7 @@
 1453337762.0 glyphs/secretideocircle.glif
 1453337762.0 glyphs/seven.glif
 1453337762.0 glyphs/shrimp.glif
+1455062049.0 glyphs/signoctagonal.glif
 1447463558.0 glyphs/six.glif
 1446707333.0 glyphs/smile.glif
 1446707333.0 glyphs/smile2.glif
@@ -2454,6 +2488,9 @@
 1453337762.0 glyphs/sunblack.glif
 1447399867.0 glyphs/sunface.glif
 1453337762.0 glyphs/sunwhite.glif
+1455639793.0 glyphs/takeout.copy_1.glif
+1456849303.0 glyphs/takeout.copy_2.glif
+1455062049.0 glyphs/takeout.glif
 1453337762.0 glyphs/tears.glif
 1453337762.0 glyphs/teethgritting.glif
 1447463558.0 glyphs/three.glif
@@ -2467,6 +2504,7 @@
 1453337762.0 glyphs/yinyang.glif
 1447463558.0 glyphs/zero.glif
 1450403225.0 glyphs/zzz.glif
+1455062049.0 layercontents.plist
 1453337762.0 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
@@ -2551,6 +2589,7 @@
 			<string>facelying</string>
 			<string>facepalm</string>
 			<string>facesneezing.u</string>
+			<string>faceraisedeyebrow</string>
 			<string>zero</string>
 			<string>one</string>
 			<string>two</string>
@@ -3780,6 +3819,10 @@
 			<string>peanut</string>
 			<string>kiwifruit</string>
 			<string>pancakes</string>
+			<string>dumpling</string>
+			<string>fortunecookie</string>
+			<string>takeout</string>
+			<string>chopsticks</string>
 			<string>crab</string>
 			<string>lionface</string>
 			<string>scorpion</string>
@@ -4108,21 +4151,22 @@
 			<string>Z.a</string>
 			<string>mouthhushed</string>
 			<string>eyesmiling</string>
-			<string>diamond.copy_1</string>
 			<string>l</string>
 			<string>mouthtongue.copy_1</string>
 			<string>mouthtongue.copy_2</string>
+			<string>eyessquinting</string>
 			<string>mouthopen</string>
 			<string>n</string>
 			<string>foodpan</string>
 			<string>o</string>
 			<string>heart.copy_1</string>
-			<string>club.copy_1</string>
 			<string>keyasterisk.copy_1</string>
+			<string>eyessquinting.copy_1</string>
 			<string>mouthneutral</string>
 			<string>p</string>
 			<string>eyeswide</string>
 			<string>facesneezing</string>
+			<string>club.copy_1</string>
 			<string>beans.copy_3</string>
 			<string>beans.copy_2</string>
 			<string>frownopen</string>
@@ -4140,6 +4184,8 @@
 			<string>smileopen</string>
 			<string>a</string>
 			<string>teethgritting</string>
+			<string>horns.copy_1</string>
+			<string>diamond.copy_1</string>
 			<string>smileslight</string>
 			<string>recyclingblack</string>
 			<string>beans</string>
@@ -4150,13 +4196,24 @@
 			<string>g</string>
 			<string>frown2</string>
 			<string>eyesneutral</string>
-			<string>eyessquinting</string>
 			<string>squid.copy_2</string>
 			<string>squid.copy_1</string>
 			<string>h</string>
 			<string>mouthtongue</string>
 			<string>eyesshut</string>
 			<string>eyeswinking</string>
+			<string>browsraised</string>
+			<string>takeout.copy_1</string>
+			<string>eyesrolling</string>
+			<string>browsconcerned</string>
+			<string>facecryingloudly.copy_1</string>
+			<string>facecryingloudly.copy_2</string>
+			<string>browsangry</string>
+			<string>faceraisedeyebrow.u</string>
+			<string>foodpan.u.copy_1</string>
+			<string>takeout.copy_2</string>
+			<string>dumpling.copy_1</string>
+			<string>chopsticks.copy_1</string>
 		</array>
 	</dict>
 </plist>
