@@ -24,16 +24,16 @@
 			<point x="523" y="-12"/>
 		</contour>
 		<contour>
-			<point name="aboveUC" x="492" y="739" type="move"/>
-		</contour>
-		<contour>
-			<point name="center" x="494" y="396" type="move"/>
-		</contour>
-		<contour>
 			<point name="baseLC" x="590" y="0" type="move"/>
 		</contour>
 		<contour>
+			<point name="aboveUC" x="492" y="739" type="move"/>
+		</contour>
+		<contour>
 			<point name="belowLC" x="596" y="-20" type="move"/>
+		</contour>
+		<contour>
+			<point name="center" x="494" y="396" type="move"/>
 		</contour>
 	</outline>
 </glyph>
