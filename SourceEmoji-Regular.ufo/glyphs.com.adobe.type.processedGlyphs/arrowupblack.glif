@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="arrowupblack">
+	<unicode hex="2B06" />
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="453" y="-25" />
+      <point type="line" x="546" y="-25" />
+      <point type="line" x="546" y="372" />
+      <point type="line" x="705" y="197" />
+      <point type="line" x="768" y="253" />
+      <point type="line" x="502" y="528" />
+      <point type="line" x="498" y="528" />
+      <point type="line" x="231" y="253" />
+      <point type="line" x="295" y="197" />
+      <point type="line" x="453" y="372" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000l453-25l546-25l546372l705197l768253l502528l498528l231253l295197l453372</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -25 553</string>
+              <string>vstem 453 93</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

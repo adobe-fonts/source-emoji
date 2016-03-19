@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="womanbunnyears" format="1">
+	<advance width="1000"/>
+	<outline>
+		<component base="woman" xScale="0.34" yScale="0.34" xOffset="80" yOffset="580"/>
+		<component base="woman" xScale="0.34" yScale="0.34" xOffset="580" yOffset="580"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.guides</key>
+			<array>
+				<dict>
+					<key>angle</key>
+					<integer>90</integer>
+					<key>isGlobal</key>
+					<false/>
+					<key>magnetic</key>
+					<integer>5</integer>
+					<key>x</key>
+					<integer>250</integer>
+					<key>y</key>
+					<integer>500</integer>
+				</dict>
+				<dict>
+					<key>angle</key>
+					<integer>90</integer>
+					<key>isGlobal</key>
+					<false/>
+					<key>magnetic</key>
+					<integer>5</integer>
+					<key>x</key>
+					<integer>750</integer>
+					<key>y</key>
+					<integer>500</integer>
+				</dict>
+			</array>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

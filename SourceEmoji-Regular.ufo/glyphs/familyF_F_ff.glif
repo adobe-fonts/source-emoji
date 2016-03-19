@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="familyFFff" format="1">
-  <advance width="1000"/>
-  <outline>
-    <component base="woman" xScale="0.5" yScale="0.5" yOffset="440"/>
-    <component base="woman" xScale="0.5" yScale="0.5" xOffset="500" yOffset="440"/>
-    <component base="girl" xScale="0.5" yScale="0.5" yOffset="-60"/>
-    <component base="girl" xScale="0.5" yScale="0.5" xOffset="500" yOffset="-60"/>
-  </outline>
+	<advance width="1000"/>
+	<outline>
+		<component base="woman" xScale="0.5" yScale="0.5" yOffset="440"/>
+		<component base="woman.a" xScale="0.5" yScale="0.5" xOffset="500" yOffset="440"/>
+		<component base="girl.a" xScale="0.5" yScale="0.5" yOffset="-60"/>
+		<component base="girl" xScale="0.5" yScale="0.5" xOffset="500" yOffset="-60"/>
+	</outline>
 </glyph>
