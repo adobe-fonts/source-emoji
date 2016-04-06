@@ -3,23 +3,7 @@
 	<advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="645" y="104" />
-      <point type="line" x="690" y="119" />
-      <point x="677" y="231" />
-      <point x="608" y="298" />
-      <point type="curve" x="500" y="298" />
-      <point x="392" y="298" />
-      <point x="323" y="231" />
-      <point type="curve" x="310" y="119" />
-      <point type="line" x="355" y="104" />
-      <point x="377" y="169" />
-      <point x="430" y="194" />
-      <point type="curve" x="500" y="194" />
-      <point x="570" y="194" />
-      <point x="623" y="169" />
-    </contour>
-    <contour>
-      <point type="curve" x="500" y="-94" />
+      <point name="hintSet0000" type="curve" x="500" y="-94" />
       <point x="774" y="-94" />
       <point x="972" y="106" />
       <point type="curve" x="972" y="380" />
@@ -101,6 +85,22 @@
       <point type="curve" x="675" y="517" />
       <point x="675" y="503" />
       <point x="667" y="493" />
+    </contour>
+    <contour>
+      <point type="curve" x="645" y="104" />
+      <point type="line" x="690" y="119" />
+      <point x="677" y="231" />
+      <point x="608" y="298" />
+      <point type="curve" x="500" y="298" />
+      <point x="392" y="298" />
+      <point x="323" y="231" />
+      <point type="curve" x="310" y="119" />
+      <point type="line" x="355" y="104" />
+      <point x="377" y="169" />
+      <point x="430" y="194" />
+      <point type="curve" x="500" y="194" />
+      <point x="570" y="194" />
+      <point x="623" y="169" />
     </contour>
   </outline>
   <lib>
@@ -262,7 +262,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>8972fd982e493a4fba0e788eaf910ac17be4c2d9cf8821548912d0cbdbfa678706812985e6cc9e2c4958e9e5c49821164bc5ebf293a94116548364d8413001ed</string>
+        <string>ecc9293e120758c5d4589df257b373f43f38393f24926cd0e37552ff5a08434eeec78524d4d49508eefe66c0e099d0fb0a967664bf3fafe238a3063a0009c39d</string>
         <key>hintSetList</key>
         <array>
           <dict>

@@ -1,10 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="ballotboxcheck">
-	<unicode hex="2611" />
   <advance width="1000" />
+  <unicode hex="2611" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="756" y="23" />
+      <point name="hintSet0000" type="curve" x="465" y="101" />
+      <point type="line" x="520" y="108" />
+      <point x="569" y="280" />
+      <point x="654" y="446" />
+      <point type="curve" x="756" y="583" />
+      <point type="line" x="756" y="23" />
       <point type="line" x="211" y="23" />
       <point type="line" x="211" y="604" />
       <point type="line" x="720" y="604" />
@@ -18,19 +23,8 @@
       <point type="line" x="325" y="382" />
       <point x="379" y="300" />
       <point x="428" y="204" />
-      <point type="curve" x="465" y="101" />
-      <point type="line" x="520" y="108" />
-      <point x="569" y="280" />
-      <point x="654" y="446" />
-      <point type="curve" x="756" y="583" />
     </contour>
     <contour>
-      <point type="line" x="874" y="784" />
-      <point x="838" y="750" />
-      <point x="803" y="711" />
-      <point type="curve" x="769" y="669" />
-      <point type="line" x="230" y="669" />
-      <point type="line" x="177" y="626" />
       <point type="line" x="177" y="-10" />
       <point type="line" x="778" y="-10" />
       <point type="line" x="823" y="43" />
@@ -38,21 +32,20 @@
       <point x="850" y="697" />
       <point x="878" y="726" />
       <point type="curve" x="906" y="752" />
+      <point type="line" x="874" y="784" />
+      <point x="838" y="750" />
+      <point x="803" y="711" />
+      <point type="curve" x="769" y="669" />
+      <point type="line" x="230" y="669" />
+      <point type="line" x="177" y="626" />
     </contour>
   </outline>
   <lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-      <array>
-				<integer>1</integer>
-        <integer>0</integer>
-        <integer>0</integer>
-        <integer>1</integer>
-      </array>
+    <dict>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>59600138734cad2f9de6ce2141358fd272ec1d28c386c56a21575beb956ec98354af6bec5a18e350641570cdf8a806080b16ba9cdb285af2d35a44a2cf3bf195</string>
+        <string>b2a8bfbe46485ce6e9553a06009641e09bdf8069f02537df61a4e6841109acb8d22adee1611976eb2fb50879af8d572550bc52db858e8f6efac7d3a2603affa8</string>
         <key>hintSetList</key>
         <array>
           <dict>

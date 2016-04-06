@@ -1,9 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="telephonereceiver">
-	<advance width="830" />
+  <advance width="830" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="46" y="19" />
+      <point name="hintSet0000" type="curve" x="476" y="290" />
+      <point x="366" y="180" />
+      <point x="297" y="141" />
+      <point type="curve" x="268" y="170" />
+      <point x="251" y="189" />
+      <point x="237" y="200" />
+      <point type="curve" x="229" y="207" />
+      <point x="224" y="212" />
+      <point x="211" y="218" />
+      <point type="curve" x="194" y="225" />
+      <point x="177" y="233" />
+      <point x="159" y="232" />
+      <point type="curve" x="140" y="223" />
+      <point x="112" y="210" />
+      <point x="53" y="166" />
+      <point type="curve" x="32" y="139" />
+      <point x="24" y="128" />
+      <point x="18" y="117" />
+      <point type="curve" x="17" y="104" />
+      <point x="13" y="75" />
+      <point x="13" y="64" />
+      <point type="curve" x="28" y="43" />
+      <point type="line" x="46" y="19" />
       <point type="line" x="70" y="-4" />
       <point type="line" x="94" y="-28" />
       <point x="158" y="-92" />
@@ -37,43 +59,14 @@
       <point type="line" x="594" y="496" />
       <point x="623" y="467" />
       <point x="585" y="399" />
-      <point type="curve" x="476" y="290" />
-      <point x="366" y="180" />
-      <point x="297" y="141" />
-      <point type="curve" x="268" y="170" />
-      <point x="251" y="189" />
-      <point x="237" y="200" />
-      <point type="curve" x="229" y="207" />
-      <point x="224" y="212" />
-      <point x="211" y="218" />
-      <point type="curve" x="194" y="225" />
-      <point x="177" y="233" />
-      <point x="159" y="232" />
-      <point type="curve" x="140" y="223" />
-      <point x="112" y="210" />
-      <point x="53" y="166" />
-      <point type="curve" x="32" y="139" />
-      <point x="24" y="128" />
-      <point x="18" y="117" />
-      <point type="curve" x="17" y="104" />
-      <point x="13" y="75" />
-      <point x="13" y="64" />
-      <point type="curve" x="28" y="43" />
     </contour>
   </outline>
   <lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-      <array>
-				<integer>0</integer>
-        <real>0.502</real>
-        <real>0.502</real>
-        <integer>1</integer>
-      </array>
+    <dict>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>6d5981120483f2bdcd0420c42bd46d8913603e5c6f2d2eb33eb41f22ec8f721b101828461b21a65f33686d342a425f1b750a1c102811159577fe4dbe233840fc</string>
+        <string>7bdcfd9e0f77872ea9ca091a906e84188662388cbfe91c5ade0ac35ef23f7783de8450d648ef9f50830deda508679f7d73ef94f1d6b978e6dbeecf9da284e96c</string>
         <key>hintSetList</key>
         <array>
           <dict>

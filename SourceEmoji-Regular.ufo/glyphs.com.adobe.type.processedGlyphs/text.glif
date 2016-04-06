@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="text">
+	<outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="240" y="676" />
+      <point type="line" x="240" y="842" />
+      <point type="line" x="-240" y="842" />
+      <point type="line" x="-240" y="676" />
+      <point type="line" x="-184" y="676" />
+      <point type="line" x="-184" y="786" />
+      <point type="line" x="184" y="786" />
+      <point type="line" x="184" y="676" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000l240676l240842l-240842l-240676l-184676l-184786l184786l184676</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 786 56</string>
+              <string>vstem -240 56</string>
+              <string>vstem 184 56</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

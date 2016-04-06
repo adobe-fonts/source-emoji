@@ -3,47 +3,47 @@
 	<advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="625" y="560" />
-      <point type="line" x="625" y="816" />
-      <point type="line" x="377" y="816" />
-      <point type="line" x="377" y="560" />
-      <point type="line" x="200" y="560" />
-      <point type="line" x="500" y="276" />
-      <point type="line" x="800" y="560" />
+      <point name="hintSet0000" type="line" x="968" y="198" />
+      <point x="989" y="186" />
+      <point x="1007" y="154" />
+      <point type="curve" x="998" y="126" />
+      <point type="line" x="970" y="-28" />
+      <point x="965" y="-53" />
+      <point x="939" y="-74" />
+      <point type="curve" x="908" y="-74" />
+      <point type="line" x="92" y="-74" />
+      <point x="61" y="-74" />
+      <point x="35" y="-53" />
+      <point type="curve" x="30" y="-28" />
+      <point type="line" x="2" y="126" />
+      <point x="-5" y="158" />
+      <point x="6" y="182" />
+      <point type="curve" x="34" y="198" />
+      <point type="line" x="192" y="306" />
+      <point type="line" x="290" y="306" />
+      <point type="line" x="120" y="176" />
+      <point type="line" x="298" y="176" />
+      <point x="303" y="176" />
+      <point x="307" y="173" />
+      <point type="curve" x="310" y="168" />
+      <point type="line" x="350" y="58" />
+      <point type="line" x="650" y="58" />
+      <point type="line" x="690" y="168" />
+      <point x="695" y="173" />
+      <point x="699" y="176" />
+      <point type="curve" x="702" y="176" />
+      <point type="line" x="880" y="176" />
+      <point type="line" x="710" y="306" />
+      <point type="line" x="808" y="306" />
     </contour>
     <contour>
-      <point type="line" x="808" y="306" />
-      <point type="line" x="710" y="306" />
-      <point type="line" x="880" y="176" />
-      <point type="line" x="702" y="176" />
-      <point x="699" y="176" />
-      <point x="695" y="173" />
-      <point type="curve" x="690" y="168" />
-      <point type="line" x="650" y="58" />
-      <point type="line" x="350" y="58" />
-      <point type="line" x="310" y="168" />
-      <point x="307" y="173" />
-      <point x="303" y="176" />
-      <point type="curve" x="298" y="176" />
-      <point type="line" x="120" y="176" />
-      <point type="line" x="290" y="306" />
-      <point type="line" x="192" y="306" />
-      <point type="line" x="34" y="198" />
-      <point x="6" y="182" />
-      <point x="-5" y="158" />
-      <point type="curve" x="2" y="126" />
-      <point type="line" x="30" y="-28" />
-      <point x="35" y="-53" />
-      <point x="61" y="-74" />
-      <point type="curve" x="92" y="-74" />
-      <point type="line" x="908" y="-74" />
-      <point x="939" y="-74" />
-      <point x="965" y="-53" />
-      <point type="curve" x="970" y="-28" />
-      <point type="line" x="998" y="126" />
-      <point x="1007" y="154" />
-      <point x="989" y="186" />
-      <point type="curve" x="968" y="198" />
+      <point type="line" x="800" y="560" />
+      <point type="line" x="500" y="276" />
+      <point type="line" x="200" y="560" />
+      <point type="line" x="377" y="560" />
+      <point type="line" x="377" y="816" />
+      <point type="line" x="625" y="816" />
+      <point type="line" x="625" y="560" />
     </contour>
   </outline>
   <lib>
@@ -58,7 +58,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>f491ab0b29a01196b03232648fd29e7ef8fe7bbe5bbdd6674caff3bc5c421b9293e561e090ae746680981a4af67f6d99f99eac10d3dbfc8d71a98f027b6d9f5f</string>
+        <string>d1c6bb18bd8810db1a1bd20287da8432280cf19bb4c7aee683aefbccf0edcead7b6835a63c120bd049ea773e6129a698624bd704d85065180c4ae66150f37769</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -66,8 +66,8 @@
             <string>hintSet0000</string>
             <key>stems</key>
             <array>
-              <string>hstem -74 132</string>
-              <string>vstem 377 248</string>
+              <string>hstem -74 890</string>
+              <string>vstem 0 1000</string>
             </array>
           </dict>
         </array>

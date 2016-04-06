@@ -2,18 +2,8 @@
 <glyph name="facesmilinghorns" format="1">
 	<advance width="1000"/>
 	<outline>
+		<component base="facehorns"/>
 		<component base="eyesneutral"/>
-		<component base="horns"/>
+		<component base="mouthsmiletongue"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<integer>1</integer>
-				<integer>0</integer>
-				<integer>0</integer>
-				<integer>1</integer>
-			</array>
-		</dict>
-	</lib>
 </glyph>

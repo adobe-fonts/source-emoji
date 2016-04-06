@@ -2,45 +2,10 @@
 <glyph name="faceraisedeyebrow" format="1">
 	<advance width="1000"/>
 	<outline>
-		<contour>
-			<point x="434" y="639" type="curve" smooth="yes"/>
-			<point x="448" y="629"/>
-			<point x="466" y="634"/>
-			<point x="475" y="650" type="curve" smooth="yes"/>
-			<point x="484" y="666"/>
-			<point x="478" y="680"/>
-			<point x="464" y="691" type="curve" smooth="yes"/>
-			<point x="410" y="736"/>
-			<point x="320" y="736"/>
-			<point x="266" y="691" type="curve" smooth="yes"/>
-			<point x="252" y="680"/>
-			<point x="246" y="666"/>
-			<point x="255" y="650" type="curve" smooth="yes"/>
-			<point x="264" y="634"/>
-			<point x="282" y="629"/>
-			<point x="296" y="639" type="curve" smooth="yes"/>
-			<point x="340" y="671"/>
-			<point x="390" y="671"/>
-		</contour>
-		<contour>
-			<point x="710" y="604" type="line" smooth="yes"/>
-			<point x="728" y="604"/>
-			<point x="740" y="616"/>
-			<point x="740" y="634" type="curve" smooth="yes"/>
-			<point x="740" y="652"/>
-			<point x="728" y="664"/>
-			<point x="710" y="664" type="curve" smooth="yes"/>
-			<point x="570" y="664" type="line" smooth="yes"/>
-			<point x="552" y="664"/>
-			<point x="540" y="652"/>
-			<point x="540" y="634" type="curve" smooth="yes"/>
-			<point x="540" y="616"/>
-			<point x="552" y="604"/>
-			<point x="570" y="604" type="curve" smooth="yes"/>
-		</contour>
 		<component base="face"/>
 		<component base="mouthneutral"/>
 		<component base="eyesneutral" yOffset="-20"/>
+		<component base="browsraised"/>
 	</outline>
 	<lib>
 		<dict>
@@ -894,13 +859,6 @@
 					<integer>1000</integer>
 				</dict>
 			</dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<integer>1</integer>
-				<integer>0</integer>
-				<integer>1</integer>
-				<integer>1</integer>
-			</array>
 		</dict>
 	</lib>
 </glyph>

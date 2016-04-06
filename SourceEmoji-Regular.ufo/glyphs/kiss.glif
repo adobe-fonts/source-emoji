@@ -2,19 +2,8 @@
 <glyph name="kiss" format="1">
 	<advance width="1000"/>
 	<outline>
-		<component base="facekissingeyesclosed" xScale="0.5" yScale="0.5" yOffset="-60"/>
-		<component base="facekissingeyesclosed" xScale="-0.5" yScale="0.5" xOffset="1000" yOffset="-60"/>
-		<component base="heartheavy" xScale="0.5" yScale="0.5" xOffset="250" yOffset="440"/>
+		<component base="facekissingeyesclosed" xScale="0.5" yScale="0.5" yOffset="-40"/>
+		<component base="facekissingeyesclosed" xScale="-0.5" yScale="0.5" xOffset="1000" yOffset="-40"/>
+		<component base="heartheavy" xScale="0.5" yScale="0.5" xOffset="250" yOffset="420"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<integer>1</integer>
-				<integer>0</integer>
-				<integer>0</integer>
-				<integer>1</integer>
-			</array>
-		</dict>
-	</lib>
 </glyph>

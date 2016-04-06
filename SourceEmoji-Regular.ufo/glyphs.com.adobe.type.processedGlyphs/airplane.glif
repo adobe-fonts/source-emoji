@@ -1,9 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="airplane">
-	<advance width="1408" />
+  <advance width="1408" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="896" y="1120" />
+      <point name="hintSet0000" type="curve" x="1376" y="1376" />
+      <point x="1312" y="1440" />
+      <point x="1152" y="1376" />
+      <point type="curve" x="1056" y="1280" />
+      <point type="line" x="896" y="1120" />
       <point type="line" x="231" y="1279" />
       <point x="221" y="1282" />
       <point x="209" y="1278" />
@@ -64,25 +68,14 @@
       <point type="line" x="1280" y="1056" />
       <point x="1376" y="1152" />
       <point x="1440" y="1312" />
-      <point type="curve" x="1376" y="1376" />
-      <point x="1312" y="1440" />
-      <point x="1152" y="1376" />
-      <point type="curve" x="1056" y="1280" />
     </contour>
   </outline>
   <lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-      <array>
-				<real>0.4</real>
-        <integer>1</integer>
-        <real>0.8</real>
-        <integer>1</integer>
-      </array>
+    <dict>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>4938bde8b5e94d5d72c1607a8c342056e2db0529a2ccd0433a75e655f4bb3c52c161e491d2791cd8fe22f6f78e5689ff9c14378819c0a53643bef47a9885c879</string>
+        <string>fb2d57b53c6d70f0470ae6424ad3cbcae771366b6a8c6b168999175035a03a73e718c534438ba540fadfec8ac31d74c28f1e75e8c3bf4e1d0e3e661f4c6283de</string>
         <key>hintSetList</key>
         <array>
           <dict>

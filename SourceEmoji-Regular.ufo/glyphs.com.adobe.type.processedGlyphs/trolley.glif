@@ -1,42 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="trolley">
-	<advance width="1000" />
+  <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="288" y="72" />
-      <point x="244" y="72" />
-      <point x="208" y="37" />
-      <point type="curve" x="208" y="-8" />
-      <point x="208" y="-52" />
-      <point x="244" y="-88" />
-      <point type="curve" x="288" y="-88" />
-      <point x="332" y="-88" />
-      <point x="368" y="-52" />
-      <point type="curve" x="368" y="-8" />
-      <point x="368" y="37" />
-      <point x="332" y="72" />
-    </contour>
-    <contour>
-      <point type="curve" x="702" y="72" />
-      <point x="658" y="72" />
-      <point x="622" y="37" />
-      <point type="curve" x="622" y="-8" />
-      <point x="622" y="-52" />
-      <point x="658" y="-88" />
-      <point type="curve" x="702" y="-88" />
-      <point x="746" y="-88" />
-      <point x="782" y="-52" />
-      <point type="curve" x="782" y="-8" />
-      <point x="782" y="37" />
-      <point x="746" y="72" />
-    </contour>
-    <contour>
-      <point type="line" x="698" y="326" />
-      <point type="line" x="220" y="352" />
-      <point type="line" x="180" y="596" />
-      <point type="line" x="746" y="596" />
-    </contour>
-    <contour>
+      <point name="hintSet0000" type="line" x="750" y="130" />
+      <point x="782" y="130" />
+      <point x="796" y="152" />
+      <point type="curve" x="786" y="182" />
+      <point type="line" x="745" y="299" />
+      <point type="line" x="822" y="722" />
+      <point type="line" x="980" y="722" />
+      <point type="line" x="980" y="774" />
       <point type="line" x="780" y="774" />
       <point type="line" x="758" y="648" />
       <point type="line" x="116" y="648" />
@@ -45,44 +19,48 @@
       <point type="line" x="734" y="182" />
       <point type="line" x="220" y="182" />
       <point type="line" x="220" y="130" />
-      <point type="line" x="750" y="130" />
-      <point x="782" y="130" />
-      <point x="796" y="152" />
-      <point type="curve" x="786" y="182" />
-      <point type="line" x="745" y="299" />
-      <point type="line" x="822" y="722" />
-      <point type="line" x="980" y="722" />
-      <point type="line" x="980" y="774" />
+    </contour>
+    <contour>
+      <point type="curve" x="702" y="-88" />
+      <point x="746" y="-88" />
+      <point x="782" y="-52" />
+      <point type="curve" x="782" y="-8" />
+      <point x="782" y="37" />
+      <point x="746" y="72" />
+      <point type="curve" x="702" y="72" />
+      <point x="658" y="72" />
+      <point x="622" y="37" />
+      <point type="curve" x="622" y="-8" />
+      <point x="622" y="-52" />
+      <point x="658" y="-88" />
+    </contour>
+    <contour>
+      <point type="curve" x="288" y="-88" />
+      <point x="332" y="-88" />
+      <point x="368" y="-52" />
+      <point type="curve" x="368" y="-8" />
+      <point x="368" y="37" />
+      <point x="332" y="72" />
+      <point type="curve" x="288" y="72" />
+      <point x="244" y="72" />
+      <point x="208" y="37" />
+      <point type="curve" x="208" y="-8" />
+      <point x="208" y="-52" />
+      <point x="244" y="-88" />
+    </contour>
+    <contour>
+      <point type="line" x="698" y="326" />
+      <point type="line" x="220" y="352" />
+      <point type="line" x="180" y="596" />
+      <point type="line" x="746" y="596" />
     </contour>
   </outline>
   <lib>
-		<dict>
-			<key>com.typemytype.robofont.guides</key>
-      <array>
-				<dict>
-					<key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false />
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>349</integer>
-          <key>y</key>
-          <integer>-158</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-				<real>0.8</real>
-        <integer>1</integer>
-        <real>0.4</real>
-        <integer>1</integer>
-      </array>
+    <dict>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>f18eeaa76f6b5afbd2b6b753b60d3f5eb71449dc1c2e28512dccd22c59b66a18ca2200494854442116f03c633f9c690a9d5f804c6a19362658bce973a83e128e</string>
+        <string>c21f6d1c73ee10710931f6c9b96627c11404c06e940b77c5f36b9f8a8d18563f77945c9431f1d1c8bcbf0fbd2cf0fd4032048a7c13c61ec41d39d24a804ce550</string>
         <key>hintSetList</key>
         <array>
           <dict>

@@ -1,5 +1,5 @@
 table head {
-   FontRevision 1.009;
+   FontRevision 1.013;
 } head;
 
 #----------------------------------------
@@ -45,6 +45,7 @@ languagesystem latn dflt;
 feature ccmp { # Glyph Composition / Decomposition
 	# Enclosed Key Caps
 	sub numbersign keycapcmb by keynumbersign;
+	sub asterisk keycapcmb by keyasterisk;
 	sub zero keycapcmb by keyzero;
 	sub one keycapcmb by keyone;
 	sub two keycapcmb by keytwo;
@@ -57,25 +58,54 @@ feature ccmp { # Glyph Composition / Decomposition
 	sub nine keycapcmb by keynine;
 
 	# Groups of people
-# These sequences ZWJ characters in between. See http://unicode.org/emoji/charts/emoji-zwj-sequences.html
-# 	sub e1F468 e1F468 e1F466 e1F466 by u1F468_u1F468_u1F466_u1F466;
-# 	sub e1F468 e1F468 e1F467 e1F466 by u1F468_u1F468_u1F467_u1F466;
-# 	sub e1F468 e1F468 e1F467 e1F467 by u1F468_u1F468_u1F467_u1F467;
-# 	sub e1F468 e1F469 e1F466 e1F466 by u1F468_u1F469_u1F466_u1F466;
-# 	sub e1F468 e1F469 e1F467 e1F466 by u1F468_u1F469_u1F467_u1F466;
-# 	sub e1F468 e1F469 e1F467 e1F467 by u1F468_u1F469_u1F467_u1F467;
-# 	sub e1F469 e1F469 e1F466 e1F466 by u1F469_u1F469_u1F466_u1F466;
-# 	sub e1F469 e1F469 e1F467 e1F466 by u1F469_u1F469_u1F467_u1F466;
-# 	sub e1F469 e1F469 e1F467 e1F467 by u1F469_u1F469_u1F467_u1F467;
-# 	sub e1F468 e2764 e1F48B e1F468 by u1F468_u2764_u1F48B_u1F468;
-# 	sub e1F469 e2764 e1F48B e1F469 by u1F469_u2764_u1F48B_u1F469;
-# 	sub e1F468 e1F468 e1F466 by u1F468_u1F468_u1F466;
-# 	sub e1F468 e1F468 e1F467 by u1F468_u1F468_u1F467;
-# 	sub e1F468 e1F469 e1F467 by u1F468_u1F469_u1F467;
-# 	sub e1F469 e1F469 e1F466 by u1F469_u1F469_u1F466;
-# 	sub e1F469 e1F469 e1F467 by u1F469_u1F469_u1F467;
-# 	sub e1F468 e2764 e1F468 by u1F468_u2764_u1F468;
-# 	sub e1F469 e2764 e1F469 by u1F469_u2764_u1F469;
+	# These sequences ZWJ characters in between. See http://unicode.org/emoji/charts/emoji-zwj-sequences.html
+
+	# Families
+	sub man ZWJ woman ZWJ boy by familyMFm;
+	sub man ZWJ woman ZWJ girl by familyMFf;
+	sub man ZWJ woman ZWJ girl ZWJ boy by familyMFfm;
+#	sub man ZWJ woman ZWJ boy ZWJ girl by familyMFmf;
+	sub man ZWJ woman ZWJ boy ZWJ boy by familyMFmm;
+	sub man ZWJ woman ZWJ girl ZWJ girl by familyMFff;
+#	sub man ZWJ woman ZWJ boy by familyMFm;
+#	sub man ZWJ woman ZWJ girl by familyMFf;
+#	sub man ZWJ woman ZWJ girl ZWJ boy by familyMFfm;
+#	sub man ZWJ woman ZWJ boy ZWJ boy by familyMFmm;
+#	sub man ZWJ woman ZWJ girl ZWJ girl by familyMFff;
+	sub man ZWJ man ZWJ boy by familyMMm;
+	sub man ZWJ man ZWJ girl by familyMMf;
+	sub man ZWJ man ZWJ girl ZWJ boy by familyMMfm;
+	sub man ZWJ man ZWJ boy ZWJ boy by familyMMmm;
+	sub man ZWJ man ZWJ girl ZWJ girl by familyMMff;
+	sub woman ZWJ woman ZWJ boy by familyFFm;
+	sub woman ZWJ woman ZWJ girl by familyFFf;
+	sub woman ZWJ woman ZWJ girl ZWJ boy by familyFFfm;
+	sub woman ZWJ woman ZWJ boy ZWJ boy by familyFFmm;
+	sub woman ZWJ woman ZWJ girl ZWJ girl by familyFFff;
+
+	# Single-parent families, unsupported by other vendors
+	sub woman ZWJ boy by familyFm; # unsupported by other vendors
+	sub woman ZWJ girl by familyFf; # unsupported by other vendors
+	sub woman ZWJ girl ZWJ boy by familyFfm; # unsupported by other vendors
+	sub woman ZWJ boy ZWJ boy by familyFmm; # unsupported by other vendors
+	sub woman ZWJ girl ZWJ girl by familyFff; # unsupported by other vendors
+	sub man ZWJ boy by familyMm; # unsupported by other vendors
+	sub man ZWJ girl by familyMf; # unsupported by other vendors
+	sub man ZWJ girl ZWJ boy by familyMfm; # unsupported by other vendors
+	sub man ZWJ boy ZWJ boy by familyMmm; # unsupported by other vendors
+	sub man ZWJ girl ZWJ girl by familyMff; # unsupported by other vendors
+	
+	# Couples
+	sub woman ZWJ heartheavy emoji ZWJ man by coupleheartFM;
+	sub man ZWJ heartheavy emoji ZWJ man by coupleheartMM;
+	sub woman ZWJ heartheavy emoji ZWJ woman by coupleheartFF;
+	sub man ZWJ heartheavy emoji ZWJ woman by coupleheartMF; # unsupported by other vendors
+	
+	# Kisses
+	sub woman ZWJ heartheavy emoji ZWJ kissmark ZWJ man by kissFM;
+	sub man ZWJ heartheavy emoji ZWJ kissmark ZWJ man by kissMM;
+	sub woman ZWJ heartheavy emoji ZWJ kissmark ZWJ woman by kissFF;
+	sub man ZWJ heartheavy emoji ZWJ kissmark ZWJ woman by kissMF; # unsupported by other vendors
 
 	# Flags
 	sub Aregionindicator Cregionindicator by flagAscensionIsland;

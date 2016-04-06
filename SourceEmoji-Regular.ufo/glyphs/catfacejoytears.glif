@@ -2,9 +2,8 @@
 <glyph name="catfacejoytears" format="1">
 	<advance width="1000"/>
 	<outline>
-		<component base="face.c"/>
+		<component base="facecattears"/>
 		<component base="eyesmiling"/>
-		<component base="tears"/>
 		<component base="nose.c"/>
 		<component base="smile.c"/>
 	</outline>
@@ -63,13 +62,6 @@
 					<integer>1000</integer>
 				</dict>
 			</dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<integer>1</integer>
-				<integer>0</integer>
-				<integer>0</integer>
-				<integer>1</integer>
-			</array>
 		</dict>
 	</lib>
 </glyph>

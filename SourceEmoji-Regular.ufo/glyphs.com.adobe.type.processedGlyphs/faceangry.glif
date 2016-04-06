@@ -3,39 +3,7 @@
 	<advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="416" y="582" />
-      <point x="432" y="576" />
-      <point x="448" y="583" />
-      <point type="curve" x="454" y="600" />
-      <point x="460" y="617" />
-      <point x="453" y="632" />
-      <point type="curve" x="436" y="638" />
-      <point type="line" x="304" y="686" />
-      <point x="288" y="692" />
-      <point x="272" y="685" />
-      <point type="curve" x="266" y="668" />
-      <point x="260" y="651" />
-      <point x="267" y="636" />
-      <point type="curve" x="284" y="630" />
-    </contour>
-    <contour>
-      <point type="line" x="716" y="630" />
-      <point x="733" y="636" />
-      <point x="740" y="651" />
-      <point type="curve" x="734" y="668" />
-      <point x="728" y="685" />
-      <point x="712" y="692" />
-      <point type="curve" x="696" y="686" />
-      <point type="line" x="564" y="638" />
-      <point x="547" y="632" />
-      <point x="540" y="617" />
-      <point type="curve" x="546" y="600" />
-      <point x="552" y="583" />
-      <point x="568" y="576" />
-      <point type="curve" x="584" y="582" />
-    </contour>
-    <contour>
-      <point type="curve" x="500" y="-94" />
+      <point name="hintSet0000" type="curve" x="500" y="-94" />
       <point x="774" y="-94" />
       <point x="972" y="106" />
       <point type="curve" x="972" y="380" />
@@ -133,6 +101,56 @@
       <point type="curve" x="500" y="194" />
       <point x="570" y="194" />
       <point x="623" y="169" />
+    </contour>
+    <contour>
+      <point type="line" x="416" y="582" />
+      <point x="420" y="581" />
+      <point x="424" y="580" />
+      <point type="curve" x="427" y="580" />
+      <point x="443" y="580" />
+      <point x="456" y="594" />
+      <point type="curve" x="456" y="612" />
+      <point x="456" y="624" />
+      <point x="449" y="633" />
+      <point type="curve" x="436" y="638" />
+      <point type="line" x="304" y="686" />
+      <point x="300" y="687" />
+      <point x="296" y="688" />
+      <point type="curve" x="293" y="688" />
+      <point x="277" y="688" />
+      <point x="264" y="674" />
+      <point type="curve" x="264" y="656" />
+      <point x="264" y="644" />
+      <point x="271" y="635" />
+      <point type="curve" x="284" y="630" />
+    </contour>
+    <contour>
+      <point type="line" x="716" y="630" />
+      <point x="729" y="635" />
+      <point x="736" y="644" />
+      <point type="curve" x="736" y="656" />
+      <point x="736" y="660" />
+      <point x="735" y="664" />
+      <point type="curve" x="734" y="668" />
+      <point x="729" y="681" />
+      <point x="719" y="688" />
+      <point type="curve" x="707" y="688" />
+      <point x="704" y="688" />
+      <point x="700" y="687" />
+      <point type="curve" x="696" y="686" />
+      <point type="line" x="564" y="638" />
+      <point x="551" y="633" />
+      <point x="544" y="624" />
+      <point type="curve" x="544" y="612" />
+      <point x="544" y="608" />
+      <point x="545" y="604" />
+      <point type="curve" x="546" y="600" />
+      <point x="551" y="587" />
+      <point x="561" y="580" />
+      <point type="curve" x="573" y="580" />
+      <point x="576" y="580" />
+      <point x="580" y="581" />
+      <point type="curve" x="584" y="582" />
     </contour>
   </outline>
   <lib>
@@ -291,17 +309,10 @@
           <integer>1000</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-				<real>0.8</real>
-        <integer>1</integer>
-        <real>0.4</real>
-        <integer>1</integer>
-      </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>1fb1aefb86409794cb29db905d6b74ea8bf578357539ed698d77b83e2b117ece4428852b1dcd07b2e1319674a877b67c432f35a53e4a4d56a5a8fb3afc7bc7a4</string>
+        <string>60c19397e924e443782037ba0d99f7b4df76f44fb0848c04b87825acf4572801702bc2defa71107df007d334fbf492405df0f2570b1b9f1cf08a909b13727097</string>
         <key>hintSetList</key>
         <array>
           <dict>

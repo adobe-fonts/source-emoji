@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="restroom" format="1">
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="496" y="-120" type="line"/>
+			<point x="520" y="-120" type="line"/>
+			<point x="520" y="1963"/>
+			<point x="498" y="-1555"/>
+			<point x="520" y="880" type="curve"/>
+			<point x="496" y="880" type="line"/>
+		</contour>
+		<component base="mensroom" xOffset="-260"/>
+		<component base="womensroom" xOffset="260"/>
+	</outline>
+</glyph>

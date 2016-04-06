@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="eyesrolling">
-	<advance width="1000" />
+  <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="403" y="560" />
-      <point x="424" y="539" />
-      <point x="436" y="508" />
-      <point type="curve" x="436" y="474" />
-      <point x="436" y="410" />
-      <point x="396" y="356" />
-      <point type="curve" x="328" y="356" />
+      <point name="hintSet0000" type="curve" x="328" y="356" />
       <point x="258" y="356" />
       <point x="218" y="410" />
       <point type="curve" x="218" y="474" />
@@ -25,28 +19,16 @@
       <point x="386" y="501" />
       <point x="403" y="525" />
       <point type="curve" x="403" y="554" />
+      <point x="403" y="556" />
+      <point x="403" y="559" />
+      <point type="curve" x="403" y="560" />
+      <point x="424" y="539" />
+      <point x="436" y="508" />
+      <point type="curve" x="436" y="474" />
+      <point x="436" y="410" />
+      <point x="396" y="356" />
     </contour>
     <contour>
-      <point type="curve" x="328" y="624" />
-      <point x="235" y="624" />
-      <point x="180" y="558" />
-      <point type="curve" x="180" y="474" />
-      <point x="180" y="388" />
-      <point x="233" y="322" />
-      <point type="curve" x="328" y="322" />
-      <point x="419" y="322" />
-      <point x="474" y="388" />
-      <point type="curve" x="474" y="474" />
-      <point x="474" y="558" />
-      <point x="419" y="624" />
-    </contour>
-    <contour>
-      <point type="line" x="749" y="560" />
-      <point x="770" y="538" />
-      <point x="782" y="507" />
-      <point type="curve" x="782" y="474" />
-      <point x="782" y="410" />
-      <point x="741" y="356" />
       <point type="curve" x="672" y="356" />
       <point x="604" y="356" />
       <point x="564" y="410" />
@@ -63,35 +45,50 @@
       <point x="731" y="501" />
       <point x="749" y="525" />
       <point type="curve" x="749" y="554" />
+      <point x="749" y="556" />
+      <point x="749" y="558" />
+      <point type="curve" x="749" y="560" />
+      <point x="770" y="538" />
+      <point x="782" y="507" />
+      <point type="curve" x="782" y="474" />
+      <point x="782" y="410" />
+      <point x="741" y="356" />
     </contour>
     <contour>
-      <point type="curve" x="672" y="624" />
-      <point x="581" y="624" />
-      <point x="526" y="558" />
-      <point type="curve" x="526" y="474" />
-      <point x="526" y="388" />
-      <point x="581" y="322" />
+      <point type="curve" x="328" y="322" />
+      <point x="419" y="322" />
+      <point x="474" y="388" />
+      <point type="curve" x="474" y="474" />
+      <point x="474" y="558" />
+      <point x="419" y="624" />
+      <point type="curve" x="328" y="624" />
+      <point x="235" y="624" />
+      <point x="180" y="558" />
+      <point type="curve" x="180" y="474" />
+      <point x="180" y="388" />
+      <point x="233" y="322" />
+    </contour>
+    <contour>
       <point type="curve" x="672" y="322" />
       <point x="766" y="322" />
       <point x="820" y="388" />
       <point type="curve" x="820" y="474" />
       <point x="820" y="558" />
       <point x="766" y="624" />
+      <point type="curve" x="672" y="624" />
+      <point x="581" y="624" />
+      <point x="526" y="558" />
+      <point type="curve" x="526" y="474" />
+      <point x="526" y="388" />
+      <point x="581" y="322" />
     </contour>
   </outline>
   <lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-      <array>
-				<real>0.4</real>
-        <real>0.8</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
+    <dict>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>682ea91418b9a9f440a985fe4dd8393fa7d72f4f9eb30fc2891dcd249539367ce358ef2a50151c77aeb9ad54bd49bdcb263ed4be1ec0f8ef3c1eae07aebfd655</string>
+        <string>566934ae5898943c2385bb83d7360934e60104fc9580c23ad58dfebc315de45f2a0d9e899b87a548c4164d4486fdeb5c1aa93eb1b3b50d8920aaa6be3c86308a</string>
         <key>hintSetList</key>
         <array>
           <dict>
