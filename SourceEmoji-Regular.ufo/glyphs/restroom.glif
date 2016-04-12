@@ -10,7 +10,7 @@
 			<point x="520" y="880" type="curve"/>
 			<point x="496" y="880" type="line"/>
 		</contour>
-		<component base="mensroom" xOffset="-260"/>
-		<component base="womensroom" xOffset="260"/>
+		<component base="mensroom" xScale="0.9" yScale="0.9" xOffset="-210" yOffset="30"/>
+		<component base="womensroom" xScale="0.9" yScale="0.9" xOffset="330" yOffset="30"/>
 	</outline>
 </glyph>

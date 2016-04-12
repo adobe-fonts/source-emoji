@@ -38,7 +38,7 @@
 		</contour>
 		<component base="face"/>
 		<component base="eyesneutral"/>
-		<component base="browsconcerned" yOffset="20"/>
+		<component base="browsconcerned" yOffset="40"/>
 	</outline>
 	<lib>
 		<dict>
@@ -80,13 +80,6 @@
 					<integer>1000</integer>
 				</dict>
 			</dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<integer>1</integer>
-				<integer>1</integer>
-				<integer>0</integer>
-				<integer>1</integer>
-			</array>
 		</dict>
 	</lib>
 </glyph>
