@@ -3,52 +3,6 @@
 	<advance width="1000"/>
 	<outline>
 		<contour>
-			<point x="233" y="-17" type="curve" smooth="yes"/>
-			<point x="782" y="-17" type="line" smooth="yes"/>
-			<point x="899" y="-17"/>
-			<point x="959" y="40"/>
-			<point x="959" y="120" type="curve" smooth="yes"/>
-			<point x="959" y="161"/>
-			<point x="945" y="202"/>
-			<point x="919" y="247" type="curve" smooth="yes"/>
-			<point x="644" y="723" type="line" smooth="yes"/>
-			<point x="603" y="794"/>
-			<point x="552" y="827"/>
-			<point x="500" y="827" type="curve" smooth="yes"/>
-			<point x="444" y="827"/>
-			<point x="392" y="788"/>
-			<point x="347" y="710" type="curve" smooth="yes"/>
-			<point x="74" y="234" type="line" smooth="yes"/>
-			<point x="50" y="193"/>
-			<point x="39" y="156"/>
-			<point x="39" y="123" type="curve" smooth="yes"/>
-			<point x="39" y="38"/>
-			<point x="111" y="-17"/>
-		</contour>
-		<contour>
-			<point x="221" y="52" type="line" smooth="yes"/>
-			<point x="151" y="52"/>
-			<point x="110" y="81"/>
-			<point x="110" y="132" type="curve" smooth="yes"/>
-			<point x="110" y="150"/>
-			<point x="115" y="171"/>
-			<point x="128" y="193" type="curve" smooth="yes"/>
-			<point x="413" y="687" type="line" smooth="yes"/>
-			<point x="438" y="730"/>
-			<point x="469" y="754"/>
-			<point x="500" y="754" type="curve" smooth="yes"/>
-			<point x="529" y="754"/>
-			<point x="558" y="735"/>
-			<point x="580" y="697" type="curve" smooth="yes"/>
-			<point x="867" y="202" type="line" smooth="yes"/>
-			<point x="882" y="176"/>
-			<point x="889" y="151"/>
-			<point x="889" y="126" type="curve" smooth="yes"/>
-			<point x="889" y="83"/>
-			<point x="852" y="52"/>
-			<point x="791" y="52" type="curve" smooth="yes"/>
-		</contour>
-		<contour>
 			<point x="469" y="336" type="line" smooth="yes"/>
 			<point x="470" y="324"/>
 			<point x="478" y="316"/>
@@ -82,6 +36,7 @@
 			<point x="429" y="144"/>
 			<point x="460" y="112"/>
 		</contour>
+		<component base="trianglecornersrounded"/>
 	</outline>
 	<lib>
 		<dict>

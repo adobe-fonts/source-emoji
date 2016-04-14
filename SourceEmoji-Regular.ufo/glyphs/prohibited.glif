@@ -2,26 +2,7 @@
 <glyph name="prohibited" format="1">
 	<advance width="1000"/>
 	<outline>
-		<contour>
-			<point x="500" y="-94" type="curve" smooth="yes"/>
-			<point x="774" y="-94"/>
-			<point x="972" y="106"/>
-			<point x="972" y="380" type="curve" smooth="yes"/>
-			<point x="972" y="654"/>
-			<point x="774" y="854"/>
-			<point x="500" y="854" type="curve" smooth="yes"/>
-			<point x="226" y="854"/>
-			<point x="28" y="654"/>
-			<point x="28" y="380" type="curve" smooth="yes"/>
-			<point x="28" y="106"/>
-			<point x="226" y="-94"/>
-		</contour>
-		<contour>
-			<point x="142" y="278" type="line"/>
-			<point x="142" y="484" type="line"/>
-			<point x="858" y="484" type="line"/>
-			<point x="858" y="278" type="line"/>
-		</contour>
+		<component base="no"/>
 	</outline>
 	<lib>
 		<dict>
@@ -270,9 +251,9 @@
 			</dict>
 			<key>com.typemytype.robofont.mark</key>
 			<array>
-				<real>0.8</real>
 				<integer>1</integer>
-				<real>0.4</real>
+				<integer>0</integer>
+				<integer>0</integer>
 				<integer>1</integer>
 			</array>
 		</dict>
