@@ -1,42 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hairgirl.b" format="1">
-  <advance width="1000"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="hairgirl.b">
+  <advance width="1000" />
   <outline>
     <contour>
-      <point x="500" y="862" type="curve"/>
-      <point x="204" y="862"/>
-      <point x="12" y="674"/>
-      <point x="12" y="306" type="curve" smooth="yes"/>
-      <point x="12" y="38"/>
-      <point x="109" y="-89"/>
-      <point x="376" y="-62" type="curve"/>
-      <point x="236" y="80" type="line"/>
-      <point x="162" y="250" type="line"/>
-      <point x="80" y="280" type="line"/>
-      <point x="80" y="470" type="line"/>
-      <point x="206" y="500" type="line"/>
-      <point x="210" y="516"/>
-      <point x="214" y="532"/>
-      <point x="220" y="549" type="curve"/>
-      <point x="260" y="529"/>
-      <point x="340" y="528"/>
-      <point x="500" y="528" type="curve" smooth="yes"/>
-      <point x="660" y="528"/>
-      <point x="740" y="529"/>
-      <point x="780" y="549" type="curve"/>
-      <point x="786" y="532"/>
-      <point x="790" y="516"/>
-      <point x="794" y="500" type="curve"/>
-      <point x="920" y="470" type="line"/>
-      <point x="920" y="280" type="line"/>
-      <point x="838" y="250" type="line"/>
-      <point x="764" y="80" type="line"/>
-      <point x="624" y="-62" type="line"/>
-      <point x="891" y="-89"/>
-      <point x="988" y="38"/>
-      <point x="988" y="306" type="curve" smooth="yes"/>
-      <point x="988" y="674"/>
-      <point x="796" y="862"/>
+      <point name="hintSet0000" type="curve" x="500" y="862" />
+      <point x="204" y="862" />
+      <point x="12" y="674" />
+      <point type="curve" x="12" y="306" />
+      <point x="12" y="38" />
+      <point x="109" y="-89" />
+      <point type="curve" x="376" y="-62" />
+      <point type="line" x="236" y="80" />
+      <point type="line" x="162" y="250" />
+      <point type="line" x="80" y="280" />
+      <point type="line" x="80" y="470" />
+      <point type="line" x="206" y="500" />
+      <point x="210" y="516" />
+      <point x="214" y="532" />
+      <point type="curve" x="220" y="549" />
+      <point x="260" y="529" />
+      <point x="340" y="528" />
+      <point type="curve" x="500" y="528" />
+      <point x="660" y="528" />
+      <point x="740" y="529" />
+      <point type="curve" x="780" y="549" />
+      <point x="786" y="532" />
+      <point x="790" y="516" />
+      <point type="curve" x="794" y="500" />
+      <point type="line" x="920" y="470" />
+      <point type="line" x="920" y="280" />
+      <point type="line" x="838" y="250" />
+      <point type="line" x="764" y="80" />
+      <point type="line" x="624" y="-62" />
+      <point x="891" y="-89" />
+      <point x="988" y="38" />
+      <point type="curve" x="988" y="306" />
+      <point x="988" y="674" />
+      <point x="796" y="862" />
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>269aa05f36e50f10944e4138602da96fe9677bd6992bc105d7bca3f70ee9e15f3e75b2a9de271083ccdb9b54ea174019cf851a09be2206e549765ff44639ffc1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 528 334</string>
+              <string>vstem 12 68</string>
+              <string>vstem 920 68</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,54 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="peace" format="1">
-  <advance width="1000"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="peace">
+  <advance width="1000" />
   <outline>
     <contour>
-      <point x="500" y="-114" type="curve" smooth="yes"/>
-      <point x="774" y="-114"/>
-      <point x="992" y="106"/>
-      <point x="992" y="380" type="curve" smooth="yes"/>
-      <point x="992" y="654"/>
-      <point x="774" y="874"/>
-      <point x="500" y="874" type="curve" smooth="yes"/>
-      <point x="226" y="874"/>
-      <point x="8" y="654"/>
-      <point x="8" y="380" type="curve" smooth="yes"/>
-      <point x="8" y="106"/>
-      <point x="226" y="-114"/>
+      <point name="hintSet0000" type="curve" x="500" y="-114" />
+      <point x="774" y="-114" />
+      <point x="992" y="106" />
+      <point type="curve" x="992" y="380" />
+      <point x="992" y="654" />
+      <point x="774" y="874" />
+      <point type="curve" x="500" y="874" />
+      <point x="226" y="874" />
+      <point x="8" y="654" />
+      <point type="curve" x="8" y="380" />
+      <point x="8" y="106" />
+      <point x="226" y="-114" />
     </contour>
     <contour>
-      <point x="128" y="380" type="curve" smooth="yes"/>
-      <point x="128" y="584"/>
-      <point x="256" y="734"/>
-      <point x="444" y="758" type="curve"/>
-      <point x="444" y="488" type="line"/>
-      <point x="149" y="245" type="line"/>
-      <point x="135" y="286"/>
-      <point x="128" y="332"/>
+      <point type="curve" x="128" y="380" />
+      <point x="128" y="584" />
+      <point x="256" y="734" />
+      <point type="curve" x="444" y="758" />
+      <point type="line" x="444" y="488" />
+      <point type="line" x="149" y="245" />
+      <point x="135" y="286" />
+      <point x="128" y="332" />
     </contour>
     <contour>
-      <point x="872" y="380" type="curve" smooth="yes"/>
-      <point x="872" y="332"/>
-      <point x="865" y="286"/>
-      <point x="851" y="245" type="curve"/>
-      <point x="557" y="487" type="line"/>
-      <point x="557" y="758" type="line"/>
-      <point x="744" y="733"/>
-      <point x="872" y="584"/>
+      <point type="curve" x="872" y="380" />
+      <point x="872" y="332" />
+      <point x="865" y="286" />
+      <point type="curve" x="851" y="245" />
+      <point type="line" x="557" y="487" />
+      <point type="line" x="557" y="758" />
+      <point x="744" y="733" />
+      <point x="872" y="584" />
     </contour>
     <contour>
-      <point x="444" y="2" type="line"/>
-      <point x="342" y="15"/>
-      <point x="257" y="65"/>
-      <point x="202" y="141" type="curve"/>
-      <point x="444" y="347" type="line"/>
+      <point type="line" x="444" y="2" />
+      <point x="342" y="15" />
+      <point x="257" y="65" />
+      <point type="curve" x="202" y="141" />
+      <point type="line" x="444" y="347" />
     </contour>
     <contour>
-      <point x="557" y="2" type="curve"/>
-      <point x="557" y="346" type="line"/>
-      <point x="798" y="141" type="line"/>
-      <point x="743" y="66"/>
-      <point x="659" y="15"/>
+      <point type="curve" x="557" y="2" />
+      <point type="line" x="557" y="346" />
+      <point type="line" x="798" y="141" />
+      <point x="743" y="66" />
+      <point x="659" y="15" />
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>13a6b06f56184e8b9d5dccc3de1a39243aaab4f3ee35e06f2ece6f238f3a49a7e7863f20eec5e8b42566afb2594f57d24edbad55f3e36137b1efa26a71888dbf</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -114 116</string>
+              <string>hstem 758 116</string>
+              <string>vstem 8 120</string>
+              <string>vstem 444 113</string>
+              <string>vstem 872 120</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

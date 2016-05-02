@@ -3,8 +3,8 @@
 	<advance width="1000"/>
 	<outline>
 		<component base="face"/>
-		<component base="eyesneutral"/>
-		<component base="mouthsmile"/>
+		<component base="eyestight" xScale="0.8660254038" xyScale="0.5" yxScale="-0.5" yScale="0.8660254038" xOffset="257" yOffset="-199"/>
+		<component base="mouthsmiletongue" xScale="0.8660254038" xyScale="0.5" yxScale="-0.5" yScale="0.8660254038" xOffset="257" yOffset="-199"/>
 	</outline>
 	<lib>
 		<dict>
@@ -22,13 +22,6 @@
 					<key>y</key>
 					<integer>330</integer>
 				</dict>
-			</array>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<integer>1</integer>
-				<integer>1</integer>
-				<integer>0</integer>
-				<integer>1</integer>
 			</array>
 		</dict>
 	</lib>

@@ -1,55 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="popcorn" format="1">
-  <advance width="1000"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="popcorn">
+  <advance width="1000" />
   <outline>
     <contour>
-      <point x="761" y="18" type="curve" smooth="yes"/>
-      <point x="914" y="18"/>
-      <point x="999" y="92"/>
-      <point x="999" y="219" type="curve" smooth="yes"/>
-      <point x="999" y="322"/>
-      <point x="944" y="390"/>
-      <point x="844" y="412" type="curve"/>
-      <point x="858" y="432"/>
-      <point x="865" y="458"/>
-      <point x="865" y="487" type="curve" smooth="yes"/>
-      <point x="865" y="569"/>
-      <point x="810" y="617"/>
-      <point x="712" y="617" type="curve" smooth="yes"/>
-      <point x="688" y="617"/>
-      <point x="667" y="614"/>
-      <point x="649" y="609" type="curve"/>
-      <point x="617" y="700"/>
-      <point x="530" y="750"/>
-      <point x="397" y="750" type="curve" smooth="yes"/>
-      <point x="227" y="750"/>
-      <point x="132" y="668"/>
-      <point x="132" y="525" type="curve" smooth="yes"/>
-      <point x="132" y="502"/>
-      <point x="134" y="481"/>
-      <point x="139" y="462" type="curve"/>
-      <point x="49" y="428"/>
-      <point x="0" y="355"/>
-      <point x="0" y="251" type="curve" smooth="yes"/>
-      <point x="0" y="104"/>
-      <point x="99" y="18"/>
-      <point x="275" y="18" type="curve" smooth="yes"/>
-      <point x="407" y="18"/>
-      <point x="496" y="66"/>
-      <point x="532" y="152" type="curve"/>
-      <point x="559" y="66"/>
-      <point x="638" y="18"/>
+      <point name="hintSet0000" type="curve" x="761" y="18" />
+      <point x="914" y="18" />
+      <point x="999" y="92" />
+      <point type="curve" x="999" y="219" />
+      <point x="999" y="322" />
+      <point x="944" y="390" />
+      <point type="curve" x="844" y="412" />
+      <point x="858" y="432" />
+      <point x="865" y="458" />
+      <point type="curve" x="865" y="487" />
+      <point x="865" y="569" />
+      <point x="810" y="617" />
+      <point type="curve" x="712" y="617" />
+      <point x="688" y="617" />
+      <point x="667" y="614" />
+      <point type="curve" x="649" y="609" />
+      <point x="617" y="700" />
+      <point x="530" y="750" />
+      <point type="curve" x="397" y="750" />
+      <point x="227" y="750" />
+      <point x="132" y="668" />
+      <point type="curve" x="132" y="525" />
+      <point x="132" y="502" />
+      <point x="134" y="481" />
+      <point type="curve" x="139" y="462" />
+      <point x="49" y="428" />
+      <point x="0" y="355" />
+      <point type="curve" x="0" y="251" />
+      <point x="0" y="104" />
+      <point x="99" y="18" />
+      <point type="curve" x="275" y="18" />
+      <point x="407" y="18" />
+      <point x="496" y="66" />
+      <point type="curve" x="532" y="152" />
+      <point x="559" y="66" />
+      <point x="638" y="18" />
     </contour>
     <contour>
-      <point x="544" y="316" type="curve"/>
-      <point x="543" y="320"/>
-      <point x="542" y="323"/>
-      <point x="541" y="327" type="curve"/>
-      <point x="545" y="329"/>
-      <point x="550" y="332"/>
-      <point x="555" y="334" type="curve"/>
-      <point x="551" y="328"/>
-      <point x="547" y="322"/>
+      <point type="curve" x="544" y="316" />
+      <point x="543" y="320" />
+      <point x="542" y="323" />
+      <point type="curve" x="541" y="327" />
+      <point x="545" y="329" />
+      <point x="550" y="332" />
+      <point type="curve" x="555" y="334" />
+      <point x="551" y="328" />
+      <point x="547" y="322" />
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>c5b4debcec4f34418b6a172cb4dccd848ffeeab3fb1cf5a28bf20ba5f25673e4c00dc0163286c9ee5c028c5d3dd4e5870e81f6591dcfe5c551014c91ec72aaab</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 18 732</string>
+              <string>vstem 0 999</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

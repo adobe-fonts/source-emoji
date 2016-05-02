@@ -3,7 +3,8 @@
 	<advance width="1000"/>
 	<outline>
 		<component base="facecat"/>
-		<component base="nose.c"/>
+		<component base="nose.c" yOffset="-10"/>
+		<component base="eyesneutral" yOffset="-10"/>
 	</outline>
 	<lib>
 		<dict>

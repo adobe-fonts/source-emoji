@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="heart">
+	<unicode hex="2665" />
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="502" y="-110" />
+      <point x="847" y="240" />
+      <point x="912" y="412" />
+      <point type="curve" x="912" y="602" />
+      <point x="912" y="776" />
+      <point x="824" y="866" />
+      <point type="curve" x="710" y="866" />
+      <point x="619" y="866" />
+      <point x="543" y="824" />
+      <point type="curve" x="502" y="706" />
+      <point type="line" x="498" y="706" />
+      <point x="457" y="824" />
+      <point x="386" y="866" />
+      <point type="curve" x="290" y="866" />
+      <point x="176" y="866" />
+      <point x="88" y="776" />
+      <point type="curve" x="88" y="602" />
+      <point x="88" y="412" />
+      <point x="153" y="240" />
+      <point type="curve" x="498" y="-110" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>94808677cfa09e5cba7a9dab420dc96513457665979c9033de1fdf836ce16240cd9db603f23f0d0b5e5bde53b6181aaccd19025b5c0670d529e663b9b54eadd8</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -110 976</string>
+              <string>vstem 88 824</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -60,7 +60,7 @@ feature ccmp { # Glyph Composition / Decomposition
 	# Groups of people
 	# These sequences ZWJ characters in between. See http://unicode.org/emoji/charts/emoji-zwj-sequences.html
 
-	# Families
+	# Families ---------------------------------------------------------------------------
 	sub man ZWJ woman ZWJ boy by familyMFm;
 	sub man ZWJ woman ZWJ girl by familyMFf;
 	sub man ZWJ woman ZWJ girl ZWJ boy by familyMFfm;
@@ -95,19 +95,22 @@ feature ccmp { # Glyph Composition / Decomposition
 	sub man ZWJ boy ZWJ boy by familyMmm; # unsupported by other vendors
 	sub man ZWJ girl ZWJ girl by familyMff; # unsupported by other vendors
 	
-	# Couples
+	# Couples ----------------------------------------------------------------------------
 	sub woman ZWJ heartheavy emoji ZWJ man by coupleheartFM;
 	sub man ZWJ heartheavy emoji ZWJ man by coupleheartMM;
 	sub woman ZWJ heartheavy emoji ZWJ woman by coupleheartFF;
 	sub man ZWJ heartheavy emoji ZWJ woman by coupleheartMF; # unsupported by other vendors
 	
-	# Kisses
+	# Kisses -----------------------------------------------------------------------------
 	sub woman ZWJ heartheavy emoji ZWJ kissmark ZWJ man by kissFM;
 	sub man ZWJ heartheavy emoji ZWJ kissmark ZWJ man by kissMM;
 	sub woman ZWJ heartheavy emoji ZWJ kissmark ZWJ woman by kissFF;
 	sub man ZWJ heartheavy emoji ZWJ kissmark ZWJ woman by kissMF; # unsupported by other vendors
 
-	# Flags
+	# CUSTOM _----------------------------------------------------------------------------
+	sub paperclip ZWJ eyes by clippy;
+	
+	# Flags ------------------------------------------------------------------------------
 	sub Aregionindicator Cregionindicator by flagAscensionIsland;
 	sub Aregionindicator Dregionindicator by flagAndorra;
 	sub Aregionindicator Eregionindicator by flagUnitedArabEmirates;

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="heartheavy">
+	<advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="502" y="-69" />
+      <point x="632" y="185" />
+      <point x="1000" y="151" />
+      <point type="curve" x="1000" y="541" />
+      <point x="1000" y="715" />
+      <point x="894" y="815" />
+      <point type="curve" x="738" y="815" />
+      <point x="616" y="815" />
+      <point x="538" y="767" />
+      <point type="curve" x="502" y="631" />
+      <point type="line" x="498" y="631" />
+      <point x="462" y="767" />
+      <point x="384" y="815" />
+      <point type="curve" x="262" y="815" />
+      <point x="106" y="815" />
+      <point x="0" y="715" />
+      <point type="curve" x="0" y="541" />
+      <point x="0" y="151" />
+      <point x="368" y="185" />
+      <point type="curve" x="498" y="-69" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>fe35c9f4dfacaf6cbd164d59031341029c435430bc811cd271f6bc322ec8377130e4ef86bedcf99509f6a2364ac3814221ad792cee3f104549e731a324c353f7</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -69 884</string>
+              <string>vstem 0 1000</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

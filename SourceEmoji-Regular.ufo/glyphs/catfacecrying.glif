@@ -38,9 +38,9 @@
 			<point x="671" y="343"/>
 		</contour>
 		<component base="facecat"/>
-		<component base="eyes.c"/>
-		<component base="mouthfrownsmall" yOffset="-20"/>
-		<component base="nose.c"/>
+		<component base="eyesclosed" yOffset="-10"/>
+		<component base="mouthfrownsmall" yOffset="-30"/>
+		<component base="nose.c" yOffset="-10"/>
 	</outline>
 	<lib>
 		<dict>

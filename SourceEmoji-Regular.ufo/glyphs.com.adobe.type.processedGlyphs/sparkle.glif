@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="sparkle">
+	<advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="92" y="378" />
+      <point type="line" x="92" y="384" />
+      <point x="310" y="452" />
+      <point x="382" y="570" />
+      <point type="curve" x="438" y="804" />
+      <point type="line" x="442" y="804" />
+      <point x="498" y="570" />
+      <point x="570" y="452" />
+      <point type="curve" x="788" y="384" />
+      <point type="line" x="788" y="378" />
+      <point x="570" y="310" />
+      <point x="498" y="192" />
+      <point type="curve" x="442" y="-42" />
+      <point type="line" x="438" y="-42" />
+      <point x="382" y="192" />
+      <point x="310" y="310" />
+    </contour>
+    <contour>
+      <point type="curve" x="38" y="346" />
+      <point x="282" y="274" />
+      <point x="344" y="159" />
+      <point type="curve" x="400" y="-90" />
+      <point x="422" y="-106" />
+      <point x="458" y="-106" />
+      <point type="curve" x="480" y="-90" />
+      <point x="536" y="159" />
+      <point x="598" y="274" />
+      <point type="curve" x="842" y="346" />
+      <point x="851" y="358" />
+      <point x="851" y="404" />
+      <point type="curve" x="842" y="416" />
+      <point x="598" y="488" />
+      <point x="536" y="603" />
+      <point type="curve" x="480" y="852" />
+      <point x="460" y="868" />
+      <point x="422" y="868" />
+      <point type="curve" x="400" y="852" />
+      <point x="344" y="603" />
+      <point x="282" y="488" />
+      <point type="curve" x="38" y="416" />
+      <point x="29" y="404" />
+      <point x="29" y="358" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>6813c434ebb767a832c0162a4d83de810f3572017cd53d3fc5224d7c317ac598c850a78885efe6fdbda5b7a7ac1fbf995c7bc0fa20a5584ddd933667d178c4fa</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -102 60</string>
+              <string>hstem 804 60</string>
+              <string>vstem 31 61</string>
+              <string>vstem 788 61</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
