@@ -108,7 +108,7 @@ feature ccmp { # Glyph Composition / Decomposition
 	sub man ZWJ heartheavy emoji ZWJ kissmark ZWJ woman by kissMF; # unsupported by other vendors
 
 	# CUSTOM _----------------------------------------------------------------------------
-	sub paperclip ZWJ eyes by clippy;
+	sub paperclip ZWJ personinfodesk by clippy;
 	
 	# Flags ------------------------------------------------------------------------------
 	sub Aregionindicator Cregionindicator by flagAscensionIsland;
