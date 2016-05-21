@@ -33,8 +33,8 @@
 			<point x="592" y="-120"/>
 		</contour>
 		<component base="face"/>
-		<component base="eyeswide"/>
-		<component base="mouthopen" yOffset="-40"/>
+		<component base="eyesneutral"/>
+		<component base="mouthopen"/>
 	</outline>
 	<lib>
 		<dict>
@@ -1394,7 +1394,7 @@
 			<key>com.typemytype.robofont.mark</key>
 			<array>
 				<integer>1</integer>
-				<integer>1</integer>
+				<integer>0</integer>
 				<integer>0</integer>
 				<integer>1</integer>
 			</array>

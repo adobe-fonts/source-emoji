@@ -3,8 +3,8 @@
 	<advance width="1000"/>
 	<outline>
 		<component base="face"/>
-		<component base="eyesneutral"/>
-		<component base="mouthsmile"/>
+		<component base="mouthfrownsmall"/>
+		<component base="handfingerssplayedreversed" xScale="0.3535533906" xyScale="0.3535533906" yxScale="-0.3535533906" yScale="0.3535533906" xOffset="454" yOffset="230"/>
 	</outline>
 	<lib>
 		<dict>
@@ -26,7 +26,7 @@
 			<key>com.typemytype.robofont.mark</key>
 			<array>
 				<integer>1</integer>
-				<integer>1</integer>
+				<integer>0</integer>
 				<integer>0</integer>
 				<integer>1</integer>
 			</array>

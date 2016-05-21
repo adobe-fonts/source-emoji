@@ -2,9 +2,11 @@
 <glyph name="facehugging" format="1">
 	<advance width="1000"/>
 	<outline>
-		<component base="face"/>
-		<component base="eyesneutral"/>
-		<component base="mouthsmile"/>
+		<component base="face" xScale="0.8" yScale="0.8" xOffset="100" yOffset="186"/>
+		<component base="eyesmiling" xScale="0.8" yScale="0.8" xOffset="100" yOffset="186"/>
+		<component base="mouthsmile" xScale="0.8" yScale="0.8" xOffset="100" yOffset="186"/>
+		<component base="handfingerssplayed" xScale="0.2828427125" xyScale="0.2828427125" yxScale="-0.2828427125" yScale="0.2828427125" xOffset="189" yOffset="-111"/>
+		<component base="handfingerssplayed" xScale="-0.2828427125" xyScale="0.2828427125" yxScale="0.2828427125" yScale="0.2828427125" xOffset="811" yOffset="-110"/>
 	</outline>
 	<lib>
 		<dict>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="personraisinghandscelebration" format="1">
+	<advance width="1000"/>
+	<outline>
+		<component base="handraised" xScale="0.5" xyScale="0" yxScale="0" yScale="0.5" yOffset="200"/>
+		<component base="handraised" xScale="-0.5" xyScale="0" yxScale="0" yScale="0.5" xOffset="1000" yOffset="200"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>
