@@ -750,12 +750,12 @@
       <point type="line" x="422" y="124" />
       <point type="line" x="609" y="124" />
       <point type="line" x="609" y="330" />
-      <point x="609" y="390" />
+      <point name="hintSet0275" x="609" y="390" />
       <point x="600" y="461" />
       <point type="curve" x="596" y="518" />
       <point type="line" x="599" y="518" />
       <point type="line" x="642" y="400" />
-      <point name="hintSet0278" type="line" x="745" y="124" />
+      <point type="line" x="745" y="124" />
       <point type="line" x="848" y="124" />
       <point type="line" x="848" y="646" />
       <point type="line" x="752" y="646" />
@@ -765,7 +765,7 @@
       <point type="curve" x="765" y="254" />
       <point type="line" x="762" y="254" />
       <point type="line" x="719" y="370" />
-      <point type="line" x="618" y="646" />
+      <point name="hintSet0286" type="line" x="618" y="646" />
       <point type="line" x="410" y="646" />
       <point type="line" x="348" y="402" />
       <point type="line" x="323" y="305" />
@@ -1064,7 +1064,7 @@
             <key>stems</key>
             <array>
               <string>hstem -47 41</string>
-              <string>hstem 119 41</string>
+              <string>hstem 124 36</string>
               <string>hstem 515 131</string>
               <string>vstem 124 93</string>
               <string>vstem 422 187</string>
@@ -1073,13 +1073,23 @@
           </dict>
           <dict>
             <key>pointTag</key>
-            <string>hintSet0278</string>
+            <string>hintSet0275</string>
             <key>stems</key>
             <array>
               <string>hstem 124 130</string>
+              <string>hstem 518 128</string>
+              <string>vstem 422 187</string>
+              <string>vstem 752 96</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0286</string>
+            <key>stems</key>
+            <array>
               <string>hstem 515 131</string>
               <string>vstem 124 93</string>
-              <string>vstem 752 96</string>
+              <string>vstem 422 187</string>
             </array>
           </dict>
         </array>

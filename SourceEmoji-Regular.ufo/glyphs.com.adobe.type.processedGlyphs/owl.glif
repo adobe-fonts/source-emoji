@@ -7,7 +7,7 @@
       <point x="360" y="415" />
       <point x="366" y="432" />
       <point type="curve" x="366" y="442" />
-      <point x="366" y="486" />
+      <point name="hintSet0002" x="366" y="486" />
       <point x="246" y="468" />
       <point type="curve" x="246" y="604" />
       <point x="246" y="675" />
@@ -25,7 +25,7 @@
       <point x="754" y="468" />
       <point x="634" y="486" />
       <point type="curve" x="634" y="442" />
-      <point x="634" y="432" />
+      <point name="hintSet0008" x="634" y="432" />
       <point x="640" y="415" />
       <point type="curve" x="640" y="392" />
       <point x="640" y="340" />
@@ -45,7 +45,7 @@
       <point x="667" y="516" />
       <point x="708" y="552" />
       <point type="curve" x="708" y="594" />
-      <point x="708" y="646" />
+      <point name="hintSet0015" x="708" y="646" />
       <point x="676" y="664" />
       <point type="curve" x="635" y="664" />
       <point name="flexCurve0016" x="592" y="664" />
@@ -57,11 +57,11 @@
       <point x="324" y="664" />
       <point x="292" y="646" />
       <point type="curve" x="292" y="594" />
-      <point x="292" y="552" />
+      <point name="hintSet0019" x="292" y="552" />
       <point x="334" y="516" />
     </contour>
     <contour>
-      <point type="curve" x="500" y="352" />
+      <point name="hintSet0020" type="curve" x="500" y="352" />
       <point x="512" y="352" />
       <point x="519" y="356" />
       <point type="curve" x="523" y="364" />
@@ -105,7 +105,7 @@
       <point x="602" y="-104" />
       <point x="681" y="-55" />
       <point type="curve" x="740" y="26" />
-      <point name="hintSet0036" x="789" y="93" />
+      <point x="789" y="93" />
       <point x="862" y="159" />
       <point type="curve" x="862" y="300" />
       <point x="862" y="452" />
@@ -216,8 +216,17 @@
             <string>hintSet0000</string>
             <key>stems</key>
             <array>
-              <string>hstem 714 152</string>
+              <string>hstem 624 40</string>
               <string>vstem 138 222</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0002</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 714 152</string>
+              <string>vstem 138 108</string>
             </array>
           </dict>
           <dict>
@@ -235,6 +244,15 @@
             <key>stems</key>
             <array>
               <string>hstem 714 152</string>
+              <string>vstem 754 108</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0008</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 352 102</string>
               <string>vstem 640 222</string>
             </array>
           </dict>
@@ -243,7 +261,7 @@
             <string>hintSet0010</string>
             <key>stems</key>
             <array>
-              <string>hstem 714 152</string>
+              <string>hstem 516 43</string>
               <string>vstem 138 222</string>
             </array>
           </dict>
@@ -252,20 +270,40 @@
             <string>hintSet0011</string>
             <key>stems</key>
             <array>
-              <string>hstem -104 72</string>
-              <string>hstem 352 102</string>
-              <string>hstem 624 40</string>
+              <string>hstem 516 148</string>
               <string>vstem 292 56</string>
-              <string>vstem 444 112</string>
               <string>vstem 652 56</string>
             </array>
           </dict>
           <dict>
             <key>pointTag</key>
-            <string>hintSet0036</string>
+            <string>hintSet0015</string>
             <key>stems</key>
             <array>
+              <string>hstem 624 40</string>
+              <string>vstem 292 56</string>
+              <string>vstem 652 56</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0019</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 516 148</string>
+              <string>vstem 292 56</string>
+              <string>vstem 652 56</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0020</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -104 72</string>
+              <string>hstem 352 102</string>
               <string>hstem 714 152</string>
+              <string>vstem 444 112</string>
               <string>vstem 640 222</string>
             </array>
           </dict>
@@ -294,10 +332,9 @@
             <array>
               <string>hstem -104 72</string>
               <string>hstem 352 102</string>
-              <string>hstem 624 40</string>
-              <string>vstem 292 56</string>
+              <string>hstem 714 152</string>
               <string>vstem 444 112</string>
-              <string>vstem 652 56</string>
+              <string>vstem 640 222</string>
             </array>
           </dict>
           <dict>
@@ -305,7 +342,7 @@
             <string>hintSet0051</string>
             <key>stems</key>
             <array>
-              <string>hstem 516 43</string>
+              <string>hstem 516 45</string>
               <string>hstem 624 40</string>
               <string>vstem 368 60</string>
             </array>
@@ -343,7 +380,7 @@
             <string>hintSet0059</string>
             <key>stems</key>
             <array>
-              <string>hstem 516 43</string>
+              <string>hstem 516 45</string>
               <string>hstem 624 40</string>
               <string>vstem 368 60</string>
             </array>
@@ -372,7 +409,7 @@
             <string>hintSet0065</string>
             <key>stems</key>
             <array>
-              <string>hstem 516 43</string>
+              <string>hstem 516 45</string>
               <string>vstem 572 60</string>
             </array>
           </dict>

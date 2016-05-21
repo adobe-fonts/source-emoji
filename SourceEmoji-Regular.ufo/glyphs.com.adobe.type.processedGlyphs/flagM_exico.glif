@@ -747,7 +747,7 @@
       <point x="431" y="465" />
       <point x="422" y="388" />
       <point type="curve" x="422" y="338" />
-      <point type="line" x="422" y="124" />
+      <point name="hintSet0272" type="line" x="422" y="124" />
       <point type="line" x="611" y="124" />
       <point type="line" x="646" y="238" />
       <point x="655" y="265" />
@@ -757,7 +757,7 @@
       <point x="687" y="293" />
       <point x="698" y="265" />
       <point type="curve" x="707" y="238" />
-      <point type="line" x="745" y="124" />
+      <point name="hintSet0278" type="line" x="745" y="124" />
       <point type="line" x="859" y="124" />
       <point type="line" x="744" y="389" />
       <point type="line" x="852" y="646" />
@@ -770,7 +770,7 @@
       <point x="673" y="491" />
       <point x="663" y="516" />
       <point type="curve" x="655" y="540" />
-      <point name="hintSet0287" type="line" x="622" y="646" />
+      <point type="line" x="622" y="646" />
       <point type="line" x="410" y="646" />
       <point type="line" x="348" y="402" />
       <point type="line" x="323" y="305" />
@@ -1074,7 +1074,7 @@
             <key>stems</key>
             <array>
               <string>hstem -47 41</string>
-              <string>hstem 124 37</string>
+              <string>hstem 124 36</string>
               <string>hstem 515 131</string>
               <string>vstem 124 93</string>
               <string>vstem 422 95</string>
@@ -1083,9 +1083,19 @@
           </dict>
           <dict>
             <key>pointTag</key>
-            <string>hintSet0287</string>
+            <string>hintSet0272</string>
             <key>stems</key>
             <array>
+              <string>hstem 124 37</string>
+              <string>vstem 422 95</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0278</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 124 36</string>
               <string>hstem 625 21</string>
               <string>vstem 124 93</string>
             </array>

@@ -143,10 +143,10 @@
       <point x="360" y="58" />
       <point x="351" y="64" />
       <point type="curve" x="342" y="69" />
-      <point x="316" y="58" />
+      <point name="hintSet0055" x="316" y="58" />
       <point x="286" y="51" />
       <point type="curve" x="249" y="44" />
-      <point type="line" x="257" y="4" />
+      <point name="hintSet0056" type="line" x="257" y="4" />
       <point name="flexCurve0057" x="282" y="7" />
       <point x="305" y="13" />
       <point type="curve" x="331" y="22" />
@@ -283,6 +283,24 @@
               <string>vstem 0 54</string>
               <string>vstem 89 222</string>
               <string>vstem 425 140</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0055</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 4 40</string>
+              <string>vstem 89 222</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0056</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 4 54</string>
+              <string>vstem 89 222</string>
               <string>vstem 603 51</string>
             </array>
           </dict>

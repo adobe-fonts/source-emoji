@@ -759,7 +759,7 @@
       <point x="244" y="112" />
     </contour>
     <contour>
-      <point type="line" x="501" y="124" />
+      <point name="hintSet0271" type="line" x="501" y="124" />
       <point type="line" x="611" y="124" />
       <point type="line" x="646" y="238" />
       <point x="655" y="265" />
@@ -1429,10 +1429,19 @@
           </dict>
           <dict>
             <key>pointTag</key>
+            <string>hintSet0271</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 124 79</string>
+              <string>vstem 780 40</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
             <string>hintSet0277</string>
             <key>stems</key>
             <array>
-              <string>hstem 119 41</string>
+              <string>hstem 124 36</string>
               <string>vstem 540 40</string>
             </array>
           </dict>

@@ -745,7 +745,7 @@
     </contour>
     <contour>
       <point type="line" x="277" y="385" />
-      <point type="line" x="277" y="561" />
+      <point name="hintSet0268" type="line" x="277" y="561" />
       <point type="line" x="325" y="561" />
       <point x="373" y="561" />
       <point x="397" y="537" />
@@ -757,7 +757,7 @@
     <contour>
       <point type="line" x="628" y="124" />
       <point type="line" x="732" y="124" />
-      <point type="line" x="732" y="557" />
+      <point name="hintSet0274" type="line" x="732" y="557" />
       <point type="line" x="844" y="557" />
       <point type="line" x="844" y="646" />
       <point type="line" x="516" y="646" />
@@ -1403,8 +1403,28 @@
               <string>hstem 557 89</string>
               <string>vstem 172 105</string>
               <string>vstem 397 99</string>
-              <string>vstem 628 104</string>
               <string>vstem 840 40</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0268</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 310 75</string>
+              <string>hstem 561 85</string>
+              <string>vstem 172 105</string>
+              <string>vstem 397 99</string>
+              <string>vstem 628 104</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0274</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 557 89</string>
+              <string>vstem 628 104</string>
             </array>
           </dict>
         </array>

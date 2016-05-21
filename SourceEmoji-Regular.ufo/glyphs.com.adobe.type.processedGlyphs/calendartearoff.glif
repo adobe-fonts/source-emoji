@@ -45,7 +45,7 @@
       <point type="curve" x="666" y="716" />
     </contour>
     <contour>
-      <point type="line" x="865" y="599" />
+      <point name="hintSet0020" type="line" x="865" y="599" />
       <point x="865" y="635" />
       <point x="835" y="666" />
       <point type="curve" x="799" y="666" />
@@ -105,6 +105,22 @@
             <array>
               <string>hstem -133 66</string>
               <string>hstem 466 83</string>
+              <string>hstem 732 67</string>
+              <string>vstem 0 67</string>
+              <string>vstem 133 67</string>
+              <string>vstem 266 67</string>
+              <string>vstem 532 67</string>
+              <string>vstem 666 66</string>
+              <string>vstem 799 66</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0020</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -133 66</string>
+              <string>hstem 466 200</string>
               <string>hstem 732 67</string>
               <string>vstem 0 67</string>
               <string>vstem 133 67</string>

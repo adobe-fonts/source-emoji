@@ -761,7 +761,7 @@
       <point type="line" x="803" y="354" />
       <point type="line" x="803" y="435" />
       <point type="line" x="665" y="435" />
-      <point type="line" x="665" y="562" />
+      <point name="hintSet0282" type="line" x="665" y="562" />
       <point type="line" x="827" y="562" />
       <point type="line" x="827" y="646" />
       <point type="line" x="561" y="646" />
@@ -1078,9 +1078,9 @@
             <key>stems</key>
             <array>
               <string>hstem -47 41</string>
-              <string>hstem 119 41</string>
+              <string>hstem 124 36</string>
               <string>hstem 256 79</string>
-              <string>hstem 562 84</string>
+              <string>hstem 563 83</string>
               <string>vstem 840 40</string>
             </array>
           </dict>
@@ -1091,6 +1091,15 @@
             <array>
               <string>hstem 124 86</string>
               <string>hstem 354 81</string>
+              <string>hstem 563 83</string>
+              <string>vstem 561 104</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0282</string>
+            <key>stems</key>
+            <array>
               <string>hstem 562 84</string>
               <string>vstem 561 104</string>
             </array>

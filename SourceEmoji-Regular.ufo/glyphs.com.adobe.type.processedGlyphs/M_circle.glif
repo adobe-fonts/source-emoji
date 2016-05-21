@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="Mcircle">
-	<advance width="1000" />
+	<unicode hex="24C2" />
+  <advance width="1000" />
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="500" y="-89" />
@@ -52,7 +53,7 @@
       <point type="curve" x="661" y="495" />
       <point type="line" x="657" y="495" />
       <point type="line" x="612" y="374" />
-      <point type="line" x="538" y="190" />
+      <point name="hintSet0026" type="line" x="538" y="190" />
       <point x="533" y="177" />
       <point x="525" y="171" />
       <point type="curve" x="511" y="171" />
@@ -66,7 +67,7 @@
       <point x="343" y="446" />
       <point x="351" y="368" />
       <point type="curve" x="351" y="318" />
-      <point type="line" x="351" y="144" />
+      <point name="hintSet0034" type="line" x="351" y="144" />
       <point x="351" y="132" />
       <point x="343" y="124" />
       <point type="curve" x="331" y="124" />
@@ -484,6 +485,30 @@
           <dict>
             <key>pointTag</key>
             <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -89 213</string>
+              <string>hstem 646 203</string>
+              <string>vstem 31 223</string>
+              <string>vstem 351 297</string>
+              <string>vstem 747 222</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0026</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -89 260</string>
+              <string>hstem 646 203</string>
+              <string>vstem 31 223</string>
+              <string>vstem 351 297</string>
+              <string>vstem 747 222</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0034</string>
             <key>stems</key>
             <array>
               <string>hstem -89 213</string>
