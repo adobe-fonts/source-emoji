@@ -2,11 +2,11 @@
 <glyph name="facehugging" format="1">
 	<advance width="1000"/>
 	<outline>
-		<component base="face" xScale="0.8" yScale="0.8" xOffset="100" yOffset="186"/>
-		<component base="eyesmiling" xScale="0.8" yScale="0.8" xOffset="100" yOffset="186"/>
-		<component base="mouthsmile" xScale="0.8" yScale="0.8" xOffset="100" yOffset="186"/>
-		<component base="handfingerssplayed" xScale="0.2828427125" xyScale="0.2828427125" yxScale="-0.2828427125" yScale="0.2828427125" xOffset="189" yOffset="-111"/>
-		<component base="handfingerssplayed" xScale="-0.2828427125" xyScale="0.2828427125" yxScale="0.2828427125" yScale="0.2828427125" xOffset="811" yOffset="-110"/>
+		<component base="face" xScale="0.8" yScale="0.8" xOffset="100" yOffset="170"/>
+		<component base="eyesmiling" xScale="0.8" yScale="0.8" xOffset="100" yOffset="170"/>
+		<component base="mouthsmile" xScale="0.8" yScale="0.8" xOffset="100" yOffset="170"/>
+		<component base="handfingerssplayed" xScale="0.2828427125" xyScale="0.2828427125" yxScale="-0.2828427125" yScale="0.2828427125" xOffset="189" yOffset="-151"/>
+		<component base="handfingerssplayed" xScale="-0.2828427125" xyScale="0.2828427125" yxScale="0.2828427125" yScale="0.2828427125" xOffset="811" yOffset="-150"/>
 	</outline>
 	<lib>
 		<dict>
@@ -25,6 +25,96 @@
 					<integer>330</integer>
 				</dict>
 			</array>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+				<key>mask</key>
+				<dict>
+					<key>anchors</key>
+					<array>
+					</array>
+					<key>components</key>
+					<array>
+						<dict>
+							<key>baseGlyph</key>
+							<string>face</string>
+							<key>transformation</key>
+							<array>
+								<real>0.8</real>
+								<integer>0</integer>
+								<integer>0</integer>
+								<real>0.8</real>
+								<integer>100</integer>
+								<integer>170</integer>
+							</array>
+						</dict>
+						<dict>
+							<key>baseGlyph</key>
+							<string>eyesmiling</string>
+							<key>transformation</key>
+							<array>
+								<real>0.8</real>
+								<integer>0</integer>
+								<integer>0</integer>
+								<real>0.8</real>
+								<integer>100</integer>
+								<integer>170</integer>
+							</array>
+						</dict>
+						<dict>
+							<key>baseGlyph</key>
+							<string>mouthsmile</string>
+							<key>transformation</key>
+							<array>
+								<real>0.8</real>
+								<integer>0</integer>
+								<integer>0</integer>
+								<real>0.8</real>
+								<integer>100</integer>
+								<integer>170</integer>
+							</array>
+						</dict>
+						<dict>
+							<key>baseGlyph</key>
+							<string>handfingerssplayed</string>
+							<key>transformation</key>
+							<array>
+								<real>0.2828427125</real>
+								<real>0.2828427125</real>
+								<real>-0.2828427125</real>
+								<real>0.2828427125</real>
+								<integer>189</integer>
+								<integer>-151</integer>
+							</array>
+						</dict>
+						<dict>
+							<key>baseGlyph</key>
+							<string>handfingerssplayed</string>
+							<key>transformation</key>
+							<array>
+								<real>-0.2828427125</real>
+								<real>0.2828427125</real>
+								<real>0.2828427125</real>
+								<real>0.2828427125</real>
+								<integer>811</integer>
+								<integer>-150</integer>
+							</array>
+						</dict>
+					</array>
+					<key>contours</key>
+					<array>
+					</array>
+					<key>lib</key>
+					<dict>
+					</dict>
+					<key>name</key>
+					<string>facehugging</string>
+					<key>unicodes</key>
+					<array>
+					</array>
+					<key>width</key>
+					<integer>1000</integer>
+				</dict>
+			</dict>
 			<key>com.typemytype.robofont.mark</key>
 			<array>
 				<integer>1</integer>
