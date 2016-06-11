@@ -1,5 +1,5 @@
 table head {
-   FontRevision 1.013;
+   FontRevision 1.014;
 } head;
 
 #----------------------------------------
@@ -41,7 +41,6 @@ languagesystem latn dflt;
 
 #----------------------------------------
 
-
 feature ccmp { # Glyph Composition / Decomposition
 
 lookup ZWJ {
@@ -49,12 +48,32 @@ lookup ZWJ {
 	include (ZWJ.fea) # external 
 
 	# CUSTOM ZWJ -------------------------------------------------------------------------
-	sub paperclip ZWJ personinfodesk by clippy;
+	sub paperclip ZWJ personinforming by clippy;
+	sub balloonspeech ZWJ highvoltage by balloonanger;
+	sub balloonspeech ZWJ facemouthopensmiling by balloonhappy;
+	sub balloonspeech ZWJ heartheavy by balloonlove; 
+	sub handfingerssplayed ZWJ heartheavy by handiloveyou; 
 
 } ZWJ;
 
-#lookup SHORTCODES {
-#	include (shortcodes.fea)
-#} SHORTCODES;
+lookup SHORTCODES {
+	include (shortcodes.fea)
+} SHORTCODES;
 
 } ccmp;
+
+#----------------------------------------
+
+feature salt { # Stylistic alternates
+
+	sub cowboy from [cowboy.a];
+	sub man from [man.a];
+	sub woman from [woman.a];
+	sub boy from [boy.a];
+	sub girl from [girl.a];
+	sub chopsticks from [chopsticks.a];
+	sub clockmantel from [clockmantel.a];
+	sub facesavouringdeliciousfood from [facesavouringdeliciousfood.a];
+
+} salt;
+

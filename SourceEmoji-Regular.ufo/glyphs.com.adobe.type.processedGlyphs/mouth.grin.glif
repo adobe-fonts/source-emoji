@@ -1,27 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="mouth.grin">
-	<advance width="1000" />
+  <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="486" y="174" />
-      <point type="line" x="486" y="136" />
-      <point type="line" x="512" y="136" />
-      <point type="line" x="512" y="174" />
-      <point type="line" x="674" y="174" />
-      <point x="639" y="131" />
-      <point x="583" y="112" />
-      <point type="curve" x="500" y="112" />
-      <point x="417" y="112" />
-      <point x="361" y="131" />
-      <point type="curve" x="326" y="174" />
-    </contour>
-    <contour>
-      <point type="line" x="714" y="286" />
-      <point x="710" y="252" />
-      <point x="703" y="224" />
-      <point type="curve" x="691" y="200" />
-      <point type="line" x="632" y="200" />
-      <point type="line" x="632" y="250" />
+      <point name="hintSet0000" type="line" x="632" y="250" />
       <point type="line" x="606" y="250" />
       <point type="line" x="606" y="200" />
       <point type="line" x="512" y="200" />
@@ -33,48 +15,44 @@
       <point type="line" x="366" y="250" />
       <point type="line" x="366" y="200" />
       <point type="line" x="309" y="200" />
-      <point x="297" y="224" />
+      <point x="297" y="223" />
       <point x="290" y="252" />
       <point type="curve" x="286" y="286" />
+      <point type="line" x="714" y="286" />
+      <point x="710" y="252" />
+      <point x="703" y="223" />
+      <point type="curve" x="691" y="200" />
+      <point type="line" x="632" y="200" />
     </contour>
     <contour>
-      <point type="line" x="224" y="334" />
-      <point x="228" y="150" />
-      <point x="332" y="62" />
+      <point type="curve" x="500" y="112" />
+      <point x="417" y="112" />
+      <point x="361" y="131" />
+      <point type="curve" x="326" y="174" />
+      <point type="line" x="486" y="174" />
+      <point type="line" x="486" y="136" />
+      <point type="line" x="512" y="136" />
+      <point type="line" x="512" y="174" />
+      <point type="line" x="674" y="174" />
+      <point x="639" y="131" />
+      <point x="583" y="112" />
+    </contour>
+    <contour>
       <point type="curve" x="500" y="62" />
       <point x="668" y="62" />
       <point x="772" y="150" />
       <point type="curve" x="776" y="334" />
+      <point type="line" x="224" y="334" />
+      <point x="228" y="150" />
+      <point x="332" y="62" />
     </contour>
   </outline>
   <lib>
-		<dict>
-			<key>com.typemytype.robofont.guides</key>
-      <array>
-				<dict>
-					<key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false />
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>367</integer>
-          <key>y</key>
-          <integer>330</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-				<real>0.4</real>
-        <real>0.8</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
+    <dict>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>501d20466420b341a0e19280101da8532c1759facdf5190b3ed0249f0c92b45c76cbab86cf801f47f6da7573ee9afa81648110a71b6116cbd86175d7b0f8c6a3</string>
+        <string>d292936558ff4140aa68361b195b0c351067879dd83d9f95721fa43a2fe1c492ba367ce94e8eac87593a2d985991289c776bdca83eee514f365ade8a22f99394</string>
         <key>hintSetList</key>
         <array>
           <dict>
