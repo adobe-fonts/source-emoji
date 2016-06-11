@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="speaker">
+	<advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="700" y="616" />
+      <point x="700" y="634" />
+      <point x="685" y="649" />
+      <point type="curve" x="667" y="649" />
+      <point x="658" y="649" />
+      <point x="650" y="645" />
+      <point type="curve" x="644" y="639" />
+      <point type="line" x="471" y="466" />
+      <point type="line" x="334" y="466" />
+      <point x="316" y="466" />
+      <point x="301" y="451" />
+      <point type="curve" x="301" y="433" />
+      <point type="line" x="301" y="233" />
+      <point x="301" y="215" />
+      <point x="316" y="200" />
+      <point type="curve" x="334" y="200" />
+      <point type="line" x="471" y="200" />
+      <point type="line" x="644" y="27" />
+      <point x="650" y="20" />
+      <point x="658" y="17" />
+      <point type="curve" x="667" y="17" />
+      <point x="685" y="17" />
+      <point x="700" y="32" />
+      <point type="curve" x="700" y="50" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>0dca01a897b06de6954635106bd91616ff3262a71aaf6e87d077cfd98e985713279f54b1ce5e2972db81b211afe38f87522f9360d2016ca1f0c826b3fe54b4e7</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 200 266</string>
+              <string>vstem 301 399</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

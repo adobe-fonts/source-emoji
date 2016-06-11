@@ -3,39 +3,237 @@
 	<advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="356" y="18" />
-      <point type="line" x="152" y="226" />
-      <point type="line" x="152" y="536" />
-      <point type="line" x="356" y="744" />
-      <point type="line" x="644" y="744" />
-      <point type="line" x="848" y="536" />
-      <point type="line" x="848" y="226" />
-      <point type="line" x="644" y="18" />
+      <point name="hintSet0000" type="line" x="332" y="-34" />
+      <point type="line" x="94" y="206" />
+      <point type="line" x="94" y="556" />
+      <point type="line" x="332" y="796" />
+      <point type="line" x="668" y="796" />
+      <point type="line" x="906" y="556" />
+      <point type="line" x="906" y="206" />
+      <point type="line" x="668" y="-34" />
     </contour>
     <contour>
-      <point type="line" x="328" y="-34" />
-      <point type="line" x="672" y="-34" />
-      <point type="line" x="908" y="206" />
-      <point type="line" x="908" y="556" />
-      <point type="line" x="672" y="796" />
-      <point type="line" x="328" y="796" />
-      <point type="line" x="92" y="556" />
-      <point type="line" x="92" y="206" />
+      <point type="line" x="298" y="-94" />
+      <point type="line" x="702" y="-94" />
+      <point type="line" x="970" y="180" />
+      <point type="line" x="970" y="582" />
+      <point type="line" x="702" y="856" />
+      <point type="line" x="298" y="856" />
+      <point type="line" x="30" y="582" />
+      <point type="line" x="30" y="180" />
+    </contour>
+    <contour>
+      <point type="line" x="358" y="20" />
+      <point type="line" x="642" y="20" />
+      <point type="line" x="848" y="230" />
+      <point type="line" x="848" y="532" />
+      <point type="line" x="642" y="742" />
+      <point type="line" x="358" y="742" />
+      <point type="line" x="152" y="532" />
+      <point type="line" x="152" y="230" />
     </contour>
   </outline>
   <lib>
 		<dict>
-			<key>com.typemytype.robofont.mark</key>
-      <array>
-				<integer>1</integer>
-        <integer>0</integer>
-        <integer>0</integer>
-        <integer>1</integer>
-      </array>
+			<key>com.typemytype.robofont.layerData</key>
+      <dict>
+				<key>mask</key>
+        <dict>
+					<key>anchors</key>
+          <array>
+					</array>
+          <key>components</key>
+          <array>
+					</array>
+          <key>contours</key>
+          <array>
+						<dict>
+							<key>points</key>
+              <array>
+								<dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>356</integer>
+                  <key>y</key>
+                  <integer>18</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>152</integer>
+                  <key>y</key>
+                  <integer>226</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>152</integer>
+                  <key>y</key>
+                  <integer>536</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>356</integer>
+                  <key>y</key>
+                  <integer>744</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>644</integer>
+                  <key>y</key>
+                  <integer>744</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>848</integer>
+                  <key>y</key>
+                  <integer>536</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>848</integer>
+                  <key>y</key>
+                  <integer>226</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>644</integer>
+                  <key>y</key>
+                  <integer>18</integer>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+							<key>points</key>
+              <array>
+								<dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>328</integer>
+                  <key>y</key>
+                  <integer>-34</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>672</integer>
+                  <key>y</key>
+                  <integer>-34</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>908</integer>
+                  <key>y</key>
+                  <integer>206</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>908</integer>
+                  <key>y</key>
+                  <integer>556</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>672</integer>
+                  <key>y</key>
+                  <integer>796</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>328</integer>
+                  <key>y</key>
+                  <integer>796</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>92</integer>
+                  <key>y</key>
+                  <integer>556</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>92</integer>
+                  <key>y</key>
+                  <integer>206</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+					</dict>
+          <key>name</key>
+          <string>signoctagonal</string>
+          <key>unicodes</key>
+          <array>
+					</array>
+          <key>width</key>
+          <integer>1000</integer>
+        </dict>
+      </dict>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>w1000l35618l152226l152536l356744l644744l848536l848226l64418l328-34l672-34l908206l908556l672796l328796l92556l92206</string>
+        <string>528631a0d2f75b1136e018e9de68b20acd72571ea416e62782e0ba28baf3f77594b3bbba52045ff1c31470434a1b8c37922b8e865fd80a12005901c8af9e4fb1</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -43,10 +241,10 @@
             <string>hintSet0000</string>
             <key>stems</key>
             <array>
-              <string>hstem -34 52</string>
-              <string>hstem 744 52</string>
-              <string>vstem 92 60</string>
-              <string>vstem 848 60</string>
+              <string>hstem -94 60</string>
+              <string>hstem 796 60</string>
+              <string>vstem 30 64</string>
+              <string>vstem 906 64</string>
             </array>
           </dict>
         </array>

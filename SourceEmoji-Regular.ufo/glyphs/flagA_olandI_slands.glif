@@ -3,8 +3,8 @@
 	<advance width="1000"/>
 	<outline>
 		<component base="borderdotted"/>
-		<component base="A.a" xOffset="70"/>
-		<component base="X.a" xOffset="430"/>
+		<component base="A.a" xOffset="80"/>
+		<component base="X.a" xOffset="420"/>
 	</outline>
 	<lib>
 		<dict>
@@ -348,9 +348,9 @@
 			</dict>
 			<key>com.typemytype.robofont.mark</key>
 			<array>
+				<real>0.8</real>
 				<integer>1</integer>
-				<integer>0</integer>
-				<integer>1</integer>
+				<real>0.4</real>
 				<integer>1</integer>
 			</array>
 		</dict>
