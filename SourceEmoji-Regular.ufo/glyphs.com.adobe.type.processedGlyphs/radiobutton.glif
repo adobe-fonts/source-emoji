@@ -3,32 +3,32 @@
 	<advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="500" y="-94" />
-      <point x="774" y="-94" />
-      <point x="972" y="106" />
-      <point type="curve" x="972" y="380" />
-      <point x="972" y="654" />
-      <point x="774" y="854" />
-      <point type="curve" x="500" y="854" />
-      <point x="226" y="854" />
-      <point x="28" y="654" />
-      <point type="curve" x="28" y="380" />
-      <point x="28" y="106" />
-      <point x="226" y="-94" />
+      <point name="hintSet0000" type="curve" x="500" y="36" />
+      <point x="699" y="36" />
+      <point x="842" y="181" />
+      <point type="curve" x="842" y="380" />
+      <point x="842" y="579" />
+      <point x="699" y="724" />
+      <point type="curve" x="500" y="724" />
+      <point x="301" y="724" />
+      <point x="158" y="579" />
+      <point type="curve" x="158" y="380" />
+      <point x="158" y="181" />
+      <point x="301" y="36" />
     </contour>
     <contour>
-      <point type="curve" x="500" y="-42" />
-      <point x="258" y="-42" />
-      <point x="88" y="132" />
-      <point type="curve" x="88" y="380" />
-      <point x="88" y="628" />
-      <point x="258" y="802" />
-      <point type="curve" x="500" y="802" />
-      <point x="742" y="802" />
-      <point x="912" y="628" />
-      <point type="curve" x="912" y="380" />
-      <point x="912" y="132" />
-      <point x="742" y="-42" />
+      <point type="curve" x="500" y="88" />
+      <point x="334" y="88" />
+      <point x="218" y="208" />
+      <point type="curve" x="218" y="380" />
+      <point x="218" y="552" />
+      <point x="334" y="672" />
+      <point type="curve" x="500" y="672" />
+      <point x="666" y="672" />
+      <point x="782" y="552" />
+      <point type="curve" x="782" y="380" />
+      <point x="782" y="208" />
+      <point x="666" y="88" />
     </contour>
   </outline>
   <lib>
@@ -43,7 +43,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>0fca9e90c620b3d1d53bc9bb99c3ca91c49ed36a464c8ac2b3ed6ae19747c11e767f7fa7a1d0a1aac60b4df5fe3a7c14f11a81f9be043b87c3b2610d75379c2a</string>
+        <string>4a4f60bf296108bf8ef7a12e3c54ab84e0a102563760fa4e097fa319c94b9913ea7fc51a46e9ee8fe9c34832f74006cdf94ec76f0170f19a86546603eb2fea36</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -51,10 +51,10 @@
             <string>hintSet0000</string>
             <key>stems</key>
             <array>
-              <string>hstem -94 52</string>
-              <string>hstem 802 52</string>
-              <string>vstem 28 60</string>
-              <string>vstem 912 60</string>
+              <string>hstem 36 52</string>
+              <string>hstem 672 52</string>
+              <string>vstem 158 60</string>
+              <string>vstem 782 60</string>
             </array>
           </dict>
         </array>

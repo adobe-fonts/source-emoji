@@ -4,10 +4,10 @@
   <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="293" y="57" />
-      <point type="line" x="707" y="57" />
-      <point type="line" x="707" y="467" />
-      <point type="line" x="293" y="467" />
+      <point name="hintSet0000" type="line" x="293" y="175" />
+      <point type="line" x="707" y="175" />
+      <point type="line" x="707" y="585" />
+      <point type="line" x="293" y="585" />
     </contour>
   </outline>
   <lib>
@@ -18,14 +18,14 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
 				<integer>1</integer>
-        <integer>0</integer>
+        <integer>1</integer>
         <integer>0</integer>
         <integer>1</integer>
       </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>w1000l29357l70757l707467l293467</string>
+        <string>w1000l293175l707175l707585l293585</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -33,7 +33,7 @@
             <string>hintSet0000</string>
             <key>stems</key>
             <array>
-              <string>hstem 57 410</string>
+              <string>hstem 175 410</string>
               <string>vstem 293 414</string>
             </array>
           </dict>

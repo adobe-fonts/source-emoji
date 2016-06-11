@@ -4,10 +4,10 @@
   <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="280" y="110" />
-      <point type="line" x="720" y="110" />
-      <point type="line" x="720" y="550" />
-      <point type="line" x="280" y="550" />
+      <point name="hintSet0000" type="line" x="280" y="160" />
+      <point type="line" x="720" y="160" />
+      <point type="line" x="720" y="600" />
+      <point type="line" x="280" y="600" />
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>w1000l280110l720110l720550l280550</string>
+        <string>w1000l280160l720160l720600l280600</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -33,7 +33,7 @@
             <string>hintSet0000</string>
             <key>stems</key>
             <array>
-              <string>hstem 110 440</string>
+              <string>hstem 160 440</string>
               <string>vstem 280 440</string>
             </array>
           </dict>

@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="I">
+	<unicode hex="0049" />
+  <advance width="332" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="146" y="-10" />
+      <point type="line" x="186" y="-10" />
+      <point x="234" y="-10" />
+      <point x="266" y="22" />
+      <point type="curve" x="266" y="70" />
+      <point type="line" x="266" y="578" />
+      <point x="266" y="626" />
+      <point x="234" y="658" />
+      <point type="curve" x="186" y="658" />
+      <point type="line" x="146" y="658" />
+      <point x="98" y="658" />
+      <point x="66" y="626" />
+      <point type="curve" x="66" y="578" />
+      <point type="line" x="66" y="70" />
+      <point x="66" y="22" />
+      <point x="98" y="-10" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.layerData</key>
+      <dict>
+				<key>mask</key>
+        <dict>
+					<key>anchors</key>
+          <array>
+						<dict>
+							<key>name</key>
+              <string>aboveUC</string>
+              <key>x</key>
+              <integer>166</integer>
+              <key>y</key>
+              <integer>668</integer>
+            </dict>
+            <dict>
+							<key>name</key>
+              <string>ogonekUC</string>
+              <key>x</key>
+              <integer>150</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+							<key>name</key>
+              <string>baseLC</string>
+              <key>x</key>
+              <integer>169</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+							<key>name</key>
+              <string>belowLC</string>
+              <key>x</key>
+              <integer>166</integer>
+              <key>y</key>
+              <integer>-20</integer>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+					</array>
+          <key>contours</key>
+          <array>
+						<dict>
+							<key>points</key>
+              <array>
+								<dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>66</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>266</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>266</integer>
+                  <key>y</key>
+                  <integer>648</integer>
+                </dict>
+                <dict>
+									<key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false />
+                  <key>x</key>
+                  <integer>66</integer>
+                  <key>y</key>
+                  <integer>648</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+					</dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+					</array>
+          <key>width</key>
+          <integer>332</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w332c146-10l186-10234-1026622c26670l266578266626234658c186658l1466589865866626c66578l6670662298-10</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -10 668</string>
+              <string>vstem 66 200</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
