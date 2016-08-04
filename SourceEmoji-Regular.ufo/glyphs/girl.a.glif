@@ -2,8 +2,11 @@
 <glyph name="girl.a" format="1">
 	<advance width="1000"/>
 	<outline>
-		<component base="headgirl"/>
-		<component base="hairgirl.a"/>
+		<component base="head.f"/>
+		<component base="hairgirl.fa"/>
+		<component base="eyes.F"/>
+		<component base="nose.f"/>
+		<component base="mouth.q"/>
 	</outline>
 	<lib>
 		<dict>
@@ -994,9 +997,9 @@
 			</dict>
 			<key>com.typemytype.robofont.mark</key>
 			<array>
+				<real>0.4</real>
+				<real>0.8</real>
 				<integer>1</integer>
-				<integer>0</integer>
-				<integer>0</integer>
 				<integer>1</integer>
 			</array>
 		</dict>

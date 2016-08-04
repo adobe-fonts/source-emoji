@@ -1,72 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hairwoman" format="1">
+<glyph name="kiss.F" format="1">
 	<advance width="1000"/>
 	<outline>
 		<contour>
-			<point x="176" y="-78" type="curve" smooth="yes"/>
-			<point x="236" y="-78"/>
-			<point x="287" y="-68"/>
-			<point x="346" y="-62" type="curve"/>
-			<point x="236" y="80" type="line"/>
-			<point x="162" y="250" type="line"/>
-			<point x="100" y="280" type="line"/>
-			<point x="100" y="470" type="line"/>
-			<point x="216" y="500" type="line"/>
-			<point x="238" y="591"/>
-			<point x="283" y="708"/>
-			<point x="500" y="708" type="curve" smooth="yes"/>
-			<point x="717" y="708"/>
-			<point x="762" y="591"/>
-			<point x="784" y="500" type="curve"/>
-			<point x="900" y="470" type="line"/>
-			<point x="900" y="280" type="line"/>
-			<point x="838" y="250" type="line"/>
-			<point x="764" y="80" type="line"/>
-			<point x="654" y="-62" type="line"/>
-			<point x="713" y="-68"/>
-			<point x="764" y="-78"/>
-			<point x="824" y="-78" type="curve" smooth="yes"/>
-			<point x="935" y="-78"/>
-			<point x="970" y="-20"/>
-			<point x="970" y="64" type="curve" smooth="yes"/>
-			<point x="970" y="130"/>
-			<point x="948" y="333"/>
-			<point x="948" y="406" type="curve" smooth="yes"/>
-			<point x="948" y="708"/>
-			<point x="782" y="862"/>
-			<point x="500" y="862" type="curve" smooth="yes"/>
-			<point x="218" y="862"/>
-			<point x="52" y="708"/>
-			<point x="52" y="406" type="curve" smooth="yes"/>
-			<point x="52" y="333"/>
-			<point x="30" y="130"/>
-			<point x="30" y="64" type="curve" smooth="yes"/>
-			<point x="30" y="-20"/>
-			<point x="65" y="-78"/>
-		</contour>
-		<contour>
-			<point x="132" y="454" type="curve" smooth="yes"/>
-			<point x="324" y="454"/>
-			<point x="628" y="568"/>
-			<point x="628" y="732" type="curve" smooth="yes"/>
-			<point x="628" y="765"/>
-			<point x="590" y="756"/>
-			<point x="425" y="756" type="curve"/>
-			<point x="74" y="515" type="line"/>
-			<point x="74" y="458"/>
-			<point x="96" y="454"/>
-		</contour>
-		<contour>
-			<point x="870" y="444" type="curve" smooth="yes"/>
-			<point x="906" y="444"/>
-			<point x="928" y="458"/>
-			<point x="928" y="515" type="curve"/>
-			<point x="777" y="756" type="line"/>
-			<point x="612" y="756"/>
-			<point x="574" y="765"/>
-			<point x="574" y="732" type="curve" smooth="yes"/>
-			<point x="574" y="588"/>
-			<point x="704" y="444"/>
+			<point x="550" y="16" type="curve" smooth="yes"/>
+			<point x="568" y="16"/>
+			<point x="588" y="28"/>
+			<point x="588" y="54" type="curve" smooth="yes"/>
+			<point x="588" y="71"/>
+			<point x="579" y="82"/>
+			<point x="562" y="89" type="curve"/>
+			<point x="579" y="96"/>
+			<point x="587" y="107"/>
+			<point x="587" y="123" type="curve" smooth="yes"/>
+			<point x="587" y="148"/>
+			<point x="568" y="158"/>
+			<point x="550" y="158" type="curve" smooth="yes"/>
+			<point x="515" y="158"/>
+			<point x="508" y="126"/>
+			<point x="468" y="100" type="curve"/>
+			<point x="468" y="78" type="line"/>
+			<point x="508" y="50"/>
+			<point x="515" y="16"/>
 		</contour>
 	</outline>
 	<lib>
@@ -88,7 +43,7 @@
 			</array>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
-				<key>mask</key>
+				<key>background</key>
 				<dict>
 					<key>anchors</key>
 					<array>
@@ -1920,7 +1875,7 @@
 					<dict>
 					</dict>
 					<key>name</key>
-					<string>hairwoman</string>
+					<string>kiss.F</string>
 					<key>unicodes</key>
 					<array>
 					</array>
@@ -1928,13 +1883,6 @@
 					<integer>1000</integer>
 				</dict>
 			</dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<integer>1</integer>
-				<integer>0</integer>
-				<integer>0</integer>
-				<integer>1</integer>
-			</array>
 		</dict>
 	</lib>
 </glyph>
