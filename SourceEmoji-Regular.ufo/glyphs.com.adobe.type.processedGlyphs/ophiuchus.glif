@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="ophiuchus">
+	<unicode hex="26CE" />
+  <advance width="1008" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="168" y="336" />
+      <point type="line" x="168" y="252" />
+      <point type="line" x="252" y="252" />
+      <point type="line" x="252" y="0" />
+      <point type="line" x="336" y="0" />
+      <point type="line" x="336" y="252" />
+      <point type="line" x="504" y="252" />
+      <point type="line" x="504" y="336" />
+      <point type="line" x="336" y="336" />
+      <point type="line" x="336" y="756" />
+      <point type="line" x="252" y="756" />
+      <point type="line" x="252" y="336" />
+    </contour>
+    <contour>
+      <point name="hintSet0012" type="line" x="504" y="420" />
+      <point type="line" x="504" y="336" />
+      <point type="line" x="672" y="336" />
+      <point type="line" x="672" y="84" />
+      <point type="line" x="588" y="84" />
+      <point type="line" x="588" y="0" />
+      <point type="line" x="756" y="0" />
+      <point type="line" x="756" y="336" />
+      <point type="line" x="840" y="336" />
+      <point type="line" x="840" y="420" />
+      <point type="line" x="756" y="420" />
+      <point type="line" x="756" y="756" />
+      <point type="line" x="672" y="756" />
+      <point type="line" x="672" y="420" />
+    </contour>
+    <contour>
+      <point type="line" x="84" y="336" />
+      <point type="line" x="168" y="336" />
+      <point type="line" x="168" y="420" />
+      <point type="line" x="84" y="420" />
+    </contour>
+    <contour>
+      <point name="hintSet0030" type="line" x="840" y="252" />
+      <point type="line" x="924" y="252" />
+      <point type="line" x="924" y="336" />
+      <point type="line" x="840" y="336" />
+    </contour>
+    <contour>
+      <point name="hintSet0034" type="line" x="756" y="-84" />
+      <point type="line" x="924" y="-84" />
+      <point type="line" x="924" y="0" />
+      <point type="line" x="756" y="0" />
+    </contour>
+    <contour>
+      <point type="line" x="336" y="-84" />
+      <point type="line" x="588" y="-84" />
+      <point type="line" x="588" y="0" />
+      <point type="line" x="336" y="0" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>83a72082f7d29352f49188fdaf52e8798055050f27c20ce48e4bb150a67e2797d92953cf907773b20f4f4b7bbafe1f0e67da101a6372ad5aa052b4c8c44df298</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 252 84</string>
+              <string>vstem 84 84</string>
+              <string>vstem 252 84</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0012</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 84</string>
+              <string>hstem 336 84</string>
+              <string>vstem 84 84</string>
+              <string>vstem 672 84</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0030</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 252 84</string>
+              <string>vstem 840 84</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0034</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -84 84</string>
+              <string>vstem 336 252</string>
+              <string>vstem 756 168</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="hospital">
+	<advance width="1008" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="840" y="-84" />
+      <point type="line" x="168" y="-84" />
+      <point type="line" x="168" y="588" />
+      <point type="line" x="840" y="588" />
+    </contour>
+    <contour>
+      <point type="line" x="252" y="168" />
+      <point type="line" x="420" y="168" />
+      <point type="line" x="420" y="0" />
+      <point type="line" x="588" y="0" />
+      <point type="line" x="588" y="168" />
+      <point type="line" x="756" y="168" />
+      <point type="line" x="756" y="336" />
+      <point type="line" x="588" y="336" />
+      <point type="line" x="588" y="504" />
+      <point type="line" x="420" y="504" />
+      <point type="line" x="420" y="336" />
+      <point type="line" x="252" y="336" />
+    </contour>
+    <contour>
+      <point type="line" x="924" y="672" />
+      <point type="line" x="756" y="672" />
+      <point type="line" x="756" y="756" />
+      <point type="line" x="588" y="756" />
+      <point type="line" x="588" y="840" />
+      <point type="line" x="420" y="840" />
+      <point type="line" x="420" y="756" />
+      <point type="line" x="252" y="756" />
+      <point type="line" x="252" y="672" />
+      <point type="line" x="84" y="672" />
+      <point type="line" x="84" y="-168" />
+      <point type="line" x="924" y="-168" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>5baebd1b7c5aa1e23659575e9b2251b424e101f3e4a2f624a79c90f0329daef05fd2cc0be06fe28b93ab8c75dea1866e0a982b6b9f843bc8823a2db2576d1d1d</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -168 84</string>
+              <string>hstem 168 168</string>
+              <string>hstem 588 84</string>
+              <string>vstem 84 84</string>
+              <string>vstem 420 168</string>
+              <string>vstem 840 84</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

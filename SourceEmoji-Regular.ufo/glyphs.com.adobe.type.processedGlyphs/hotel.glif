@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="hotel">
+	<advance width="1008" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="756" y="-84" />
+      <point type="line" x="252" y="-84" />
+      <point type="line" x="252" y="504" />
+      <point type="line" x="756" y="504" />
+    </contour>
+    <contour>
+      <point type="line" x="420" y="0" />
+      <point type="line" x="420" y="168" />
+      <point type="line" x="588" y="168" />
+      <point type="line" x="588" y="0" />
+      <point type="line" x="672" y="0" />
+      <point type="line" x="672" y="420" />
+      <point type="line" x="588" y="420" />
+      <point type="line" x="588" y="252" />
+      <point type="line" x="420" y="252" />
+      <point type="line" x="420" y="420" />
+      <point type="line" x="336" y="420" />
+      <point type="line" x="336" y="0" />
+    </contour>
+    <contour>
+      <point type="line" x="840" y="588" />
+      <point type="line" x="756" y="588" />
+      <point type="line" x="756" y="672" />
+      <point name="hintSet0019" type="line" x="672" y="672" />
+      <point type="line" x="672" y="756" />
+      <point type="line" x="588" y="756" />
+      <point type="line" x="588" y="840" />
+      <point type="line" x="420" y="840" />
+      <point type="line" x="420" y="756" />
+      <point type="line" x="336" y="756" />
+      <point type="line" x="336" y="672" />
+      <point type="line" x="252" y="672" />
+      <point type="line" x="252" y="588" />
+      <point type="line" x="168" y="588" />
+      <point type="line" x="168" y="-168" />
+      <point type="line" x="840" y="-168" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>a73c47c3d06ef1048aa8e50e4bf33330c1c2700fa62afcf2fb4aa708daf6b671b1d0abc7141098926a149e02d1c7410a7c7c4211c48e5fe0f55e4fa2cd335acb</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -168 84</string>
+              <string>hstem 168 84</string>
+              <string>hstem 504 84</string>
+              <string>vstem 168 84</string>
+              <string>vstem 336 84</string>
+              <string>vstem 588 84</string>
+              <string>vstem 756 84</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0019</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -168 84</string>
+              <string>hstem 168 84</string>
+              <string>hstem 504 84</string>
+              <string>vstem 168 84</string>
+              <string>vstem 420 168</string>
+              <string>vstem 756 84</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

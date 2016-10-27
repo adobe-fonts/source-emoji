@@ -3,20 +3,20 @@
 	<advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="500" y="74" />
-      <point x="641" y="74" />
-      <point x="734" y="158" />
-      <point type="curve" x="750" y="288" />
-      <point type="line" x="704" y="304" />
-      <point x="676" y="220" />
-      <point x="600" y="178" />
-      <point type="curve" x="500" y="178" />
-      <point x="400" y="178" />
-      <point x="324" y="220" />
-      <point type="curve" x="296" y="304" />
-      <point type="line" x="250" y="288" />
-      <point x="266" y="158" />
-      <point x="359" y="74" />
+      <point name="hintSet0000" type="curve" x="500" y="84" />
+      <point x="641" y="84" />
+      <point x="734" y="168" />
+      <point type="curve" x="750" y="298" />
+      <point type="line" x="704" y="314" />
+      <point x="676" y="230" />
+      <point x="600" y="188" />
+      <point type="curve" x="500" y="188" />
+      <point x="400" y="188" />
+      <point x="324" y="230" />
+      <point type="curve" x="296" y="314" />
+      <point type="line" x="250" y="298" />
+      <point x="266" y="168" />
+      <point x="359" y="84" />
     </contour>
   </outline>
   <lib>
@@ -198,7 +198,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>w1000c5007464174734158c750288l704304676220600178c500178400178324220c296304l25028826615835974</string>
+        <string>w1000c5008464184734168c750298l704314676230600188c500188400188324230c296314l25029826616835984</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -206,7 +206,7 @@
             <string>hintSet0000</string>
             <key>stems</key>
             <array>
-              <string>hstem 74 104</string>
+              <string>hstem 84 104</string>
               <string>vstem 250 500</string>
             </array>
           </dict>
