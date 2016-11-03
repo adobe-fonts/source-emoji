@@ -1,5 +1,5 @@
 table head {
-   FontRevision 1.014;
+   FontRevision 1.015;
 } head;
 
 #----------------------------------------
@@ -43,6 +43,10 @@ languagesystem latn dflt;
 
 feature ccmp { # Glyph Composition / Decomposition
 
+lookup SHORTCODES {
+	include (shortcodes.fea)
+} SHORTCODES;
+
 lookup ZWJ {
 
 	include (ZWJ.fea) # external 
@@ -55,10 +59,6 @@ lookup ZWJ {
 	sub handfingerssplayed ZWJ heartheavy by handiloveyou; 
 
 } ZWJ;
-
-lookup SHORTCODES {
-	include (shortcodes.fea)
-} SHORTCODES;
 
 } ccmp;
 
