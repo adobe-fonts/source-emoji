@@ -1,11 +1,11 @@
 table head {
-   FontRevision 1.015;
+   FontRevision 1.016;
 } head;
 
 #----------------------------------------
 
 table OS/2 {
-	Panose 2 11 5 3 3 4 3 2 2 4;
+	Panose 5 3 1 0 1 0 0 0 0 0;
 	FSType 0;
 	# NOTE: For cross-platform consistency, OS/2.TypoAscender and |OS/2.TypoDescender| must add up to the font's UPM value
 	TypoAscender 880;	# Must be the same on all fonts for cross-platform consistency
@@ -32,7 +32,29 @@ table hhea {
 
 #----------------------------------------
 
-include (tables.fea)
+table name {
+	nameid 0 "Copyright 2016 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name \2018Source\2019.";
+	nameid 0 1 "Copyright 2016 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name \D4Source\D5.";
+	nameid 11 "http://www.adobe.com/type";
+	nameid 11 1 "http://www.adobe.com/type";
+	nameid 13 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL. This Font Software is distributed on an \2018AS IS\2019 BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.";
+	nameid 13 1 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL. This Font Software is distributed on an \D4AS IS\D5 BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.";
+	nameid 14 "http://scripts.sil.org/OFL";
+	nameid 14 1 "http://scripts.sil.org/OFL";
+	nameid 7 "Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.";
+	nameid 7 1 "Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.";
+	nameid 8 "Adobe Systems Incorporated";
+	nameid 8 1 "Adobe Systems Incorporated";
+	nameid 9 "Paul D. Hunt";
+	nameid 9 1 "Paul D. Hunt";
+} name;
+
+table BASE {
+	HorizAxis.BaseTagList ideo romn;
+	HorizAxis.BaseScriptList 
+	latn romn -170 0,
+	DFLT romn -170 0;
+} BASE;
 
 #----------------------------------------
 
@@ -44,12 +66,12 @@ languagesystem latn dflt;
 feature ccmp { # Glyph Composition / Decomposition
 
 lookup SHORTCODES {
-	include (shortcodes.fea)
+	include (shortcodes.fea);
 } SHORTCODES;
 
 lookup ZWJ {
 
-	include (ZWJ.fea) # external 
+	include (ZWJ.fea); # external 
 
 	# CUSTOM ZWJ -------------------------------------------------------------------------
 	sub paperclip ZWJ personinforming by clippy;
@@ -66,6 +88,7 @@ lookup ZWJ {
 
 feature salt { # Stylistic alternates
 
+	sub facecowboy from [cowgirl cowboy cowboy.a cowpoke];
 	sub cowboy from [cowboy.a];
 	sub man from [man.a];
 	sub woman from [woman.a];
