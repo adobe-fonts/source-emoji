@@ -9,8 +9,47 @@
 		<real>0.5</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<real>90.0</real>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>500</integer>
+			<key>y</key>
+			<integer>380</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>500</integer>
+			<key>y</key>
+			<integer>380</integer>
+		</dict>
+	</array>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
+		<string>mask</string>
+	</array>
+	<key>com.typemytype.robofont.mask.layerStrokeColor</key>
+	<array>
+		<real>1.0</real>
+		<real>0.75</real>
+		<real>0.0</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -143,39 +182,80 @@
 				<string>arrowupright</string>
 				<string>arrowdownright</string>
 				<string>arrowdownleft</string>
+				<string>arrowhookleft</string>
+				<string>arrowhookright</string>
+				<string>watch</string>
+				<string>hourglass</string>
 				<string>keyboard</string>
+				<string>eject</string>
+				<string>fastforward</string>
+				<string>rewind</string>
+				<string>fastup</string>
+				<string>fastdown</string>
+				<string>tracknext</string>
+				<string>tracklast</string>
+				<string>playpause</string>
+				<string>clockalarm</string>
+				<string>stopwatch</string>
 				<string>clocktimer</string>
+				<string>hourglassflowing</string>
 				<string>pauseav</string>
 				<string>stopav</string>
 				<string>recordav</string>
 				<string>Mcircle</string>
 				<string>bulletsquare</string>
 				<string>bulletsquarewhite</string>
+				<string>triangleblackright</string>
+				<string>triangleleft</string>
 				<string>squaremediumwhite</string>
 				<string>squaremedium</string>
+				<string>squaremediumsmallwhite</string>
+				<string>squaremediumsmall</string>
 				<string>sunblack</string>
 				<string>cloud</string>
+				<string>umbrella</string>
 				<string>snowman</string>
+				<string>comet</string>
+				<string>telephone</string>
 				<string>ballotboxcheck</string>
+				<string>umbrellaraindrops</string>
 				<string>beveragehot</string>
+				<string>shamrock</string>
 				<string>skullcrossbones</string>
+				<string>radioactive</string>
+				<string>biohazard</string>
 				<string>crossorthodox</string>
 				<string>starcrescent</string>
 				<string>peace</string>
 				<string>yinyang</string>
 				<string>dharmawheel</string>
 				<string>sun</string>
+				<string>moonquarterfirst</string>
+				<string>moonquarterlast</string>
 				<string>mercury</string>
 				<string>female</string>
 				<string>earth</string>
 				<string>male</string>
+				<string>jupiter</string>
+				<string>saturn</string>
+				<string>uranus</string>
+				<string>neptune</string>
+				<string>pluto</string>
+				<string>aries</string>
 				<string>taurus</string>
 				<string>gemini</string>
 				<string>cancer</string>
 				<string>leo</string>
+				<string>virgo</string>
 				<string>libra</string>
+				<string>scorpio</string>
 				<string>sagittarius</string>
+				<string>capricorn</string>
+				<string>aquarius</string>
 				<string>pisces</string>
+				<string>ophiuchus</string>
+				<string>nodeascending</string>
+				<string>nodedescending</string>
 				<string>conjunction</string>
 				<string>opposition</string>
 				<string>spade</string>
@@ -184,28 +264,63 @@
 				<string>diamond</string>
 				<string>hotsprings</string>
 				<string>recycle</string>
+				<string>wheelchair</string>
+				<string>hammerpick</string>
+				<string>anchor</string>
+				<string>swordscrossed</string>
+				<string>scales</string>
+				<string>alembic</string>
+				<string>gear</string>
 				<string>atom</string>
 				<string>fleurdelis</string>
 				<string>warning</string>
 				<string>highvoltage</string>
 				<string>circlemediumwhite</string>
 				<string>circlemedium</string>
+				<string>coffin</string>
+				<string>urnfuneral</string>
 				<string>soccerball</string>
 				<string>baseball</string>
 				<string>snowmanwithoutsnow</string>
+				<string>suncloud</string>
+				<string>cloudthunderrain</string>
+				<string>pick</string>
+				<string>helmetwhitecross</string>
+				<string>chains</string>
 				<string>noentry</string>
+				<string>shrineshinto</string>
+				<string>church</string>
+				<string>mountain</string>
+				<string>umbrellaground</string>
+				<string>fountain</string>
+				<string>flaginhole</string>
+				<string>ferry</string>
+				<string>sailboat</string>
+				<string>skier</string>
+				<string>iceskate</string>
+				<string>baller</string>
+				<string>ballerF</string>
+				<string>ballerM</string>
+				<string>ballerA</string>
+				<string>tent</string>
+				<string>fuelpump</string>
 				<string>scissors</string>
 				<string>checkmarkwhiteheavy</string>
+				<string>airplane</string>
 				<string>envelope</string>
 				<string>fistraised</string>
 				<string>handraised</string>
 				<string>handvictory</string>
+				<string>handwriting</string>
+				<string>pencil</string>
+				<string>nib</string>
 				<string>checkheavy</string>
 				<string>multiplyheavy</string>
 				<string>crosslatin</string>
 				<string>stardavid</string>
 				<string>sparkles</string>
 				<string>asteriskeightspoke</string>
+				<string>stareightpoint</string>
 				<string>snowflake</string>
 				<string>sparkle</string>
 				<string>crossmark</string>
@@ -219,10 +334,16 @@
 				<string>plusheavy</string>
 				<string>minusheavy</string>
 				<string>divideheavy</string>
+				<string>loopcurly</string>
+				<string>loopcurlydbl</string>
+				<string>arrowcurverightup</string>
+				<string>arrowcurverightdown</string>
 				<string>squarelarge</string>
 				<string>squarelargewhite</string>
 				<string>starmediumwhite</string>
 				<string>circlelargeheavy</string>
+				<string>dashwavy</string>
+				<string>partalteration</string>
 				<string>congratulationideocircle</string>
 				<string>secretideocircle</string>
 				<string>kokokatakanasquare</string>
@@ -288,6 +409,19 @@
 				<string>Xregionindicator</string>
 				<string>Yregionindicator</string>
 				<string>Zregionindicator</string>
+				<string>cyclone</string>
+				<string>foggy</string>
+				<string>umbrellaclosed</string>
+				<string>nightstars</string>
+				<string>sunrisemountains</string>
+				<string>sunrise</string>
+				<string>duskcityscape</string>
+				<string>sunset</string>
+				<string>rainbow</string>
+				<string>nightbridge</string>
+				<string>waterwave</string>
+				<string>volcano</string>
+				<string>milkyway</string>
 				<string>globeeuropeafrica</string>
 				<string>globeamericas</string>
 				<string>globeasiaaustralia</string>
@@ -308,60 +442,344 @@
 				<string>sunface</string>
 				<string>starglowing</string>
 				<string>starshooting</string>
+				<string>thermometer</string>
 				<string>dropletblack</string>
 				<string>sunwhite</string>
+				<string>suncloudsmall</string>
+				<string>sunwhitecloud</string>
+				<string>suncloudrain</string>
 				<string>cloudrain</string>
 				<string>cloudsnow</string>
 				<string>cloudlightning</string>
+				<string>tornado</string>
+				<string>fog</string>
+				<string>windface</string>
+				<string>hotdog</string>
+				<string>taco</string>
+				<string>burrito</string>
+				<string>chestnut</string>
+				<string>seedling</string>
+				<string>treeevergreen</string>
+				<string>treedeciduous</string>
+				<string>treepalm</string>
+				<string>cactus</string>
+				<string>pepperhot</string>
+				<string>tulip</string>
+				<string>blossomcherry</string>
 				<string>rose</string>
+				<string>hibiscus</string>
+				<string>sunflower</string>
+				<string>blossom</string>
+				<string>earcorn</string>
+				<string>earrice</string>
+				<string>herb</string>
+				<string>clover</string>
+				<string>leafmaple</string>
+				<string>leaffallen</string>
+				<string>leafflutteringinwind</string>
+				<string>mushroom</string>
+				<string>tomato</string>
+				<string>eggplant</string>
+				<string>grapes</string>
+				<string>melon</string>
+				<string>watermelon</string>
+				<string>tangerine</string>
+				<string>lemon</string>
+				<string>banana</string>
+				<string>pineapple</string>
 				<string>applered</string>
 				<string>applegreen</string>
 				<string>pear</string>
 				<string>peach</string>
 				<string>cherries</string>
 				<string>strawberry</string>
+				<string>hamburger</string>
+				<string>pizza</string>
+				<string>meat</string>
+				<string>poultry</string>
+				<string>ricecracker</string>
+				<string>riceball</string>
+				<string>ricecooked</string>
+				<string>ricecurry</string>
+				<string>bowlsteaming</string>
+				<string>spaghetti</string>
+				<string>bread</string>
+				<string>frenchfries</string>
+				<string>sweetpotato</string>
+				<string>dango</string>
+				<string>oden</string>
+				<string>sushi</string>
+				<string>shrimpfried</string>
+				<string>fishcakeswirl</string>
+				<string>icecreamsoft</string>
+				<string>shavedice</string>
+				<string>icecream</string>
 				<string>doughnut</string>
 				<string>cookie</string>
+				<string>chocolate</string>
+				<string>candy</string>
+				<string>lollipop</string>
+				<string>custard</string>
+				<string>honeypot</string>
+				<string>shortcake</string>
+				<string>bentobox</string>
+				<string>foodpot</string>
+				<string>cooking</string>
+				<string>forkknife</string>
+				<string>teacup</string>
+				<string>sake</string>
 				<string>drinkwine</string>
 				<string>drinkcocktail</string>
 				<string>drinktropical</string>
 				<string>beermug</string>
+				<string>beermugs</string>
+				<string>babybottle</string>
+				<string>forkknifeplate</string>
+				<string>bottlecorkpopping</string>
 				<string>popcorn</string>
+				<string>ribbon</string>
+				<string>present</string>
+				<string>cakebirthday</string>
 				<string>jackolantern</string>
+				<string>treechristmas</string>
 				<string>santaclaus</string>
+				<string>fireworks</string>
+				<string>sparkler</string>
+				<string>balloon</string>
+				<string>partypopper</string>
+				<string>confetti</string>
+				<string>treetanabata</string>
+				<string>flagscrossed</string>
+				<string>decorationpine</string>
+				<string>dollsjapanese</string>
+				<string>streamercarp</string>
+				<string>windchime</string>
+				<string>ceremonymoon</string>
+				<string>backpackschool</string>
+				<string>capgraduation</string>
 				<string>hearttipleft</string>
+				<string>bouquetflowers</string>
+				<string>medalmilitary</string>
+				<string>ribbonreminder</string>
+				<string>musicalkeyboardjacks</string>
+				<string>microphonestudio</string>
+				<string>levels</string>
+				<string>knobs</string>
 				<string>musicalnotesascending</string>
 				<string>musicalnotesdescending</string>
+				<string>filmframes</string>
+				<string>ticketsadmission</string>
+				<string>horsecarousel</string>
+				<string>ferriswheel</string>
+				<string>rollercoaster</string>
+				<string>fishing</string>
+				<string>microphone</string>
+				<string>cameramovie</string>
+				<string>cinema</string>
+				<string>headphone</string>
+				<string>palette</string>
+				<string>tophat</string>
+				<string>tentcircus</string>
+				<string>ticket</string>
+				<string>clapperboard</string>
 				<string>drama</string>
+				<string>videogame</string>
+				<string>directhit</string>
+				<string>slots</string>
+				<string>billiards</string>
+				<string>gamedie</string>
+				<string>bowling</string>
 				<string>playingcardsflower</string>
 				<string>notemusical</string>
 				<string>notesmusical</string>
+				<string>saxophone</string>
+				<string>guitar</string>
+				<string>keyboardmusical</string>
+				<string>trumpet</string>
+				<string>violin</string>
+				<string>scoremusical</string>
+				<string>shirtrunning</string>
 				<string>tennis</string>
+				<string>skis</string>
 				<string>basketball</string>
+				<string>flagchequered</string>
+				<string>snowboarder</string>
+				<string>runner</string>
+				<string>runnerF</string>
+				<string>runnerM</string>
+				<string>runnerA</string>
+				<string>surfer</string>
+				<string>surferF</string>
+				<string>surferM</string>
+				<string>surferA</string>
 				<string>medalsports</string>
+				<string>trophy</string>
+				<string>horseracing</string>
 				<string>footballamerican</string>
 				<string>footballrugby</string>
+				<string>swimmer</string>
+				<string>swimmerF</string>
+				<string>swimmerM</string>
+				<string>swimmerA</string>
+				<string>weightlifter</string>
+				<string>weightlifterF</string>
+				<string>weightlifterM</string>
+				<string>weightlifterA</string>
+				<string>golfer</string>
+				<string>golferF</string>
+				<string>golferM</string>
+				<string>golferA</string>
+				<string>racingmotorcycle</string>
+				<string>racingcar</string>
+				<string>cricketsport</string>
 				<string>volleyball</string>
+				<string>hockeyfield</string>
+				<string>hockeyice</string>
+				<string>tabletennis</string>
+				<string>mountainsnowy</string>
+				<string>camping</string>
+				<string>umbrellabeach</string>
+				<string>buildingconstruction</string>
+				<string>buildingshouse</string>
+				<string>cityscape</string>
+				<string>buildinghousederelict</string>
+				<string>buildingclassical</string>
+				<string>desert</string>
+				<string>islanddesert</string>
+				<string>park</string>
+				<string>stadium</string>
+				<string>buildinghouse</string>
+				<string>housegarden</string>
+				<string>buildingoffice</string>
+				<string>postofficejapan</string>
+				<string>postofficeeuro</string>
+				<string>hospital</string>
+				<string>bank</string>
+				<string>atm</string>
+				<string>hotel</string>
+				<string>hotellove</string>
+				<string>storeconvenience</string>
+				<string>school</string>
+				<string>storedepartment</string>
+				<string>factory</string>
+				<string>lanternizakaya</string>
+				<string>castlejapan</string>
+				<string>castleeuro</string>
+				<string>pennantwhite</string>
+				<string>pennant</string>
+				<string>flagwavingwhite</string>
+				<string>flagwaving</string>
 				<string>rosette</string>
+				<string>rosetteblack</string>
+				<string>label</string>
+				<string>badminton</string>
+				<string>bowarrow</string>
+				<string>amphora</string>
 				<string>skintypemod2</string>
 				<string>skintypemod3</string>
 				<string>skintypemod4</string>
 				<string>skintypemod5</string>
 				<string>skintypemod6</string>
+				<string>rat</string>
+				<string>mouse</string>
+				<string>ox</string>
+				<string>buffalo</string>
+				<string>cow</string>
+				<string>tiger</string>
+				<string>leopard</string>
+				<string>rabbit</string>
+				<string>cat</string>
+				<string>dragon</string>
+				<string>crocodile</string>
+				<string>whale</string>
+				<string>snail</string>
+				<string>snake</string>
+				<string>horse</string>
+				<string>ram</string>
+				<string>goat</string>
+				<string>sheep</string>
+				<string>monkey</string>
+				<string>rooster</string>
+				<string>chicken</string>
+				<string>dog</string>
+				<string>pig</string>
+				<string>boar</string>
+				<string>elephant</string>
+				<string>octopus</string>
+				<string>shellspiral</string>
+				<string>bug</string>
+				<string>ant</string>
+				<string>bee</string>
+				<string>ladybug</string>
+				<string>fish</string>
+				<string>fishtropical</string>
+				<string>fugu</string>
+				<string>turtle</string>
+				<string>chickhatching</string>
+				<string>chickbaby</string>
+				<string>chickbabyfront</string>
+				<string>bird</string>
 				<string>penguin</string>
+				<string>koala</string>
+				<string>poodle</string>
+				<string>cameldromedary</string>
+				<string>camelbactrian</string>
+				<string>dolphin</string>
+				<string>mouseface</string>
+				<string>cowface</string>
+				<string>tigerface</string>
+				<string>rabbitface</string>
 				<string>catface</string>
+				<string>dragonface</string>
+				<string>whalespouting</string>
+				<string>horseface</string>
 				<string>monkeyface</string>
 				<string>dogface</string>
 				<string>pigface</string>
+				<string>frogface</string>
+				<string>hamsterface</string>
+				<string>wolfface</string>
+				<string>bearface</string>
+				<string>pandaface</string>
+				<string>pignose</string>
+				<string>pawprints</string>
+				<string>chipmunk</string>
 				<string>eyes</string>
 				<string>eye</string>
+				<string>ear</string>
+				<string>nose</string>
 				<string>mouth</string>
+				<string>tongue</string>
+				<string>handbackupwhite</string>
+				<string>handbackdownwhite</string>
+				<string>handbackleftwhite</string>
+				<string>handbackrightwhite</string>
+				<string>fist</string>
 				<string>handwaving</string>
 				<string>handok</string>
 				<string>thumbsup</string>
 				<string>thumbsdown</string>
 				<string>handsclapping</string>
 				<string>handsopen</string>
+				<string>crown</string>
+				<string>hatwomans</string>
+				<string>glasses</string>
+				<string>necktie</string>
+				<string>tshirt</string>
+				<string>jeans</string>
+				<string>dress</string>
+				<string>kimono</string>
+				<string>bikini</string>
+				<string>clotheswomans</string>
+				<string>purse</string>
+				<string>handbag</string>
+				<string>pouch</string>
+				<string>shoemans</string>
+				<string>shoeathletic</string>
+				<string>shoestiletto</string>
+				<string>sandalwomans</string>
+				<string>bootswomans</string>
+				<string>footprints</string>
 				<string>bust</string>
 				<string>busts</string>
 				<string>adult</string>
@@ -369,6 +787,8 @@
 				<string>adult.b</string>
 				<string>man</string>
 				<string>man.a</string>
+				<string>man.b</string>
+				<string>man.c</string>
 				<string>woman</string>
 				<string>woman.a</string>
 				<string>woman.b</string>
@@ -383,6 +803,7 @@
 				<string>girl</string>
 				<string>girl.a</string>
 				<string>girl.b</string>
+				<string>girl.c</string>
 				<string>baby</string>
 				<string>adultold</string>
 				<string>manold</string>
@@ -474,17 +895,20 @@
 				<string>mechanicF</string>
 				<string>mechanicM</string>
 				<string>mechanicA</string>
+				<string>scientistF</string>
 				<string>scientistM</string>
 				<string>scientistA</string>
-				<string>scientistF</string>
 				<string>healthworkerF</string>
 				<string>healthworkerM</string>
 				<string>healthworkerA</string>
 				<string>princess</string>
 				<string>prince</string>
+				<string>ogre</string>
 				<string>goblin</string>
+				<string>ghost</string>
 				<string>angelbaby</string>
 				<string>alien</string>
+				<string>alienmonster</string>
 				<string>imp</string>
 				<string>skull</string>
 				<string>personinforming</string>
@@ -493,6 +917,8 @@
 				<string>informingA</string>
 				<string>guardsman</string>
 				<string>dancer</string>
+				<string>lipstick</string>
+				<string>nailpolish</string>
 				<string>massage</string>
 				<string>massageF</string>
 				<string>massageM</string>
@@ -501,8 +927,15 @@
 				<string>haircutF</string>
 				<string>haircutM</string>
 				<string>haircutA</string>
+				<string>barberpole</string>
+				<string>syringe</string>
+				<string>pill</string>
 				<string>kissmark</string>
 				<string>loveletter</string>
+				<string>ring</string>
+				<string>gemstone</string>
+				<string>bouquet</string>
+				<string>wedding</string>
 				<string>heartwhite</string>
 				<string>heartred</string>
 				<string>heartorange</string>
@@ -521,11 +954,22 @@
 				<string>heartsrevolving</string>
 				<string>heartdecoration</string>
 				<string>diamonddot</string>
+				<string>lightbulb</string>
+				<string>anger</string>
+				<string>bomb</string>
 				<string>zzz</string>
+				<string>collision</string>
+				<string>droplets</string>
 				<string>droplet</string>
+				<string>dashing</string>
 				<string>poop</string>
+				<string>biceps</string>
+				<string>dizzy</string>
 				<string>balloonspeech</string>
 				<string>balloonthought</string>
+				<string>flowerwhite</string>
+				<string>hundredpoints</string>
+				<string>moneybag</string>
 				<string>currencyexchange</string>
 				<string>dollarheavy</string>
 				<string>creditcard</string>
@@ -533,28 +977,122 @@
 				<string>banknotedollar</string>
 				<string>banknoteeuro</string>
 				<string>banknotepound</string>
+				<string>moneywings</string>
+				<string>trendupwardsyen</string>
+				<string>seat</string>
+				<string>computerpersonal</string>
+				<string>briefcase</string>
 				<string>discmini</string>
 				<string>discfloppy</string>
+				<string>discoptical</string>
+				<string>dvd</string>
+				<string>filefolder</string>
+				<string>filefolderopen</string>
+				<string>pagecurl</string>
+				<string>pagefacingup</string>
+				<string>calendar</string>
+				<string>calendartearoff</string>
+				<string>indexcard</string>
+				<string>charttrendingup</string>
+				<string>charttrendingdown</string>
+				<string>chartbar</string>
+				<string>clipboard</string>
+				<string>pushpin</string>
+				<string>pushpinround</string>
 				<string>paperclip</string>
+				<string>rulerstraight</string>
+				<string>rulertriangular</string>
+				<string>bookmarktabs</string>
+				<string>ledger</string>
+				<string>notebook</string>
+				<string>notebookdeco</string>
+				<string>bookclosed</string>
+				<string>bookopen</string>
+				<string>bookorange</string>
+				<string>bookgreen</string>
+				<string>bookblue</string>
+				<string>books</string>
+				<string>namebadge</string>
+				<string>scroll</string>
+				<string>memo</string>
+				<string>telephonereceiver</string>
+				<string>pager</string>
+				<string>faxmachine</string>
+				<string>satelliteantenna</string>
+				<string>loudspeaker</string>
+				<string>megaphone</string>
+				<string>outbox</string>
+				<string>inbox</string>
+				<string>package</string>
 				<string>email</string>
 				<string>envelopeincoming</string>
 				<string>envelopearrowndown</string>
+				<string>mailboxclosedflaglowered</string>
+				<string>mailboxclosedflagraised</string>
+				<string>mailboxopenflagraised</string>
+				<string>mailboxopenflaglowered</string>
+				<string>postbox</string>
+				<string>postalhorn</string>
+				<string>newspaper</string>
 				<string>mobilephone</string>
 				<string>mobilephonearrowleft</string>
 				<string>vibrationmode</string>
 				<string>mobilephoneoff</string>
 				<string>mobilephoneno</string>
+				<string>antennabars</string>
+				<string>camera</string>
+				<string>cameraflash</string>
+				<string>cameravideo</string>
+				<string>television</string>
+				<string>radio</string>
+				<string>videocassette</string>
+				<string>filmprojector</string>
+				<string>stereoportable</string>
+				<string>beadsprayer</string>
+				<string>shuffle</string>
+				<string>repeat</string>
+				<string>repeatsingle</string>
 				<string>arrowsopencircleupdownclockwise</string>
 				<string>arrowsopencircleupdownanticlockwise</string>
 				<string>dim</string>
+				<string>bright</string>
+				<string>speakermuted</string>
+				<string>speaker</string>
+				<string>speakerlow</string>
+				<string>speakerhigh</string>
+				<string>battery</string>
+				<string>plugelectric</string>
+				<string>magnifyleft</string>
+				<string>magnifyright</string>
 				<string>lockpen</string>
 				<string>lockkey</string>
 				<string>key</string>
 				<string>lock</string>
 				<string>lockopen</string>
+				<string>bell</string>
+				<string>bellmuted</string>
+				<string>bookmark</string>
+				<string>link</string>
 				<string>radiobutton</string>
 				<string>nooneundereighteen</string>
+				<string>inputlatincaps</string>
+				<string>inputlatinsmall</string>
+				<string>inputnumbers</string>
+				<string>inputsymbols</string>
+				<string>inputlatin</string>
+				<string>fire</string>
+				<string>flashlight</string>
+				<string>wrench</string>
+				<string>hammer</string>
+				<string>nutbolt</string>
+				<string>knifekitchen</string>
+				<string>pistol</string>
+				<string>microscope</string>
+				<string>telescope</string>
+				<string>crystalball</string>
 				<string>starsixpointdotted</string>
+				<string>beginner</string>
+				<string>tridentemblem</string>
 				<string>buttonsquareblack</string>
 				<string>buttonsquarewhite</string>
 				<string>circlered</string>
@@ -563,10 +1101,27 @@
 				<string>diamondlargeblue</string>
 				<string>diamondsmallorange</string>
 				<string>diamondsmallblue</string>
+				<string>triangleupred</string>
+				<string>triangledownred</string>
+				<string>trianglesmallupred</string>
+				<string>trianglesmalldownred</string>
+				<string>circlewhiteshadowlowerright</string>
+				<string>circlewhiteshadowupperright</string>
+				<string>crosspommeecircle</string>
+				<string>crosspommeehalfcirclebelow</string>
+				<string>crosspommee</string>
+				<string>semicirclenotchedthreedotsleft</string>
+				<string>semicirclenotchedthreedotsright</string>
+				<string>markschapter</string>
 				<string>crosslatinwhite</string>
 				<string>crosslatinheavy</string>
 				<string>crossceltic</string>
 				<string>om</string>
+				<string>dove</string>
+				<string>kaaba</string>
+				<string>mosque</string>
+				<string>synagogue</string>
+				<string>menorah</string>
 				<string>clockH01M00</string>
 				<string>clockH02M00</string>
 				<string>clockH03M00</string>
@@ -591,31 +1146,161 @@
 				<string>clockH10M30</string>
 				<string>clockH11M30</string>
 				<string>clockH12M30</string>
+				<string>speakerright</string>
+				<string>speakerlowright</string>
+				<string>speakerhighright</string>
+				<string>bullhorn</string>
+				<string>bullhornsoundwaves</string>
+				<string>bellringing</string>
+				<string>book</string>
+				<string>candle</string>
 				<string>clockmantel</string>
 				<string>skullcrossbonesblack</string>
 				<string>nopiracy</string>
+				<string>hole</string>
+				<string>manlevitating</string>
+				<string>sleuth</string>
+				<string>sleuthF</string>
+				<string>sleuthM</string>
+				<string>sleuthA</string>
+				<string>sunglasses</string>
+				<string>spider</string>
+				<string>spiderweb</string>
+				<string>joystick</string>
 				<string>mandancing</string>
+				<string>handtelephonereceiverleft</string>
+				<string>telephonereceiverpage</string>
+				<string>handtelephonereceiverright</string>
+				<string>telephonetouchtonewhite</string>
+				<string>telephonetouchtone</string>
+				<string>telephonemodem</string>
+				<string>mobilephoneclamshell</string>
 				<string>envelopeback</string>
 				<string>envelopestamped</string>
 				<string>envelopelightning</string>
 				<string>envelopeflying</string>
 				<string>envelopestampedpen</string>
 				<string>paperclipslinked</string>
+				<string>pushpinblack</string>
+				<string>pencildownleft</string>
+				<string>penballpoint</string>
+				<string>penfountain</string>
+				<string>paintbrush</string>
+				<string>crayon</string>
+				<string>handwritingleft</string>
+				<string>okturned</string>
 				<string>handfingerssplayed</string>
 				<string>handfingerssplayedreversed</string>
 				<string>thumbsupreversed</string>
 				<string>thumbsdownreversed</string>
+				<string>handvictoryreversed</string>
+				<string>handmiddlefinger</string>
 				<string>handvulcan</string>
 				<string>indexupwhite</string>
+				<string>indexleftdownwhite</string>
+				<string>indexsideleftwhite</string>
+				<string>indexsiderightwhite</string>
+				<string>indexsideleft</string>
+				<string>indexsideright</string>
+				<string>indexbackleft</string>
+				<string>indexbackright</string>
+				<string>indexsideupwhite</string>
+				<string>indexsidedownwhite</string>
+				<string>indexsideup</string>
+				<string>indexsidedown</string>
 				<string>indexbackup</string>
 				<string>indexbackdown</string>
+				<string>computerdesktop</string>
+				<string>keyboardmouse</string>
+				<string>computersnetworked</string>
+				<string>printer</string>
+				<string>calculatorpocket</string>
+				<string>diskfloppyhardshell</string>
+				<string>diskfloppyhardshellwhite</string>
+				<string>diskfloppysoftshell</string>
+				<string>tapecartridge</string>
+				<string>keyboardwired</string>
+				<string>mouseonebutton</string>
+				<string>mousetwobutton</string>
+				<string>mousethreebutton</string>
+				<string>trackball</string>
+				<string>personalcomputerold</string>
+				<string>diskhard</string>
+				<string>screen</string>
+				<string>printericon</string>
+				<string>faxicon</string>
+				<string>discopticalicon</string>
+				<string>documenttext</string>
+				<string>documenttextpicture</string>
+				<string>documentpicture</string>
+				<string>framepicture</string>
+				<string>frametiles</string>
+				<string>framex</string>
+				<string>folderblack</string>
+				<string>folder</string>
+				<string>folderopen</string>
+				<string>cardindexdividers</string>
+				<string>cardfilebox</string>
+				<string>filecabinet</string>
+				<string>noteempty</string>
+				<string>notepageempty</string>
+				<string>notepadempty</string>
+				<string>note</string>
+				<string>notepage</string>
+				<string>notepad</string>
+				<string>documentempty</string>
+				<string>pageempty</string>
+				<string>pagesempty</string>
+				<string>document</string>
+				<string>page</string>
+				<string>pages</string>
+				<string>wastebasket</string>
+				<string>notepadspiral</string>
+				<string>calendarspiral</string>
+				<string>windowdesktop</string>
+				<string>minimize</string>
+				<string>maximize</string>
+				<string>overlap</string>
 				<string>arrowssemicircleleftrightclockwise</string>
+				<string>cancellationx</string>
+				<string>fontsizeincrease</string>
+				<string>fontsizedecrease</string>
+				<string>compression</string>
+				<string>keyold</string>
+				<string>newspaperrolled</string>
+				<string>pagetextcircle</string>
+				<string>chartstock</string>
+				<string>knifedagger</string>
+				<string>lips</string>
+				<string>headspeaking</string>
+				<string>raysthreeabove</string>
+				<string>raysthreebelow</string>
+				<string>raysthreeleft</string>
+				<string>raysthreeright</string>
 				<string>bubblespeechleft</string>
 				<string>bubblespeechright</string>
 				<string>bubblespeechtwo</string>
 				<string>bubblespeechthree</string>
 				<string>bubblethoughtleft</string>
 				<string>bubblethoughtright</string>
+				<string>bubbleangerleft</string>
+				<string>bubbleangerright</string>
+				<string>bubblemood</string>
+				<string>bubblemoodlightning</string>
+				<string>moodlightning</string>
+				<string>ballotboxballot</string>
+				<string>xballotscript</string>
+				<string>xballotboxscript</string>
+				<string>xballotscriptbold</string>
+				<string>xballotboxscriptbold</string>
+				<string>checkmarklight</string>
+				<string>checkballotboxbold</string>
+				<string>mapworld</string>
+				<string>mountfuji</string>
+				<string>tokyotower</string>
+				<string>statueofliberty</string>
+				<string>japanmap</string>
+				<string>moai</string>
 				<string>catfacegrinningeyessmiling</string>
 				<string>catfacejoytears</string>
 				<string>catfacemouthopensmiling</string>
@@ -625,41 +1310,193 @@
 				<string>catfacepouting</string>
 				<string>catfacecrying</string>
 				<string>catfaceweary</string>
+				<string>bowing</string>
+				<string>bowingF</string>
+				<string>bowingM</string>
+				<string>bowingA</string>
 				<string>monkeynosee</string>
 				<string>monkeynohear</string>
 				<string>monkeynospeak</string>
 				<string>personhandraised</string>
+				<string>handraisedF</string>
+				<string>handraisedM</string>
+				<string>handraisedA</string>
 				<string>personhandsraised</string>
+				<string>handsraisedF</string>
+				<string>handsraisedM</string>
+				<string>handsraisedA</string>
 				<string>personfrowning</string>
+				<string>frowningF</string>
+				<string>frowningM</string>
+				<string>frowningA</string>
 				<string>personpouting</string>
+				<string>poutingF</string>
+				<string>poutingM</string>
+				<string>poutingA</string>
 				<string>personhandsfolded</string>
+				<string>handsfoldedF</string>
+				<string>handsfoldedM</string>
+				<string>handsfoldedA</string>
+				<string>leafupleft</string>
+				<string>leafdownleft</string>
+				<string>leafupright</string>
+				<string>leafdownright</string>
+				<string>leafturnedupleft</string>
+				<string>leafturneddownleft</string>
+				<string>leafturnedupright</string>
+				<string>leafturneddownright</string>
+				<string>vineleafupleft</string>
+				<string>vineleafdownleft</string>
+				<string>vineleafupright</string>
+				<string>vineleafdownright</string>
+				<string>vineleafheavyupleft</string>
+				<string>vineleafheavydownleft</string>
+				<string>vineleafheavyupright</string>
+				<string>vineleafheavydownright</string>
+				<string>budupleft</string>
+				<string>buddownleft</string>
+				<string>budupright</string>
+				<string>buddownright</string>
+				<string>budheavyupleft</string>
+				<string>budheavydownleft</string>
+				<string>budheavyupright</string>
+				<string>budheavydownright</string>
+				<string>quiltsquarehollow</string>
+				<string>quiltsquarehollowblack</string>
+				<string>quiltsquaresolid</string>
+				<string>quiltsquaresolidblack</string>
+				<string>rocketleftwards</string>
+				<string>rocketupwards</string>
+				<string>rocketrightwards</string>
+				<string>rocketdownwards</string>
+				<string>etscriptligature</string>
+				<string>etscriptligatureheavy</string>
+				<string>etopenligature</string>
+				<string>etopenligatureheavy</string>
 				<string>ampersandheavy</string>
+				<string>ampersandswash</string>
+				<string>quotedblturnedcommasansserifheavy</string>
+				<string>quotedblcommasansserifheavy</string>
+				<string>quotedblcommalowsansserifheavy</string>
+				<string>interrobangheavy</string>
+				<string>interrobangsansserif</string>
+				<string>interrobangsansserifheavy</string>
+				<string>solidusveryheavy</string>
+				<string>solidusreversedveryheavy</string>
+				<string>checkerboard</string>
+				<string>checkerboardreversed</string>
+				<string>rocket</string>
+				<string>helicopter</string>
+				<string>locomotivesteam</string>
+				<string>railwaycar</string>
+				<string>trainhighspeed</string>
+				<string>trainhighspeedbulletnose</string>
+				<string>train</string>
+				<string>metro</string>
+				<string>lightrail</string>
+				<string>station</string>
+				<string>tram</string>
+				<string>tramcar</string>
+				<string>bus</string>
 				<string>busoncoming</string>
+				<string>trolleybus</string>
+				<string>busstop</string>
+				<string>busmini</string>
+				<string>ambulance</string>
+				<string>fireengine</string>
+				<string>policecar</string>
 				<string>policecaroncoming</string>
+				<string>taxi</string>
 				<string>taxioncoming</string>
+				<string>automobile</string>
 				<string>automobileoncoming</string>
+				<string>vehiclerecreational</string>
+				<string>truckdelivery</string>
+				<string>lorryarticulated</string>
+				<string>tractor</string>
+				<string>monorail</string>
+				<string>railwaymountain</string>
+				<string>railwaysuspension</string>
+				<string>cablewaymountain</string>
+				<string>tramwayaerial</string>
+				<string>ship</string>
+				<string>rowboat</string>
+				<string>rowerF</string>
+				<string>rowerM</string>
+				<string>rowerA</string>
+				<string>speedboat</string>
 				<string>trafficlighthorz</string>
+				<string>trafficlightvert</string>
+				<string>construction</string>
+				<string>lightpolicecars</string>
+				<string>flagtriangularpost</string>
+				<string>door</string>
 				<string>no</string>
 				<string>smoking</string>
 				<string>nosmoking</string>
 				<string>litterbin</string>
 				<string>nolitter</string>
+				<string>waterpotable</string>
 				<string>waternonpotable</string>
+				<string>bicycle</string>
 				<string>nobicycles</string>
+				<string>biker</string>
+				<string>bikerF</string>
+				<string>bikerM</string>
+				<string>bikerA</string>
+				<string>bikermountain</string>
+				<string>mountainbikerF</string>
+				<string>mountainbikerM</string>
+				<string>mountainbikerA</string>
+				<string>pedestrian</string>
+				<string>walkerF</string>
+				<string>walkerM</string>
+				<string>walkerA</string>
 				<string>nopedestrians</string>
+				<string>childrencrossing</string>
 				<string>mensroom</string>
 				<string>womensroom</string>
 				<string>restroom</string>
 				<string>babyicon</string>
+				<string>toilet</string>
+				<string>watercloset</string>
+				<string>shower</string>
+				<string>bath</string>
+				<string>bathtub</string>
+				<string>passportcontrol</string>
 				<string>customs</string>
 				<string>baggageclaim</string>
 				<string>leftluggage</string>
 				<string>trianglecornersrounded</string>
 				<string>prohibited</string>
 				<string>informationcircle</string>
+				<string>boys</string>
+				<string>girls</string>
+				<string>couchlamp</string>
+				<string>sleepingaccommodation</string>
+				<string>bagsshopping</string>
+				<string>bellhopbell</string>
+				<string>bed</string>
+				<string>placeworship</string>
 				<string>signoctagonal</string>
 				<string>trolley</string>
+				<string>hammerwrench</string>
 				<string>shield</string>
+				<string>oildrum</string>
+				<string>motorway</string>
+				<string>railwaytrack</string>
+				<string>motorboat</string>
+				<string>airplanemilitaryup</string>
+				<string>airplaneup</string>
+				<string>airplanesmallup</string>
+				<string>airplanesmall</string>
+				<string>airplaneupright</string>
+				<string>airplanedepart</string>
+				<string>airplanearrive</string>
+				<string>satellite</string>
+				<string>fireengineoncoming</string>
+				<string>locomotivediesel</string>
+				<string>shippassenger</string>
 				<string>scooter</string>
 				<string>scootermotor</string>
 				<string>canoe</string>
@@ -675,13 +1512,28 @@
 				<string>selfie</string>
 				<string>missesclaus</string>
 				<string>shrug</string>
+				<string>shruggerF</string>
+				<string>shruggerM</string>
+				<string>shruggerA</string>
 				<string>cartwheeler</string>
+				<string>cartwheelerF</string>
+				<string>cartwheelerM</string>
+				<string>cartwheelerA</string>
 				<string>juggling</string>
 				<string>fencer</string>
 				<string>pentathlon</string>
 				<string>wrestlers</string>
+				<string>wrestlersF</string>
+				<string>wrestlersM</string>
+				<string>wrestlersA</string>
 				<string>waterpolo</string>
+				<string>waterpoloF</string>
+				<string>waterpoloM</string>
+				<string>waterpoloA</string>
 				<string>handball</string>
+				<string>handballF</string>
+				<string>handballM</string>
+				<string>handballA</string>
 				<string>flowerwilted</string>
 				<string>drum</string>
 				<string>toasting</string>
@@ -713,7 +1565,11 @@
 				<string>fortunecookie</string>
 				<string>takeout</string>
 				<string>chopsticks</string>
+				<string>crab</string>
 				<string>lionface</string>
+				<string>scorpion</string>
+				<string>turkey</string>
+				<string>unicorn</string>
 				<string>eagle</string>
 				<string>duck</string>
 				<string>bat</string>
@@ -730,6 +1586,7 @@
 				<string>cheese</string>
 				<string>sled</string>
 				<string>curlingstone</string>
+				<string>witness</string>
 				<string>clippy</string>
 				<string>balloonanger</string>
 				<string>balloonhappy</string>
@@ -2683,39 +3540,80 @@
 		<string>arrowupright</string>
 		<string>arrowdownright</string>
 		<string>arrowdownleft</string>
+		<string>arrowhookleft</string>
+		<string>arrowhookright</string>
+		<string>watch</string>
+		<string>hourglass</string>
 		<string>keyboard</string>
+		<string>eject</string>
+		<string>fastforward</string>
+		<string>rewind</string>
+		<string>fastup</string>
+		<string>fastdown</string>
+		<string>tracknext</string>
+		<string>tracklast</string>
+		<string>playpause</string>
+		<string>clockalarm</string>
+		<string>stopwatch</string>
 		<string>clocktimer</string>
+		<string>hourglassflowing</string>
 		<string>pauseav</string>
 		<string>stopav</string>
 		<string>recordav</string>
 		<string>Mcircle</string>
 		<string>bulletsquare</string>
 		<string>bulletsquarewhite</string>
+		<string>triangleblackright</string>
+		<string>triangleleft</string>
 		<string>squaremediumwhite</string>
 		<string>squaremedium</string>
+		<string>squaremediumsmallwhite</string>
+		<string>squaremediumsmall</string>
 		<string>sunblack</string>
 		<string>cloud</string>
+		<string>umbrella</string>
 		<string>snowman</string>
+		<string>comet</string>
+		<string>telephone</string>
 		<string>ballotboxcheck</string>
+		<string>umbrellaraindrops</string>
 		<string>beveragehot</string>
+		<string>shamrock</string>
 		<string>skullcrossbones</string>
+		<string>radioactive</string>
+		<string>biohazard</string>
 		<string>crossorthodox</string>
 		<string>starcrescent</string>
 		<string>peace</string>
 		<string>yinyang</string>
 		<string>dharmawheel</string>
 		<string>sun</string>
+		<string>moonquarterfirst</string>
+		<string>moonquarterlast</string>
 		<string>mercury</string>
 		<string>female</string>
 		<string>earth</string>
 		<string>male</string>
+		<string>jupiter</string>
+		<string>saturn</string>
+		<string>uranus</string>
+		<string>neptune</string>
+		<string>pluto</string>
+		<string>aries</string>
 		<string>taurus</string>
 		<string>gemini</string>
 		<string>cancer</string>
 		<string>leo</string>
+		<string>virgo</string>
 		<string>libra</string>
+		<string>scorpio</string>
 		<string>sagittarius</string>
+		<string>capricorn</string>
+		<string>aquarius</string>
 		<string>pisces</string>
+		<string>ophiuchus</string>
+		<string>nodeascending</string>
+		<string>nodedescending</string>
 		<string>conjunction</string>
 		<string>opposition</string>
 		<string>spade</string>
@@ -2724,28 +3622,63 @@
 		<string>diamond</string>
 		<string>hotsprings</string>
 		<string>recycle</string>
+		<string>wheelchair</string>
+		<string>hammerpick</string>
+		<string>anchor</string>
+		<string>swordscrossed</string>
+		<string>scales</string>
+		<string>alembic</string>
+		<string>gear</string>
 		<string>atom</string>
 		<string>fleurdelis</string>
 		<string>warning</string>
 		<string>highvoltage</string>
 		<string>circlemediumwhite</string>
 		<string>circlemedium</string>
+		<string>coffin</string>
+		<string>urnfuneral</string>
 		<string>soccerball</string>
 		<string>baseball</string>
 		<string>snowmanwithoutsnow</string>
+		<string>suncloud</string>
+		<string>cloudthunderrain</string>
+		<string>pick</string>
+		<string>helmetwhitecross</string>
+		<string>chains</string>
 		<string>noentry</string>
+		<string>shrineshinto</string>
+		<string>church</string>
+		<string>mountain</string>
+		<string>umbrellaground</string>
+		<string>fountain</string>
+		<string>flaginhole</string>
+		<string>ferry</string>
+		<string>sailboat</string>
+		<string>skier</string>
+		<string>iceskate</string>
+		<string>baller</string>
+		<string>ballerF</string>
+		<string>ballerM</string>
+		<string>ballerA</string>
+		<string>tent</string>
+		<string>fuelpump</string>
 		<string>scissors</string>
 		<string>checkmarkwhiteheavy</string>
+		<string>airplane</string>
 		<string>envelope</string>
 		<string>fistraised</string>
 		<string>handraised</string>
 		<string>handvictory</string>
+		<string>handwriting</string>
+		<string>pencil</string>
+		<string>nib</string>
 		<string>checkheavy</string>
 		<string>multiplyheavy</string>
 		<string>crosslatin</string>
 		<string>stardavid</string>
 		<string>sparkles</string>
 		<string>asteriskeightspoke</string>
+		<string>stareightpoint</string>
 		<string>snowflake</string>
 		<string>sparkle</string>
 		<string>crossmark</string>
@@ -2759,10 +3692,16 @@
 		<string>plusheavy</string>
 		<string>minusheavy</string>
 		<string>divideheavy</string>
+		<string>loopcurly</string>
+		<string>loopcurlydbl</string>
+		<string>arrowcurverightup</string>
+		<string>arrowcurverightdown</string>
 		<string>squarelarge</string>
 		<string>squarelargewhite</string>
 		<string>starmediumwhite</string>
 		<string>circlelargeheavy</string>
+		<string>dashwavy</string>
+		<string>partalteration</string>
 		<string>congratulationideocircle</string>
 		<string>secretideocircle</string>
 		<string>kokokatakanasquare</string>
@@ -2828,6 +3767,19 @@
 		<string>Xregionindicator</string>
 		<string>Yregionindicator</string>
 		<string>Zregionindicator</string>
+		<string>cyclone</string>
+		<string>foggy</string>
+		<string>umbrellaclosed</string>
+		<string>nightstars</string>
+		<string>sunrisemountains</string>
+		<string>sunrise</string>
+		<string>duskcityscape</string>
+		<string>sunset</string>
+		<string>rainbow</string>
+		<string>nightbridge</string>
+		<string>waterwave</string>
+		<string>volcano</string>
+		<string>milkyway</string>
 		<string>globeeuropeafrica</string>
 		<string>globeamericas</string>
 		<string>globeasiaaustralia</string>
@@ -2848,60 +3800,344 @@
 		<string>sunface</string>
 		<string>starglowing</string>
 		<string>starshooting</string>
+		<string>thermometer</string>
 		<string>dropletblack</string>
 		<string>sunwhite</string>
+		<string>suncloudsmall</string>
+		<string>sunwhitecloud</string>
+		<string>suncloudrain</string>
 		<string>cloudrain</string>
 		<string>cloudsnow</string>
 		<string>cloudlightning</string>
+		<string>tornado</string>
+		<string>fog</string>
+		<string>windface</string>
+		<string>hotdog</string>
+		<string>taco</string>
+		<string>burrito</string>
+		<string>chestnut</string>
+		<string>seedling</string>
+		<string>treeevergreen</string>
+		<string>treedeciduous</string>
+		<string>treepalm</string>
+		<string>cactus</string>
+		<string>pepperhot</string>
+		<string>tulip</string>
+		<string>blossomcherry</string>
 		<string>rose</string>
+		<string>hibiscus</string>
+		<string>sunflower</string>
+		<string>blossom</string>
+		<string>earcorn</string>
+		<string>earrice</string>
+		<string>herb</string>
+		<string>clover</string>
+		<string>leafmaple</string>
+		<string>leaffallen</string>
+		<string>leafflutteringinwind</string>
+		<string>mushroom</string>
+		<string>tomato</string>
+		<string>eggplant</string>
+		<string>grapes</string>
+		<string>melon</string>
+		<string>watermelon</string>
+		<string>tangerine</string>
+		<string>lemon</string>
+		<string>banana</string>
+		<string>pineapple</string>
 		<string>applered</string>
 		<string>applegreen</string>
 		<string>pear</string>
 		<string>peach</string>
 		<string>cherries</string>
 		<string>strawberry</string>
+		<string>hamburger</string>
+		<string>pizza</string>
+		<string>meat</string>
+		<string>poultry</string>
+		<string>ricecracker</string>
+		<string>riceball</string>
+		<string>ricecooked</string>
+		<string>ricecurry</string>
+		<string>bowlsteaming</string>
+		<string>spaghetti</string>
+		<string>bread</string>
+		<string>frenchfries</string>
+		<string>sweetpotato</string>
+		<string>dango</string>
+		<string>oden</string>
+		<string>sushi</string>
+		<string>shrimpfried</string>
+		<string>fishcakeswirl</string>
+		<string>icecreamsoft</string>
+		<string>shavedice</string>
+		<string>icecream</string>
 		<string>doughnut</string>
 		<string>cookie</string>
+		<string>chocolate</string>
+		<string>candy</string>
+		<string>lollipop</string>
+		<string>custard</string>
+		<string>honeypot</string>
+		<string>shortcake</string>
+		<string>bentobox</string>
+		<string>foodpot</string>
+		<string>cooking</string>
+		<string>forkknife</string>
+		<string>teacup</string>
+		<string>sake</string>
 		<string>drinkwine</string>
 		<string>drinkcocktail</string>
 		<string>drinktropical</string>
 		<string>beermug</string>
+		<string>beermugs</string>
+		<string>babybottle</string>
+		<string>forkknifeplate</string>
+		<string>bottlecorkpopping</string>
 		<string>popcorn</string>
+		<string>ribbon</string>
+		<string>present</string>
+		<string>cakebirthday</string>
 		<string>jackolantern</string>
+		<string>treechristmas</string>
 		<string>santaclaus</string>
+		<string>fireworks</string>
+		<string>sparkler</string>
+		<string>balloon</string>
+		<string>partypopper</string>
+		<string>confetti</string>
+		<string>treetanabata</string>
+		<string>flagscrossed</string>
+		<string>decorationpine</string>
+		<string>dollsjapanese</string>
+		<string>streamercarp</string>
+		<string>windchime</string>
+		<string>ceremonymoon</string>
+		<string>backpackschool</string>
+		<string>capgraduation</string>
 		<string>hearttipleft</string>
+		<string>bouquetflowers</string>
+		<string>medalmilitary</string>
+		<string>ribbonreminder</string>
+		<string>musicalkeyboardjacks</string>
+		<string>microphonestudio</string>
+		<string>levels</string>
+		<string>knobs</string>
 		<string>musicalnotesascending</string>
 		<string>musicalnotesdescending</string>
+		<string>filmframes</string>
+		<string>ticketsadmission</string>
+		<string>horsecarousel</string>
+		<string>ferriswheel</string>
+		<string>rollercoaster</string>
+		<string>fishing</string>
+		<string>microphone</string>
+		<string>cameramovie</string>
+		<string>cinema</string>
+		<string>headphone</string>
+		<string>palette</string>
+		<string>tophat</string>
+		<string>tentcircus</string>
+		<string>ticket</string>
+		<string>clapperboard</string>
 		<string>drama</string>
+		<string>videogame</string>
+		<string>directhit</string>
+		<string>slots</string>
+		<string>billiards</string>
+		<string>gamedie</string>
+		<string>bowling</string>
 		<string>playingcardsflower</string>
 		<string>notemusical</string>
 		<string>notesmusical</string>
+		<string>saxophone</string>
+		<string>guitar</string>
+		<string>keyboardmusical</string>
+		<string>trumpet</string>
+		<string>violin</string>
+		<string>scoremusical</string>
+		<string>shirtrunning</string>
 		<string>tennis</string>
+		<string>skis</string>
 		<string>basketball</string>
+		<string>flagchequered</string>
+		<string>snowboarder</string>
+		<string>runner</string>
+		<string>runnerF</string>
+		<string>runnerM</string>
+		<string>runnerA</string>
+		<string>surfer</string>
+		<string>surferF</string>
+		<string>surferM</string>
+		<string>surferA</string>
 		<string>medalsports</string>
+		<string>trophy</string>
+		<string>horseracing</string>
 		<string>footballamerican</string>
 		<string>footballrugby</string>
+		<string>swimmer</string>
+		<string>swimmerF</string>
+		<string>swimmerM</string>
+		<string>swimmerA</string>
+		<string>weightlifter</string>
+		<string>weightlifterF</string>
+		<string>weightlifterM</string>
+		<string>weightlifterA</string>
+		<string>golfer</string>
+		<string>golferF</string>
+		<string>golferM</string>
+		<string>golferA</string>
+		<string>racingmotorcycle</string>
+		<string>racingcar</string>
+		<string>cricketsport</string>
 		<string>volleyball</string>
+		<string>hockeyfield</string>
+		<string>hockeyice</string>
+		<string>tabletennis</string>
+		<string>mountainsnowy</string>
+		<string>camping</string>
+		<string>umbrellabeach</string>
+		<string>buildingconstruction</string>
+		<string>buildingshouse</string>
+		<string>cityscape</string>
+		<string>buildinghousederelict</string>
+		<string>buildingclassical</string>
+		<string>desert</string>
+		<string>islanddesert</string>
+		<string>park</string>
+		<string>stadium</string>
+		<string>buildinghouse</string>
+		<string>housegarden</string>
+		<string>buildingoffice</string>
+		<string>postofficejapan</string>
+		<string>postofficeeuro</string>
+		<string>hospital</string>
+		<string>bank</string>
+		<string>atm</string>
+		<string>hotel</string>
+		<string>hotellove</string>
+		<string>storeconvenience</string>
+		<string>school</string>
+		<string>storedepartment</string>
+		<string>factory</string>
+		<string>lanternizakaya</string>
+		<string>castlejapan</string>
+		<string>castleeuro</string>
+		<string>pennantwhite</string>
+		<string>pennant</string>
+		<string>flagwavingwhite</string>
+		<string>flagwaving</string>
 		<string>rosette</string>
+		<string>rosetteblack</string>
+		<string>label</string>
+		<string>badminton</string>
+		<string>bowarrow</string>
+		<string>amphora</string>
 		<string>skintypemod2</string>
 		<string>skintypemod3</string>
 		<string>skintypemod4</string>
 		<string>skintypemod5</string>
 		<string>skintypemod6</string>
+		<string>rat</string>
+		<string>mouse</string>
+		<string>ox</string>
+		<string>buffalo</string>
+		<string>cow</string>
+		<string>tiger</string>
+		<string>leopard</string>
+		<string>rabbit</string>
+		<string>cat</string>
+		<string>dragon</string>
+		<string>crocodile</string>
+		<string>whale</string>
+		<string>snail</string>
+		<string>snake</string>
+		<string>horse</string>
+		<string>ram</string>
+		<string>goat</string>
+		<string>sheep</string>
+		<string>monkey</string>
+		<string>rooster</string>
+		<string>chicken</string>
+		<string>dog</string>
+		<string>pig</string>
+		<string>boar</string>
+		<string>elephant</string>
+		<string>octopus</string>
+		<string>shellspiral</string>
+		<string>bug</string>
+		<string>ant</string>
+		<string>bee</string>
+		<string>ladybug</string>
+		<string>fish</string>
+		<string>fishtropical</string>
+		<string>fugu</string>
+		<string>turtle</string>
+		<string>chickhatching</string>
+		<string>chickbaby</string>
+		<string>chickbabyfront</string>
+		<string>bird</string>
 		<string>penguin</string>
+		<string>koala</string>
+		<string>poodle</string>
+		<string>cameldromedary</string>
+		<string>camelbactrian</string>
+		<string>dolphin</string>
+		<string>mouseface</string>
+		<string>cowface</string>
+		<string>tigerface</string>
+		<string>rabbitface</string>
 		<string>catface</string>
+		<string>dragonface</string>
+		<string>whalespouting</string>
+		<string>horseface</string>
 		<string>monkeyface</string>
 		<string>dogface</string>
 		<string>pigface</string>
+		<string>frogface</string>
+		<string>hamsterface</string>
+		<string>wolfface</string>
+		<string>bearface</string>
+		<string>pandaface</string>
+		<string>pignose</string>
+		<string>pawprints</string>
+		<string>chipmunk</string>
 		<string>eyes</string>
 		<string>eye</string>
+		<string>ear</string>
+		<string>nose</string>
 		<string>mouth</string>
+		<string>tongue</string>
+		<string>handbackupwhite</string>
+		<string>handbackdownwhite</string>
+		<string>handbackleftwhite</string>
+		<string>handbackrightwhite</string>
+		<string>fist</string>
 		<string>handwaving</string>
 		<string>handok</string>
 		<string>thumbsup</string>
 		<string>thumbsdown</string>
 		<string>handsclapping</string>
 		<string>handsopen</string>
+		<string>crown</string>
+		<string>hatwomans</string>
+		<string>glasses</string>
+		<string>necktie</string>
+		<string>tshirt</string>
+		<string>jeans</string>
+		<string>dress</string>
+		<string>kimono</string>
+		<string>bikini</string>
+		<string>clotheswomans</string>
+		<string>purse</string>
+		<string>handbag</string>
+		<string>pouch</string>
+		<string>shoemans</string>
+		<string>shoeathletic</string>
+		<string>shoestiletto</string>
+		<string>sandalwomans</string>
+		<string>bootswomans</string>
+		<string>footprints</string>
 		<string>bust</string>
 		<string>busts</string>
 		<string>adult</string>
@@ -2909,6 +4145,8 @@
 		<string>adult.b</string>
 		<string>man</string>
 		<string>man.a</string>
+		<string>man.b</string>
+		<string>man.c</string>
 		<string>woman</string>
 		<string>woman.a</string>
 		<string>woman.b</string>
@@ -2923,6 +4161,7 @@
 		<string>girl</string>
 		<string>girl.a</string>
 		<string>girl.b</string>
+		<string>girl.c</string>
 		<string>baby</string>
 		<string>adultold</string>
 		<string>manold</string>
@@ -3014,17 +4253,20 @@
 		<string>mechanicF</string>
 		<string>mechanicM</string>
 		<string>mechanicA</string>
+		<string>scientistF</string>
 		<string>scientistM</string>
 		<string>scientistA</string>
-		<string>scientistF</string>
 		<string>healthworkerF</string>
 		<string>healthworkerM</string>
 		<string>healthworkerA</string>
 		<string>princess</string>
 		<string>prince</string>
+		<string>ogre</string>
 		<string>goblin</string>
+		<string>ghost</string>
 		<string>angelbaby</string>
 		<string>alien</string>
+		<string>alienmonster</string>
 		<string>imp</string>
 		<string>skull</string>
 		<string>personinforming</string>
@@ -3033,6 +4275,8 @@
 		<string>informingA</string>
 		<string>guardsman</string>
 		<string>dancer</string>
+		<string>lipstick</string>
+		<string>nailpolish</string>
 		<string>massage</string>
 		<string>massageF</string>
 		<string>massageM</string>
@@ -3041,8 +4285,15 @@
 		<string>haircutF</string>
 		<string>haircutM</string>
 		<string>haircutA</string>
+		<string>barberpole</string>
+		<string>syringe</string>
+		<string>pill</string>
 		<string>kissmark</string>
 		<string>loveletter</string>
+		<string>ring</string>
+		<string>gemstone</string>
+		<string>bouquet</string>
+		<string>wedding</string>
 		<string>heartwhite</string>
 		<string>heartred</string>
 		<string>heartorange</string>
@@ -3061,11 +4312,22 @@
 		<string>heartsrevolving</string>
 		<string>heartdecoration</string>
 		<string>diamonddot</string>
+		<string>lightbulb</string>
+		<string>anger</string>
+		<string>bomb</string>
 		<string>zzz</string>
+		<string>collision</string>
+		<string>droplets</string>
 		<string>droplet</string>
+		<string>dashing</string>
 		<string>poop</string>
+		<string>biceps</string>
+		<string>dizzy</string>
 		<string>balloonspeech</string>
 		<string>balloonthought</string>
+		<string>flowerwhite</string>
+		<string>hundredpoints</string>
+		<string>moneybag</string>
 		<string>currencyexchange</string>
 		<string>dollarheavy</string>
 		<string>creditcard</string>
@@ -3073,28 +4335,122 @@
 		<string>banknotedollar</string>
 		<string>banknoteeuro</string>
 		<string>banknotepound</string>
+		<string>moneywings</string>
+		<string>trendupwardsyen</string>
+		<string>seat</string>
+		<string>computerpersonal</string>
+		<string>briefcase</string>
 		<string>discmini</string>
 		<string>discfloppy</string>
+		<string>discoptical</string>
+		<string>dvd</string>
+		<string>filefolder</string>
+		<string>filefolderopen</string>
+		<string>pagecurl</string>
+		<string>pagefacingup</string>
+		<string>calendar</string>
+		<string>calendartearoff</string>
+		<string>indexcard</string>
+		<string>charttrendingup</string>
+		<string>charttrendingdown</string>
+		<string>chartbar</string>
+		<string>clipboard</string>
+		<string>pushpin</string>
+		<string>pushpinround</string>
 		<string>paperclip</string>
+		<string>rulerstraight</string>
+		<string>rulertriangular</string>
+		<string>bookmarktabs</string>
+		<string>ledger</string>
+		<string>notebook</string>
+		<string>notebookdeco</string>
+		<string>bookclosed</string>
+		<string>bookopen</string>
+		<string>bookorange</string>
+		<string>bookgreen</string>
+		<string>bookblue</string>
+		<string>books</string>
+		<string>namebadge</string>
+		<string>scroll</string>
+		<string>memo</string>
+		<string>telephonereceiver</string>
+		<string>pager</string>
+		<string>faxmachine</string>
+		<string>satelliteantenna</string>
+		<string>loudspeaker</string>
+		<string>megaphone</string>
+		<string>outbox</string>
+		<string>inbox</string>
+		<string>package</string>
 		<string>email</string>
 		<string>envelopeincoming</string>
 		<string>envelopearrowndown</string>
+		<string>mailboxclosedflaglowered</string>
+		<string>mailboxclosedflagraised</string>
+		<string>mailboxopenflagraised</string>
+		<string>mailboxopenflaglowered</string>
+		<string>postbox</string>
+		<string>postalhorn</string>
+		<string>newspaper</string>
 		<string>mobilephone</string>
 		<string>mobilephonearrowleft</string>
 		<string>vibrationmode</string>
 		<string>mobilephoneoff</string>
 		<string>mobilephoneno</string>
+		<string>antennabars</string>
+		<string>camera</string>
+		<string>cameraflash</string>
+		<string>cameravideo</string>
+		<string>television</string>
+		<string>radio</string>
+		<string>videocassette</string>
+		<string>filmprojector</string>
+		<string>stereoportable</string>
+		<string>beadsprayer</string>
+		<string>shuffle</string>
+		<string>repeat</string>
+		<string>repeatsingle</string>
 		<string>arrowsopencircleupdownclockwise</string>
 		<string>arrowsopencircleupdownanticlockwise</string>
 		<string>dim</string>
+		<string>bright</string>
+		<string>speakermuted</string>
+		<string>speaker</string>
+		<string>speakerlow</string>
+		<string>speakerhigh</string>
+		<string>battery</string>
+		<string>plugelectric</string>
+		<string>magnifyleft</string>
+		<string>magnifyright</string>
 		<string>lockpen</string>
 		<string>lockkey</string>
 		<string>key</string>
 		<string>lock</string>
 		<string>lockopen</string>
+		<string>bell</string>
+		<string>bellmuted</string>
+		<string>bookmark</string>
+		<string>link</string>
 		<string>radiobutton</string>
 		<string>nooneundereighteen</string>
+		<string>inputlatincaps</string>
+		<string>inputlatinsmall</string>
+		<string>inputnumbers</string>
+		<string>inputsymbols</string>
+		<string>inputlatin</string>
+		<string>fire</string>
+		<string>flashlight</string>
+		<string>wrench</string>
+		<string>hammer</string>
+		<string>nutbolt</string>
+		<string>knifekitchen</string>
+		<string>pistol</string>
+		<string>microscope</string>
+		<string>telescope</string>
+		<string>crystalball</string>
 		<string>starsixpointdotted</string>
+		<string>beginner</string>
+		<string>tridentemblem</string>
 		<string>buttonsquareblack</string>
 		<string>buttonsquarewhite</string>
 		<string>circlered</string>
@@ -3103,10 +4459,27 @@
 		<string>diamondlargeblue</string>
 		<string>diamondsmallorange</string>
 		<string>diamondsmallblue</string>
+		<string>triangleupred</string>
+		<string>triangledownred</string>
+		<string>trianglesmallupred</string>
+		<string>trianglesmalldownred</string>
+		<string>circlewhiteshadowlowerright</string>
+		<string>circlewhiteshadowupperright</string>
+		<string>crosspommeecircle</string>
+		<string>crosspommeehalfcirclebelow</string>
+		<string>crosspommee</string>
+		<string>semicirclenotchedthreedotsleft</string>
+		<string>semicirclenotchedthreedotsright</string>
+		<string>markschapter</string>
 		<string>crosslatinwhite</string>
 		<string>crosslatinheavy</string>
 		<string>crossceltic</string>
 		<string>om</string>
+		<string>dove</string>
+		<string>kaaba</string>
+		<string>mosque</string>
+		<string>synagogue</string>
+		<string>menorah</string>
 		<string>clockH01M00</string>
 		<string>clockH02M00</string>
 		<string>clockH03M00</string>
@@ -3131,31 +4504,161 @@
 		<string>clockH10M30</string>
 		<string>clockH11M30</string>
 		<string>clockH12M30</string>
+		<string>speakerright</string>
+		<string>speakerlowright</string>
+		<string>speakerhighright</string>
+		<string>bullhorn</string>
+		<string>bullhornsoundwaves</string>
+		<string>bellringing</string>
+		<string>book</string>
+		<string>candle</string>
 		<string>clockmantel</string>
 		<string>skullcrossbonesblack</string>
 		<string>nopiracy</string>
+		<string>hole</string>
+		<string>manlevitating</string>
+		<string>sleuth</string>
+		<string>sleuthF</string>
+		<string>sleuthM</string>
+		<string>sleuthA</string>
+		<string>sunglasses</string>
+		<string>spider</string>
+		<string>spiderweb</string>
+		<string>joystick</string>
 		<string>mandancing</string>
+		<string>handtelephonereceiverleft</string>
+		<string>telephonereceiverpage</string>
+		<string>handtelephonereceiverright</string>
+		<string>telephonetouchtonewhite</string>
+		<string>telephonetouchtone</string>
+		<string>telephonemodem</string>
+		<string>mobilephoneclamshell</string>
 		<string>envelopeback</string>
 		<string>envelopestamped</string>
 		<string>envelopelightning</string>
 		<string>envelopeflying</string>
 		<string>envelopestampedpen</string>
 		<string>paperclipslinked</string>
+		<string>pushpinblack</string>
+		<string>pencildownleft</string>
+		<string>penballpoint</string>
+		<string>penfountain</string>
+		<string>paintbrush</string>
+		<string>crayon</string>
+		<string>handwritingleft</string>
+		<string>okturned</string>
 		<string>handfingerssplayed</string>
 		<string>handfingerssplayedreversed</string>
 		<string>thumbsupreversed</string>
 		<string>thumbsdownreversed</string>
+		<string>handvictoryreversed</string>
+		<string>handmiddlefinger</string>
 		<string>handvulcan</string>
 		<string>indexupwhite</string>
+		<string>indexleftdownwhite</string>
+		<string>indexsideleftwhite</string>
+		<string>indexsiderightwhite</string>
+		<string>indexsideleft</string>
+		<string>indexsideright</string>
+		<string>indexbackleft</string>
+		<string>indexbackright</string>
+		<string>indexsideupwhite</string>
+		<string>indexsidedownwhite</string>
+		<string>indexsideup</string>
+		<string>indexsidedown</string>
 		<string>indexbackup</string>
 		<string>indexbackdown</string>
+		<string>computerdesktop</string>
+		<string>keyboardmouse</string>
+		<string>computersnetworked</string>
+		<string>printer</string>
+		<string>calculatorpocket</string>
+		<string>diskfloppyhardshell</string>
+		<string>diskfloppyhardshellwhite</string>
+		<string>diskfloppysoftshell</string>
+		<string>tapecartridge</string>
+		<string>keyboardwired</string>
+		<string>mouseonebutton</string>
+		<string>mousetwobutton</string>
+		<string>mousethreebutton</string>
+		<string>trackball</string>
+		<string>personalcomputerold</string>
+		<string>diskhard</string>
+		<string>screen</string>
+		<string>printericon</string>
+		<string>faxicon</string>
+		<string>discopticalicon</string>
+		<string>documenttext</string>
+		<string>documenttextpicture</string>
+		<string>documentpicture</string>
+		<string>framepicture</string>
+		<string>frametiles</string>
+		<string>framex</string>
+		<string>folderblack</string>
+		<string>folder</string>
+		<string>folderopen</string>
+		<string>cardindexdividers</string>
+		<string>cardfilebox</string>
+		<string>filecabinet</string>
+		<string>noteempty</string>
+		<string>notepageempty</string>
+		<string>notepadempty</string>
+		<string>note</string>
+		<string>notepage</string>
+		<string>notepad</string>
+		<string>documentempty</string>
+		<string>pageempty</string>
+		<string>pagesempty</string>
+		<string>document</string>
+		<string>page</string>
+		<string>pages</string>
+		<string>wastebasket</string>
+		<string>notepadspiral</string>
+		<string>calendarspiral</string>
+		<string>windowdesktop</string>
+		<string>minimize</string>
+		<string>maximize</string>
+		<string>overlap</string>
 		<string>arrowssemicircleleftrightclockwise</string>
+		<string>cancellationx</string>
+		<string>fontsizeincrease</string>
+		<string>fontsizedecrease</string>
+		<string>compression</string>
+		<string>keyold</string>
+		<string>newspaperrolled</string>
+		<string>pagetextcircle</string>
+		<string>chartstock</string>
+		<string>knifedagger</string>
+		<string>lips</string>
+		<string>headspeaking</string>
+		<string>raysthreeabove</string>
+		<string>raysthreebelow</string>
+		<string>raysthreeleft</string>
+		<string>raysthreeright</string>
 		<string>bubblespeechleft</string>
 		<string>bubblespeechright</string>
 		<string>bubblespeechtwo</string>
 		<string>bubblespeechthree</string>
 		<string>bubblethoughtleft</string>
 		<string>bubblethoughtright</string>
+		<string>bubbleangerleft</string>
+		<string>bubbleangerright</string>
+		<string>bubblemood</string>
+		<string>bubblemoodlightning</string>
+		<string>moodlightning</string>
+		<string>ballotboxballot</string>
+		<string>xballotscript</string>
+		<string>xballotboxscript</string>
+		<string>xballotscriptbold</string>
+		<string>xballotboxscriptbold</string>
+		<string>checkmarklight</string>
+		<string>checkballotboxbold</string>
+		<string>mapworld</string>
+		<string>mountfuji</string>
+		<string>tokyotower</string>
+		<string>statueofliberty</string>
+		<string>japanmap</string>
+		<string>moai</string>
 		<string>catfacegrinningeyessmiling</string>
 		<string>catfacejoytears</string>
 		<string>catfacemouthopensmiling</string>
@@ -3165,41 +4668,193 @@
 		<string>catfacepouting</string>
 		<string>catfacecrying</string>
 		<string>catfaceweary</string>
+		<string>bowing</string>
+		<string>bowingF</string>
+		<string>bowingM</string>
+		<string>bowingA</string>
 		<string>monkeynosee</string>
 		<string>monkeynohear</string>
 		<string>monkeynospeak</string>
 		<string>personhandraised</string>
+		<string>handraisedF</string>
+		<string>handraisedM</string>
+		<string>handraisedA</string>
 		<string>personhandsraised</string>
+		<string>handsraisedF</string>
+		<string>handsraisedM</string>
+		<string>handsraisedA</string>
 		<string>personfrowning</string>
+		<string>frowningF</string>
+		<string>frowningM</string>
+		<string>frowningA</string>
 		<string>personpouting</string>
+		<string>poutingF</string>
+		<string>poutingM</string>
+		<string>poutingA</string>
 		<string>personhandsfolded</string>
+		<string>handsfoldedF</string>
+		<string>handsfoldedM</string>
+		<string>handsfoldedA</string>
+		<string>leafupleft</string>
+		<string>leafdownleft</string>
+		<string>leafupright</string>
+		<string>leafdownright</string>
+		<string>leafturnedupleft</string>
+		<string>leafturneddownleft</string>
+		<string>leafturnedupright</string>
+		<string>leafturneddownright</string>
+		<string>vineleafupleft</string>
+		<string>vineleafdownleft</string>
+		<string>vineleafupright</string>
+		<string>vineleafdownright</string>
+		<string>vineleafheavyupleft</string>
+		<string>vineleafheavydownleft</string>
+		<string>vineleafheavyupright</string>
+		<string>vineleafheavydownright</string>
+		<string>budupleft</string>
+		<string>buddownleft</string>
+		<string>budupright</string>
+		<string>buddownright</string>
+		<string>budheavyupleft</string>
+		<string>budheavydownleft</string>
+		<string>budheavyupright</string>
+		<string>budheavydownright</string>
+		<string>quiltsquarehollow</string>
+		<string>quiltsquarehollowblack</string>
+		<string>quiltsquaresolid</string>
+		<string>quiltsquaresolidblack</string>
+		<string>rocketleftwards</string>
+		<string>rocketupwards</string>
+		<string>rocketrightwards</string>
+		<string>rocketdownwards</string>
+		<string>etscriptligature</string>
+		<string>etscriptligatureheavy</string>
+		<string>etopenligature</string>
+		<string>etopenligatureheavy</string>
 		<string>ampersandheavy</string>
+		<string>ampersandswash</string>
+		<string>quotedblturnedcommasansserifheavy</string>
+		<string>quotedblcommasansserifheavy</string>
+		<string>quotedblcommalowsansserifheavy</string>
+		<string>interrobangheavy</string>
+		<string>interrobangsansserif</string>
+		<string>interrobangsansserifheavy</string>
+		<string>solidusveryheavy</string>
+		<string>solidusreversedveryheavy</string>
+		<string>checkerboard</string>
+		<string>checkerboardreversed</string>
+		<string>rocket</string>
+		<string>helicopter</string>
+		<string>locomotivesteam</string>
+		<string>railwaycar</string>
+		<string>trainhighspeed</string>
+		<string>trainhighspeedbulletnose</string>
+		<string>train</string>
+		<string>metro</string>
+		<string>lightrail</string>
+		<string>station</string>
+		<string>tram</string>
+		<string>tramcar</string>
+		<string>bus</string>
 		<string>busoncoming</string>
+		<string>trolleybus</string>
+		<string>busstop</string>
+		<string>busmini</string>
+		<string>ambulance</string>
+		<string>fireengine</string>
+		<string>policecar</string>
 		<string>policecaroncoming</string>
+		<string>taxi</string>
 		<string>taxioncoming</string>
+		<string>automobile</string>
 		<string>automobileoncoming</string>
+		<string>vehiclerecreational</string>
+		<string>truckdelivery</string>
+		<string>lorryarticulated</string>
+		<string>tractor</string>
+		<string>monorail</string>
+		<string>railwaymountain</string>
+		<string>railwaysuspension</string>
+		<string>cablewaymountain</string>
+		<string>tramwayaerial</string>
+		<string>ship</string>
+		<string>rowboat</string>
+		<string>rowerF</string>
+		<string>rowerM</string>
+		<string>rowerA</string>
+		<string>speedboat</string>
 		<string>trafficlighthorz</string>
+		<string>trafficlightvert</string>
+		<string>construction</string>
+		<string>lightpolicecars</string>
+		<string>flagtriangularpost</string>
+		<string>door</string>
 		<string>no</string>
 		<string>smoking</string>
 		<string>nosmoking</string>
 		<string>litterbin</string>
 		<string>nolitter</string>
+		<string>waterpotable</string>
 		<string>waternonpotable</string>
+		<string>bicycle</string>
 		<string>nobicycles</string>
+		<string>biker</string>
+		<string>bikerF</string>
+		<string>bikerM</string>
+		<string>bikerA</string>
+		<string>bikermountain</string>
+		<string>mountainbikerF</string>
+		<string>mountainbikerM</string>
+		<string>mountainbikerA</string>
+		<string>pedestrian</string>
+		<string>walkerF</string>
+		<string>walkerM</string>
+		<string>walkerA</string>
 		<string>nopedestrians</string>
+		<string>childrencrossing</string>
 		<string>mensroom</string>
 		<string>womensroom</string>
 		<string>restroom</string>
 		<string>babyicon</string>
+		<string>toilet</string>
+		<string>watercloset</string>
+		<string>shower</string>
+		<string>bath</string>
+		<string>bathtub</string>
+		<string>passportcontrol</string>
 		<string>customs</string>
 		<string>baggageclaim</string>
 		<string>leftluggage</string>
 		<string>trianglecornersrounded</string>
 		<string>prohibited</string>
 		<string>informationcircle</string>
+		<string>boys</string>
+		<string>girls</string>
+		<string>couchlamp</string>
+		<string>sleepingaccommodation</string>
+		<string>bagsshopping</string>
+		<string>bellhopbell</string>
+		<string>bed</string>
+		<string>placeworship</string>
 		<string>signoctagonal</string>
 		<string>trolley</string>
+		<string>hammerwrench</string>
 		<string>shield</string>
+		<string>oildrum</string>
+		<string>motorway</string>
+		<string>railwaytrack</string>
+		<string>motorboat</string>
+		<string>airplanemilitaryup</string>
+		<string>airplaneup</string>
+		<string>airplanesmallup</string>
+		<string>airplanesmall</string>
+		<string>airplaneupright</string>
+		<string>airplanedepart</string>
+		<string>airplanearrive</string>
+		<string>satellite</string>
+		<string>fireengineoncoming</string>
+		<string>locomotivediesel</string>
+		<string>shippassenger</string>
 		<string>scooter</string>
 		<string>scootermotor</string>
 		<string>canoe</string>
@@ -3215,13 +4870,28 @@
 		<string>selfie</string>
 		<string>missesclaus</string>
 		<string>shrug</string>
+		<string>shruggerF</string>
+		<string>shruggerM</string>
+		<string>shruggerA</string>
 		<string>cartwheeler</string>
+		<string>cartwheelerF</string>
+		<string>cartwheelerM</string>
+		<string>cartwheelerA</string>
 		<string>juggling</string>
 		<string>fencer</string>
 		<string>pentathlon</string>
 		<string>wrestlers</string>
+		<string>wrestlersF</string>
+		<string>wrestlersM</string>
+		<string>wrestlersA</string>
 		<string>waterpolo</string>
+		<string>waterpoloF</string>
+		<string>waterpoloM</string>
+		<string>waterpoloA</string>
 		<string>handball</string>
+		<string>handballF</string>
+		<string>handballM</string>
+		<string>handballA</string>
 		<string>flowerwilted</string>
 		<string>drum</string>
 		<string>toasting</string>
@@ -3253,7 +4923,11 @@
 		<string>fortunecookie</string>
 		<string>takeout</string>
 		<string>chopsticks</string>
+		<string>crab</string>
 		<string>lionface</string>
+		<string>scorpion</string>
+		<string>turkey</string>
+		<string>unicorn</string>
 		<string>eagle</string>
 		<string>duck</string>
 		<string>bat</string>
@@ -3270,6 +4944,7 @@
 		<string>cheese</string>
 		<string>sled</string>
 		<string>curlingstone</string>
+		<string>witness</string>
 		<string>clippy</string>
 		<string>balloonanger</string>
 		<string>balloonhappy</string>

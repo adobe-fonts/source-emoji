@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="balloonanger" format="1">
+<glyph name="nodedescending" format="1">
   <advance width="1000"/>
+  <unicode hex="260B"/>
   <outline>
-    <component base="balloonspeech"/>
-    <component base="highvoltage" xScale="0.72" yScale="0.72" xOffset="140" yOffset="140"/>
+    <component base="nodeascending" yScale="-1" yOffset="756"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.4</real>
-        <integer>1</integer>
         <real>0.8</real>
-        <integer>1</integer>
+        <real>1.0</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

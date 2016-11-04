@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="mercury" format="1">
+<glyph name="neptune" format="1">
   <advance width="1000"/>
-  <unicode hex="263F"/>
+  <unicode hex="2646"/>
   <outline>
     <contour>
       <point x="500" y="214" type="curve" smooth="yes"/>
@@ -92,4 +92,15 @@
       <point x="776" y="854" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>
