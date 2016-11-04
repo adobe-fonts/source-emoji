@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="globemeridians" format="1">
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="60" y="366" type="line"/>
+			<point x="940" y="366" type="line"/>
+			<point x="940" y="394" type="line"/>
+			<point x="60" y="394" type="line"/>
+		</contour>
+		<contour>
+			<point x="486" y="-60" type="line"/>
+			<point x="514" y="-60" type="line"/>
+			<point x="514" y="820" type="line"/>
+			<point x="486" y="820" type="line"/>
+		</contour>
+		<contour>
+			<point x="120" y="156" type="line"/>
+			<point x="880" y="156" type="line"/>
+			<point x="880" y="184" type="line"/>
+			<point x="120" y="184" type="line"/>
+		</contour>
+		<contour>
+			<point x="120" y="576" type="line"/>
+			<point x="880" y="576" type="line"/>
+			<point x="880" y="604" type="line"/>
+			<point x="120" y="604" type="line"/>
+		</contour>
+		<contour>
+			<point x="500" y="826" type="line"/>
+			<point x="381" y="826"/>
+			<point x="242" y="648"/>
+			<point x="242" y="380" type="curve" smooth="yes"/>
+			<point x="242" y="112"/>
+			<point x="381" y="-66"/>
+			<point x="500" y="-66" type="curve"/>
+			<point x="500" y="-42" type="line"/>
+			<point x="398" y="-42"/>
+			<point x="274" y="132"/>
+			<point x="274" y="380" type="curve" smooth="yes"/>
+			<point x="274" y="628"/>
+			<point x="398" y="802"/>
+			<point x="500" y="802" type="curve"/>
+		</contour>
+		<contour>
+			<point x="500" y="826" type="curve"/>
+			<point x="500" y="802" type="line"/>
+			<point x="602" y="802"/>
+			<point x="726" y="628"/>
+			<point x="726" y="380" type="curve" smooth="yes"/>
+			<point x="726" y="132"/>
+			<point x="602" y="-42"/>
+			<point x="500" y="-42" type="curve"/>
+			<point x="500" y="-66" type="line"/>
+			<point x="619" y="-66"/>
+			<point x="758" y="112"/>
+			<point x="758" y="380" type="curve" smooth="yes"/>
+			<point x="758" y="648"/>
+			<point x="619" y="826"/>
+		</contour>
+		<component base="face"/>
+	</outline>
+</glyph>

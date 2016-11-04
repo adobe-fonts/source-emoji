@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heartsrevolving" format="1">
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="26" y="270" type="line"/>
+			<point x="70" y="-26" type="line"/>
+			<point x="180" y="84" type="line"/>
+			<point x="138" y="84" type="line"/>
+			<point x="228" y="-38"/>
+			<point x="360" y="-96"/>
+			<point x="500" y="-96" type="curve"/>
+			<point x="500" y="24" type="line"/>
+			<point x="390" y="24"/>
+			<point x="292" y="66"/>
+			<point x="218" y="170" type="curve"/>
+			<point x="218" y="124" type="line"/>
+			<point x="330" y="234" type="line"/>
+		</contour>
+		<contour>
+			<point x="500" y="856" type="curve"/>
+			<point x="500" y="736" type="line"/>
+			<point x="610" y="736"/>
+			<point x="708" y="694"/>
+			<point x="782" y="590" type="curve"/>
+			<point x="782" y="636" type="line"/>
+			<point x="670" y="526" type="line"/>
+			<point x="974" y="490" type="line"/>
+			<point x="930" y="786" type="line"/>
+			<point x="820" y="676" type="line"/>
+			<point x="862" y="676" type="line"/>
+			<point x="772" y="798"/>
+			<point x="640" y="856"/>
+		</contour>
+		<component base="heartwhite" xScale="0.5" yScale="0.5" xOffset="500" yOffset="-60"/>
+		<component base="heartwhite" xScale="0.5" yScale="0.5" yOffset="440"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,102 @@
+table head {
+   FontRevision 1.017;
+} head;
+
+#----------------------------------------
+
+table OS/2 {
+	Panose 5 3 1 0 1 0 0 0 0 0;
+	FSType 0;
+	# NOTE: For cross-platform consistency, OS/2.TypoAscender and |OS/2.TypoDescender| must add up to the font's UPM value
+	TypoAscender 880;	# Must be the same on all fonts for cross-platform consistency
+	TypoDescender -120;	# Must be the same on all fonts for cross-platform consistency
+	TypoLineGap 0;		# Must be zero for cross-platform consistency
+	winAscent 1056;		# Must be the same on all fonts for cross-weight consistency
+	winDescent 144;		# Must be the same on all fonts for cross-weight consistency
+	XHeight 480;
+	CapHeight 880;
+	WeightClass 400;	# Normal (Regular)
+	WidthClass 5;		# Medium (normal)
+	Vendor "ADBO";
+} OS/2;
+
+#----------------------------------------
+
+
+table hhea {
+	# NOTE: The OS/2.winAscent and OS/2.winDescent values are set by MakeOTF and vary depending on the font's bounding box
+	Ascender 1056;		# Must match OS/2.winAscent for cross-platform consistency
+	Descender -144;		# Must match OS/2.winDescent for cross-platform consistency
+	LineGap 0;			# Must be zero for cross-platform consistency
+} hhea;
+
+#----------------------------------------
+
+table name {
+	nameid 0 "Copyright 2016 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name \2018Source\2019.";
+	nameid 0 1 "Copyright 2016 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name \D4Source\D5.";
+	nameid 11 "http://www.adobe.com/type";
+	nameid 11 1 "http://www.adobe.com/type";
+	nameid 13 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL. This Font Software is distributed on an \2018AS IS\2019 BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.";
+	nameid 13 1 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL. This Font Software is distributed on an \D4AS IS\D5 BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.";
+	nameid 14 "http://scripts.sil.org/OFL";
+	nameid 14 1 "http://scripts.sil.org/OFL";
+	nameid 7 "Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.";
+	nameid 7 1 "Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.";
+	nameid 8 "Adobe Systems Incorporated";
+	nameid 8 1 "Adobe Systems Incorporated";
+	nameid 9 "Paul D. Hunt";
+	nameid 9 1 "Paul D. Hunt";
+} name;
+
+table BASE {
+	HorizAxis.BaseTagList ideo romn;
+	HorizAxis.BaseScriptList 
+	latn romn -170 0,
+	DFLT romn -170 0;
+} BASE;
+
+#----------------------------------------
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+#----------------------------------------
+
+feature ccmp { # Glyph Composition / Decomposition
+
+lookup SHORTCODES {
+	include (shortcodes.fea);
+} SHORTCODES;
+
+lookup ZWJ {
+
+	include (ZWJ.fea); # external 
+
+	# CUSTOM ZWJ -------------------------------------------------------------------------
+	sub paperclip ZWJ personinforming by clippy;
+	sub balloonspeech ZWJ highvoltage by balloonanger;
+	sub balloonspeech ZWJ facemouthopensmiling by balloonhappy;
+	sub balloonspeech ZWJ heartheavy by balloonlove; 
+	sub handfingerssplayed ZWJ heartheavy by handiloveyou; 
+
+} ZWJ;
+
+} ccmp;
+
+#----------------------------------------
+
+feature salt { # Stylistic alternates
+
+	sub facecowboy from [cowgirl cowboy cowboy.a cowpoke];
+	sub cowboy from [cowboy.a];
+	sub man from [man.a];
+	sub woman from [woman.a];
+	sub boy from [boy.a];
+	sub girl from [girl.a];
+	sub chopsticks from [chopsticks.a];
+	sub clockmantel from [clockmantel.a];
+	sub facesavouringdeliciousfood from [facesavouringdeliciousfood.a];
+
+} salt;
+

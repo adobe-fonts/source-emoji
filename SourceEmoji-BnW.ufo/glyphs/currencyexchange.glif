@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="currencyexchange" format="1">
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="894" y="270" type="line"/>
+			<point x="590" y="234" type="line"/>
+			<point x="702" y="124" type="line"/>
+			<point x="702" y="170" type="line"/>
+			<point x="628" y="66"/>
+			<point x="530" y="24"/>
+			<point x="420" y="24" type="curve"/>
+			<point x="420" y="-96" type="line"/>
+			<point x="560" y="-96"/>
+			<point x="692" y="-38"/>
+			<point x="782" y="84" type="curve"/>
+			<point x="740" y="84" type="line"/>
+			<point x="850" y="-26" type="line"/>
+		</contour>
+		<contour>
+			<point x="580" y="856" type="line"/>
+			<point x="440" y="856"/>
+			<point x="308" y="798"/>
+			<point x="218" y="676" type="curve"/>
+			<point x="260" y="676" type="line"/>
+			<point x="150" y="786" type="line"/>
+			<point x="106" y="490" type="line"/>
+			<point x="410" y="526" type="line"/>
+			<point x="298" y="636" type="line"/>
+			<point x="298" y="590" type="line"/>
+			<point x="372" y="694"/>
+			<point x="470" y="736"/>
+			<point x="580" y="736" type="curve"/>
+		</contour>
+		<component base="dollarheavy" xScale="0.72" yScale="0.72" xOffset="-140" yOffset="-100"/>
+		<component base="dollarheavy" xScale="0.72" yScale="0.72" xOffset="440" yOffset="310"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

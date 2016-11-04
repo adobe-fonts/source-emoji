@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="highvoltage">
+	<unicode hex="26A1" />
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="363" y="40" />
+      <point x="360" y="34" />
+      <point x="371" y="23" />
+      <point type="curve" x="377" y="30" />
+      <point type="line" x="847" y="553" />
+      <point x="851" y="558" />
+      <point x="846" y="570" />
+      <point type="curve" x="840" y="569" />
+      <point type="line" x="490" y="530" />
+      <point type="line" x="637" y="840" />
+      <point x="640" y="847" />
+      <point x="629" y="857" />
+      <point type="curve" x="623" y="850" />
+      <point type="line" x="153" y="327" />
+      <point x="149" y="322" />
+      <point x="154" y="310" />
+      <point type="curve" x="160" y="311" />
+      <point type="line" x="510" y="350" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000l363403603437123c37730l847553851558846570c840569l490530l637840640847629857c623850l153327149322154310c160311l510350</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 28 824</string>
+              <string>vstem 152 696</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

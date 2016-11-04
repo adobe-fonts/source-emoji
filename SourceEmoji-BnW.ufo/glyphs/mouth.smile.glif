@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mouth.smile" format="1">
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="500" y="84" type="curve" smooth="yes"/>
+			<point x="641" y="84"/>
+			<point x="734" y="168"/>
+			<point x="750" y="298" type="curve"/>
+			<point x="704" y="314" type="line"/>
+			<point x="676" y="230"/>
+			<point x="600" y="188"/>
+			<point x="500" y="188" type="curve" smooth="yes"/>
+			<point x="400" y="188"/>
+			<point x="324" y="230"/>
+			<point x="296" y="314" type="curve"/>
+			<point x="250" y="298" type="line"/>
+			<point x="266" y="168"/>
+			<point x="359" y="84"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.4</real>
+				<real>0.8</real>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

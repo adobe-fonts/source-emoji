@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Q">
+  <advance width="700" />
+  <unicode hex="0051" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="350" y="150" />
+      <point x="286" y="150" />
+      <point x="246" y="212" />
+      <point type="curve" x="246" y="326" />
+      <point x="246" y="434" />
+      <point x="286" y="488" />
+      <point type="curve" x="350" y="488" />
+      <point x="414" y="488" />
+      <point x="454" y="434" />
+      <point type="curve" x="454" y="326" />
+      <point x="454" y="212" />
+      <point x="414" y="150" />
+    </contour>
+    <contour>
+      <point type="curve" x="572" y="-196" />
+      <point x="661" y="-196" />
+      <point x="702" y="-166" />
+      <point type="curve" x="702" y="-108" />
+      <point x="702" y="-48" />
+      <point x="670" y="-32" />
+      <point type="curve" x="638" y="-32" />
+      <point x="623" y="-32" />
+      <point x="604" y="-38" />
+      <point type="curve" x="590" y="-38" />
+      <point x="551" y="-38" />
+      <point x="499" y="-29" />
+      <point type="curve" x="470" y="9" />
+      <point x="586" y="52" />
+      <point x="658" y="164" />
+      <point type="curve" x="658" y="330" />
+      <point x="658" y="542" />
+      <point x="534" y="660" />
+      <point type="curve" x="350" y="660" />
+      <point x="166" y="660" />
+      <point x="42" y="542" />
+      <point type="curve" x="42" y="330" />
+      <point x="42" y="149" />
+      <point x="128" y="33" />
+      <point type="curve" x="262" y="-2" />
+      <point x="314" y="-115" />
+      <point x="424" y="-196" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>a1d8ec0fef85fb354b9c50c8a6035f42c5050b0571767831a8521f3771542ba7bfbaeedc1e4ee674c7374600c95b495740d7756cdb0791d58ce718fced4a114e</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -196 158</string>
+              <string>hstem 488 172</string>
+              <string>vstem 42 204</string>
+              <string>vstem 454 204</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

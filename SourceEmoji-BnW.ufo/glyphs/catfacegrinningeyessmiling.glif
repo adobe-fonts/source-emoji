@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="catfacegrinningeyessmiling" format="1">
+	<advance width="1000"/>
+	<outline>
+		<component base="facecat"/>
+		<component base="eyes.smiling" yOffset="-10"/>
+		<component base="nose.c" yOffset="-10"/>
+		<component base="smile.c" yOffset="-10"/>
+	</outline>
+</glyph>

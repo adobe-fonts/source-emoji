@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="hair.Fa">
+	<advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="236" y="80" />
+      <point type="line" x="162" y="220" />
+      <point type="line" x="100" y="250" />
+      <point type="line" x="100" y="427" />
+      <point x="109" y="424" />
+      <point x="120" y="424" />
+      <point type="curve" x="132" y="424" />
+      <point x="284" y="424" />
+      <point x="507" y="503" />
+      <point type="curve" x="593" y="627" />
+      <point x="634" y="510" />
+      <point x="741" y="414" />
+      <point type="curve" x="870" y="414" />
+      <point x="882" y="414" />
+      <point x="892" y="415" />
+      <point type="curve" x="900" y="419" />
+      <point type="line" x="900" y="250" />
+      <point type="line" x="838" y="220" />
+      <point type="line" x="764" y="80" />
+      <point type="line" x="694" y="-22" />
+      <point x="860" y="-12" />
+      <point x="1000" y="92" />
+      <point type="curve" x="1000" y="284" />
+      <point x="966" y="302" />
+      <point x="953" y="334" />
+      <point type="curve" x="948" y="406" />
+      <point x="927" y="708" />
+      <point x="782" y="862" />
+      <point type="curve" x="500" y="862" />
+      <point x="218" y="862" />
+      <point x="73" y="708" />
+      <point type="curve" x="52" y="406" />
+      <point x="47" y="334" />
+      <point x="34" y="302" />
+      <point type="curve" x="0" y="284" />
+      <point x="0" y="92" />
+      <point x="140" y="-12" />
+      <point type="curve" x="306" y="-22" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.guides</key>
+      <array>
+				<dict>
+					<key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false />
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>367</integer>
+          <key>y</key>
+          <integer>330</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>1b5afbbe0c0821f2f73b03167ea40a1e708eeb271122ecb762134c83e21978eaa68ba139be53e84d1c1aece8a56f13d7c0925e6a742f6e818ae469804b5fab37</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -22 884</string>
+              <string>vstem 0 100</string>
+              <string>vstem 900 100</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

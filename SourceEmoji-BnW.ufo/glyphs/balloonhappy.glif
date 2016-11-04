@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="balloonhappy" format="1">
+	<advance width="1000"/>
+	<outline>
+		<component base="balloonspeech"/>
+		<component base="eyes.neutral" xScale="0.8" yScale="0.8" xOffset="100" yOffset="176"/>
+		<component base="mouth.smileteeth" xScale="0.8" yScale="0.8" xOffset="100" yOffset="176"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.4</real>
+				<integer>1</integer>
+				<real>0.8</real>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

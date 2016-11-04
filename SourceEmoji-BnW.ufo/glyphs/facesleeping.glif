@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="facesleeping" format="1">
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="680" y="350" type="line"/>
+			<point x="860" y="350" type="line"/>
+			<point x="860" y="404" type="line"/>
+			<point x="774" y="404" type="line"/>
+			<point x="856" y="512" type="line"/>
+			<point x="856" y="550" type="line"/>
+			<point x="690" y="550" type="line"/>
+			<point x="690" y="496" type="line"/>
+			<point x="762" y="496" type="line"/>
+			<point x="680" y="388" type="line"/>
+		</contour>
+		<contour>
+			<point x="790" y="590" type="line"/>
+			<point x="980" y="590" type="line"/>
+			<point x="980" y="644" type="line"/>
+			<point x="884" y="644" type="line"/>
+			<point x="976" y="772" type="line"/>
+			<point x="976" y="810" type="line"/>
+			<point x="800" y="810" type="line"/>
+			<point x="800" y="756" type="line"/>
+			<point x="882" y="756" type="line"/>
+			<point x="790" y="628" type="line"/>
+		</contour>
+		<contour>
+			<point x="580" y="130" type="line"/>
+			<point x="750" y="130" type="line"/>
+			<point x="750" y="184" type="line"/>
+			<point x="674" y="184" type="line"/>
+			<point x="746" y="272" type="line"/>
+			<point x="746" y="310" type="line"/>
+			<point x="590" y="310" type="line"/>
+			<point x="590" y="256" type="line"/>
+			<point x="652" y="256" type="line"/>
+			<point x="580" y="168" type="line"/>
+		</contour>
+		<component base="face" xOffset="-20"/>
+		<component base="eyes.closed" xOffset="-100"/>
+		<component base="mouth.hushed" xOffset="-100"/>
+	</outline>
+</glyph>

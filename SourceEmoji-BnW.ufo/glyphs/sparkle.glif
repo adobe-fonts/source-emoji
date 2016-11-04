@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sparkle" format="1">
+	<unicode hex="2747"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="92" y="378" type="curve"/>
+			<point x="92" y="384" type="line"/>
+			<point x="310" y="452"/>
+			<point x="382" y="570"/>
+			<point x="438" y="804" type="curve"/>
+			<point x="442" y="804" type="line"/>
+			<point x="498" y="570"/>
+			<point x="570" y="452"/>
+			<point x="788" y="384" type="curve"/>
+			<point x="788" y="378" type="line"/>
+			<point x="570" y="310"/>
+			<point x="498" y="192"/>
+			<point x="442" y="-42" type="curve"/>
+			<point x="438" y="-42" type="line"/>
+			<point x="382" y="192"/>
+			<point x="310" y="310"/>
+		</contour>
+		<contour>
+			<point x="38" y="346" type="curve"/>
+			<point x="282" y="274"/>
+			<point x="344" y="159"/>
+			<point x="400" y="-90" type="curve"/>
+			<point x="422" y="-106"/>
+			<point x="458" y="-106"/>
+			<point x="480" y="-90" type="curve"/>
+			<point x="536" y="159"/>
+			<point x="598" y="274"/>
+			<point x="842" y="346" type="curve"/>
+			<point x="851" y="358"/>
+			<point x="851" y="404"/>
+			<point x="842" y="416" type="curve"/>
+			<point x="598" y="488"/>
+			<point x="536" y="603"/>
+			<point x="480" y="852" type="curve"/>
+			<point x="460" y="868"/>
+			<point x="422" y="868"/>
+			<point x="400" y="852" type="curve"/>
+			<point x="344" y="603"/>
+			<point x="282" y="488"/>
+			<point x="38" y="416" type="curve"/>
+			<point x="29" y="404"/>
+			<point x="29" y="358"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

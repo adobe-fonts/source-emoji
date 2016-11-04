@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boy.c" format="1">
+	<advance width="1000"/>
+	<outline>
+		<component base="head.m"/>
+		<component base="hair.m"/>
+		<component base="eyes.F"/>
+		<component base="nose.m"/>
+		<component base="mouth.p"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>1</integer>
+				<real>0.4</real>
+				<real>0.4</real>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

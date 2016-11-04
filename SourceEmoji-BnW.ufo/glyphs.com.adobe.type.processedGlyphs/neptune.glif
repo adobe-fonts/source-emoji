@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="neptune">
+	<unicode hex="2646" />
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="500" y="342" />
+      <point x="422" y="342" />
+      <point x="368" y="398" />
+      <point type="curve" x="368" y="474" />
+      <point x="368" y="550" />
+      <point x="422" y="606" />
+      <point type="curve" x="500" y="606" />
+      <point x="578" y="606" />
+      <point x="632" y="550" />
+      <point type="curve" x="632" y="474" />
+      <point x="632" y="398" />
+      <point x="579" y="342" />
+    </contour>
+    <contour>
+      <point type="line" x="676" y="870" />
+      <point x="664" y="872" />
+      <point x="655" y="866" />
+      <point type="curve" x="653" y="854" />
+      <point x="642" y="784" />
+      <point x="592" y="733" />
+      <point type="curve" x="500" y="733" />
+      <point x="407" y="733" />
+      <point x="358" y="784" />
+      <point type="curve" x="347" y="854" />
+      <point x="345" y="866" />
+      <point x="336" y="872" />
+      <point type="curve" x="324" y="870" />
+      <point type="line" x="224" y="854" />
+      <point x="211" y="852" />
+      <point x="204" y="843" />
+      <point type="curve" x="205" y="830" />
+      <point x="210" y="757" />
+      <point x="244" y="699" />
+      <point type="curve" x="301" y="661" />
+      <point x="246" y="615" />
+      <point x="214" y="549" />
+      <point type="curve" x="214" y="474" />
+      <point x="214" y="350" />
+      <point x="297" y="250" />
+      <point type="curve" x="426" y="222" />
+      <point type="line" x="426" y="152" />
+      <point type="line" x="295" y="152" />
+      <point x="283" y="152" />
+      <point x="275" y="144" />
+      <point type="curve" x="275" y="132" />
+      <point type="line" x="275" y="28" />
+      <point x="275" y="16" />
+      <point x="283" y="8" />
+      <point type="curve" x="295" y="8" />
+      <point type="line" x="426" y="8" />
+      <point type="line" x="426" y="-77" />
+      <point x="426" y="-89" />
+      <point x="434" y="-97" />
+      <point type="curve" x="446" y="-97" />
+      <point type="line" x="554" y="-97" />
+      <point x="566" y="-97" />
+      <point x="574" y="-89" />
+      <point type="curve" x="574" y="-77" />
+      <point type="line" x="574" y="8" />
+      <point type="line" x="705" y="8" />
+      <point x="717" y="8" />
+      <point x="725" y="16" />
+      <point type="curve" x="725" y="28" />
+      <point type="line" x="725" y="132" />
+      <point x="725" y="144" />
+      <point x="717" y="152" />
+      <point type="curve" x="705" y="152" />
+      <point type="line" x="574" y="152" />
+      <point type="line" x="574" y="222" />
+      <point x="703" y="250" />
+      <point x="786" y="350" />
+      <point type="curve" x="786" y="474" />
+      <point x="786" y="549" />
+      <point x="754" y="615" />
+      <point type="curve" x="699" y="661" />
+      <point x="756" y="699" />
+      <point x="790" y="757" />
+      <point type="curve" x="795" y="830" />
+      <point x="796" y="843" />
+      <point x="789" y="852" />
+      <point type="curve" x="776" y="854" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>70e5252c36f4fad27bc6786550f7310e321c354b2abf07cd36479969a29aa0327baece8adfeedbfc6250ae848eb6fe71d2a4e1dfbce0b04de71f0708782c4ea9</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 8 144</string>
+              <string>hstem 606 127</string>
+              <string>vstem 214 154</string>
+              <string>vstem 426 148</string>
+              <string>vstem 632 154</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
