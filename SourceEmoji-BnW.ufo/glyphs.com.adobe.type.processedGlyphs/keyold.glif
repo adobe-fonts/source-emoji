@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="keyold">
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="500" y="586" />
+      <point x="447" y="586" />
+      <point x="417" y="558" />
+      <point type="curve" x="376" y="558" />
+      <point x="326" y="558" />
+      <point x="300" y="592" />
+      <point type="curve" x="300" y="656" />
+      <point x="300" y="720" />
+      <point x="326" y="754" />
+      <point type="curve" x="376" y="754" />
+      <point x="417" y="754" />
+      <point x="447" y="726" />
+      <point type="curve" x="500" y="726" />
+      <point x="553" y="726" />
+      <point x="583" y="754" />
+      <point type="curve" x="624" y="754" />
+      <point x="674" y="754" />
+      <point x="700" y="720" />
+      <point type="curve" x="700" y="656" />
+      <point x="700" y="592" />
+      <point x="674" y="558" />
+      <point type="curve" x="624" y="558" />
+      <point x="583" y="558" />
+      <point x="553" y="586" />
+    </contour>
+    <contour>
+      <point type="line" x="439" y="-180" />
+      <point x="439" y="-212" />
+      <point x="465" y="-238" />
+      <point type="curve" x="498" y="-238" />
+      <point x="530" y="-238" />
+      <point x="556" y="-212" />
+      <point type="curve" x="556" y="-180" />
+      <point type="line" x="556" y="-17" />
+      <point type="line" x="627" y="-17" />
+      <point type="line" x="717" y="54" />
+      <point type="line" x="556" y="54" />
+      <point type="line" x="556" y="434" />
+      <point x="722" y="448" />
+      <point x="814" y="528" />
+      <point type="curve" x="814" y="656" />
+      <point x="814" y="798" />
+      <point x="701" y="880" />
+      <point type="curve" x="500" y="880" />
+      <point x="299" y="880" />
+      <point x="186" y="798" />
+      <point type="curve" x="186" y="656" />
+      <point x="186" y="529" />
+      <point x="276" y="450" />
+      <point type="curve" x="439" y="435" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>d2ee51acb112e1b0e63b598b17658d5b5eddec819c08156edb60a6b041075f670208e88c200ec175c3e2ff5868c50965b625b6ae7f12fd60b5be0adc01bb39c5</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -17 71</string>
+              <string>hstem 754 126</string>
+              <string>vstem 186 114</string>
+              <string>vstem 439 117</string>
+              <string>vstem 700 114</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

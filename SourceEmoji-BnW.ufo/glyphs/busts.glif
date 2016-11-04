@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="busts" format="1">
+	<advance width="1030"/>
+	<outline>
+		<contour>
+			<point x="310" y="302" type="curve" smooth="yes"/>
+			<point x="216" y="302"/>
+			<point x="98" y="394"/>
+			<point x="98" y="576" type="curve" smooth="yes"/>
+			<point x="98" y="762"/>
+			<point x="181" y="828"/>
+			<point x="310" y="828" type="curve" smooth="yes"/>
+			<point x="439" y="828"/>
+			<point x="522" y="762"/>
+			<point x="522" y="576" type="curve" smooth="yes"/>
+			<point x="522" y="394"/>
+			<point x="404" y="302"/>
+		</contour>
+		<contour>
+			<point x="24" y="-100" type="line"/>
+			<point x="697" y="-100" type="line"/>
+			<point x="697" y="46" type="line" smooth="yes"/>
+			<point name="inserted" x="697" y="158"/>
+			<point x="537" y="232"/>
+			<point x="310" y="232" type="curve" smooth="yes"/>
+			<point x="142" y="232"/>
+			<point name="inserted" x="24" y="194"/>
+			<point x="24" y="86" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="750" y="261" type="curve" smooth="yes"/>
+			<point x="688" y="261"/>
+			<point x="610" y="322"/>
+			<point x="610" y="444" type="curve" smooth="yes"/>
+			<point x="610" y="567"/>
+			<point x="665" y="612"/>
+			<point x="750" y="612" type="curve" smooth="yes"/>
+			<point x="835" y="612"/>
+			<point x="890" y="567"/>
+			<point x="890" y="444" type="curve" smooth="yes"/>
+			<point x="890" y="322"/>
+			<point x="812" y="261"/>
+		</contour>
+		<contour>
+			<point x="492" y="-100" type="line"/>
+			<point x="1008" y="-100" type="line"/>
+			<point x="1008" y="68" type="line" smooth="yes"/>
+			<point name="inserted" x="1008" y="142"/>
+			<point x="901" y="191"/>
+			<point x="750" y="191" type="curve" smooth="yes"/>
+			<point x="599" y="191"/>
+			<point name="inserted" x="492" y="142"/>
+			<point x="492" y="68" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

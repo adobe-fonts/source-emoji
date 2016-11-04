@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="clockH09M30" format="1">
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="472" y="10" type="line"/>
+			<point x="528" y="10" type="line"/>
+			<point x="548" y="380" type="line"/>
+			<point x="548" y="409"/>
+			<point x="526" y="428"/>
+			<point x="500" y="428" type="curve" smooth="yes"/>
+			<point x="474" y="428"/>
+			<point x="452" y="409"/>
+			<point x="452" y="380" type="curve"/>
+		</contour>
+		<contour>
+			<point x="264" y="472" type="line"/>
+			<point x="250" y="418" type="line"/>
+			<point x="488" y="333" type="line"/>
+			<point x="512" y="427" type="line"/>
+		</contour>
+		<component base="clockface30"/>
+	</outline>
+</glyph>

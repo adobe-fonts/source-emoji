@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="mouth.M">
+	<advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="500" y="62" />
+      <point x="556" y="62" />
+      <point x="590" y="84" />
+      <point type="curve" x="590" y="104" />
+      <point x="590" y="122" />
+      <point x="578" y="126" />
+      <point type="curve" x="500" y="126" />
+      <point x="422" y="126" />
+      <point x="410" y="122" />
+      <point type="curve" x="410" y="104" />
+      <point x="410" y="84" />
+      <point x="444" y="62" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.guides</key>
+      <array>
+				<dict>
+					<key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false />
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>367</integer>
+          <key>y</key>
+          <integer>330</integer>
+        </dict>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000c500625566259084c590104590122578126c500126422126410122c4101044108444462</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 62 64</string>
+              <string>vstem 410 180</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="recordav">
+	<unicode hex="23FA" />
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="500" y="148" />
+      <point x="635" y="148" />
+      <point x="735" y="247" />
+      <point type="curve" x="735" y="380" />
+      <point x="735" y="513" />
+      <point x="635" y="612" />
+      <point type="curve" x="500" y="612" />
+      <point x="365" y="612" />
+      <point x="265" y="513" />
+      <point type="curve" x="265" y="380" />
+      <point x="265" y="247" />
+      <point x="365" y="148" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.guides</key>
+      <array>
+				<dict>
+					<key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false />
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>367</integer>
+          <key>y</key>
+          <integer>330</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000c500148635148735247c735380735513635612c500612365612265513c265380265247365148</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 148 464</string>
+              <string>vstem 265 470</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

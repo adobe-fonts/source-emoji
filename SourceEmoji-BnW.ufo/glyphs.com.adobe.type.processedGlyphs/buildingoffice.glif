@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="buildingoffice">
+	<advance width="1008" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="672" y="588" />
+      <point type="line" x="756" y="588" />
+      <point type="line" x="756" y="672" />
+      <point type="line" x="672" y="672" />
+    </contour>
+    <contour>
+      <point type="line" x="504" y="588" />
+      <point type="line" x="588" y="588" />
+      <point type="line" x="588" y="672" />
+      <point type="line" x="504" y="672" />
+    </contour>
+    <contour>
+      <point type="line" x="336" y="588" />
+      <point type="line" x="420" y="588" />
+      <point type="line" x="420" y="672" />
+      <point type="line" x="336" y="672" />
+    </contour>
+    <contour>
+      <point type="line" x="672" y="420" />
+      <point type="line" x="756" y="420" />
+      <point type="line" x="756" y="504" />
+      <point type="line" x="672" y="504" />
+    </contour>
+    <contour>
+      <point type="line" x="336" y="420" />
+      <point type="line" x="420" y="420" />
+      <point type="line" x="420" y="504" />
+      <point type="line" x="336" y="504" />
+    </contour>
+    <contour>
+      <point type="line" x="504" y="420" />
+      <point type="line" x="588" y="420" />
+      <point type="line" x="588" y="504" />
+      <point type="line" x="504" y="504" />
+    </contour>
+    <contour>
+      <point type="line" x="504" y="252" />
+      <point type="line" x="588" y="252" />
+      <point type="line" x="588" y="336" />
+      <point type="line" x="504" y="336" />
+    </contour>
+    <contour>
+      <point type="line" x="672" y="252" />
+      <point type="line" x="756" y="252" />
+      <point type="line" x="756" y="336" />
+      <point type="line" x="672" y="336" />
+    </contour>
+    <contour>
+      <point type="line" x="336" y="252" />
+      <point type="line" x="420" y="252" />
+      <point type="line" x="420" y="336" />
+      <point type="line" x="336" y="336" />
+    </contour>
+    <contour>
+      <point type="line" x="840" y="-84" />
+      <point type="line" x="756" y="-84" />
+      <point type="line" x="756" y="168" />
+      <point type="line" x="672" y="168" />
+      <point type="line" x="672" y="-84" />
+      <point type="line" x="588" y="-84" />
+      <point type="line" x="588" y="168" />
+      <point type="line" x="504" y="168" />
+      <point type="line" x="504" y="-84" />
+      <point type="line" x="420" y="-84" />
+      <point type="line" x="420" y="168" />
+      <point type="line" x="336" y="168" />
+      <point type="line" x="336" y="-84" />
+      <point type="line" x="252" y="-84" />
+      <point type="line" x="252" y="756" />
+      <point type="line" x="840" y="756" />
+    </contour>
+    <contour>
+      <point type="line" x="924" y="840" />
+      <point type="line" x="168" y="840" />
+      <point type="line" x="168" y="-168" />
+      <point type="line" x="924" y="-168" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>fc8c8f4b54f7878d8e4e599d8d1b52730921ddfc81198a7b10704256275a97b7d6e8155d856eb0ff0ab4f619e112711ee6a2493984d07e984b6eba2f2727f6a0</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -168 84</string>
+              <string>hstem 252 84</string>
+              <string>hstem 420 84</string>
+              <string>hstem 588 84</string>
+              <string>hstem 756 84</string>
+              <string>vstem 168 84</string>
+              <string>vstem 336 84</string>
+              <string>vstem 504 84</string>
+              <string>vstem 672 84</string>
+              <string>vstem 840 84</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

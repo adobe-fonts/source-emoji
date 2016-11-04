@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="tentcircus">
+	<advance width="1008" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="420" y="420" />
+      <point type="line" x="420" y="336" />
+      <point type="line" x="252" y="336" />
+      <point type="line" x="252" y="252" />
+      <point type="line" x="168" y="252" />
+      <point type="line" x="168" y="0" />
+      <point type="line" x="84" y="0" />
+      <point type="line" x="84" y="-168" />
+      <point type="line" x="420" y="-168" />
+      <point type="line" x="420" y="-84" />
+      <point type="line" x="672" y="-84" />
+      <point type="line" x="672" y="-168" />
+      <point type="line" x="1008" y="-168" />
+      <point type="line" x="1008" y="0" />
+      <point type="line" x="924" y="0" />
+      <point type="line" x="924" y="252" />
+      <point type="line" x="840" y="252" />
+      <point type="line" x="840" y="336" />
+      <point type="line" x="672" y="336" />
+      <point type="line" x="672" y="420" />
+      <point type="line" x="588" y="420" />
+      <point type="line" x="588" y="504" />
+      <point type="line" x="672" y="504" />
+      <point type="line" x="672" y="588" />
+      <point type="line" x="924" y="588" />
+      <point type="line" x="924" y="672" />
+      <point type="line" x="756" y="672" />
+      <point type="line" x="756" y="756" />
+      <point type="line" x="588" y="756" />
+      <point type="line" x="588" y="840" />
+      <point type="line" x="504" y="840" />
+      <point type="line" x="504" y="420" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>5e1475f97f28a7ce1df3400706de5e5cea5c22b0cdf64ed8ae7a7eca88f927d2a328c02af912f657278efff954f9cb520e0a72b797921f449a5329b1bae98e14</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -168 168</string>
+              <string>hstem 588 84</string>
+              <string>vstem 168 252</string>
+              <string>vstem 504 84</string>
+              <string>vstem 672 252</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

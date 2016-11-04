@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="sun">
+  <advance width="1000" />
+  <unicode hex="2609" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="500" y="-22" />
+      <point x="270" y="-22" />
+      <point x="108" y="150" />
+      <point type="curve" x="108" y="380" />
+      <point x="108" y="610" />
+      <point x="270" y="782" />
+      <point type="curve" x="500" y="782" />
+      <point x="735" y="782" />
+      <point x="892" y="610" />
+      <point type="curve" x="892" y="380" />
+      <point x="892" y="150" />
+      <point x="735" y="-22" />
+    </contour>
+    <contour>
+      <point type="curve" x="500" y="252" />
+      <point x="572" y="252" />
+      <point x="620" y="307" />
+      <point type="curve" x="620" y="380" />
+      <point x="620" y="453" />
+      <point x="572" y="508" />
+      <point type="curve" x="500" y="508" />
+      <point x="430" y="508" />
+      <point x="380" y="453" />
+      <point type="curve" x="380" y="380" />
+      <point x="380" y="307" />
+      <point x="430" y="252" />
+    </contour>
+    <contour>
+      <point type="curve" x="500" y="-74" />
+      <point x="769" y="-74" />
+      <point x="952" y="122" />
+      <point type="curve" x="952" y="380" />
+      <point x="952" y="638" />
+      <point x="769" y="834" />
+      <point type="curve" x="500" y="834" />
+      <point x="231" y="834" />
+      <point x="48" y="638" />
+      <point type="curve" x="48" y="380" />
+      <point x="48" y="122" />
+      <point x="231" y="-74" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>0fad7ddda57e26614c14353d067e80ae97d48ba4094f261f8b014869780fa45a4b24f0c8ffe0b7a680b43160c389b2c11fd846ed47f0fa6d5c1300cbe12a054c</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -74 52</string>
+              <string>hstem 252 256</string>
+              <string>hstem 782 52</string>
+              <string>vstem 48 60</string>
+              <string>vstem 380 240</string>
+              <string>vstem 892 60</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

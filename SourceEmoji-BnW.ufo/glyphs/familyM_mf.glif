@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="familyMmf" format="1">
+	<advance width="1000"/>
+	<outline>
+		<component base="man" xScale="0.5" yScale="0.5" xOffset="250" yOffset="440"/>
+		<component base="boy" xScale="0.5" yScale="0.5" yOffset="-60"/>
+		<component base="girl" xScale="0.5" yScale="0.5" xOffset="500" yOffset="-60"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.4</real>
+				<integer>1</integer>
+				<real>0.8</real>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

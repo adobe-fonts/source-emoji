@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="massage">
+	<advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="500" y="-85" />
+      <point x="719" y="-85" />
+      <point x="878" y="75" />
+      <point type="curve" x="878" y="294" />
+      <point x="878" y="513" />
+      <point x="719" y="673" />
+      <point type="curve" x="500" y="673" />
+      <point x="281" y="673" />
+      <point x="122" y="513" />
+      <point type="curve" x="122" y="294" />
+      <point x="122" y="75" />
+      <point x="281" y="-85" />
+    </contour>
+    <contour>
+      <point type="curve" x="500" y="-44" />
+      <point x="306" y="-44" />
+      <point x="170" y="96" />
+      <point type="curve" x="170" y="294" />
+      <point x="170" y="492" />
+      <point x="306" y="632" />
+      <point type="curve" x="500" y="632" />
+      <point x="694" y="632" />
+      <point x="830" y="492" />
+      <point type="curve" x="830" y="294" />
+      <point x="830" y="96" />
+      <point x="694" y="-44" />
+    </contour>
+    <contour>
+      <point type="curve" x="388" y="296" />
+      <point x="442" y="296" />
+      <point x="473" y="337" />
+      <point type="curve" x="474" y="422" />
+      <point type="line" x="433" y="425" />
+      <point x="430" y="383" />
+      <point x="418" y="366" />
+      <point type="curve" x="388" y="366" />
+      <point x="358" y="366" />
+      <point x="346" y="383" />
+      <point type="curve" x="343" y="425" />
+      <point type="line" x="300" y="422" />
+      <point x="302" y="337" />
+      <point x="334" y="296" />
+    </contour>
+    <contour>
+      <point type="curve" x="612" y="296" />
+      <point x="666" y="296" />
+      <point x="698" y="337" />
+      <point type="curve" x="700" y="422" />
+      <point type="line" x="657" y="425" />
+      <point x="654" y="383" />
+      <point x="642" y="366" />
+      <point type="curve" x="612" y="366" />
+      <point x="582" y="366" />
+      <point x="570" y="383" />
+      <point type="curve" x="567" y="425" />
+      <point type="line" x="526" y="422" />
+      <point x="527" y="337" />
+      <point x="558" y="296" />
+    </contour>
+    <contour>
+      <point type="curve" x="500" y="56" />
+      <point x="610" y="56" />
+      <point x="673" y="108" />
+      <point type="curve" x="692" y="203" />
+      <point type="line" x="657" y="216" />
+      <point x="628" y="160" />
+      <point x="572" y="139" />
+      <point type="curve" x="500" y="139" />
+      <point x="428" y="139" />
+      <point x="372" y="160" />
+      <point type="curve" x="343" y="216" />
+      <point type="line" x="308" y="203" />
+      <point x="327" y="108" />
+      <point x="390" y="56" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.guides</key>
+      <array>
+				<dict>
+					<key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false />
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>367</integer>
+          <key>y</key>
+          <integer>330</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>5857faafb1af4f9bbff52e0c3ccc58070d28eb355034b0b4871e3d0144f3d817010407c0e0f99bbf8eedca0f3291250cdddc5b57ba8d74ce4bd732ab5cb690c6</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -85 41</string>
+              <string>hstem 56 83</string>
+              <string>hstem 296 70</string>
+              <string>hstem 632 41</string>
+              <string>vstem 122 48</string>
+              <string>vstem 300 43</string>
+              <string>vstem 433 41</string>
+              <string>vstem 526 41</string>
+              <string>vstem 657 43</string>
+              <string>vstem 830 48</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="mountfuji">
+	<advance width="1008" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="672" y="504" />
+      <point type="line" x="672" y="756" />
+      <point type="line" x="420" y="756" />
+      <point type="line" x="420" y="672" />
+      <point type="line" x="588" y="672" />
+      <point type="line" x="588" y="504" />
+    </contour>
+    <contour>
+      <point name="hintSet0006" type="line" x="420" y="504" />
+      <point type="line" x="420" y="672" />
+      <point type="line" x="336" y="672" />
+      <point type="line" x="336" y="504" />
+    </contour>
+    <contour>
+      <point type="line" x="168" y="336" />
+      <point type="line" x="168" y="168" />
+      <point type="line" x="84" y="168" />
+      <point type="line" x="84" y="84" />
+      <point type="line" x="0" y="84" />
+      <point type="line" x="0" y="-84" />
+      <point type="line" x="1008" y="-84" />
+      <point type="line" x="1008" y="84" />
+      <point type="line" x="924" y="84" />
+      <point type="line" x="924" y="168" />
+      <point type="line" x="840" y="168" />
+      <point type="line" x="840" y="336" />
+      <point type="line" x="756" y="336" />
+      <point type="line" x="756" y="504" />
+      <point type="line" x="672" y="504" />
+      <point type="line" x="672" y="336" />
+      <point name="hintSet0026" type="line" x="588" y="336" />
+      <point type="line" x="588" y="420" />
+      <point type="line" x="420" y="420" />
+      <point type="line" x="420" y="252" />
+      <point type="line" x="336" y="252" />
+      <point type="line" x="336" y="504" />
+      <point type="line" x="252" y="504" />
+      <point type="line" x="252" y="336" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>34b82e0f28e13a598f42e55492ec0a03391b9d86783594af3b1f45490846153c482a830591cb4357b76f9c1ce8d449d7101e41285c30e2422a197070b4f2751c</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -84 168</string>
+              <string>hstem 672 84</string>
+              <string>vstem 252 84</string>
+              <string>vstem 588 84</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0006</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -84 168</string>
+              <string>hstem 504 168</string>
+              <string>vstem 336 84</string>
+              <string>vstem 672 84</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0026</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -84 168</string>
+              <string>hstem 672 84</string>
+              <string>vstem 252 84</string>
+              <string>vstem 420 168</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

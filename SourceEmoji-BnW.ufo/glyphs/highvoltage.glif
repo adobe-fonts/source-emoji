@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="highvoltage" format="1">
+	<unicode hex="26A1"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="363" y="40" type="line" smooth="yes"/>
+			<point x="360" y="34"/>
+			<point x="371" y="23"/>
+			<point x="377" y="30" type="curve" smooth="yes"/>
+			<point x="847" y="553" type="line" smooth="yes"/>
+			<point x="851" y="558"/>
+			<point x="846" y="570"/>
+			<point x="840" y="569" type="curve" smooth="yes"/>
+			<point x="490" y="530" type="line"/>
+			<point x="637" y="840" type="line" smooth="yes"/>
+			<point x="640" y="847"/>
+			<point x="629" y="857"/>
+			<point x="623" y="850" type="curve" smooth="yes"/>
+			<point x="153" y="327" type="line" smooth="yes"/>
+			<point x="149" y="322"/>
+			<point x="154" y="310"/>
+			<point x="160" y="311" type="curve" smooth="yes"/>
+			<point x="510" y="350" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

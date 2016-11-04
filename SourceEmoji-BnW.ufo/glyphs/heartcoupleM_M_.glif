@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heartcoupleMM" format="1">
+	<advance width="1000"/>
+	<outline>
+		<component base="man.a" xScale="0.5" yScale="0.5" yOffset="-40"/>
+		<component base="cowboy" xScale="-0.625" yScale="0.625" xOffset="1062" yOffset="-34"/>
+		<component base="heartheavy" xScale="0.5" yScale="0.5" xOffset="250" yOffset="420"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.298</real>
+				<real>0.298</real>
+				<real>0.298</real>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>
