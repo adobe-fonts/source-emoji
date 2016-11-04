@@ -88,20 +88,27 @@
 # 	sub woman ZWJ uni2695 emoji by healthworkerF;
 	sub policeofficer ZWJ female by policeofficerF;
 	sub policeofficer ZWJ male by policeofficerM;
+	sub policeofficer ZWJ mercury by policeofficerA;
 	sub constructionworker ZWJ female by constructionworkerF;
 	sub constructionworker ZWJ male by constructionworkerM;
+	sub constructionworker ZWJ mercury by constructionworkerA;
 	sub personinforming ZWJ female by informingF;
 	sub personinforming ZWJ male by informingM;
-# 	sub massage ZWJ female by massageF;
-# 	sub massage ZWJ male by massageM;
+	sub personinforming ZWJ mercury by informingA;
+ 	sub massage ZWJ female by massageF;
+ 	sub massage ZWJ male by massageM;
+ 	sub massage ZWJ mercury by massageA;
 	sub haircut ZWJ female by haircutF;
 	sub haircut ZWJ male by haircutM;
+	sub haircut ZWJ mercury by haircutA;
 # 	sub sleuth emoji ZWJ female by sleuthF;
 # 	sub sleuth emoji ZWJ male by sleuthM;
 	sub facenogood ZWJ female by nogoodF;
 	sub facenogood ZWJ male by nogoodM;
+	sub facenogood ZWJ mercury by nogoodA;
 	sub faceok ZWJ female by okF;
 	sub faceok ZWJ male by okM;
+	sub faceok ZWJ mercury by okA;
 # 	sub bowing ZWJ female by bowingF;
 # 	sub bowing ZWJ male by bowingM;
 # 	sub personhandraised ZWJ female by handraisedF;
@@ -120,6 +127,7 @@
 # 	sub pedestrian ZWJ male by walkerM;
 	sub facepalm ZWJ female by facepalmF;
 	sub facepalm ZWJ male by facepalmM;
+	sub facepalm ZWJ mercury by facepalmA;
 # 	sub shrug ZWJ female by shruggerF;
 # 	sub shrug ZWJ male by shruggerM;
 # 	sub cartwheeler ZWJ female by cartwheelerF;
@@ -134,6 +142,7 @@
 # 	sub baller emoji ZWJ male by ballerM;
 	sub facecowboy ZWJ female by cowgirl;
 	sub facecowboy ZWJ male by cowboy;
+	sub facecowboy ZWJ mercury by cowpoke;
 
 	# Flags ------------------------------------------------------------------------------
 	sub Aregionindicator Cregionindicator by flagAscensionIsland;
