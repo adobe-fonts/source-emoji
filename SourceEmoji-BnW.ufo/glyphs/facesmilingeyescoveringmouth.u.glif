@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="facesmilingeyescoveringmouth.u" format="1">
+	<advance width="1000"/>
+	<outline>
+		<component base="face"/>
+		<component base="eyes.smiling"/>
+		<component base="mouth.smile"/>
+		<component base="handback" xScale="0.4763139721" xyScale="-0.275" yxScale="0.275" yScale="0.4763139721" xOffset="-20" yOffset="136"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

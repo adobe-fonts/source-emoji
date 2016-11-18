@@ -3,25 +3,35 @@
 	<advance width="1000"/>
 	<outline>
 		<contour>
-			<point x="502" y="-116" type="line"/>
-			<point x="917" y="378" type="line"/>
-			<point x="917" y="384" type="line"/>
-			<point x="502" y="874" type="line"/>
-			<point x="498" y="874" type="line"/>
-			<point x="83" y="384" type="line"/>
-			<point x="83" y="378" type="line"/>
-			<point x="498" y="-116" type="line"/>
+			<point x="688" y="494" type="line"/>
+			<point x="323" y="494" type="line"/>
+			<point x="323" y="468" type="line"/>
+			<point x="688" y="468" type="line"/>
 		</contour>
+		<contour>
+			<point x="758" y="392" type="line"/>
+			<point x="253" y="392" type="line"/>
+			<point x="253" y="366" type="line"/>
+			<point x="758" y="366" type="line"/>
+		</contour>
+		<contour>
+			<point x="678" y="292" type="line"/>
+			<point x="323" y="292" type="line"/>
+			<point x="323" y="266" type="line"/>
+			<point x="678" y="266" type="line"/>
+		</contour>
+		<contour>
+			<point x="598" y="192" type="line"/>
+			<point x="393" y="192" type="line"/>
+			<point x="393" y="166" type="line"/>
+			<point x="598" y="166" type="line"/>
+		</contour>
+		<contour>
+			<point x="608" y="594" type="line"/>
+			<point x="383" y="594" type="line"/>
+			<point x="383" y="568" type="line"/>
+			<point x="608" y="568" type="line"/>
+		</contour>
+		<component base="diamondwhitesmall"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<integer>1</integer>
-				<integer>0</integer>
-				<integer>0</integer>
-				<integer>1</integer>
-			</array>
-		</dict>
-	</lib>
 </glyph>

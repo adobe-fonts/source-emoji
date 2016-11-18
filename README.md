@@ -4,10 +4,16 @@
 
 The glyph artwork has been designed to harmonize with other Source fonts. The ultimate goal for this project is to grow it *slowly* over time to cover the full set of characters in Unicode that can take emoji presentation and eventually include colored SVG artwork for greater usability as emoji.
 
+Currently the font can be considered as an alpha version. It features black & white artwork for supported emoji. There is no color artwork at the present.
+
 ## Characters currently supported
 
-Flag combinations are XXX
-Missing characters will display as a sad alien.
+* Character support is generally inconsistant, but does contain glyphs for all Unicode 9 emoji.
+* Most of the smiley characters are present.
+* The glyphs for some characters are not adequately differentiated and may display as duplicates of other characters.
+* Much of the artwork is still unfinished and can be considered provisional.
+* Flag combinations will display as two-letter control pictures.
+* Characters not in this font will display as a sad alien as a fallback.
 
 ## Building the fonts from source
 

@@ -25,12 +25,12 @@ sub colon k i s s i n g underscore s m i l i n g underscore e y e s colon by fac
 sub colon s t u c k underscore o u t underscore t o n g u e colon by facetonguestuckout; # u1F61B	😛
 sub colon s l e e p i n g colon by facesleeping; # u1F634		x{1F634}
 sub colon w o r r i e d colon by faceworried; # u1F61F		x{1F61F}
-sub colon f r o w n i n g colon by facefrowningwhite; # uni2639		x{ni2639}
-sub colon a n g u i s h e d colon by faceanguished; # u1F627		x{1F627}
+sub colon f r o w n i n g colon by facefrowningwhite; # uni2639		☹
+sub colon a n g u i s h e d colon by faceanguished; # u1F627		😧
 sub colon o p e n underscore m o u t h colon by facemouthopen; # u1F62E	😮
-sub colon g r i m a c i n g colon by facegrimacing; # u1F62C		x{1F62C}
-sub colon c o n f u s e d colon by faceconfused; # u1F615		x{1F615}
-sub colon h u s h e d colon by facehushed; # u1F62F		x{1F62F}
+sub colon g r i m a c i n g colon by facegrimacing; # u1F62C		😬
+sub colon c o n f u s e d colon by faceconfused; # u1F615		😕
+sub colon h u s h e d colon by facehushed; # u1F62F		😯
 sub colon e x p r e s s i o n l e s s colon by faceexpressionless; # u1F611		x{1F611}
 sub colon u n a m u s e d colon by faceunamused; # u1F612		x{1F612}
 sub colon s w e a t underscore s m i l e colon by facemouthopensmilingcoldsweat; # u1F605		x{1F605}
@@ -48,7 +48,7 @@ sub colon s o b colon by facecryingloudly; # u1F62D		x{1F62D}
 sub colon j o y colon by facejoytears; # u1F602		x{1F602}
 sub colon a s t o n i s h e d colon by faceastonished; # u1F632		x{1F632}
 sub colon s c r e a m colon by facescreamingfear; # u1F631		x{1F631}
-#sub colon n e c k b e a r d colon by XXX;
+#sub colon n e c k b e a r d colon by neckbeard;
 sub colon t i r e d underscore f a c e colon by facetired; # u1F62B		x{1F62B}
 sub colon a n g r y colon by faceangry; # u1F620		x{1F620}
 sub colon r a g e colon by facepouting; # u1F621		x{1F621}
@@ -79,10 +79,10 @@ sub colon s p a r k l i n g underscore h e a r t colon by heartsparkling; # u1F4
 sub colon s p a r k l e s colon by sparkles; # uni2728		x{2728}
 sub colon s t a r colon by starmediumwhite; # uni2B50		x{2B50}
 sub colon s t a r two colon by starglowing; # u1F31F		x{1F31F}
-# sub colon d i z z y colon by dizzy; # u1F4AB		x{1F4AB}
-# sub colon b o o m colon by collision; # u1F4A5		x{1F4A5}
-# sub colon c o l l i s i o n colon by collision; # u1F4A5		x{1F4A5}
-# sub colon a n g e r colon by anger; # u1F4A2		x{1F4A2}
+# sub colon d i z z y colon by dizzy; # u1F4AB		💫
+# sub colon b o o m colon by collision; # u1F4A5		💥
+# sub colon c o l l i s i o n colon by collision; # u1F4A5		💥
+# sub colon a n g e r colon by anger; # u1F4A2		💢
 sub colon e x c l a m a t i o n colon by exclamheavy; # uni2757		x{2757}
 sub colon q u e s t i o n colon by questionheavy; # uni2753		x{2753}
 sub colon g r e y underscore e x c l a m a t i o n colon by exclamwhite; # uni2755		x{ni2755}
@@ -1496,6 +1496,15 @@ sub colon s l e d colon by sled;
 sub colon c u r l i n g hyphen s t o n e colon by curlingstone;
 sub colon [i I] [l L] [y Y] hyphen h a n d colon by handiloveyou;
 sub colon [i I] hyphen l o v e hyphen y o u hyphen h a n d colon by handiloveyou;
+#sub colon w i t n e s s colon by witness;
+sub colon c l i p p y colon by clippy;
+sub colon b a l l o o n hyphen a n g e r colon by balloonanger;
+sub colon b a l l o o n hyphen h a p p y colon by balloonhappy;
+sub colon b a l l o o n hyphen l o v e colon by balloonlove;
+sub colon b e a n hyphen b l a c k colon by beanblack;
+sub colon b e a n s colon by beans;
+sub colon b e a n hyphen w h i t e colon by beanwhite;
+sub colon d r i n k hyphen s p a r k l i n g colon by drinksparkling;
 sub colon a d u l t colon by adult;
 sub colon p e r s o n colon by adult;
 sub colon h u m a n colon by adult;
@@ -1504,3 +1513,18 @@ sub colon k i d colon by child;
 sub colon o l d e r hyphen a d u l t colon by adultold;
 sub colon o l d e r hyphen p e r s o n colon by adultold;
 sub colon o l d e r hyphen h u m a n colon by adultold;
+sub colon s q u a r e hyphen l a r g e hyphen r e d colon by squarelargered;
+sub colon s q u a r e hyphen l a r g e hyphen o r a n g e colon by squarelargeorange;
+sub colon s q u a r e hyphen l a r g e hyphen y e l l o w colon by squarelargeyellow;
+sub colon s q u a r e hyphen l a r g e hyphen g r e e n colon by squarelargegreen;
+sub colon s q u a r e hyphen l a r g e hyphen b l u e colon by squarelargeblue;
+sub colon s q u a r e hyphen l a r g e hyphen p u r p l e colon by squarelargepurple;
+sub colon r e d colon by squarelargered;
+sub colon o r a n g e colon by squarelargeorange;
+sub colon y e l l o w colon by squarelargeyellow;
+sub colon g r e e n colon by squarelargegreen;
+sub colon b l u e colon by squarelargeblue;
+sub colon p u r p l e colon by squarelargepurple;
+sub colon f a c e p a l m colon by facepalm;
+sub colon p r e g n a n t colon by womanpregnant;
+sub colon t u x e d o by tuxedo;

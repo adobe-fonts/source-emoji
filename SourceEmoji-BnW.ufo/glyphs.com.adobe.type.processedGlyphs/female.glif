@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="female">
-	<unicode hex="2640" />
   <advance width="1000" />
+  <unicode hex="2640" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="340" y="540" />
+      <point name="hintSet0000" type="curve" x="500" y="372" />
+      <point x="406" y="372" />
+      <point x="340" y="444" />
+      <point type="curve" x="340" y="540" />
       <point x="340" y="636" />
       <point x="406" y="708" />
       <point type="curve" x="500" y="708" />
@@ -13,11 +16,25 @@
       <point type="curve" x="660" y="540" />
       <point x="660" y="444" />
       <point x="596" y="372" />
-      <point type="curve" x="500" y="372" />
-      <point x="406" y="372" />
-      <point x="340" y="444" />
     </contour>
     <contour>
+      <point type="line" x="426" y="-68" />
+      <point x="426" y="-80" />
+      <point x="434" y="-88" />
+      <point type="curve" x="446" y="-88" />
+      <point type="line" x="554" y="-88" />
+      <point x="566" y="-88" />
+      <point x="574" y="-80" />
+      <point type="curve" x="574" y="-68" />
+      <point type="line" x="574" y="32" />
+      <point type="line" x="715" y="32" />
+      <point x="727" y="32" />
+      <point x="735" y="40" />
+      <point type="curve" x="735" y="52" />
+      <point type="line" x="735" y="156" />
+      <point x="735" y="168" />
+      <point x="727" y="176" />
+      <point type="curve" x="715" y="176" />
       <point type="line" x="574" y="176" />
       <point type="line" x="574" y="251" />
       <point x="719" y="280" />
@@ -42,23 +59,6 @@
       <point x="273" y="32" />
       <point type="curve" x="285" y="32" />
       <point type="line" x="426" y="32" />
-      <point type="line" x="426" y="-68" />
-      <point x="426" y="-80" />
-      <point x="434" y="-88" />
-      <point type="curve" x="446" y="-88" />
-      <point type="line" x="554" y="-88" />
-      <point x="566" y="-88" />
-      <point x="574" y="-80" />
-      <point type="curve" x="574" y="-68" />
-      <point type="line" x="574" y="32" />
-      <point type="line" x="715" y="32" />
-      <point x="727" y="32" />
-      <point x="735" y="40" />
-      <point type="curve" x="735" y="52" />
-      <point type="line" x="735" y="156" />
-      <point x="735" y="168" />
-      <point x="727" y="176" />
-      <point type="curve" x="715" y="176" />
     </contour>
   </outline>
   <lib>
@@ -66,7 +66,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>7e57b804b054ce7c4f02befde7035d44e394478fd4de9c5bf523e8a4cf032cd2e780838dea20942b3481b755e38adf6b2b307893fdfb7566c548fa8b4b26b615</string>
+        <string>e2fc4b695aae4cdb9b5d7fb6a2206d929bbc86deee70c9b3e02f1795c4b1b96b537e38adb6cf99c72f77bcbe036363c439f3acea66190f9cec2889343609f9f8</string>
         <key>hintSetList</key>
         <array>
           <dict>
