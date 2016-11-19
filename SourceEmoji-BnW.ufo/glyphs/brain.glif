@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brain" format="1">
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="144" y="204" type="curve"/>
+			<point x="99" y="208"/>
+			<point x="72" y="222"/>
+			<point x="72" y="250" type="curve" smooth="yes"/>
+			<point x="72" y="290"/>
+			<point x="128" y="343"/>
+			<point x="162" y="398" type="curve"/>
+			<point x="162" y="430"/>
+			<point x="146" y="470"/>
+			<point x="146" y="508" type="curve" smooth="yes"/>
+			<point x="146" y="672"/>
+			<point x="254" y="852"/>
+			<point x="494" y="852" type="curve" smooth="yes"/>
+			<point x="762" y="852"/>
+			<point x="900" y="694"/>
+			<point x="900" y="460" type="curve" smooth="yes"/>
+			<point x="900" y="158"/>
+			<point x="632" y="-102"/>
+			<point x="360" y="-102" type="curve" smooth="yes"/>
+			<point x="244" y="-102"/>
+			<point x="170" y="-86"/>
+			<point x="170" y="-2" type="curve" smooth="yes"/>
+			<point x="170" y="56"/>
+			<point x="146" y="58"/>
+			<point x="146" y="86" type="curve" smooth="yes"/>
+			<point x="146" y="96"/>
+			<point x="150" y="102"/>
+			<point x="156" y="104" type="curve"/>
+			<point x="148" y="106"/>
+			<point x="144" y="112"/>
+			<point x="144" y="126" type="curve" smooth="yes"/>
+			<point x="144" y="142"/>
+			<point x="148" y="162"/>
+			<point x="148" y="180" type="curve" smooth="yes"/>
+			<point x="148" y="190"/>
+			<point x="146" y="198"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.guides</key>
+			<array>
+				<dict>
+					<key>angle</key>
+					<integer>0</integer>
+					<key>isGlobal</key>
+					<false/>
+					<key>magnetic</key>
+					<integer>5</integer>
+					<key>name</key>
+					<key>x</key>
+					<integer>509</integer>
+					<key>y</key>
+					<integer>250</integer>
+				</dict>
+				<dict>
+					<key>angle</key>
+					<integer>0</integer>
+					<key>isGlobal</key>
+					<false/>
+					<key>magnetic</key>
+					<integer>5</integer>
+					<key>name</key>
+					<key>x</key>
+					<integer>503</integer>
+					<key>y</key>
+					<integer>204</integer>
+				</dict>
+				<dict>
+					<key>angle</key>
+					<integer>0</integer>
+					<key>isGlobal</key>
+					<false/>
+					<key>magnetic</key>
+					<integer>5</integer>
+					<key>name</key>
+					<key>x</key>
+					<integer>525</integer>
+					<key>y</key>
+					<integer>134</integer>
+				</dict>
+				<dict>
+					<key>angle</key>
+					<integer>0</integer>
+					<key>isGlobal</key>
+					<false/>
+					<key>magnetic</key>
+					<integer>5</integer>
+					<key>name</key>
+					<key>x</key>
+					<integer>512</integer>
+					<key>y</key>
+					<integer>64</integer>
+				</dict>
+			</array>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+				<key>mask</key>
+				<dict>
+					<key>anchors</key>
+					<array>
+					</array>
+					<key>components</key>
+					<array>
+						<dict>
+							<key>baseGlyph</key>
+							<string>personblond</string>
+							<key>transformation</key>
+							<array>
+								<integer>1</integer>
+								<integer>0</integer>
+								<integer>0</integer>
+								<integer>1</integer>
+								<integer>0</integer>
+								<integer>0</integer>
+							</array>
+						</dict>
+					</array>
+					<key>contours</key>
+					<array>
+					</array>
+					<key>lib</key>
+					<dict>
+					</dict>
+					<key>name</key>
+					<string>brain</string>
+					<key>unicodes</key>
+					<array>
+					</array>
+					<key>width</key>
+					<integer>1000</integer>
+				</dict>
+			</dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

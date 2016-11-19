@@ -2,11 +2,10 @@
 <glyph name="personheadscarf" format="1">
 	<advance width="1000"/>
 	<outline>
-		<component base="face.F"/>
-		<component base="head.F"/>
-		<component base="eyes.F"/>
-		<component base="nose.F"/>
-		<component base="mouth.F"/>
+		<component base="head.F" xScale="0.8" yScale="0.8" xOffset="100" yOffset="160"/>
+		<component base="eyes.F" xScale="0.8" yScale="0.8" xOffset="100" yOffset="160"/>
+		<component base="nose.F" xScale="0.8" yScale="0.8" xOffset="100" yOffset="160"/>
+		<component base="mouth.F" xScale="0.8" yScale="0.8" xOffset="100" yOffset="160"/>
 	</outline>
 	<lib>
 		<dict>
