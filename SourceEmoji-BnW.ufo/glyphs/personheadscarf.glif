@@ -2,20 +2,65 @@
 <glyph name="personheadscarf" format="1">
 	<advance width="1000"/>
 	<outline>
+		<contour>
+			<point x="500" y="684" type="curve" smooth="yes"/>
+			<point x="353" y="684"/>
+			<point x="269" y="617"/>
+			<point x="238" y="500" type="curve"/>
+			<point x="264" y="492" type="line"/>
+			<point x="297" y="592"/>
+			<point x="385" y="632"/>
+			<point x="500" y="632" type="curve" smooth="yes"/>
+			<point x="615" y="632"/>
+			<point x="703" y="592"/>
+			<point x="736" y="492" type="curve"/>
+			<point x="762" y="500" type="line"/>
+			<point x="731" y="617"/>
+			<point x="647" y="684"/>
+		</contour>
+		<contour>
+			<point x="500" y="748" type="curve" smooth="yes"/>
+			<point x="606" y="748"/>
+			<point x="744" y="602"/>
+			<point x="744" y="410" type="curve" smooth="yes"/>
+			<point x="744" y="247"/>
+			<point x="674" y="110"/>
+			<point x="500" y="110" type="curve"/>
+			<point x="500" y="-102" type="line"/>
+			<point x="588" y="-102"/>
+			<point x="628" y="-60"/>
+			<point x="714" y="0" type="curve" smooth="yes"/>
+			<point x="772" y="41"/>
+			<point x="876" y="52"/>
+			<point x="876" y="144" type="curve" smooth="yes"/>
+			<point x="876" y="190"/>
+			<point x="867" y="286"/>
+			<point x="862" y="406" type="curve" smooth="yes"/>
+			<point x="850" y="686"/>
+			<point x="758" y="846"/>
+			<point x="500" y="846" type="curve" smooth="yes"/>
+			<point x="242" y="846"/>
+			<point x="150" y="686"/>
+			<point x="138" y="406" type="curve" smooth="yes"/>
+			<point x="133" y="286"/>
+			<point x="124" y="190"/>
+			<point x="124" y="144" type="curve" smooth="yes"/>
+			<point x="124" y="52"/>
+			<point x="228" y="41"/>
+			<point x="286" y="0" type="curve" smooth="yes"/>
+			<point x="372" y="-60"/>
+			<point x="412" y="-102"/>
+			<point x="500" y="-102" type="curve"/>
+			<point x="500" y="110" type="line"/>
+			<point x="326" y="110"/>
+			<point x="256" y="247"/>
+			<point x="256" y="410" type="curve" smooth="yes"/>
+			<point x="256" y="602"/>
+			<point x="394" y="748"/>
+		</contour>
 		<component base="head.F" xScale="0.8" yScale="0.8" xOffset="100" yOffset="160"/>
 		<component base="eyes.F" xScale="0.8" yScale="0.8" xOffset="100" yOffset="160"/>
 		<component base="nose.F" xScale="0.8" yScale="0.8" xOffset="100" yOffset="160"/>
 		<component base="mouth.F" xScale="0.8" yScale="0.8" xOffset="100" yOffset="160"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<integer>1</integer>
-				<integer>0</integer>
-				<integer>0</integer>
-				<integer>1</integer>
-			</array>
-		</dict>
-	</lib>
 </glyph>
