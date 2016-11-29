@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sandwich" format="1">
+<glyph name="sandwich.u" format="1">
 	<advance width="1000"/>
 	<outline>
 		<contour>
@@ -219,6 +219,22 @@
 			<point x="384" y="-6"/>
 			<point x="187" y="118"/>
 			<point x="142" y="265" type="curve"/>
+		</contour>
+		<contour>
+			<point x="44" y="-84" type="line"/>
+			<point x="44" y="30"/>
+			<point x="156" y="118"/>
+			<point x="500" y="118" type="curve" smooth="yes"/>
+			<point x="844" y="118"/>
+			<point x="956" y="30"/>
+			<point x="956" y="-84" type="curve"/>
+			<point x="896" y="-88" type="line"/>
+			<point x="896" y="10"/>
+			<point x="776" y="62"/>
+			<point x="500" y="62" type="curve" smooth="yes"/>
+			<point x="224" y="62"/>
+			<point x="104" y="10"/>
+			<point x="104" y="-88" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -1138,7 +1154,7 @@
 					<dict>
 					</dict>
 					<key>name</key>
-					<string>sandwich</string>
+					<string>sandwich.u</string>
 					<key>unicodes</key>
 					<array>
 					</array>
