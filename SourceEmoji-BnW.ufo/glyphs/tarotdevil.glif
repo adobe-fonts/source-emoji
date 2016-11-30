@@ -3,15 +3,15 @@
 	<advance width="1000"/>
 	<outline>
 		<component base="card"/>
-		<component base="facesmilinghorns" xScale="0.6" yScale="0.6" xOffset="200" yOffset="150"/>
+		<component base="imp" xScale="0.6" yScale="0.6" xOffset="200" yOffset="150"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.typemytype.robofont.mark</key>
 			<array>
+				<real>0.8</real>
 				<integer>1</integer>
-				<integer>0</integer>
-				<integer>0</integer>
+				<real>0.4</real>
 				<integer>1</integer>
 			</array>
 		</dict>
