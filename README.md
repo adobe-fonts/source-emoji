@@ -8,7 +8,7 @@ Currently the font can be considered as an alpha version. It features black & wh
 
 ## Characters currently supported
 
-* Character support is generally inconsistant, but does contain glyphs for all Unicode 9 emoji.
+* Character support is generally inconsistent, but does contain glyphs for all Unicode 9 emoji.
 * Most of the smiley characters are present.
 * The glyphs for some characters are not adequately differentiated and may display as duplicates of other characters.
 * Much of the artwork is still unfinished and can be considered provisional.
