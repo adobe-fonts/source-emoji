@@ -3,29 +3,56 @@
 	<advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="502" y="-116" />
-      <point type="line" x="917" y="378" />
-      <point type="line" x="917" y="384" />
-      <point type="line" x="502" y="874" />
-      <point type="line" x="498" y="874" />
-      <point type="line" x="83" y="384" />
-      <point type="line" x="83" y="378" />
-      <point type="line" x="498" y="-116" />
+      <point name="hintSet0000" type="line" x="500" y="104" />
+      <point type="line" x="446" y="166" />
+      <point type="line" x="554" y="166" />
+    </contour>
+    <contour>
+      <point type="line" x="500" y="656" />
+      <point type="line" x="554" y="594" />
+      <point type="line" x="446" y="594" />
+    </contour>
+    <contour>
+      <point type="line" x="641" y="494" />
+      <point type="line" x="359" y="494" />
+      <point type="line" x="423" y="568" />
+      <point type="line" x="577" y="568" />
+    </contour>
+    <contour>
+      <point type="line" x="270" y="392" />
+      <point type="line" x="337" y="468" />
+      <point type="line" x="663" y="468" />
+      <point type="line" x="730" y="392" />
+    </contour>
+    <contour>
+      <point type="line" x="337" y="292" />
+      <point type="line" x="272" y="366" />
+      <point type="line" x="728" y="366" />
+      <point type="line" x="663" y="292" />
+    </contour>
+    <contour>
+      <point type="line" x="359" y="266" />
+      <point type="line" x="641" y="266" />
+      <point type="line" x="577" y="192" />
+      <point type="line" x="423" y="192" />
+    </contour>
+    <contour>
+      <point type="line" x="502" y="734" />
+      <point type="line" x="498" y="734" />
+      <point type="line" x="193" y="384" />
+      <point type="line" x="193" y="378" />
+      <point type="line" x="498" y="24" />
+      <point type="line" x="502" y="24" />
+      <point type="line" x="807" y="378" />
+      <point type="line" x="807" y="384" />
     </contour>
   </outline>
   <lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-      <array>
-				<integer>1</integer>
-        <integer>0</integer>
-        <integer>0</integer>
-        <integer>1</integer>
-      </array>
+    <dict>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>w1000l502-116l917378l917384l502874l498874l83384l83378l498-116</string>
+        <string>86311b1253960d8f02caa9798f9822f642fce2e8661b9cd9db192b0ba7694142363d8e415d43f3f334c0aad20373d30cae0f646f274ab567a815db8cbec63d5c</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -33,8 +60,12 @@
             <string>hintSet0000</string>
             <key>stems</key>
             <array>
-              <string>hstem -116 990</string>
-              <string>vstem 83 834</string>
+              <string>hstem 166 26</string>
+              <string>hstem 266 26</string>
+              <string>hstem 366 26</string>
+              <string>hstem 468 26</string>
+              <string>hstem 568 26</string>
+              <string>vstem 193 614</string>
             </array>
           </dict>
         </array>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="scales">
+	<unicode hex="2696" />
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="250" y="854" />
+      <point x="104" y="854" />
+      <point x="24" y="800" />
+      <point type="curve" x="24" y="718" />
+      <point x="24" y="554" />
+      <point x="145" y="436" />
+      <point type="curve" x="250" y="436" />
+      <point x="355" y="436" />
+      <point x="476" y="554" />
+      <point type="curve" x="476" y="718" />
+      <point x="476" y="800" />
+      <point x="396" y="854" />
+    </contour>
+    <contour>
+      <point type="curve" x="250" y="802" />
+      <point x="359" y="802" />
+      <point x="418" y="761" />
+      <point type="curve" x="418" y="724" />
+      <point x="418" y="708" />
+      <point x="390" y="698" />
+      <point type="curve" x="332" y="683" />
+      <point x="306" y="700" />
+      <point x="287" y="728" />
+      <point type="curve" x="250" y="728" />
+      <point x="213" y="728" />
+      <point x="193" y="699" />
+      <point type="curve" x="168" y="683" />
+      <point x="110" y="698" />
+      <point x="82" y="708" />
+      <point type="curve" x="82" y="724" />
+      <point x="82" y="761" />
+      <point x="141" y="802" />
+    </contour>
+    <contour>
+      <point type="curve" x="250" y="596" />
+      <point x="205" y="596" />
+      <point x="169" y="625" />
+      <point type="curve" x="130" y="644" />
+      <point x="140" y="658" />
+      <point x="150" y="672" />
+      <point type="curve" x="168" y="683" />
+      <point x="192" y="676" />
+      <point x="219" y="652" />
+      <point type="curve" x="250" y="652" />
+      <point x="281" y="652" />
+      <point x="308" y="676" />
+      <point type="curve" x="332" y="683" />
+      <point x="350" y="672" />
+      <point x="360" y="658" />
+      <point type="curve" x="370" y="644" />
+      <point x="331" y="625" />
+      <point x="295" y="596" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>f3aa2cda3632f281b3437ff212312b4fb0c128d4e614414a8e39e020006a67e8afb31d42eb156377de8361116576c584651800aa9645dca7541c464c13504684</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 436 160</string>
+              <string>hstem 652 76</string>
+              <string>hstem 802 52</string>
+              <string>vstem 24 58</string>
+              <string>vstem 418 58</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

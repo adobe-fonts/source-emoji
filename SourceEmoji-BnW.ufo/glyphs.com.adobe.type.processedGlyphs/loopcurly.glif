@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="loopcurly">
+	<unicode hex="27B0" />
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="620" y="296" />
+      <point x="620" y="211" />
+      <point x="572" y="148" />
+      <point type="curve" x="500" y="148" />
+      <point x="430" y="148" />
+      <point x="380" y="211" />
+      <point type="curve" x="380" y="296" />
+      <point x="380" y="413" />
+      <point x="431" y="474" />
+      <point type="curve" x="499" y="504" />
+      <point x="569" y="474" />
+      <point x="620" y="413" />
+    </contour>
+    <contour>
+      <point type="line" x="66" y="358" />
+      <point x="132" y="470" />
+      <point x="203" y="536" />
+      <point type="curve" x="288" y="536" />
+      <point x="304" y="536" />
+      <point x="320" y="536" />
+      <point type="curve" x="337" y="535" />
+      <point x="274" y="473" />
+      <point x="228" y="393" />
+      <point type="curve" x="228" y="296" />
+      <point x="228" y="139" />
+      <point x="338" y="20" />
+      <point type="curve" x="500" y="20" />
+      <point x="662" y="20" />
+      <point x="772" y="139" />
+      <point type="curve" x="772" y="296" />
+      <point x="772" y="393" />
+      <point x="728" y="473" />
+      <point type="curve" x="666" y="535" />
+      <point x="682" y="536" />
+      <point x="697" y="536" />
+      <point type="curve" x="712" y="536" />
+      <point x="795" y="536" />
+      <point x="868" y="468" />
+      <point type="curve" x="934" y="358" />
+      <point type="line" x="994" y="486" />
+      <point x="883" y="647" />
+      <point x="782" y="700" />
+      <point type="curve" x="676" y="700" />
+      <point x="640" y="700" />
+      <point x="574" y="683" />
+      <point type="curve" x="504" y="650" />
+      <point x="434" y="683" />
+      <point x="369" y="700" />
+      <point type="curve" x="332" y="700" />
+      <point x="225" y="700" />
+      <point x="115" y="648" />
+      <point type="curve" x="6" y="486" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>11bb417bfe88ee02ab462bf63a8b9f6f6fe2639c5ab327a452ebb36ff62e3d50e91697e4c0823b0926d11ab415eabe26e6f4f1881f0b060ff5b7adbc33a6ca48</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 20 128</string>
+              <string>hstem 536 164</string>
+              <string>vstem 228 152</string>
+              <string>vstem 620 152</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

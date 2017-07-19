@@ -3,29 +3,68 @@
 	<advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="502" y="-116" />
-      <point type="line" x="917" y="378" />
-      <point type="line" x="917" y="384" />
+      <point name="hintSet0000" type="line" x="500" y="-36" />
+      <point type="line" x="414" y="66" />
+      <point type="line" x="586" y="66" />
+    </contour>
+    <contour>
+      <point type="line" x="500" y="796" />
+      <point type="line" x="586" y="694" />
+      <point type="line" x="414" y="694" />
+    </contour>
+    <contour>
+      <point type="line" x="692" y="568" />
+      <point type="line" x="754" y="494" />
+      <point type="line" x="246" y="494" />
+      <point type="line" x="308" y="568" />
+    </contour>
+    <contour>
+      <point type="line" x="670" y="594" />
+      <point type="line" x="330" y="594" />
+      <point type="line" x="392" y="668" />
+      <point type="line" x="608" y="668" />
+    </contour>
+    <contour>
+      <point type="line" x="160" y="392" />
+      <point type="line" x="224" y="468" />
+      <point type="line" x="776" y="468" />
+      <point type="line" x="840" y="392" />
+    </contour>
+    <contour>
+      <point type="line" x="224" y="292" />
+      <point type="line" x="162" y="366" />
+      <point type="line" x="838" y="366" />
+      <point type="line" x="776" y="292" />
+    </contour>
+    <contour>
+      <point type="line" x="308" y="192" />
+      <point type="line" x="246" y="266" />
+      <point type="line" x="754" y="266" />
+      <point type="line" x="692" y="192" />
+    </contour>
+    <contour>
+      <point type="line" x="330" y="166" />
+      <point type="line" x="670" y="166" />
+      <point type="line" x="608" y="92" />
+      <point type="line" x="392" y="92" />
+    </contour>
+    <contour>
       <point type="line" x="502" y="874" />
       <point type="line" x="498" y="874" />
       <point type="line" x="83" y="384" />
       <point type="line" x="83" y="378" />
       <point type="line" x="498" y="-116" />
+      <point type="line" x="502" y="-116" />
+      <point type="line" x="917" y="378" />
+      <point type="line" x="917" y="384" />
     </contour>
   </outline>
   <lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-      <array>
-				<integer>1</integer>
-        <integer>0</integer>
-        <integer>0</integer>
-        <integer>1</integer>
-      </array>
+    <dict>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>w1000l502-116l917378l917384l502874l498874l83384l83378l498-116</string>
+        <string>edd1663fdebdc3f8bbd707d9dbeb123bb166f22de1f7fb7fb743d0aabb3842f6a106bc1ba19acb189b455ab776df0cc97c2b96d29022a971dbc7f85a9875a1a1</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -33,7 +72,13 @@
             <string>hintSet0000</string>
             <key>stems</key>
             <array>
-              <string>hstem -116 990</string>
+              <string>hstem 66 26</string>
+              <string>hstem 166 26</string>
+              <string>hstem 266 26</string>
+              <string>hstem 366 26</string>
+              <string>hstem 468 26</string>
+              <string>hstem 568 26</string>
+              <string>hstem 668 26</string>
               <string>vstem 83 834</string>
             </array>
           </dict>

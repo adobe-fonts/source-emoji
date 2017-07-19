@@ -216,6 +216,10 @@
 		<string>adult.a.glif</string>
 		<key>adult.b</key>
 		<string>adult.b.glif</string>
+		<key>adult.beard</key>
+		<string>adult.beard.glif</string>
+		<key>adult.c</key>
+		<string>adult.c.glif</string>
 		<key>adultkissing</key>
 		<string>adultkissing.glif</string>
 		<key>adultkissing.a</key>
@@ -352,6 +356,18 @@
 		<string>beans.glif</string>
 		<key>beanwhite</key>
 		<string>beanwhite.glif</string>
+		<key>beard.Ac</key>
+		<string>beard.A_c.glif</string>
+		<key>beard.Ac.copy_1</key>
+		<string>beard.A_c.copy_1.glif</string>
+		<key>beard.Ac.copy_2</key>
+		<string>beard.A_c.copy_2.glif</string>
+		<key>beard.a</key>
+		<string>beard.a.glif</string>
+		<key>beard.f</key>
+		<string>beard.f.glif</string>
+		<key>beard.m</key>
+		<string>beard.m.glif</string>
 		<key>bee</key>
 		<string>bee.glif</string>
 		<key>beermug</key>
@@ -512,6 +528,8 @@
 		<string>child.a.glif</string>
 		<key>child.b</key>
 		<string>child.b.glif</string>
+		<key>child.c</key>
+		<string>child.c.glif</string>
 		<key>child.copy_1</key>
 		<string>child.copy_1.glif</string>
 		<key>chopsticks</key>
@@ -788,10 +806,12 @@
 		<string>e.glif</string>
 		<key>eagle</key>
 		<string>eagle.glif</string>
-		<key>eagle.copy_1</key>
-		<string>eagle.copy_1.glif</string>
+		<key>eagle.a</key>
+		<string>eagle.a.glif</string>
 		<key>ear</key>
 		<string>ear.glif</string>
+		<key>ears.M</key>
+		<string>ears.M_.glif</string>
 		<key>earth</key>
 		<string>earth.glif</string>
 		<key>eggs</key>
@@ -880,6 +900,8 @@
 		<string>f.glif</string>
 		<key>face</key>
 		<string>face.glif</string>
+		<key>face.tears</key>
+		<string>face.tears.glif</string>
 		<key>faceangry</key>
 		<string>faceangry.glif</string>
 		<key>faceanguished</key>
@@ -1096,8 +1118,6 @@
 		<string>facesneezing.v.glif</string>
 		<key>facesweat</key>
 		<string>facesweat.glif</string>
-		<key>facetears</key>
-		<string>facetears.glif</string>
 		<key>facethermometer</key>
 		<string>facethermometer.glif</string>
 		<key>facethinking</key>
@@ -1822,8 +1842,8 @@
 		<string>globemeridians.glif</string>
 		<key>gloves</key>
 		<string>gloves.glif</string>
-		<key>gloves.copy_1</key>
-		<string>gloves.copy_1.glif</string>
+		<key>gloves.a</key>
+		<string>gloves.a.glif</string>
 		<key>goalnet</key>
 		<string>goalnet.glif</string>
 		<key>goblin</key>
@@ -1840,6 +1860,8 @@
 		<string>hair.A_a.glif</string>
 		<key>hair.Ab</key>
 		<string>hair.A_b.glif</string>
+		<key>hair.Ac</key>
+		<string>hair.A_c.glif</string>
 		<key>hair.F</key>
 		<string>hair.F_.glif</string>
 		<key>hair.Fa</key>
@@ -1860,6 +1882,8 @@
 		<string>hair.fb.glif</string>
 		<key>hair.m</key>
 		<string>hair.m.glif</string>
+		<key>hair.x</key>
+		<string>hair.x.glif</string>
 		<key>hairchild</key>
 		<string>hairchild.glif</string>
 		<key>haircut</key>
@@ -1882,6 +1906,8 @@
 		<string>hamburger.glif</string>
 		<key>handILY</key>
 		<string>handI_L_Y_.glif</string>
+		<key>handabove</key>
+		<string>handabove.glif</string>
 		<key>handback</key>
 		<string>handback.glif</string>
 		<key>handback.a</key>
@@ -1896,6 +1922,8 @@
 		<string>handballF_.glif</string>
 		<key>handballM</key>
 		<string>handballM_.glif</string>
+		<key>handbelow</key>
+		<string>handbelow.glif</string>
 		<key>handcallme</key>
 		<string>handcallme.glif</string>
 		<key>handfingerscrossed</key>
@@ -1912,6 +1940,12 @@
 		<string>handraised.glif</string>
 		<key>handraised.a</key>
 		<string>handraised.a.glif</string>
+		<key>handraisedA</key>
+		<string>handraisedA_.glif</string>
+		<key>handraisedF</key>
+		<string>handraisedF_.glif</string>
+		<key>handraisedM</key>
+		<string>handraisedM_.glif</string>
 		<key>handsclapping</key>
 		<string>handsclapping.glif</string>
 		<key>handsfolded</key>
@@ -1936,14 +1970,20 @@
 		<string>handwaving.glif</string>
 		<key>head.A</key>
 		<string>head.A_.glif</string>
+		<key>head.Ab</key>
+		<string>head.A_b.glif</string>
+		<key>head.Ac</key>
+		<string>head.A_c.glif</string>
 		<key>head.F</key>
 		<string>head.F_.glif</string>
+		<key>head.Fb</key>
+		<string>head.F_b.glif</string>
 		<key>head.M</key>
 		<string>head.M_.glif</string>
-		<key>head.Mb</key>
-		<string>head.M_b.glif</string>
 		<key>head.a</key>
 		<string>head.a.glif</string>
+		<key>head.beard</key>
+		<string>head.beard.glif</string>
 		<key>head.f</key>
 		<string>head.f.glif</string>
 		<key>head.m</key>
@@ -2016,8 +2056,6 @@
 		<string>hedgehog.glif</string>
 		<key>highvoltage</key>
 		<string>highvoltage.glif</string>
-		<key>horns.copy_1</key>
-		<string>horns.copy_1.glif</string>
 		<key>horsecarousel</key>
 		<string>horsecarousel.glif</string>
 		<key>hospital</key>
@@ -2114,14 +2152,16 @@
 		<string>kiss.F_.glif</string>
 		<key>kiss.copy_1</key>
 		<string>kiss.copy_1.glif</string>
+		<key>kissAA</key>
+		<string>kissA_A_.glif</string>
+		<key>kissFA</key>
+		<string>kissF_A_.glif</string>
 		<key>kissFF</key>
 		<string>kissF_F_.glif</string>
-		<key>kissFF.copy_1</key>
-		<string>kissF_F_.copy_1.glif</string>
 		<key>kissFM</key>
 		<string>kissF_M_.glif</string>
-		<key>kissFM.copy_1</key>
-		<string>kissF_M_.copy_1.glif</string>
+		<key>kissMA</key>
+		<string>kissM_A_.glif</string>
 		<key>kissMF</key>
 		<string>kissM_F_.glif</string>
 		<key>kissMF.copy_1</key>
@@ -2130,16 +2170,14 @@
 		<string>kissM_F_.copy_2.glif</string>
 		<key>kissMM</key>
 		<string>kissM_M_.glif</string>
-		<key>kissMM.copy_1</key>
-		<string>kissM_M_.copy_1.glif</string>
 		<key>kissmark</key>
 		<string>kissmark.glif</string>
 		<key>kiwifruit</key>
 		<string>kiwifruit.glif</string>
-		<key>kiwifruit.copy_1</key>
-		<string>kiwifruit.copy_1.glif</string>
-		<key>kiwifruit.copy_2</key>
-		<string>kiwifruit.copy_2.glif</string>
+		<key>kiwifruit.a</key>
+		<string>kiwifruit.a.glif</string>
+		<key>kiwifruit.b</key>
+		<string>kiwifruit.b.glif</string>
 		<key>kokokatakanasquare</key>
 		<string>kokokatakanasquare.glif</string>
 		<key>l</key>
@@ -2198,6 +2236,8 @@
 		<string>man.a.copy_1.glif</string>
 		<key>man.b</key>
 		<string>man.b.glif</string>
+		<key>man.beard</key>
+		<string>man.beard.glif</string>
 		<key>man.c</key>
 		<string>man.c.glif</string>
 		<key>man.k</key>
@@ -2454,10 +2494,10 @@
 		<string>outbox.glif</string>
 		<key>owl</key>
 		<string>owl.glif</string>
-		<key>owl.copy_1</key>
-		<string>owl.copy_1.glif</string>
-		<key>owl.copy_2</key>
-		<string>owl.copy_2.glif</string>
+		<key>owl.a</key>
+		<string>owl.a.glif</string>
+		<key>owl.b</key>
+		<string>owl.b.glif</string>
 		<key>p</key>
 		<string>p.glif</string>
 		<key>pancake.a</key>
@@ -2488,8 +2528,6 @@
 		<string>period.glif</string>
 		<key>person</key>
 		<string>person.glif</string>
-		<key>personbearded</key>
-		<string>personbearded.glif</string>
 		<key>personblond</key>
 		<string>personblond.glif</string>
 		<key>personclimbing</key>
@@ -2594,6 +2632,8 @@
 		<string>ring.glif</string>
 		<key>robot</key>
 		<string>robot.glif</string>
+		<key>rocker.a</key>
+		<string>rocker.a.glif</string>
 		<key>rocket</key>
 		<string>rocket.glif</string>
 		<key>rofl</key>
@@ -2624,6 +2664,8 @@
 		<string>saucerflying.glif</string>
 		<key>sauropod</key>
 		<string>sauropod.glif</string>
+		<key>scales</key>
+		<string>scales.glif</string>
 		<key>scarf</key>
 		<string>scarf.glif</string>
 		<key>scientistA</key>
@@ -2824,8 +2866,8 @@
 		<string>t.glif</string>
 		<key>takeout</key>
 		<string>takeout.glif</string>
-		<key>takeout.copy_2</key>
-		<string>takeout.copy_2.glif</string>
+		<key>takeout.a</key>
+		<string>takeout.a.glif</string>
 		<key>takeout.u</key>
 		<string>takeout.u.glif</string>
 		<key>tarotchariot</key>
@@ -3006,6 +3048,8 @@
 		<string>woman.a.glif</string>
 		<key>woman.b</key>
 		<string>woman.b.glif</string>
+		<key>woman.beard</key>
+		<string>woman.beard.glif</string>
 		<key>woman.c</key>
 		<string>woman.c.glif</string>
 		<key>woman.k</key>

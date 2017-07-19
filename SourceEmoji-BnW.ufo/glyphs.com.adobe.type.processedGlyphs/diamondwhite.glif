@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="diamondwhite">
+	<advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="502" y="-116" />
+      <point type="line" x="917" y="378" />
+      <point type="line" x="917" y="384" />
+      <point type="line" x="502" y="874" />
+      <point type="line" x="498" y="874" />
+      <point type="line" x="83" y="384" />
+      <point type="line" x="83" y="378" />
+      <point type="line" x="498" y="-116" />
+    </contour>
+    <contour>
+      <point type="line" x="500" y="-36" />
+      <point type="line" x="150" y="380" />
+      <point type="line" x="500" y="796" />
+      <point type="line" x="850" y="380" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000l502-116l917378l917384l502874l498874l83384l83378l498-116l500-36l150380l500796l850380</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -116 990</string>
+              <string>vstem 83 834</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

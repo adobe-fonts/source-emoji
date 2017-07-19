@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="sled.b">
+	<advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="440" y="-70" />
+      <point type="line" x="560" y="-70" />
+      <point type="line" x="560" y="660" />
+      <point type="line" x="440" y="660" />
+    </contour>
+    <contour>
+      <point type="line" x="620" y="-70" />
+      <point type="line" x="740" y="-70" />
+      <point type="line" x="740" y="560" />
+      <point type="line" x="620" y="560" />
+    </contour>
+    <contour>
+      <point type="line" x="260" y="-70" />
+      <point type="line" x="380" y="-70" />
+      <point type="line" x="380" y="560" />
+      <point type="line" x="260" y="560" />
+    </contour>
+    <contour>
+      <point type="line" x="780" y="712" />
+      <point type="line" x="780" y="804" />
+      <point type="line" x="220" y="804" />
+      <point type="line" x="220" y="712" />
+    </contour>
+  </outline>
+  <lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+      <array>
+				<integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000l440-70l560-70l560660l440660l620-70l740-70l740560l620560l260-70l380-70l380560l260560l780712l780804l220804l220712</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 712 92</string>
+              <string>vstem 260 120</string>
+              <string>vstem 440 120</string>
+              <string>vstem 620 120</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
