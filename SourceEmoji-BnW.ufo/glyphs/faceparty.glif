@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="faceparty" format="1">
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="66" y="530" type="curve"/>
+			<point x="153" y="485" type="line"/>
+			<point x="94" y="628"/>
+			<point x="56" y="728"/>
+			<point x="56" y="832" type="curve"/>
+			<point x="33" y="816" type="line"/>
+			<point x="148" y="757"/>
+			<point x="202" y="735"/>
+			<point x="310" y="693" type="curve"/>
+			<point x="277" y="770" type="line"/>
+			<point x="168" y="808"/>
+			<point x="120" y="830"/>
+			<point x="34" y="880" type="curve"/>
+			<point x="0" y="846" type="line"/>
+			<point x="0" y="748"/>
+			<point x="20" y="658"/>
+		</contour>
+		<component base="face"/>
+		<component base="eyes.smiling"/>
+		<component base="mouth.kiss"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

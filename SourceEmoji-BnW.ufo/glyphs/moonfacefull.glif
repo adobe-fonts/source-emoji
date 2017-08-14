@@ -3,9 +3,9 @@
 	<advance width="1000"/>
 	<outline>
 		<component base="face"/>
-		<component base="eyes.F" yOffset="60"/>
-		<component base="nose.F" yOffset="60"/>
-		<component base="mouth.F" yOffset="60"/>
+		<component base="eyes.F" xScale="1.04" yScale="1.04" xOffset="-20" yOffset="49"/>
+		<component base="nose.F" xScale="1.04" yScale="1.04" xOffset="-20" yOffset="49"/>
+		<component base="mouth.F" xScale="1.04" yScale="1.04" xOffset="-20" yOffset="49"/>
 	</outline>
 	<lib>
 		<dict>

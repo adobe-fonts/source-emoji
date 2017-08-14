@@ -155,7 +155,7 @@
 			<point x="738" y="-94"/>
 			<point x="738" y="-114" type="curve"/>
 		</contour>
-		<component base="head.A" xScale="0.64" yScale="0.64" xOffset="180" yOffset="275"/>
+		<component base="face.A" xScale="0.64" yScale="0.64" xOffset="180" yOffset="275"/>
 		<component base="eyes.A" xScale="0.64" yScale="0.64" xOffset="180" yOffset="275"/>
 		<component base="nose.A" xScale="0.64" yScale="0.64" xOffset="180" yOffset="275"/>
 		<component base="mouth.A" xScale="0.64" yScale="0.64" xOffset="180" yOffset="275"/>
@@ -317,13 +317,6 @@
 					<integer>1000</integer>
 				</dict>
 			</dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<real>0.8</real>
-				<integer>1</integer>
-				<real>0.4</real>
-				<integer>1</integer>
-			</array>
 		</dict>
 	</lib>
 </glyph>

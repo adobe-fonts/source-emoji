@@ -2,46 +2,11 @@
 <glyph name="man" format="1">
 	<advance width="1000"/>
 	<outline>
-		<contour>
-			<point x="500" y="48" type="curve" smooth="yes"/>
-			<point x="564" y="48"/>
-			<point x="594" y="74"/>
-			<point x="603" y="109" type="curve"/>
-			<point x="581" y="113" type="line"/>
-			<point x="568" y="84"/>
-			<point x="546" y="76"/>
-			<point x="500" y="76" type="curve" smooth="yes"/>
-			<point x="454" y="76"/>
-			<point x="432" y="84"/>
-			<point x="419" y="113" type="curve"/>
-			<point x="398" y="109" type="line"/>
-			<point x="406" y="72"/>
-			<point x="436" y="48"/>
-		</contour>
-		<contour>
-			<point x="500" y="100" type="curve" smooth="yes"/>
-			<point x="548" y="100"/>
-			<point x="595" y="92"/>
-			<point x="630" y="92" type="curve" smooth="yes"/>
-			<point x="643" y="92"/>
-			<point x="652" y="96"/>
-			<point x="652" y="110" type="curve" smooth="yes"/>
-			<point x="652" y="160"/>
-			<point x="615" y="188"/>
-			<point x="500" y="188" type="curve" smooth="yes"/>
-			<point x="385" y="188"/>
-			<point x="348" y="160"/>
-			<point x="348" y="110" type="curve" smooth="yes"/>
-			<point x="348" y="96"/>
-			<point x="357" y="92"/>
-			<point x="370" y="92" type="curve" smooth="yes"/>
-			<point x="405" y="92"/>
-			<point x="452" y="100"/>
-		</contour>
-		<component base="head.M"/>
+		<component base="face.M"/>
 		<component base="hair.M"/>
 		<component base="eyes.M"/>
 		<component base="nose.M"/>
+		<component base="mouth.moustache"/>
 	</outline>
 	<lib>
 		<dict>
