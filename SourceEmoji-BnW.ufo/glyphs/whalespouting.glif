@@ -2,7 +2,105 @@
 <glyph name="whalespouting" format="1">
 	<advance width="1000"/>
 	<outline>
-		<component base="whale"/>
+		<contour>
+			<point x="405" y="646" type="curve" smooth="yes"/>
+			<point x="395" y="646"/>
+			<point x="389" y="639"/>
+			<point x="389" y="629" type="curve" smooth="yes"/>
+			<point x="389" y="620"/>
+			<point x="395" y="613"/>
+			<point x="405" y="613" type="curve" smooth="yes"/>
+			<point x="414" y="613"/>
+			<point x="421" y="620"/>
+			<point x="421" y="629" type="curve" smooth="yes"/>
+			<point x="421" y="639"/>
+			<point x="414" y="646"/>
+		</contour>
+		<contour>
+			<point x="395" y="582"/>
+			<point x="389" y="575"/>
+			<point x="389" y="565" type="curve" smooth="yes"/>
+			<point x="389" y="556"/>
+			<point x="395" y="549"/>
+			<point x="405" y="549" type="curve" smooth="yes"/>
+			<point x="414" y="549"/>
+			<point x="421" y="556"/>
+			<point x="421" y="565" type="curve" smooth="yes"/>
+			<point x="421" y="575"/>
+			<point x="414" y="582"/>
+			<point x="405" y="582" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="405" y="774" type="curve" smooth="yes"/>
+			<point x="395" y="774"/>
+			<point x="389" y="767"/>
+			<point x="389" y="757" type="curve" smooth="yes"/>
+			<point x="389" y="748"/>
+			<point x="395" y="741"/>
+			<point x="405" y="741" type="curve" smooth="yes"/>
+			<point x="414" y="741"/>
+			<point x="421" y="748"/>
+			<point x="421" y="757" type="curve" smooth="yes"/>
+			<point x="421" y="767"/>
+			<point x="414" y="774"/>
+		</contour>
+		<contour>
+			<point x="405" y="710" type="curve" smooth="yes"/>
+			<point x="395" y="710"/>
+			<point x="389" y="703"/>
+			<point x="389" y="693" type="curve" smooth="yes"/>
+			<point x="389" y="684"/>
+			<point x="395" y="677"/>
+			<point x="405" y="677" type="curve" smooth="yes"/>
+			<point x="414" y="677"/>
+			<point x="421" y="684"/>
+			<point x="421" y="693" type="curve" smooth="yes"/>
+			<point x="421" y="703"/>
+			<point x="414" y="710"/>
+		</contour>
+		<contour>
+			<point x="405" y="838" type="curve" smooth="yes"/>
+			<point x="395" y="838"/>
+			<point x="389" y="831"/>
+			<point x="389" y="821" type="curve" smooth="yes"/>
+			<point x="389" y="812"/>
+			<point x="395" y="805"/>
+			<point x="405" y="805" type="curve" smooth="yes"/>
+			<point x="414" y="805"/>
+			<point x="421" y="812"/>
+			<point x="421" y="821" type="curve" smooth="yes"/>
+			<point x="421" y="831"/>
+			<point x="414" y="838"/>
+		</contour>
+		<contour>
+			<point x="341" y="838" type="curve" smooth="yes"/>
+			<point x="331" y="838"/>
+			<point x="325" y="831"/>
+			<point x="325" y="821" type="curve" smooth="yes"/>
+			<point x="325" y="812"/>
+			<point x="331" y="805"/>
+			<point x="341" y="805" type="curve" smooth="yes"/>
+			<point x="350" y="805"/>
+			<point x="357" y="812"/>
+			<point x="357" y="821" type="curve" smooth="yes"/>
+			<point x="357" y="831"/>
+			<point x="350" y="838"/>
+		</contour>
+		<contour>
+			<point x="469" y="838" type="curve" smooth="yes"/>
+			<point x="459" y="838"/>
+			<point x="453" y="831"/>
+			<point x="453" y="821" type="curve" smooth="yes"/>
+			<point x="453" y="812"/>
+			<point x="459" y="805"/>
+			<point x="469" y="805" type="curve" smooth="yes"/>
+			<point x="478" y="805"/>
+			<point x="485" y="812"/>
+			<point x="485" y="821" type="curve" smooth="yes"/>
+			<point x="485" y="831"/>
+			<point x="478" y="838"/>
+		</contour>
+		<component base="whale" yOffset="-60"/>
 	</outline>
 	<lib>
 		<dict>

@@ -2,102 +2,8 @@
 <glyph name="haircurly" format="1">
 	<advance width="1000"/>
 	<outline>
-		<contour>
-			<point x="526" y="880" type="curve" smooth="yes"/>
-			<point x="481" y="880"/>
-			<point x="462" y="871"/>
-			<point x="439" y="852" type="curve"/>
-			<point x="397.1542349604" y="881.2920355277"/>
-			<point x="305.2471021403" y="861.5801528511"/>
-			<point x="282" y="807" type="curve"/>
-			<point x="241" y="820"/>
-			<point x="171" y="776"/>
-			<point x="180" y="706" type="curve"/>
-			<point x="123" y="704"/>
-			<point x="90" y="615"/>
-			<point x="129" y="565" type="curve"/>
-			<point x="109" y="555"/>
-			<point x="93" y="523"/>
-			<point x="93" y="489" type="curve" smooth="yes"/>
-			<point x="92" y="446"/>
-			<point x="117" y="391"/>
-			<point x="150" y="381" type="curve"/>
-			<point x="149" y="324"/>
-			<point x="171" y="291"/>
-			<point x="217" y="274" type="curve"/>
-			<point x="217" y="378"/>
-			<point x="289" y="361"/>
-			<point x="289" y="453" type="curve"/>
-			<point x="343" y="423"/>
-			<point x="411" y="445"/>
-			<point x="412" y="513" type="curve"/>
-			<point x="452" y="460"/>
-			<point x="551" y="469"/>
-			<point x="559" y="557" type="curve"/>
-			<point x="590" y="537"/>
-			<point x="655" y="547"/>
-			<point x="662" y="608" type="curve"/>
-			<point x="659.9999562855" y="533.9983825643"/>
-			<point x="690.9706788461" y="476.0042760016"/>
-			<point x="739" y="469" type="curve"/>
-			<point x="748.0029911581" y="364.9654355062"/>
-			<point x="785.9330987012" y="394.2569009872"/>
-			<point x="811" y="298" type="curve"/>
-			<point x="885.8113132576" y="319.7805089231"/>
-			<point x="914" y="436"/>
-			<point x="877" y="474" type="curve"/>
-			<point x="919" y="518"/>
-			<point x="904" y="625"/>
-			<point x="851" y="641" type="curve"/>
-			<point x="876" y="692"/>
-			<point x="830.963155727" y="769.161626676"/>
-			<point x="773" y="766" type="curve"/>
-			<point x="755" y="834"/>
-			<point x="669" y="869"/>
-			<point x="608" y="849" type="curve"/>
-			<point x="595" y="872"/>
-			<point x="561" y="880"/>
-		</contour>
-		<contour>
-			<point x="500" y="-102" type="curve" smooth="yes"/>
-			<point x="635" y="-102"/>
-			<point x="784" y="-14"/>
-			<point x="846" y="196" type="curve"/>
-			<point x="902" y="214"/>
-			<point x="952" y="262"/>
-			<point x="952" y="370" type="curve" smooth="yes"/>
-			<point x="952" y="436"/>
-			<point x="916" y="466"/>
-			<point x="876" y="473" type="curve"/>
-			<point x="846" y="428" type="line"/>
-			<point x="877" y="428"/>
-			<point x="896" y="404"/>
-			<point x="896" y="362" type="curve" smooth="yes"/>
-			<point x="896" y="290"/>
-			<point x="858" y="244"/>
-			<point x="808" y="236" type="curve"/>
-			<point x="749" y="22"/>
-			<point x="616" y="-50"/>
-			<point x="500" y="-50" type="curve" smooth="yes"/>
-			<point x="384" y="-50"/>
-			<point x="251" y="22"/>
-			<point x="192" y="236" type="curve"/>
-			<point x="142" y="244"/>
-			<point x="104" y="290"/>
-			<point x="104" y="362" type="curve" smooth="yes"/>
-			<point x="104" y="404"/>
-			<point x="123" y="428"/>
-			<point x="154" y="428" type="curve"/>
-			<point x="124" y="473" type="line"/>
-			<point x="84" y="466"/>
-			<point x="48" y="436"/>
-			<point x="48" y="370" type="curve" smooth="yes"/>
-			<point x="48" y="262"/>
-			<point x="98" y="214"/>
-			<point x="154" y="196" type="curve"/>
-			<point x="216" y="-14"/>
-			<point x="365" y="-102"/>
-		</contour>
+		<component base="haircurly.u"/>
+		<component base="face.A"/>
 	</outline>
 	<lib>
 		<dict>
@@ -1191,13 +1097,6 @@
 					<integer>1000</integer>
 				</dict>
 			</dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<integer>1</integer>
-				<integer>1</integer>
-				<integer>0</integer>
-				<integer>1</integer>
-			</array>
 		</dict>
 	</lib>
 </glyph>

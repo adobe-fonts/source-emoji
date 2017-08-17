@@ -3,22 +3,22 @@
 	<advance width="1000"/>
 	<outline>
 		<contour>
-			<point x="190" y="-70" type="curve" smooth="yes"/>
-			<point x="810" y="-70" type="line" smooth="yes"/>
-			<point x="828" y="-70"/>
-			<point x="840" y="-58"/>
-			<point x="840" y="-40" type="curve" smooth="yes"/>
-			<point x="840" y="490" type="line" smooth="yes"/>
-			<point x="840" y="508"/>
-			<point x="828" y="520"/>
-			<point x="810" y="520" type="curve" smooth="yes"/>
-			<point x="190" y="520" type="line" smooth="yes"/>
-			<point x="172" y="520"/>
-			<point x="160" y="508"/>
-			<point x="160" y="490" type="curve" smooth="yes"/>
-			<point x="160" y="-40" type="line" smooth="yes"/>
-			<point x="160" y="-58"/>
-			<point x="172" y="-70"/>
+			<point x="194" y="-70" type="curve" smooth="yes"/>
+			<point x="806" y="-70" type="line" smooth="yes"/>
+			<point x="824" y="-70"/>
+			<point x="836" y="-58"/>
+			<point x="836" y="-40" type="curve" smooth="yes"/>
+			<point x="836" y="490" type="line" smooth="yes"/>
+			<point x="836" y="508"/>
+			<point x="824" y="520"/>
+			<point x="806" y="520" type="curve" smooth="yes"/>
+			<point x="194" y="520" type="line" smooth="yes"/>
+			<point x="176" y="520"/>
+			<point x="164" y="508"/>
+			<point x="164" y="490" type="curve" smooth="yes"/>
+			<point x="164" y="-40" type="line" smooth="yes"/>
+			<point x="164" y="-58"/>
+			<point x="176" y="-70"/>
 		</contour>
 		<contour>
 			<point x="260" y="-2" type="line" smooth="yes"/>
@@ -88,7 +88,7 @@
 			<point x="720" y="730" type="line"/>
 			<point x="720" y="708" type="line"/>
 		</contour>
-		<component base="baggageclaim" xScale="0.5" yScale="0.5" xOffset="250" yOffset="40"/>
+		<component base="luggage" xScale="0.5" yScale="0.5" xOffset="250" yOffset="40"/>
 	</outline>
 	<lib>
 		<dict>
