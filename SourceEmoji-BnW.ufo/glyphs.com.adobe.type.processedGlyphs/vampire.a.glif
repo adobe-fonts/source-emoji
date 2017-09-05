@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="vampire.a">
-	<advance width="1000" />
+  <advance width="1000" />
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="442" y="234" />
@@ -159,10 +159,10 @@
       <point x="142" y="244" />
       <point x="104" y="290" />
       <point type="curve" x="104" y="362" />
-      <point x="104" y="387" />
-      <point x="112" y="405" />
-      <point type="curve" x="126" y="416" />
-      <point x="130" y="378" />
+      <point x="104" y="389" />
+      <point x="112" y="409" />
+      <point type="curve" x="126" y="419" />
+      <point x="130" y="379" />
       <point x="140" y="364" />
       <point type="curve" x="154" y="364" />
       <point x="234" y="364" />
@@ -178,23 +178,22 @@
       <point x="766" y="364" />
       <point type="curve" x="846" y="364" />
       <point x="860" y="364" />
-      <point x="870" y="378" />
-      <point type="curve" x="874" y="416" />
-      <point x="888" y="405" />
-      <point x="896" y="387" />
+      <point x="870" y="379" />
+      <point type="curve" x="874" y="419" />
+      <point x="888" y="409" />
+      <point x="896" y="389" />
       <point type="curve" x="896" y="362" />
       <point x="896" y="290" />
       <point x="858" y="244" />
     </contour>
     <contour>
-      <point type="line" x="876" y="474" />
-      <point x="871" y="737" />
+      <point type="curve" x="876" y="473" />
+      <point x="872" y="736" />
       <point x="736" y="862" />
       <point type="curve" x="500" y="862" />
       <point x="264" y="862" />
-      <point x="129" y="737" />
-      <point type="curve" x="124" y="474" />
-      <point type="line" x="124" y="473" />
+      <point x="128" y="736" />
+      <point type="curve" x="124" y="473" />
       <point x="84" y="466" />
       <point x="48" y="436" />
       <point type="curve" x="48" y="370" />
@@ -212,28 +211,27 @@
       <point type="curve" x="952" y="370" />
       <point x="952" y="436" />
       <point x="916" y="466" />
-      <point type="curve" x="876" y="473" />
     </contour>
   </outline>
   <lib>
-		<dict>
-			<key>com.typemytype.robofont.layerData</key>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-				<key>mask</key>
+        <key>mask</key>
         <dict>
-					<key>anchors</key>
+          <key>anchors</key>
           <array>
-					</array>
+          </array>
           <key>components</key>
           <array>
-					</array>
+          </array>
           <key>contours</key>
           <array>
-						<dict>
-							<key>points</key>
+            <dict>
+              <key>points</key>
               <array>
-								<dict>
-									<key>segmentType</key>
+                <dict>
+                  <key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <true />
@@ -243,7 +241,7 @@
                   <integer>500</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>884</integer>
@@ -251,7 +249,7 @@
                   <integer>740</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>745</integer>
@@ -259,7 +257,7 @@
                   <integer>862</integer>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <true />
@@ -269,7 +267,7 @@
                   <integer>862</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>255</integer>
@@ -277,7 +275,7 @@
                   <integer>862</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>116</integer>
@@ -285,7 +283,7 @@
                   <integer>740</integer>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <true />
@@ -295,7 +293,7 @@
                   <integer>500</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>116</integer>
@@ -303,7 +301,7 @@
                   <integer>414</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>132</integer>
@@ -311,7 +309,7 @@
                   <integer>384</integer>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <true />
@@ -321,7 +319,7 @@
                   <integer>384</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>218</integer>
@@ -329,7 +327,7 @@
                   <integer>384</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>192</integer>
@@ -337,7 +335,7 @@
                   <integer>526</integer>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <false />
@@ -347,7 +345,7 @@
                   <integer>622</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>314</integer>
@@ -355,7 +353,7 @@
                   <integer>594</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <real>397.6016260163</real>
@@ -363,7 +361,7 @@
                   <integer>598</integer>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <true />
@@ -373,7 +371,7 @@
                   <integer>598</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <real>577.5923076923</real>
@@ -381,7 +379,7 @@
                   <integer>598</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <real>623.8653700155</real>
@@ -389,7 +387,7 @@
                   <real>638.9774545905</real>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <false />
@@ -399,7 +397,7 @@
                   <integer>676</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>811</integer>
@@ -407,7 +405,7 @@
                   <integer>594</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>769</integer>
@@ -415,7 +413,7 @@
                   <integer>384</integer>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <true />
@@ -425,7 +423,7 @@
                   <integer>384</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>868</integer>
@@ -433,7 +431,7 @@
                   <integer>384</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>884</integer>
@@ -445,19 +443,19 @@
           </array>
           <key>lib</key>
           <dict>
-					</dict>
+          </dict>
           <key>name</key>
           <string>vampire.a</string>
           <key>unicodes</key>
           <array>
-					</array>
+          </array>
           <key>width</key>
           <integer>1000</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-				<integer>1</integer>
+        <integer>1</integer>
         <integer>1</integer>
         <integer>0</integer>
         <integer>1</integer>
@@ -465,7 +463,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>9a30a6dff21ac0c6be72282e110b5edf0f900583c06a352b96520f30b51f564b7c39d047eee5c1fdc63760c8c9939bdc5f926eda42e8bed79e4de65b029001e8</string>
+        <string>a5a72a003c32b096418e8aee01f1a86d07276f90d05bcb1ceddaf182cf3876e41b1f88f4bbe11e6f493f7f8690fa4dfb52de3338476fe7d6cf746bff54f44a83</string>
         <key>hintSetList</key>
         <array>
           <dict>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="handraisedA">
-	<advance width="1000" />
+  <advance width="1000" />
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="312" y="475" />
@@ -132,11 +132,11 @@
       <point x="114" y="367" />
       <point x="83" y="404" />
       <point type="curve" x="83" y="462" />
-      <point x="83" y="483" />
-      <point x="91" y="498" />
-      <point type="curve" x="103" y="506" />
-      <point x="107" y="483" />
-      <point x="113" y="462" />
+      <point x="83" y="485" />
+      <point x="90" y="501" />
+      <point type="curve" x="103" y="509" />
+      <point x="107" y="484" />
+      <point x="113" y="463" />
       <point type="curve" x="122" y="444" />
       <point x="172" y="483" />
       <point x="224" y="565" />
@@ -153,11 +153,11 @@
       <point x="540" y="588" />
       <point x="621" y="590" />
       <point type="curve" x="650" y="436" />
-      <point x="672" y="447" />
-      <point x="687" y="473" />
-      <point type="curve" x="695" y="508" />
-      <point x="709" y="499" />
-      <point x="717" y="484" />
+      <point x="673" y="447" />
+      <point x="688" y="474" />
+      <point type="curve" x="695" y="510" />
+      <point x="709" y="502" />
+      <point x="717" y="486" />
       <point type="curve" x="717" y="462" />
       <point x="717" y="404" />
       <point x="686" y="367" />
@@ -173,8 +173,10 @@
       <point x="762" y="521" />
       <point x="733" y="545" />
       <point type="curve" x="701" y="550" />
-      <point type="line" x="701" y="554" />
-      <point type="line" x="701" y="570" />
+      <point type="line" x="700" y="549" />
+      <point x="701" y="556" />
+      <point x="701" y="563" />
+      <point type="curve" x="701" y="570" />
       <point x="701" y="625" />
       <point x="688" y="675" />
       <point type="curve" x="665" y="719" />
@@ -187,10 +189,9 @@
       <point x="572" y="815" />
       <point x="538" y="874" />
       <point type="curve" x="397" y="874" />
-      <point x="270" y="874" />
+      <point x="269" y="874" />
       <point x="226" y="841" />
-      <point type="curve" x="197" y="789" />
-      <point type="line" x="196" y="788" />
+      <point type="curve" x="197" y="788" />
       <point x="122" y="763" />
       <point x="96" y="682" />
       <point type="curve" x="96" y="612" />
@@ -203,39 +204,39 @@
       <point x="38" y="382" />
       <point x="78" y="343" />
       <point type="curve" x="123" y="329" />
-      <point type="line" x="126" y="321" />
-      <point x="131" y="268" />
-      <point x="129" y="204" />
-      <point type="curve" x="115" y="178" />
-      <point x="125" y="169" />
-      <point x="138" y="167" />
-      <point type="curve" x="152" y="167" />
-      <point x="175" y="167" />
-      <point x="189" y="169" />
-      <point type="curve" x="205" y="178" />
-      <point x="262" y="117" />
-      <point x="333" y="90" />
+      <point type="line" x="125" y="321" />
+      <point x="130" y="274" />
+      <point x="126" y="219" />
+      <point type="curve" x="112" y="194" />
+      <point x="121" y="187" />
+      <point x="133" y="183" />
+      <point type="curve" x="149" y="183" />
+      <point x="168" y="183" />
+      <point x="181" y="185" />
+      <point type="curve" x="195" y="190" />
+      <point x="253" y="121" />
+      <point x="329" y="90" />
       <point type="curve" x="400" y="90" />
-      <point x="467" y="90" />
-      <point x="538" y="117" />
-      <point type="curve" x="595" y="178" />
-      <point x="611" y="169" />
-      <point x="625" y="167" />
-      <point type="curve" x="648" y="167" />
-      <point x="662" y="167" />
-      <point x="675" y="169" />
-      <point type="curve" x="685" y="178" />
-      <point x="671" y="204" />
-      <point x="669" y="268" />
-      <point type="curve" x="674" y="321" />
+      <point x="471" y="90" />
+      <point x="547" y="121" />
+      <point type="curve" x="605" y="190" />
+      <point x="619" y="185" />
+      <point x="632" y="183" />
+      <point type="curve" x="651" y="183" />
+      <point x="667" y="183" />
+      <point x="679" y="187" />
+      <point type="curve" x="688" y="194" />
+      <point x="674" y="219" />
+      <point x="670" y="274" />
+      <point type="curve" x="675" y="321" />
     </contour>
   </outline>
   <lib>
-		<dict>
-			<key>com.typemytype.robofont.guides</key>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
       <array>
-				<dict>
-					<key>angle</key>
+        <dict>
+          <key>angle</key>
           <integer>0</integer>
           <key>isGlobal</key>
           <false />
@@ -249,19 +250,19 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-				<key>mask</key>
+        <key>mask</key>
         <dict>
-					<key>anchors</key>
+          <key>anchors</key>
           <array>
-					</array>
+          </array>
           <key>components</key>
           <array>
-						<dict>
-							<key>baseGlyph</key>
+            <dict>
+              <key>baseGlyph</key>
               <string>man</string>
               <key>transformation</key>
               <array>
-								<integer>1</integer>
+                <integer>1</integer>
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
@@ -272,11 +273,11 @@
           </array>
           <key>contours</key>
           <array>
-						<dict>
-							<key>points</key>
+            <dict>
+              <key>points</key>
               <array>
-								<dict>
-									<key>segmentType</key>
+                <dict>
+                  <key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <false />
@@ -286,7 +287,7 @@
                   <integer>128</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>686</integer>
@@ -294,7 +295,7 @@
                   <integer>185</integer>
                 </dict>
                 <dict>
-									<key>name</key>
+                  <key>name</key>
                   <string>inserted</string>
                   <key>smooth</key>
                   <false />
@@ -304,7 +305,7 @@
                   <integer>213</integer>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <false />
@@ -314,7 +315,7 @@
                   <integer>292</integer>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
                   <false />
@@ -324,7 +325,7 @@
                   <integer>292</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>370</integer>
@@ -332,7 +333,7 @@
                   <integer>212</integer>
                 </dict>
                 <dict>
-									<key>name</key>
+                  <key>name</key>
                   <string>inserted</string>
                   <key>smooth</key>
                   <false />
@@ -342,7 +343,7 @@
                   <integer>198</integer>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <false />
@@ -352,7 +353,7 @@
                   <integer>128</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>82</integer>
@@ -360,7 +361,7 @@
                   <integer>107</integer>
                 </dict>
                 <dict>
-									<key>name</key>
+                  <key>name</key>
                   <string>inserted</string>
                   <key>smooth</key>
                   <false />
@@ -370,7 +371,7 @@
                   <integer>40</integer>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>curve</string>
                   <key>smooth</key>
                   <true />
@@ -380,7 +381,7 @@
                   <integer>6</integer>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
                   <false />
@@ -390,7 +391,7 @@
                   <integer>-100</integer>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
                   <false />
@@ -400,7 +401,7 @@
                   <integer>-100</integer>
                 </dict>
                 <dict>
-									<key>segmentType</key>
+                  <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
                   <true />
@@ -410,7 +411,7 @@
                   <integer>6</integer>
                 </dict>
                 <dict>
-									<key>smooth</key>
+                  <key>smooth</key>
                   <false />
                   <key>x</key>
                   <integer>970</integer>
@@ -418,7 +419,7 @@
                   <integer>40</integer>
                 </dict>
                 <dict>
-									<key>name</key>
+                  <key>name</key>
                   <string>inserted</string>
                   <key>smooth</key>
                   <false />
@@ -432,19 +433,19 @@
           </array>
           <key>lib</key>
           <dict>
-					</dict>
+          </dict>
           <key>name</key>
           <string>handraisedA</string>
           <key>unicodes</key>
           <array>
-					</array>
+          </array>
           <key>width</key>
           <integer>1000</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-				<integer>1</integer>
+        <integer>1</integer>
         <integer>0</integer>
         <integer>0</integer>
         <integer>1</integer>
@@ -452,7 +453,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>22a3d60d6d105e19ddf0d8ffbe89413c994486c878d8d9cf0ed8e2d1ad51b425fee651ee829ad7d793b453b224ca3a6b5ae7c7b40c0289076f6f21fbbe5af5b5</string>
+        <string>b0c0b58c964141e498600253dc037b89f29cdc200fee61cf7e5980f837efddbc33aca1127e81117012fff49c6c16d6284075c0ab7f33230bc1a05873d8f06796</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -461,7 +462,6 @@
             <key>stems</key>
             <array>
               <string>hstem 90 42</string>
-              <string>hstem 167 11</string>
               <string>hstem 223 56</string>
               <string>hstem 335 37</string>
               <string>hstem 425 50</string>
@@ -489,7 +489,6 @@
             <key>stems</key>
             <array>
               <string>hstem 90 42</string>
-              <string>hstem 167 11</string>
               <string>hstem 223 56</string>
               <string>hstem 335 37</string>
               <string>hstem 425 50</string>
@@ -566,7 +565,6 @@
             <key>stems</key>
             <array>
               <string>hstem 90 42</string>
-              <string>hstem 167 11</string>
               <string>vstem 38 45</string>
               <string>vstem 717 45</string>
             </array>

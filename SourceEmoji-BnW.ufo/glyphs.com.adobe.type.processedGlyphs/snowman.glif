@@ -172,27 +172,27 @@
       <point x="444" y="544" />
     </contour>
     <contour>
-      <point type="curve" x="537" y="471" />
-      <point x="537" y="483" />
-      <point x="535" y="502" />
-      <point type="curve" x="529" y="516" />
-      <point x="524" y="530" />
-      <point x="510" y="530" />
-      <point type="curve" x="499" y="526" />
-      <point x="486" y="522" />
-      <point x="432" y="494" />
+      <point name="hintSet0060" type="curve" x="538" y="476" />
+      <point x="538" y="510" />
+      <point x="529" y="528" />
+      <point type="curve" x="514" y="528" />
+      <point x="494" y="528" />
+      <point x="437" y="496" />
       <point type="curve" x="417" y="488" />
-      <point x="401" y="481" />
-      <point x="401" y="468" />
-      <point type="curve" x="419" y="464" />
-      <point x="445" y="458" />
-      <point x="504" y="448" />
+      <point x="410" y="485" />
+      <point x="406" y="481" />
+      <point type="curve" x="406" y="476" />
+      <point x="406" y="470" />
+      <point x="410" y="467" />
+      <point type="curve" x="418" y="464" />
+      <point x="435" y="458" />
+      <point x="484" y="448" />
       <point type="curve" x="515" y="448" />
-      <point x="529" y="448" />
-      <point x="537" y="453" />
+      <point x="532" y="448" />
+      <point x="538" y="453" />
     </contour>
     <contour>
-      <point name="hintSet0067" type="curve" x="494" y="154" />
+      <point type="curve" x="494" y="154" />
       <point x="464" y="151" />
       <point x="454" y="138" />
       <point type="curve" x="456" y="108" />
@@ -434,7 +434,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>1b91c51d86ab7be81adaf0d0f1b8f62e90f131926692bc3a520fb1da862058699944be1a4df39c4dbc198a3c133c2f3d3c9175a9aaa7470ea8bc53b4ab4f0c78</string>
+        <string>ecd3a38a6196ab3ddbb6bb6db8ab21d4417488240d80dd355c5813613851ce9110b8b9f31d69a706bdb45546acdc07e8a5a6af6b055ce7f5cdf5a29ff6f2d57d</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -572,10 +572,11 @@
           </dict>
           <dict>
             <key>pointTag</key>
-            <string>hintSet0067</string>
+            <string>hintSet0060</string>
             <key>stems</key>
             <array>
               <string>hstem 70 84</string>
+              <string>hstem 448 80</string>
               <string>vstem 456 84</string>
             </array>
           </dict>

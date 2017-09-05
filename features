@@ -1,5 +1,5 @@
 table head {
-   FontRevision 1.017;
+   FontRevision 1.018;
 } head;
 
 #----------------------------------------
@@ -63,41 +63,5 @@ languagesystem latn dflt;
 
 #----------------------------------------
 
-feature ccmp { # Glyph Composition / Decomposition
-
-# lookup SHORTCODES { ********** CURRENTLY DISABLED DUE TO FAULTY MAKEOTF, TURN ON BEFORE RELEASE!
-# 	include (shortcodes.fea);
-# } SHORTCODES;
-
-lookup ZWJ {
-
-	include (ZWJ.fea); # external 
-
-	# CUSTOM ZWJ -------------------------------------------------------------------------
-	sub paperclip ZWJ personinforming by clippy;
-	sub balloonspeech ZWJ highvoltage by balloonanger;
-	sub balloonspeech ZWJ facemouthopensmiling by balloonhappy;
-	sub balloonspeech ZWJ heartheavy by balloonlove; 
-
-} ZWJ;
-
-} ccmp;
-
-#----------------------------------------
-
-feature salt { # Stylistic alternates
-
-	sub facecowboy from [cowgirl cowboy cowboy.a cowpoke];
-	sub cowboy from [cowboy.a];
-	sub adult from [adult.a adult.b adult.c];
-	sub woman from [woman.a];
-	sub man from [man.a];
-	sub child from [child.a child.b child.c];
-	sub girl from [girl.a];
-	sub boy from [boy.a];
-	sub chopsticks from [chopsticks.a];
-	sub clockmantel from [clockmantel.a];
-	sub facesavouringdeliciousfood from [facesavouringdeliciousfood.a];
-
-} salt;
-
+#include (ZWJ.fea); # external; toggle for Unicode/private version
+# use for Unicode version: makeotf -gs -gf GOADB4U -r -f SourceEmoji-BnW.ufo
