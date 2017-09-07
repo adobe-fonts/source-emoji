@@ -1,41 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="facesmilingcape">
-	<advance width="1000" />
+  <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="500" y="-94" />
-      <point x="774" y="-94" />
-      <point x="972" y="106" />
-      <point type="curve" x="972" y="380" />
+      <point name="hintSet0000" type="curve" x="500" y="802" />
+      <point x="712" y="802" />
+      <point x="869" y="668" />
+      <point type="curve" x="904" y="468" />
+      <point x="854" y="454" />
+      <point x="814" y="420" />
+      <point type="curve" x="814" y="380" />
+      <point x="814" y="338" />
+      <point x="854" y="305" />
+      <point type="curve" x="905" y="292" />
+      <point x="869" y="92" />
+      <point x="712" y="-42" />
+      <point type="curve" x="500" y="-42" />
+      <point x="287" y="-42" />
+      <point x="130" y="93" />
+      <point type="curve" x="95" y="294" />
+      <point x="146" y="307" />
+      <point x="186" y="340" />
+      <point type="curve" x="186" y="382" />
+      <point x="186" y="422" />
+      <point x="147" y="456" />
+      <point type="curve" x="96" y="470" />
+      <point x="132" y="669" />
+      <point x="289" y="802" />
+    </contour>
+    <contour>
+      <point type="line" x="972" y="380" />
       <point x="972" y="654" />
       <point x="774" y="854" />
       <point type="curve" x="500" y="854" />
       <point x="226" y="854" />
       <point x="28" y="654" />
       <point type="curve" x="28" y="380" />
-      <point x="28" y="106" />
-      <point x="226" y="-94" />
-    </contour>
-    <contour>
-      <point type="curve" x="500" y="-42" />
-      <point x="258" y="-42" />
-      <point x="88" y="132" />
-      <point type="curve" x="88" y="380" />
-      <point x="88" y="628" />
-      <point x="258" y="802" />
-      <point type="curve" x="500" y="802" />
-      <point x="742" y="802" />
-      <point x="912" y="628" />
-      <point type="curve" x="912" y="380" />
-      <point x="912" y="132" />
-      <point x="742" y="-42" />
+      <point type="line" x="-8" y="-98" />
+      <point x="366" y="-128" />
+      <point x="804" y="-49" />
+      <point type="curve" x="1008" y="-110" />
     </contour>
   </outline>
   <lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
       <array>
-				<integer>1</integer>
+        <integer>1</integer>
         <integer>0</integer>
         <integer>0</integer>
         <integer>1</integer>
@@ -43,7 +54,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>0fca9e90c620b3d1d53bc9bb99c3ca91c49ed36a464c8ac2b3ed6ae19747c11e767f7fa7a1d0a1aac60b4df5fe3a7c14f11a81f9be043b87c3b2610d75379c2a</string>
+        <string>d8c3c3320a9b9e94ccc2a20744a42a11811734f1798efec6d46f2eddf7a048eafe4983ba10357a69eb4b4680c28c0ac1abac28a93cd40ead077a83665db993fb</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -51,10 +62,10 @@
             <string>hintSet0000</string>
             <key>stems</key>
             <array>
-              <string>hstem -94 52</string>
+              <string>hstem -86 44</string>
               <string>hstem 802 52</string>
-              <string>vstem 28 60</string>
-              <string>vstem 912 60</string>
+              <string>vstem 28 158</string>
+              <string>vstem 814 158</string>
             </array>
           </dict>
         </array>
