@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="facesmilingcape" format="1">
+<glyph name="face.cape" format="1">
 	<advance width="1000"/>
 	<outline>
-		<component base="face.cape"/>
-		<component base="eyes.neutral" yOffset="100"/>
-		<component base="mouth.smilesmall" yOffset="200"/>
+		<contour>
+			<point x="954" y="266" type="curve"/>
+			<point x="954" y="474" type="line"/>
+			<point x="882" y="474"/>
+			<point x="814" y="432"/>
+			<point x="814" y="370" type="curve" smooth="yes"/>
+			<point x="814" y="304"/>
+			<point name="inserted" x="883" y="266"/>
+		</contour>
+		<contour>
+			<point x="46" y="266" type="line"/>
+			<point name="inserted" x="117" y="266"/>
+			<point x="186" y="304"/>
+			<point x="186" y="370" type="curve" smooth="yes"/>
+			<point x="186" y="432"/>
+			<point x="118" y="474"/>
+			<point x="46" y="474" type="curve"/>
+		</contour>
+		<contour>
+			<point x="28" y="380" type="line"/>
+			<point x="2" y="-98" type="line"/>
+			<point x="66" y="-102"/>
+			<point x="130" y="-106"/>
+			<point x="196" y="-106" type="curve" smooth="yes"/>
+			<point x="400" y="-106"/>
+			<point x="602" y="-86"/>
+			<point x="768" y="-86" type="curve" smooth="yes"/>
+			<point x="860" y="-86"/>
+			<point x="938" y="-92"/>
+			<point x="998" y="-110" type="curve"/>
+			<point x="972" y="380" type="line"/>
+			<point x="844" y="60" type="line"/>
+			<point x="500" y="-90" type="line"/>
+			<point x="156" y="60" type="line"/>
+		</contour>
+		<component base="face"/>
 	</outline>
 	<lib>
 		<dict>
@@ -51,7 +84,7 @@
 					<dict>
 					</dict>
 					<key>name</key>
-					<string>facesmilingcape</string>
+					<string>face.cape</string>
 					<key>unicodes</key>
 					<array>
 					</array>
@@ -62,7 +95,7 @@
 			<key>com.typemytype.robofont.mark</key>
 			<array>
 				<integer>1</integer>
-				<integer>1</integer>
+				<integer>0</integer>
 				<integer>0</integer>
 				<integer>1</integer>
 			</array>
