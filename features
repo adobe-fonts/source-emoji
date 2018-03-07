@@ -1,5 +1,5 @@
 table head {
-   FontRevision 1.019;
+   FontRevision 1.020;
 } head;
 
 #----------------------------------------
@@ -64,4 +64,4 @@ languagesystem latn dflt;
 #----------------------------------------
 
 #include (ZWJ.fea); # external; toggle for Unicode/private version
-# use for Unicode version: makeotf -gs -gf GOADB4U -r -f SourceEmoji-BnW.ufo
+# use for Unicode version: makeotf -gs -gf GOADB4U -r -f SourceEmoji-BnW.ufo -o SourceEmojiUnicode-BnW.otf
