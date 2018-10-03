@@ -3,21 +3,21 @@
   <advance width="1000" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="267" y="-22" />
-      <point x="254" y="-9" />
-      <point x="253" y="7" />
-      <point type="curve" x="261" y="15" />
-      <point name="hintSet0002" x="267" y="21" />
-      <point x="276" y="20" />
-      <point type="curve" x="280" y="16" />
-      <point x="287" y="9" />
-      <point x="286" y="3" />
-      <point type="curve" x="282" y="-6" />
-      <point x="279" y="-14" />
-      <point x="278" y="-25" />
+      <point name="hintSet0000" type="curve" x="256" y="2" />
+      <point x="256" y="12" />
+      <point x="263" y="19" />
+      <point type="curve" x="271" y="19" />
+      <point name="hintSet0002" x="279" y="19" />
+      <point x="285" y="13" />
+      <point type="curve" x="285" y="5" />
+      <point x="285" y="-3" />
+      <point x="280" y="-8" />
+      <point type="curve" x="280" y="-17" />
+      <point x="280" y="-24" />
+      <point x="282" y="-29" />
       <point type="curve" x="287" y="-36" />
-      <point name="hintSet0005" x="281" y="-33" />
-      <point x="273" y="-28" />
+      <point name="hintSet0005" x="272" y="-29" />
+      <point x="256" y="-14" />
     </contour>
     <contour>
       <point type="curve" x="230" y="8" />
@@ -838,17 +838,10 @@
           <integer>1000</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <integer>1</integer>
-        <integer>1</integer>
-        <integer>0</integer>
-        <integer>1</integer>
-      </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>c99cc2c3fd690148939485370bc9c86b7e47de1421ecd2bfb0a019457aac538db81331edaab26074f899cbc964795fdda0db7e1e407be1f4b6b5a2aca76345ec</string>
+        <string>dffaf5a59db4604151125bd966d5dd131df5eba55d32089320cd4b1554c51258998fe98dddb720dad5dc269613b0c00f97fa65129493c450e28805c6ec486009</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -866,7 +859,7 @@
             <key>stems</key>
             <array>
               <string>hstem -59 23</string>
-              <string>vstem 285 85</string>
+              <string>vstem 280 7</string>
             </array>
           </dict>
           <dict>

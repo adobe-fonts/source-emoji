@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="collision">
-	<advance width="1000" />
+  <advance width="1000" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="500" y="-118" />
@@ -17,7 +17,7 @@
       <point type="line" x="588" y="698" />
       <point type="line" x="500" y="878" />
       <point type="line" x="420" y="698" />
-      <point type="line" x="306" y="742" />
+      <point type="line" x="286" y="772" />
       <point type="line" x="271" y="616" />
       <point type="line" x="56" y="626" />
       <point type="line" x="183" y="465" />
@@ -39,7 +39,7 @@
       <point type="line" x="247" y="448" />
       <point type="line" x="145" y="577" />
       <point type="line" x="317" y="569" />
-      <point type="line" x="346" y="670" />
+      <point type="line" x="326" y="700" />
       <point type="line" x="437" y="634" />
       <point type="line" x="500" y="778" />
       <point type="line" x="571" y="634" />
@@ -69,7 +69,7 @@
       <point type="line" x="547" y="542" />
       <point type="line" x="500" y="634" />
       <point type="line" x="461" y="542" />
-      <point type="line" x="403" y="566" />
+      <point type="line" x="383" y="596" />
       <point type="line" x="384" y="501" />
       <point type="line" x="273" y="506" />
       <point type="line" x="339" y="423" />
@@ -82,18 +82,18 @@
     </contour>
   </outline>
   <lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
       <array>
-				<integer>1</integer>
-        <integer>0</integer>
-        <integer>0</integer>
-        <integer>1</integer>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
       </array>
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>d6468e20eb8320399343de3b15b4f53d7a720ffc63c8f10502b54a1c3a9a044f08895af08e6c5a991fe44f654376c6ff8b47a0d405361d44e67e5205925956a2</string>
+        <string>45fe3615cf8ef351e60dca0cf3bc2e6f031ca65a71182a9e555dd3366136ad15e50e79255a4516df367b3613552e673b3a92d5358e9569bf42c65e8077dd00f6</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -102,6 +102,8 @@
             <key>stems</key>
             <array>
               <string>hstem 573 48</string>
+              <string>vstem 278.5 43</string>
+              <string>vstem 383.5 242</string>
               <string>vstem 695 48.5</string>
             </array>
           </dict>

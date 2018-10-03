@@ -4,66 +4,66 @@
   <unicode hex="262F" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="500" y="-94" />
-      <point x="774" y="-94" />
-      <point x="972" y="106" />
-      <point type="curve" x="972" y="380" />
-      <point x="972" y="654" />
-      <point x="774" y="854" />
-      <point type="curve" x="500" y="854" />
+      <point name="hintSet0000" type="curve" x="500" y="854" />
       <point x="226" y="854" />
       <point x="28" y="654" />
       <point type="curve" x="28" y="380" />
       <point x="28" y="106" />
       <point x="226" y="-94" />
+      <point type="curve" x="500" y="-94" />
+      <point x="774" y="-94" />
+      <point x="972" y="106" />
+      <point type="curve" x="972" y="380" />
+      <point x="972" y="654" />
+      <point x="774" y="854" />
     </contour>
     <contour>
-      <point type="curve" x="500" y="-42" />
-      <point x="258" y="-42" />
-      <point x="88" y="132" />
       <point type="curve" x="88" y="380" />
       <point x="88" y="628" />
       <point x="258" y="802" />
       <point type="curve" x="500" y="802" />
-      <point x="624" y="802" />
-      <point x="726" y="710" />
-      <point type="curve" x="726" y="592" />
-      <point x="726" y="466" />
-      <point x="652" y="394" />
+      <point x="742" y="802" />
+      <point x="912" y="628" />
+      <point type="curve" x="912" y="380" />
+      <point x="912" y="256" />
+      <point x="824" y="154" />
+      <point type="curve" x="712" y="154" />
+      <point x="586" y="154" />
+      <point x="514" y="228" />
       <point type="curve" x="500" y="380" />
-      <point x="348" y="366" />
-      <point x="274" y="292" />
-      <point type="curve" x="274" y="168" />
-      <point x="274" y="52" />
-      <point x="376" y="-42" />
+      <point x="486" y="532" />
+      <point x="412" y="606" />
+      <point type="curve" x="288" y="606" />
+      <point x="178" y="606" />
+      <point x="88" y="504" />
     </contour>
     <contour>
-      <point name="hintSet0012" type="curve" x="500" y="528" />
-      <point x="538" y="528" />
-      <point x="564" y="554" />
-      <point type="curve" x="564" y="592" />
-      <point x="564" y="630" />
-      <point x="538" y="656" />
-      <point type="curve" x="500" y="656" />
-      <point x="462" y="656" />
-      <point x="436" y="630" />
-      <point type="curve" x="436" y="592" />
-      <point x="436" y="554" />
-      <point x="462" y="528" />
+      <point name="hintSet0012" type="curve" x="648" y="380" />
+      <point x="648" y="342" />
+      <point x="674" y="316" />
+      <point type="curve" x="712" y="316" />
+      <point x="750" y="316" />
+      <point x="776" y="342" />
+      <point type="curve" x="776" y="380" />
+      <point x="776" y="418" />
+      <point x="750" y="444" />
+      <point type="curve" x="712" y="444" />
+      <point x="674" y="444" />
+      <point x="648" y="418" />
     </contour>
     <contour>
-      <point name="hintSet0017" type="curve" x="500" y="104" />
-      <point x="462" y="104" />
-      <point x="436" y="130" />
-      <point type="curve" x="436" y="168" />
-      <point x="436" y="206" />
-      <point x="462" y="232" />
-      <point type="curve" x="500" y="232" />
-      <point x="538" y="232" />
-      <point x="564" y="206" />
-      <point type="curve" x="564" y="168" />
-      <point x="564" y="130" />
-      <point x="538" y="104" />
+      <point name="hintSet0017" type="curve" x="224" y="380" />
+      <point x="224" y="418" />
+      <point x="250" y="444" />
+      <point type="curve" x="288" y="444" />
+      <point x="326" y="444" />
+      <point x="352" y="418" />
+      <point type="curve" x="352" y="380" />
+      <point x="352" y="342" />
+      <point x="326" y="316" />
+      <point type="curve" x="288" y="316" />
+      <point x="250" y="316" />
+      <point x="224" y="342" />
     </contour>
   </outline>
   <lib>
@@ -496,7 +496,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>fb6d733c466b84498ed4eef6b58978de77182174a5bfea46e7f042733663dd6ea9b588c02c598576e97780407b1d918320f3a4a40af0f8a880f27b83693f3c6b</string>
+        <string>2ee69eee5b5029fb139552f422faaa5166757adf024edfb71fbaf487ea22d679e199f52e65920b2752fd99e344489185086149b0e15c99a899aa85d3ff1bd630</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -504,11 +504,11 @@
             <string>hintSet0000</string>
             <key>stems</key>
             <array>
-              <string>hstem -94 52</string>
+              <string>hstem -94 248</string>
+              <string>hstem 444 162</string>
               <string>hstem 802 52</string>
               <string>vstem 28 60</string>
-              <string>vstem 274 162</string>
-              <string>vstem 726 246</string>
+              <string>vstem 912 60</string>
             </array>
           </dict>
           <dict>
@@ -516,12 +516,12 @@
             <string>hintSet0012</string>
             <key>stems</key>
             <array>
-              <string>hstem -94 52</string>
-              <string>hstem 528 128</string>
+              <string>hstem -94 248</string>
+              <string>hstem 316 128</string>
               <string>hstem 802 52</string>
               <string>vstem 28 60</string>
-              <string>vstem 436 128</string>
-              <string>vstem 726 246</string>
+              <string>vstem 648 128</string>
+              <string>vstem 912 60</string>
             </array>
           </dict>
           <dict>
@@ -529,11 +529,11 @@
             <string>hintSet0017</string>
             <key>stems</key>
             <array>
-              <string>hstem -42 146</string>
+              <string>hstem -94 248</string>
+              <string>hstem 444 162</string>
               <string>hstem 802 52</string>
-              <string>vstem 28 60</string>
-              <string>vstem 274 162</string>
-              <string>vstem 726 246</string>
+              <string>vstem 88 136</string>
+              <string>vstem 912 60</string>
             </array>
           </dict>
         </array>
