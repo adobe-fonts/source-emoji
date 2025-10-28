@@ -32,4 +32,4 @@ $ makeotf -f SourceEmoji-BnW.ufo -r
 
 ## Getting involved
 
-If you would like to contribute to this project, a template SVG file has been provided for creating SVG artwork to be incorporated into the UFO project. If you have comments or suggestions on how you would like to see this project develop, please leave feedback in the [Issues](https://github.com/adobe-fonts/source-emoji/issues) tracker for this project. Alternatively, you may send suggestions for changes to the Source Emoji font project maintainer, [Paul D. Hunt](mailto:opensourcefonts@adobe.com?subject=[GitHub] Source Emoji), for consideration.
+If you would like to contribute to this project, a template SVG file has been provided for creating SVG artwork to be incorporated into the UFO project. If you have comments or suggestions on how you would like to see this project develop, please leave feedback in the [Issues](https://github.com/adobe-fonts/source-emoji/issues) tracker for this project.
